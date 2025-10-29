@@ -1,0 +1,128 @@
+{
+  "hypothesis": "cho = concrete noun (meaning TBD)",
+  "frequency": 2412,
+  "manuscript_percentage": 7.197421819049892,
+  "score": 8,
+  "max_score": 8,
+  "evidence": [
+    "✓✓ Strong co-occurrence (225.0%)",
+    "✓✓ Strong section clustering (3.1x)",
+    "✓✓ High case-marking (52%)",
+    "✓✓ Very low verbal rate (0.8%)"
+  ],
+  "adjacent_words": {
+    "daiin": 380,
+    "chol": 244,
+    "chor": 148,
+    "sho": 100,
+    "dy": 99,
+    "shol": 97,
+    "aiin": 95,
+    "dar": 89,
+    "chey": 86,
+    "chy": 86,
+    "s": 82,
+    "ol": 76,
+    "cthy": 73,
+    "or": 71,
+    "dal": 70,
+    "cthol": 60,
+    "cheol": 58,
+    "qokaiin": 51,
+    "ar": 50,
+    "al": 48
+  },
+  "cooccurrence": {
+    "she": 555,
+    "ot": 1581,
+    "ok": 1868,
+    "dor": 93,
+    "shee": 104,
+    "qot": 470,
+    "qok": 756
+  },
+  "cooccurrence_rate": 2.25,
+  "section_distribution": {
+    "5": {
+      "count": 112,
+      "enrichment": 3.111111111111111
+    },
+    "2": {
+      "count": 111,
+      "enrichment": 3.0833333333333335
+    },
+    "1": {
+      "count": 103,
+      "enrichment": 2.861111111111111
+    },
+    "0": {
+      "count": 98,
+      "enrichment": 2.7222222222222223
+    },
+    "4": {
+      "count": 95,
+      "enrichment": 2.638888888888889
+    },
+    "15": {
+      "count": 90,
+      "enrichment": 2.5
+    },
+    "3": {
+      "count": 85,
+      "enrichment": 2.361111111111111
+    },
+    "10": {
+      "count": 83,
+      "enrichment": 2.3055555555555554
+    },
+    "17": {
+      "count": 83,
+      "enrichment": 2.3055555555555554
+    },
+    "43": {
+      "count": 81,
+      "enrichment": 2.25
+    }
+  },
+  "case_distribution": {
+    "counts": {
+      "ol": 661,
+      "other": 1102,
+      "or": 478,
+      "ar": 69,
+      "bare": 61,
+      "al": 41
+    },
+    "percentages": {
+      "ol": 27.40464344941957,
+      "other": 45.68822553897181,
+      "or": 19.817578772802655,
+      "ar": 2.8606965174129355,
+      "bare": 2.529021558872305,
+      "al": 1.6998341625207296
+    },
+    "total": 2412
+  },
+  "examples": [
+    "shodary yshey shody **OTCHOL** **CHOCTHY** dain **CHOR**",
+    "yshey shody **OTCHOL** **CHOCTHY** dain **CHOR** kos",
+    "**OTCHOL** **CHOCTHY** dain **CHOR** kos daiin shos",
+    "oldain dain oiin **CHOL** odaiin **CHODAIN** chdy",
+    "oiin **CHOL** odaiin **CHODAIN** chdy okain dan",
+    "shckhey ck eor **CHOR** shey kol **CHOL**",
+    "**CHOR** shey kol **CHOL** **CHOL** kor chal",
+    "shey kol **CHOL** **CHOL** kor chal sho",
+    "kor chal sho **CHOL** kshy kchy dor",
+    "kshy kchy dor **CHODAIIN** sho **KCHOM** **YCHO**",
+    "dor **CHODAIIN** sho **KCHOM** **YCHO** tchey **CHOKAIN**",
+    "**CHODAIIN** sho **KCHOM** **YCHO** tchey **CHOKAIN** sheo",
+    "**KCHOM** **YCHO** tchey **CHOKAIN** sheo pshol dydyd",
+    "dloct a shok **CHOR** chey dain ckhey",
+    "cpho shaiin shokcheey **CHOL** tshodeesy shey pydeey",
+    "pydeey chy ro **CHOL** dain cthal dar",
+    "keey dal chtor **CHOL** **CHOK** **CHOTY** **CHOTEY**",
+    "dal chtor **CHOL** **CHOK** **CHOTY** **CHOTEY** chadaiin",
+    "chtor **CHOL** **CHOK** **CHOTY** **CHOTEY** chadaiin ololtchey",
+    "**CHOL** **CHOK** **CHOTY** **CHOTEY** chadaiin ololtchey char"
+  ]
+}
