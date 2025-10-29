@@ -1,0 +1,149 @@
+{
+  "total_words": 40679,
+  "total_recognized": 1404,
+  "recognition_rate": 3.451412276604636,
+  "unique_terms": 11,
+  "by_phase": {
+    "Phase 1: e\u2194o + Reversal": {
+      "instances": 1124,
+      "rate": 2.763096437965535
+    },
+    "Phase 2: + Consonants (ch\u2194sh, t\u2194d)": {
+      "instances": 161,
+      "rate": 0.39578160721748323
+    },
+    "Phase 3: + Predicted Reversals": {
+      "instances": 119,
+      "rate": 0.29253423142161805
+    }
+  },
+  "by_category": {
+    "COMMON": {
+      "terms": 2,
+      "instances": 67
+    },
+    "time": {
+      "terms": 1,
+      "instances": 2
+    },
+    "herbs": {
+      "terms": 2,
+      "instances": 22
+    },
+    "instruction": {
+      "terms": 1,
+      "instances": 1
+    },
+    "INSTRUCTIONS": {
+      "terms": 2,
+      "instances": 56
+    },
+    "PLANT_PARTS": {
+      "terms": 3,
+      "instances": 63
+    }
+  },
+  "top_terms": [
+    {
+      "term": "do",
+      "instances": 53,
+      "category": "INSTRUCTIONS",
+      "variants": [
+        "ot",
+        "od"
+      ]
+    },
+    {
+      "term": "rote",
+      "instances": 51,
+      "category": "PLANT_PARTS",
+      "variants": [
+        "otor"
+      ]
+    },
+    {
+      "term": "she",
+      "instances": 48,
+      "category": "COMMON",
+      "variants": [
+        "che",
+        "cho"
+      ]
+    },
+    {
+      "term": "at",
+      "instances": 19,
+      "category": "COMMON",
+      "variants": [
+        "da"
+      ]
+    },
+    {
+      "term": "seed",
+      "instances": 14,
+      "category": "herbs",
+      "variants": [
+        "otes",
+        "teos",
+        "tees",
+        "otos"
+      ]
+    },
+    {
+      "term": "root",
+      "instances": 8,
+      "category": "herbs",
+      "variants": [
+        "odor",
+        "odeor"
+      ]
+    },
+    {
+      "term": "lef",
+      "instances": 6,
+      "category": "PLANT_PARTS",
+      "variants": [
+        "fol"
+      ]
+    },
+    {
+      "term": "sed",
+      "instances": 6,
+      "category": "PLANT_PARTS",
+      "variants": [
+        "dos",
+        "tos"
+      ]
+    },
+    {
+      "term": "ley",
+      "instances": 3,
+      "category": "INSTRUCTIONS",
+      "variants": [
+        "yol"
+      ]
+    },
+    {
+      "term": "day",
+      "instances": 2,
+      "category": "time",
+      "variants": [
+        "tai"
+      ]
+    },
+    {
+      "term": "take",
+      "instances": 1,
+      "category": "instruction",
+      "variants": [
+        "okad"
+      ]
+    }
+  ],
+  "projection": {
+    "current_vocab": 11,
+    "target_recognition": 10.0,
+    "vocab_needed": 31,
+    "additional_vocab": 20
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "total_words": 40679,
+  "terms_searched": 30,
+  "total_found": 119,
+  "total_reversed": 94,
+  "reversal_rate": 78.99159663865547,
+  "by_category": {
+    "INSTRUCTIONS": {
+      "total": 56,
+      "reversed": 31,
+      "terms_found": 2
+    },
+    "PLANT_PARTS": {
+      "total": 63,
+      "reversed": 63,
+      "terms_found": 3
+    }
+  },
+  "detailed_results": {
+    "INSTRUCTIONS": {
+      "ley": {
+        "total": 3,
+        "direct": 2,
+        "reversed": 1,
+        "sample_voynich": [
+          "yol"
+        ]
+      },
+      "do": {
+        "total": 53,
+        "direct": 23,
+        "reversed": 30,
+        "sample_voynich": [
+          "od",
+          "ot"
+        ]
+      }
+    },
+    "PLANT_PARTS": {
+      "rote": {
+        "total": 51,
+        "direct": 0,
+        "reversed": 51,
+        "sample_voynich": [
+          "otor"
+        ]
+      },
+      "lef": {
+        "total": 6,
+        "direct": 0,
+        "reversed": 6,
+        "sample_voynich": [
+          "fol"
+        ]
+      },
+      "sed": {
+        "total": 6,
+        "direct": 0,
+        "reversed": 6,
+        "sample_voynich": [
+          "tos",
+          "dos"
+        ]
+      }
+    }
+  },
+  "recognition_stats": {
+    "previous": 1285,
+    "previous_rate": 3.1588780451830183,
+    "new_instances": 119,
+    "updated_total": 1404,
+    "updated_rate": 3.451412276604636,
+    "improvement": 0.2925342314216177
+  }
+}
