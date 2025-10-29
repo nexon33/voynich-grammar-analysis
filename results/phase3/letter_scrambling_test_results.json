@@ -1,0 +1,248 @@
+{
+  "section_id": 4,
+  "total_words": 500,
+  "strategies": {
+    "baseline": {
+      "count": 8,
+      "rate": 1.6,
+      "matches": [
+        {
+          "original": "or",
+          "variant": "or",
+          "meaning": "or",
+          "category": "COMMON",
+          "transform": "e\u2194o only",
+          "position": 243
+        },
+        {
+          "original": "oro",
+          "variant": "ere",
+          "meaning": "ear",
+          "category": "body_parts",
+          "transform": "e\u2194o only",
+          "position": 244
+        },
+        {
+          "original": "sho",
+          "variant": "she",
+          "meaning": "she",
+          "category": "COMMON",
+          "transform": "e\u2194o only",
+          "position": 276
+        },
+        {
+          "original": "sor",
+          "variant": "sor",
+          "meaning": "sore/pain",
+          "category": "conditions",
+          "transform": "e\u2194o only",
+          "position": 297
+        },
+        {
+          "original": "sho",
+          "variant": "she",
+          "meaning": "she",
+          "category": "COMMON",
+          "transform": "e\u2194o only",
+          "position": 389
+        },
+        {
+          "original": "sor",
+          "variant": "sor",
+          "meaning": "sore/pain",
+          "category": "conditions",
+          "transform": "e\u2194o only",
+          "position": 427
+        },
+        {
+          "original": "sho",
+          "variant": "she",
+          "meaning": "she",
+          "category": "COMMON",
+          "transform": "e\u2194o only",
+          "position": 483
+        },
+        {
+          "original": "or",
+          "variant": "or",
+          "meaning": "or",
+          "category": "COMMON",
+          "transform": "e\u2194o only",
+          "position": 493
+        }
+      ]
+    },
+    "scrambled": {
+      "count": 4,
+      "rate": 0.8,
+      "matches": [
+        {
+          "original": "or",
+          "variant": "or",
+          "meaning": "or",
+          "category": "COMMON",
+          "transform": "scrambled",
+          "position": 243
+        },
+        {
+          "original": "sor",
+          "variant": "sor",
+          "meaning": "sore/pain",
+          "category": "conditions",
+          "transform": "scrambled",
+          "position": 297
+        },
+        {
+          "original": "sor",
+          "variant": "sor",
+          "meaning": "sore/pain",
+          "category": "conditions",
+          "transform": "scrambled",
+          "position": 427
+        },
+        {
+          "original": "or",
+          "variant": "or",
+          "meaning": "or",
+          "category": "COMMON",
+          "transform": "scrambled",
+          "position": 493
+        }
+      ]
+    },
+    "scrambled_eo": {
+      "count": 8,
+      "rate": 1.6,
+      "matches": [
+        {
+          "original": "or",
+          "scrambled": "or",
+          "variant": "or",
+          "meaning": "or",
+          "category": "COMMON",
+          "transform": "scrambled + e\u2194o",
+          "position": 243
+        },
+        {
+          "original": "oro",
+          "scrambled": "oro",
+          "variant": "ere",
+          "meaning": "ear",
+          "category": "body_parts",
+          "transform": "scrambled + e\u2194o",
+          "position": 244
+        },
+        {
+          "original": "sho",
+          "scrambled": "sho",
+          "variant": "she",
+          "meaning": "she",
+          "category": "COMMON",
+          "transform": "scrambled + e\u2194o",
+          "position": 276
+        },
+        {
+          "original": "sor",
+          "scrambled": "sor",
+          "variant": "sor",
+          "meaning": "sore/pain",
+          "category": "conditions",
+          "transform": "scrambled + e\u2194o",
+          "position": 297
+        },
+        {
+          "original": "sho",
+          "scrambled": "sho",
+          "variant": "she",
+          "meaning": "she",
+          "category": "COMMON",
+          "transform": "scrambled + e\u2194o",
+          "position": 389
+        },
+        {
+          "original": "sor",
+          "scrambled": "sor",
+          "variant": "sor",
+          "meaning": "sore/pain",
+          "category": "conditions",
+          "transform": "scrambled + e\u2194o",
+          "position": 427
+        },
+        {
+          "original": "sho",
+          "scrambled": "sho",
+          "variant": "she",
+          "meaning": "she",
+          "category": "COMMON",
+          "transform": "scrambled + e\u2194o",
+          "position": 483
+        },
+        {
+          "original": "or",
+          "scrambled": "or",
+          "variant": "or",
+          "meaning": "or",
+          "category": "COMMON",
+          "transform": "scrambled + e\u2194o",
+          "position": 493
+        }
+      ]
+    },
+    "scrambled_reversed": {
+      "count": 0,
+      "rate": 0.0,
+      "matches": []
+    },
+    "all_combined": {
+      "count": 4,
+      "rate": 0.8,
+      "matches": [
+        {
+          "original": "teor",
+          "reversed": "roet",
+          "scrambled": "reot",
+          "variant": "root",
+          "meaning": "root",
+          "category": "herbs",
+          "transform": "scrambled + reversed + e\u2194o",
+          "position": 74
+        },
+        {
+          "original": "oro",
+          "reversed": "oro",
+          "scrambled": "oro",
+          "variant": "ere",
+          "meaning": "ear",
+          "category": "body_parts",
+          "transform": "scrambled + reversed + e\u2194o",
+          "position": 244
+        },
+        {
+          "original": "oy",
+          "reversed": "yo",
+          "scrambled": "yo",
+          "variant": "ye",
+          "meaning": "eye",
+          "category": "body_parts",
+          "transform": "scrambled + reversed + e\u2194o",
+          "position": 274
+        },
+        {
+          "original": "otor",
+          "reversed": "roto",
+          "scrambled": "roto",
+          "variant": "rote",
+          "meaning": "root",
+          "category": "herbs",
+          "transform": "scrambled + reversed + e\u2194o",
+          "position": 468
+        }
+      ]
+    }
+  },
+  "summary": {
+    "total_unique": 7,
+    "total_rate": 1.4,
+    "improvement": -0.20000000000000018
+  }
+}

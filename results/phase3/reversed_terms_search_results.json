@@ -1,0 +1,273 @@
+{
+  "total_words": 40679,
+  "terms_searched": 21,
+  "terms_found": 5,
+  "results": {
+    "root": {
+      "category": "plant_parts",
+      "frequency": "very_high",
+      "total_matches": 4,
+      "direct_matches": 0,
+      "reversed_matches": 4,
+      "reversal_rate": 1.0,
+      "sample_positions": [
+        2074,
+        5094,
+        7044,
+        29640
+      ]
+    },
+    "leaf": {
+      "category": "plant_parts",
+      "frequency": "very_high",
+      "total_matches": 0,
+      "direct_matches": 0,
+      "reversed_matches": 0,
+      "reversal_rate": 0,
+      "sample_positions": []
+    },
+    "sede": {
+      "category": "plant_parts",
+      "frequency": "high",
+      "total_matches": 0,
+      "direct_matches": 0,
+      "reversed_matches": 0,
+      "reversal_rate": 0,
+      "sample_positions": []
+    },
+    "flour": {
+      "category": "plant_parts",
+      "frequency": "high",
+      "total_matches": 0,
+      "direct_matches": 0,
+      "reversed_matches": 0,
+      "reversal_rate": 0,
+      "sample_positions": []
+    },
+    "bark": {
+      "category": "plant_parts",
+      "frequency": "medium",
+      "total_matches": 0,
+      "direct_matches": 0,
+      "reversed_matches": 0,
+      "reversal_rate": 0,
+      "sample_positions": []
+    },
+    "stem": {
+      "category": "plant_parts",
+      "frequency": "medium",
+      "total_matches": 0,
+      "direct_matches": 0,
+      "reversed_matches": 0,
+      "reversal_rate": 0,
+      "sample_positions": []
+    },
+    "hed": {
+      "category": "body_parts",
+      "frequency": "very_high",
+      "total_matches": 0,
+      "direct_matches": 0,
+      "reversed_matches": 0,
+      "reversal_rate": 0,
+      "sample_positions": []
+    },
+    "ye": {
+      "category": "body_parts",
+      "frequency": "high",
+      "total_matches": 14,
+      "direct_matches": 0,
+      "reversed_matches": 14,
+      "reversal_rate": 1.0,
+      "sample_positions": [
+        1533,
+        2274,
+        2615,
+        12390,
+        12513,
+        12932,
+        13740,
+        21010,
+        28748,
+        30902
+      ]
+    },
+    "ere": {
+      "category": "body_parts",
+      "frequency": "high",
+      "total_matches": 16,
+      "direct_matches": 8,
+      "reversed_matches": 8,
+      "reversal_rate": 0.5,
+      "sample_positions": [
+        2244,
+        3716,
+        3870,
+        14197,
+        22269,
+        23837,
+        27190,
+        39221
+      ]
+    },
+    "hond": {
+      "category": "body_parts",
+      "frequency": "high",
+      "total_matches": 0,
+      "direct_matches": 0,
+      "reversed_matches": 0,
+      "reversal_rate": 0,
+      "sample_positions": []
+    },
+    "blod": {
+      "category": "body_parts",
+      "frequency": "very_high",
+      "total_matches": 0,
+      "direct_matches": 0,
+      "reversed_matches": 0,
+      "reversal_rate": 0,
+      "sample_positions": []
+    },
+    "herte": {
+      "category": "body_parts",
+      "frequency": "high",
+      "total_matches": 0,
+      "direct_matches": 0,
+      "reversed_matches": 0,
+      "reversal_rate": 0,
+      "sample_positions": []
+    },
+    "peyn": {
+      "category": "conditions",
+      "frequency": "very_high",
+      "total_matches": 0,
+      "direct_matches": 0,
+      "reversed_matches": 0,
+      "reversal_rate": 0,
+      "sample_positions": []
+    },
+    "sor": {
+      "category": "conditions",
+      "frequency": "very_high",
+      "total_matches": 52,
+      "direct_matches": 51,
+      "reversed_matches": 1,
+      "reversal_rate": 0.019230769230769232,
+      "sample_positions": [
+        7
+      ]
+    },
+    "ache": {
+      "category": "conditions",
+      "frequency": "high",
+      "total_matches": 0,
+      "direct_matches": 0,
+      "reversed_matches": 0,
+      "reversal_rate": 0,
+      "sample_positions": []
+    },
+    "fevir": {
+      "category": "conditions",
+      "frequency": "high",
+      "total_matches": 0,
+      "direct_matches": 0,
+      "reversed_matches": 0,
+      "reversal_rate": 0,
+      "sample_positions": []
+    },
+    "tak": {
+      "category": "instructions",
+      "frequency": "very_high",
+      "total_matches": 0,
+      "direct_matches": 0,
+      "reversed_matches": 0,
+      "reversal_rate": 0,
+      "sample_positions": []
+    },
+    "boil": {
+      "category": "instructions",
+      "frequency": "very_high",
+      "total_matches": 0,
+      "direct_matches": 0,
+      "reversed_matches": 0,
+      "reversal_rate": 0,
+      "sample_positions": []
+    },
+    "drynke": {
+      "category": "instructions",
+      "frequency": "very_high",
+      "total_matches": 0,
+      "direct_matches": 0,
+      "reversed_matches": 0,
+      "reversal_rate": 0,
+      "sample_positions": []
+    },
+    "grind": {
+      "category": "instructions",
+      "frequency": "high",
+      "total_matches": 0,
+      "direct_matches": 0,
+      "reversed_matches": 0,
+      "reversal_rate": 0,
+      "sample_positions": []
+    },
+    "mak": {
+      "category": "instructions",
+      "frequency": "very_high",
+      "total_matches": 13,
+      "direct_matches": 0,
+      "reversed_matches": 13,
+      "reversal_rate": 1.0,
+      "sample_positions": [
+        1354,
+        5355,
+        6393,
+        9644,
+        10551,
+        13184,
+        17571,
+        18723,
+        20671,
+        25742
+      ]
+    }
+  },
+  "category_stats": {
+    "conditions": {
+      "total": 52,
+      "direct": 51,
+      "reversed": 1
+    },
+    "body_parts": {
+      "total": 30,
+      "direct": 8,
+      "reversed": 22
+    },
+    "instructions": {
+      "total": 13,
+      "direct": 0,
+      "reversed": 13
+    },
+    "plant_parts": {
+      "total": 4,
+      "direct": 0,
+      "reversed": 4
+    }
+  },
+  "frequency_stats": {
+    "very_high": {
+      "total": 69,
+      "direct": 51,
+      "reversed": 18
+    },
+    "high": {
+      "total": 30,
+      "direct": 8,
+      "reversed": 22
+    },
+    "medium": {
+      "total": 0,
+      "direct": 0,
+      "reversed": 0
+    }
+  }
+}
