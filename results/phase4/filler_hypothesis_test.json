@@ -1,0 +1,120 @@
+{
+  "potential_fillers": [
+    "chedy",
+    "qokal",
+    "y",
+    "qol",
+    "okaiin",
+    "qokedy",
+    "okeey",
+    "d",
+    "ar",
+    "r",
+    "qokeey",
+    "sho",
+    "shor",
+    "shedy",
+    "qotedy",
+    "ky",
+    "okeol",
+    "otai!n",
+    "*",
+    "otaiin",
+    "ol",
+    "l",
+    "o",
+    "t",
+    "ly",
+    "dar",
+    "dy",
+    "qokeedy",
+    "al",
+    "chor",
+    "am",
+    "s",
+    "okedy",
+    "chdy",
+    "chol",
+    "shol",
+    "or"
+  ],
+  "filler_density": 18.393524618818404,
+  "improvements": [
+    {
+      "sentence_num": 1,
+      "original_known": 0.06666666666666667,
+      "filtered_known": 0.07142857142857142,
+      "improvement": 0.004761904761904759,
+      "words_removed": 1
+    },
+    {
+      "sentence_num": 2,
+      "original_known": 0.5,
+      "filtered_known": 0.4,
+      "improvement": -0.09999999999999998,
+      "words_removed": 3
+    },
+    {
+      "sentence_num": 3,
+      "original_known": 0.6363636363636364,
+      "filtered_known": 0.6,
+      "improvement": -0.036363636363636376,
+      "words_removed": 1
+    },
+    {
+      "sentence_num": 4,
+      "original_known": 0.4,
+      "filtered_known": 0.5,
+      "improvement": 0.09999999999999998,
+      "words_removed": 1
+    },
+    {
+      "sentence_num": 5,
+      "original_known": 0.5333333333333333,
+      "filtered_known": 0.4,
+      "improvement": -0.1333333333333333,
+      "words_removed": 5
+    },
+    {
+      "sentence_num": 6,
+      "original_known": 0.7,
+      "filtered_known": 0.7142857142857143,
+      "improvement": 0.014285714285714346,
+      "words_removed": 3
+    },
+    {
+      "sentence_num": 7,
+      "original_known": 0.25,
+      "filtered_known": 0.3333333333333333,
+      "improvement": 0.08333333333333331,
+      "words_removed": 1
+    },
+    {
+      "sentence_num": 8,
+      "original_known": 0.3333333333333333,
+      "filtered_known": 0.2857142857142857,
+      "improvement": -0.047619047619047616,
+      "words_removed": 2
+    },
+    {
+      "sentence_num": 9,
+      "original_known": 0.5833333333333334,
+      "filtered_known": 0.5,
+      "improvement": -0.08333333333333337,
+      "words_removed": 4
+    },
+    {
+      "sentence_num": 10,
+      "original_known": 0.4,
+      "filtered_known": 0.4,
+      "improvement": 0.0,
+      "words_removed": 0
+    }
+  ],
+  "summary": {
+    "avg_improvement": -0.019826839826839825,
+    "avg_words_removed": 2.1,
+    "sentences_improved": 4,
+    "total_sentences": 10
+  }
+}

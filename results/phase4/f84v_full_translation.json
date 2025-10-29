@@ -1,0 +1,115 @@
+{
+  "translations": [
+    {
+      "sentence_num": 1,
+      "voynich": "qoky shdaly tchdor or chekchdy qokar chcthy qotchdy lshedy qoky qofai!n",
+      "decomposition": "qok-y s-hd-al-y t-chd-or or chekch-dy qok-a-r chcth-y q-otch-dy lsh-edy qok-y q-ofai!-n",
+      "parse": "[UNKNOWN] [NOUN+CASE] [UNKNOWN] [PREPOSITION] [VERB] [UNKNOWN] [UNKNOWN] [VERB] [VERB] [UNKNOWN] [UNKNOWN]",
+      "gloss": "GEN (of/from)+? ?+?+LOC (in/at)+N/ADJ ?+?+DIR-variant to/toward ?+VRB GEN (of/from)+?+?genitive ?+N/ADJ DET?+?+VRB ?+VRB (action marker) GEN (of/from)+? DET?+?+?partitive",
+      "translation": "y ? chd to ? a chcth DET? ? y ofai!",
+      "confidence": 0.34545454545454546,
+      "word_count": 11
+    },
+    {
+      "sentence_num": 2,
+      "voynich": "dy ykchedy sheky chekar chdai!n",
+      "decomposition": "d-y y-kch-edy s-hek-y chek-ar chdai!-n",
+      "parse": "[UNKNOWN] [VERB] [UNKNOWN] [NOUN+CASE] [UNKNOWN]",
+      "gloss": "?+? ?+?+VRB (action marker) ?+?+N/ADJ ?+DIR (to/toward) ?+?partitive",
+      "translation": "y ? hek to ? chdai!",
+      "confidence": 0.3,
+      "word_count": 5
+    },
+    {
+      "sentence_num": 3,
+      "voynich": "daiin chckhy okaiin chckhy",
+      "decomposition": "da-in chckh-y okai-in chckh-y",
+      "parse": "[PRONOUN] [UNKNOWN] [PRONOUN] [UNKNOWN]",
+      "gloss": "it/this/that ?+N/ADJ ?+PRO ?+N/ADJ",
+      "translation": "it chckh ? chckh",
+      "confidence": 0.475,
+      "word_count": 4
+    },
+    {
+      "sentence_num": 4,
+      "voynich": "daiin ykedy epaiin okaraiin ls ykaiin or chdy chekai!n",
+      "decomposition": "da-in y-k-edy epai-in okarai-in ls y-kai-in or ch-dy chekai!-n",
+      "parse": "[PRONOUN] [VERB] [PRONOUN] [PRONOUN] [UNKNOWN] [PRONOUN] [PREPOSITION] [VERB] [UNKNOWN]",
+      "gloss": "it/this/that ?+?+VRB (action marker) ?+PRO ?+PRO ? ?+?+PRO to/toward take/use+VRB ?+?partitive",
+      "translation": "it ? ? ? ls ? to take chekai!",
+      "confidence": 0.48888888888888893,
+      "word_count": 9
+    },
+    {
+      "sentence_num": 5,
+      "voynich": "ol dar ykar olkeey ldar chckhal kshedy or chdy dalfchy qodaiin chckhy!fchy",
+      "decomposition": "ol dar y-k-ar olk-eey ld-ar chckh-al ksh-edy or ch-dy d-alfch-y q-odai-in chckhy!fch-y",
+      "parse": "[PREPOSITION] [PREPOSITION] [NOUN+CASE] [UNKNOWN] [NOUN+CASE] [NOUN+CASE] [VERB] [PREPOSITION] [VERB] [UNKNOWN] [PRONOUN] [UNKNOWN]",
+      "gloss": "in/at/on to/toward ?+?+DIR (to/toward) ?+?aspect ?+DIR (to/toward) ?+LOC (in/at) ?+VRB (action marker) to/toward take/use+VRB ?+?+N/ADJ DET?+?+PRO ?+N/ADJ",
+      "translation": "in to to ? olk to ? in ? ? to take alfch DET? chckhy!fch",
+      "confidence": 0.4666666666666666,
+      "word_count": 12
+    },
+    {
+      "sentence_num": 6,
+      "voynich": "daraiin dalal",
+      "decomposition": "d-arai-in d-a-l-al",
+      "parse": "[PRONOUN] [NOUN+CASE]",
+      "gloss": "?+?+PRO ?+?+?instrumental+LOC (in/at)",
+      "translation": "? in ?",
+      "confidence": 0.3,
+      "word_count": 2
+    },
+    {
+      "sentence_num": 7,
+      "voynich": "daiin shody chkai!n",
+      "decomposition": "da-in s-ho-dy chkai!-n",
+      "parse": "[PRONOUN] [VERB] [UNKNOWN]",
+      "gloss": "it/this/that ?+?+VRB ?+?partitive",
+      "translation": "it ? chkai!",
+      "confidence": 0.6,
+      "word_count": 3
+    },
+    {
+      "sentence_num": 8,
+      "voynich": "chol chckhy otai!n",
+      "decomposition": "ch-ol chckh-y otai!-n",
+      "parse": "[NOUN+CASE] [UNKNOWN] [UNKNOWN]",
+      "gloss": "take/use+LOC-variant ?+N/ADJ ?+?partitive",
+      "translation": "in take/use chckh otai!",
+      "confidence": 0.4666666666666666,
+      "word_count": 3
+    },
+    {
+      "sentence_num": 9,
+      "voynich": "oty oteedy kar okam todaiin chor chckhy qokol chkar ol otaiin ofar okai!n",
+      "decomposition": "ot-y ote-edy k-ar okam t-odai-in ch-or chckh-y qok-o-l chk-ar ol otai-in of-ar okai!-n",
+      "parse": "[NOUN] [VERB] [NOUN+CASE] [UNKNOWN] [PRONOUN] [UNKNOWN] [UNKNOWN] [UNKNOWN] [NOUN+CASE] [PREPOSITION] [PRONOUN] [NOUN+CASE] [UNKNOWN]",
+      "gloss": "oat+N/ADJ oat+VRB (action marker) ?+DIR (to/toward) ? ?+?+PRO take/use+DIR-variant ?+N/ADJ GEN (of/from)+?+?instrumental ?+DIR (to/toward) in/at/on ?+PRO ?+DIR (to/toward) ?+?partitive",
+      "translation": "oat oat to ? okam ? ch chckh o to ? in ? to ? okai!",
+      "confidence": 0.46923076923076923,
+      "word_count": 13
+    },
+    {
+      "sentence_num": 10,
+      "voynich": "otam tedy kaiin y!cheol",
+      "decomposition": "otam t-e-dy kai-in y-!che-ol",
+      "parse": "[UNKNOWN] [VERB] [PRONOUN] [NOUN+CASE]",
+      "gloss": "? ?+?+VRB ?+PRO ?+?+LOC-variant",
+      "translation": "otam ? ? in ?",
+      "confidence": 0.3,
+      "word_count": 4
+    }
+  ],
+  "evaluation": {
+    "avg_confidence": 0.4211907536907537,
+    "word_order_consistency": 0.0,
+    "validated_word_usage": 0,
+    "makes_sense": 0
+  },
+  "verdict": {
+    "criteria_passed": 0,
+    "total_criteria": 4,
+    "validation_successful": false
+  }
+}

@@ -1,0 +1,912 @@
+{
+  "case_word_counts": {
+    "al": 426,
+    "ar": 572,
+    "ol": 553,
+    "or": 464
+  },
+  "multi_case_roots": {
+    "d": {
+      "counts": {
+        "al": 239,
+        "ar": 293,
+        "ol": 110,
+        "or": 70
+      },
+      "total": 712,
+      "num_cases": 4
+    },
+    "ch": {
+      "counts": {
+        "al": 46,
+        "ar": 70,
+        "ol": 377,
+        "or": 204
+      },
+      "total": 697,
+      "num_cases": 4
+    },
+    "qok": {
+      "counts": {
+        "al": 186,
+        "ar": 147,
+        "ol": 102,
+        "or": 35
+      },
+      "total": 470,
+      "num_cases": 4
+    },
+    "ot": {
+      "counts": {
+        "al": 133,
+        "ar": 135,
+        "ol": 81,
+        "or": 42
+      },
+      "total": 391,
+      "num_cases": 4
+    },
+    "ok": {
+      "counts": {
+        "al": 131,
+        "ar": 120,
+        "ol": 77,
+        "or": 33
+      },
+      "total": 361,
+      "num_cases": 4
+    },
+    "che": {
+      "counts": {
+        "al": 30,
+        "ar": 47,
+        "ol": 165,
+        "or": 96
+      },
+      "total": 338,
+      "num_cases": 4
+    },
+    "sh": {
+      "counts": {
+        "al": 14,
+        "ar": 31,
+        "ol": 173,
+        "or": 92
+      },
+      "total": 310,
+      "num_cases": 4
+    },
+    "s": {
+      "counts": {
+        "al": 49,
+        "ar": 74,
+        "ol": 55,
+        "or": 46
+      },
+      "total": 224,
+      "num_cases": 4
+    },
+    "she": {
+      "counts": {
+        "al": 19,
+        "ar": 20,
+        "ol": 111,
+        "or": 50
+      },
+      "total": 200,
+      "num_cases": 4
+    },
+    "qot": {
+      "counts": {
+        "al": 57,
+        "ar": 60,
+        "ol": 47,
+        "or": 27
+      },
+      "total": 191,
+      "num_cases": 4
+    },
+    "q": {
+      "counts": {
+        "al": 0,
+        "ar": 0,
+        "ol": 147,
+        "or": 21
+      },
+      "total": 168,
+      "num_cases": 2
+    },
+    "k": {
+      "counts": {
+        "al": 23,
+        "ar": 51,
+        "ol": 36,
+        "or": 25
+      },
+      "total": 135,
+      "num_cases": 4
+    },
+    "t": {
+      "counts": {
+        "al": 19,
+        "ar": 42,
+        "ol": 45,
+        "or": 23
+      },
+      "total": 129,
+      "num_cases": 4
+    },
+    "cth": {
+      "counts": {
+        "al": 7,
+        "ar": 18,
+        "ol": 56,
+        "or": 41
+      },
+      "total": 122,
+      "num_cases": 4
+    },
+    "oke": {
+      "counts": {
+        "al": 11,
+        "ar": 7,
+        "ol": 64,
+        "or": 21
+      },
+      "total": 103,
+      "num_cases": 4
+    },
+    "l": {
+      "counts": {
+        "al": 5,
+        "ar": 5,
+        "ol": 40,
+        "or": 41
+      },
+      "total": 91,
+      "num_cases": 4
+    },
+    "qoke": {
+      "counts": {
+        "al": 3,
+        "ar": 6,
+        "ol": 50,
+        "or": 21
+      },
+      "total": 80,
+      "num_cases": 4
+    },
+    "yt": {
+      "counts": {
+        "al": 18,
+        "ar": 26,
+        "ol": 9,
+        "or": 14
+      },
+      "total": 67,
+      "num_cases": 4
+    },
+    "ol": {
+      "counts": {
+        "al": 7,
+        "ar": 11,
+        "ol": 18,
+        "or": 28
+      },
+      "total": 64,
+      "num_cases": 4
+    },
+    "ote": {
+      "counts": {
+        "al": 6,
+        "ar": 4,
+        "ol": 41,
+        "or": 12
+      },
+      "total": 63,
+      "num_cases": 4
+    },
+    "ched": {
+      "counts": {
+        "al": 24,
+        "ar": 30,
+        "ol": 6,
+        "or": 2
+      },
+      "total": 62,
+      "num_cases": 4
+    },
+    "r": {
+      "counts": {
+        "al": 13,
+        "ar": 19,
+        "ol": 14,
+        "or": 15
+      },
+      "total": 61,
+      "num_cases": 4
+    },
+    "yk": {
+      "counts": {
+        "al": 11,
+        "ar": 31,
+        "ol": 10,
+        "or": 9
+      },
+      "total": 61,
+      "num_cases": 4
+    },
+    "dch": {
+      "counts": {
+        "al": 2,
+        "ar": 3,
+        "ol": 20,
+        "or": 24
+      },
+      "total": 49,
+      "num_cases": 4
+    },
+    "otch": {
+      "counts": {
+        "al": 3,
+        "ar": 5,
+        "ol": 25,
+        "or": 16
+      },
+      "total": 49,
+      "num_cases": 4
+    },
+    "chd": {
+      "counts": {
+        "al": 18,
+        "ar": 19,
+        "ol": 2,
+        "or": 8
+      },
+      "total": 47,
+      "num_cases": 4
+    },
+    "od": {
+      "counts": {
+        "al": 13,
+        "ar": 23,
+        "ol": 2,
+        "or": 7
+      },
+      "total": 45,
+      "num_cases": 4
+    },
+    "lk": {
+      "counts": {
+        "al": 5,
+        "ar": 30,
+        "ol": 4,
+        "or": 4
+      },
+      "total": 43,
+      "num_cases": 4
+    },
+    "kch": {
+      "counts": {
+        "al": 1,
+        "ar": 1,
+        "ol": 20,
+        "or": 20
+      },
+      "total": 42,
+      "num_cases": 4
+    },
+    "or": {
+      "counts": {
+        "al": 10,
+        "ar": 9,
+        "ol": 15,
+        "or": 6
+      },
+      "total": 40,
+      "num_cases": 4
+    },
+    "olk": {
+      "counts": {
+        "al": 11,
+        "ar": 18,
+        "ol": 5,
+        "or": 4
+      },
+      "total": 38,
+      "num_cases": 4
+    },
+    "ckh": {
+      "counts": {
+        "al": 4,
+        "ar": 2,
+        "ol": 21,
+        "or": 9
+      },
+      "total": 36,
+      "num_cases": 4
+    },
+    "okch": {
+      "counts": {
+        "al": 2,
+        "ar": 4,
+        "ol": 12,
+        "or": 18
+      },
+      "total": 36,
+      "num_cases": 4
+    },
+    "tch": {
+      "counts": {
+        "al": 1,
+        "ar": 4,
+        "ol": 12,
+        "or": 18
+      },
+      "total": 35,
+      "num_cases": 4
+    },
+    "ar": {
+      "counts": {
+        "al": 12,
+        "ar": 6,
+        "ol": 10,
+        "or": 4
+      },
+      "total": 32,
+      "num_cases": 4
+    },
+    "okee": {
+      "counts": {
+        "al": 2,
+        "ar": 4,
+        "ol": 16,
+        "or": 10
+      },
+      "total": 32,
+      "num_cases": 4
+    },
+    "s!": {
+      "counts": {
+        "al": 5,
+        "ar": 8,
+        "ol": 12,
+        "or": 7
+      },
+      "total": 32,
+      "num_cases": 4
+    },
+    "ych": {
+      "counts": {
+        "al": 0,
+        "ar": 2,
+        "ol": 11,
+        "or": 17
+      },
+      "total": 30,
+      "num_cases": 3
+    },
+    "chot": {
+      "counts": {
+        "al": 9,
+        "ar": 11,
+        "ol": 6,
+        "or": 4
+      },
+      "total": 30,
+      "num_cases": 4
+    },
+    "qokch": {
+      "counts": {
+        "al": 1,
+        "ar": 1,
+        "ol": 17,
+        "or": 10
+      },
+      "total": 29,
+      "num_cases": 4
+    },
+    "chk": {
+      "counts": {
+        "al": 13,
+        "ar": 11,
+        "ol": 3,
+        "or": 1
+      },
+      "total": 28,
+      "num_cases": 4
+    },
+    "qotch": {
+      "counts": {
+        "al": 0,
+        "ar": 2,
+        "ol": 13,
+        "or": 13
+      },
+      "total": 28,
+      "num_cases": 3
+    },
+    "qo": {
+      "counts": {
+        "al": 4,
+        "ar": 12,
+        "ol": 4,
+        "or": 8
+      },
+      "total": 28,
+      "num_cases": 4
+    },
+    "op": {
+      "counts": {
+        "al": 9,
+        "ar": 7,
+        "ol": 4,
+        "or": 7
+      },
+      "total": 27,
+      "num_cases": 4
+    },
+    "cph": {
+      "counts": {
+        "al": 2,
+        "ar": 4,
+        "ol": 14,
+        "or": 6
+      },
+      "total": 26,
+      "num_cases": 4
+    },
+    "chee": {
+      "counts": {
+        "al": 2,
+        "ar": 1,
+        "ol": 9,
+        "or": 14
+      },
+      "total": 26,
+      "num_cases": 4
+    },
+    "ke": {
+      "counts": {
+        "al": 0,
+        "ar": 0,
+        "ol": 18,
+        "or": 7
+      },
+      "total": 25,
+      "num_cases": 2
+    },
+    "shee": {
+      "counts": {
+        "al": 1,
+        "ar": 2,
+        "ol": 13,
+        "or": 9
+      },
+      "total": 25,
+      "num_cases": 4
+    },
+    "p": {
+      "counts": {
+        "al": 2,
+        "ar": 4,
+        "ol": 13,
+        "or": 6
+      },
+      "total": 25,
+      "num_cases": 4
+    },
+    "chok": {
+      "counts": {
+        "al": 8,
+        "ar": 7,
+        "ol": 4,
+        "or": 5
+      },
+      "total": 24,
+      "num_cases": 4
+    }
+  },
+  "contexts": {
+    "al": {
+      "before_top10": [
+        {
+          "word": "daiin",
+          "count": 42
+        },
+        {
+          "word": "aiin",
+          "count": 31
+        },
+        {
+          "word": "shedy",
+          "count": 30
+        },
+        {
+          "word": "chedy",
+          "count": 26
+        },
+        {
+          "word": "qokaiin",
+          "count": 22
+        },
+        {
+          "word": "qokedy",
+          "count": 21
+        },
+        {
+          "word": "chey",
+          "count": 20
+        },
+        {
+          "word": "ol",
+          "count": 18
+        },
+        {
+          "word": "okaiin",
+          "count": 16
+        },
+        {
+          "word": "al",
+          "count": 16
+        }
+      ],
+      "after_top10": [
+        {
+          "word": "shedy",
+          "count": 59
+        },
+        {
+          "word": "chedy",
+          "count": 57
+        },
+        {
+          "word": "daiin",
+          "count": 36
+        },
+        {
+          "word": "dar",
+          "count": 33
+        },
+        {
+          "word": "dal",
+          "count": 29
+        },
+        {
+          "word": "dy",
+          "count": 26
+        },
+        {
+          "word": "ol",
+          "count": 23
+        },
+        {
+          "word": "or",
+          "count": 22
+        },
+        {
+          "word": "chol",
+          "count": 15
+        },
+        {
+          "word": "chdy",
+          "count": 14
+        }
+      ]
+    },
+    "ar": {
+      "before_top10": [
+        {
+          "word": "daiin",
+          "count": 45
+        },
+        {
+          "word": "chedy",
+          "count": 42
+        },
+        {
+          "word": "aiin",
+          "count": 31
+        },
+        {
+          "word": "shedy",
+          "count": 25
+        },
+        {
+          "word": "al",
+          "count": 22
+        },
+        {
+          "word": "ol",
+          "count": 22
+        },
+        {
+          "word": "dar",
+          "count": 21
+        },
+        {
+          "word": "ar",
+          "count": 21
+        },
+        {
+          "word": "chey",
+          "count": 20
+        },
+        {
+          "word": "otaiin",
+          "count": 19
+        }
+      ],
+      "after_top10": [
+        {
+          "word": "ar",
+          "count": 80
+        },
+        {
+          "word": "aiin",
+          "count": 71
+        },
+        {
+          "word": "shedy",
+          "count": 49
+        },
+        {
+          "word": "ol",
+          "count": 46
+        },
+        {
+          "word": "or",
+          "count": 43
+        },
+        {
+          "word": "chedy",
+          "count": 41
+        },
+        {
+          "word": "al",
+          "count": 41
+        },
+        {
+          "word": "shey",
+          "count": 25
+        },
+        {
+          "word": "daiin",
+          "count": 23
+        },
+        {
+          "word": "am",
+          "count": 21
+        }
+      ]
+    },
+    "ol": {
+      "before_top10": [
+        {
+          "word": "daiin",
+          "count": 79
+        },
+        {
+          "word": "chol",
+          "count": 62
+        },
+        {
+          "word": "ol",
+          "count": 38
+        },
+        {
+          "word": "chedy",
+          "count": 36
+        },
+        {
+          "word": "shol",
+          "count": 31
+        },
+        {
+          "word": "chey",
+          "count": 27
+        },
+        {
+          "word": "qokeey",
+          "count": 27
+        },
+        {
+          "word": "shedy",
+          "count": 27
+        },
+        {
+          "word": "chor",
+          "count": 25
+        },
+        {
+          "word": "or",
+          "count": 23
+        }
+      ],
+      "after_top10": [
+        {
+          "word": "daiin",
+          "count": 124
+        },
+        {
+          "word": "chol",
+          "count": 91
+        },
+        {
+          "word": "chedy",
+          "count": 61
+        },
+        {
+          "word": "shedy",
+          "count": 53
+        },
+        {
+          "word": "ol",
+          "count": 42
+        },
+        {
+          "word": "chey",
+          "count": 37
+        },
+        {
+          "word": "shol",
+          "count": 36
+        },
+        {
+          "word": "chor",
+          "count": 33
+        },
+        {
+          "word": "cheol",
+          "count": 31
+        },
+        {
+          "word": "dar",
+          "count": 30
+        }
+      ]
+    },
+    "or": {
+      "before_top10": [
+        {
+          "word": "daiin",
+          "count": 58
+        },
+        {
+          "word": "ol",
+          "count": 32
+        },
+        {
+          "word": "chor",
+          "count": 24
+        },
+        {
+          "word": "aiin",
+          "count": 21
+        },
+        {
+          "word": "dy",
+          "count": 20
+        },
+        {
+          "word": "chey",
+          "count": 19
+        },
+        {
+          "word": "chol",
+          "count": 18
+        },
+        {
+          "word": "or",
+          "count": 16
+        },
+        {
+          "word": "dar",
+          "count": 16
+        },
+        {
+          "word": "chedy",
+          "count": 15
+        }
+      ],
+      "after_top10": [
+        {
+          "word": "aiin",
+          "count": 55
+        },
+        {
+          "word": "daiin",
+          "count": 51
+        },
+        {
+          "word": "chor",
+          "count": 42
+        },
+        {
+          "word": "chol",
+          "count": 40
+        },
+        {
+          "word": "ol",
+          "count": 35
+        },
+        {
+          "word": "or",
+          "count": 31
+        },
+        {
+          "word": "chey",
+          "count": 29
+        },
+        {
+          "word": "shey",
+          "count": 28
+        },
+        {
+          "word": "ar",
+          "count": 23
+        },
+        {
+          "word": "shedy",
+          "count": 21
+        }
+      ]
+    }
+  },
+  "verb_associations": {
+    "al": {
+      "chedy": 263,
+      "qokedy": 145,
+      "qokeedy": 149,
+      "shedy": 278,
+      "qokeey": 134
+    },
+    "ar": {
+      "qokedy": 141,
+      "shedy": 257,
+      "qokeedy": 118,
+      "chedy": 302,
+      "qokeey": 127
+    },
+    "ol": {
+      "qokeey": 212,
+      "chedy": 341,
+      "qokedy": 162,
+      "shedy": 317,
+      "qokeedy": 186
+    },
+    "or": {
+      "qokeey": 87,
+      "qokedy": 61,
+      "chedy": 128,
+      "qokeedy": 69,
+      "shedy": 120
+    }
+  },
+  "distinctiveness": {
+    "overlap": 14,
+    "total": 26,
+    "score": 0.46153846153846156,
+    "al_specific": [
+      "chdy",
+      "qokedy",
+      "chckhy",
+      "qokal",
+      "otal",
+      "dal"
+    ],
+    "ar_specific": [
+      "shey",
+      "chol",
+      "or",
+      "cheol",
+      "otar",
+      "dar"
+    ]
+  },
+  "verdict": {
+    "tests_passed": 2,
+    "total_tests": 3,
+    "hypothesis_supported": true
+  }
+}

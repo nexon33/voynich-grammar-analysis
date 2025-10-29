@@ -1,0 +1,667 @@
+{
+  "decoded_roots": [
+    {
+      "root": "ch",
+      "frequency": 2728,
+      "num_variants": 57,
+      "likely_category": "PARTICLE",
+      "confidence": 1.0,
+      "scores": {
+        "PRONOUN": 0.021917808219178082,
+        "VERB": 0.12243150684931507,
+        "NOUN": 0.30753424657534245,
+        "PARTICLE": 1.0
+      },
+      "top_suffixes": [
+        "edy",
+        "ol",
+        "ey"
+      ],
+      "section_distribution": {
+        "section_counts": {
+          "herbal": 3193,
+          "biological": 681,
+          "pharmaceutical": 1042,
+          "recipes": 924
+        },
+        "section_proportions": {
+          "herbal": 0.5467465753424657,
+          "biological": 0.11660958904109589,
+          "pharmaceutical": 0.17842465753424658,
+          "recipes": 0.15821917808219177
+        },
+        "enriched_section": "herbal",
+        "enrichment_score": 0.5467465753424657
+      }
+    },
+    {
+      "root": "ai",
+      "frequency": 2086,
+      "num_variants": 17,
+      "likely_category": "VERB",
+      "confidence": 0.210727969348659,
+      "scores": {
+        "PRONOUN": -0.016602809706257982,
+        "VERB": 0.210727969348659,
+        "NOUN": 0.016602809706257982
+      },
+      "top_suffixes": [
+        "in",
+        "r",
+        "n"
+      ],
+      "section_distribution": {
+        "section_counts": {
+          "herbal": 279,
+          "biological": 122,
+          "pharmaceutical": 220,
+          "recipes": 162
+        },
+        "section_proportions": {
+          "herbal": 0.3563218390804598,
+          "biological": 0.1558109833971903,
+          "pharmaceutical": 0.280970625798212,
+          "recipes": 0.20689655172413793
+        },
+        "enriched_section": "herbal",
+        "enrichment_score": 0.3563218390804598
+      }
+    },
+    {
+      "root": "ot",
+      "frequency": 1373,
+      "num_variants": 33,
+      "likely_category": "PARTICLE",
+      "confidence": 1.0,
+      "scores": {
+        "PRONOUN": -0.009795570698466781,
+        "VERB": 0.2014480408858603,
+        "NOUN": 0.32538330494037476,
+        "PARTICLE": 1.0
+      },
+      "top_suffixes": [
+        "edy",
+        "ar",
+        "eey"
+      ],
+      "section_distribution": {
+        "section_counts": {
+          "herbal": 1199,
+          "biological": 307,
+          "pharmaceutical": 465,
+          "recipes": 377
+        },
+        "section_proportions": {
+          "herbal": 0.5106473594548552,
+          "biological": 0.1307495741056218,
+          "pharmaceutical": 0.19804088586030663,
+          "recipes": 0.16056218057921637
+        },
+        "enriched_section": "herbal",
+        "enrichment_score": 0.5106473594548552
+      }
+    },
+    {
+      "root": "he",
+      "frequency": 1155,
+      "num_variants": 12,
+      "likely_category": "UNKNOWN",
+      "confidence": 0.0,
+      "scores": {},
+      "top_suffixes": [
+        "dy",
+        "y",
+        "ey"
+      ],
+      "section_distribution": null
+    },
+    {
+      "root": "ok",
+      "frequency": 883,
+      "num_variants": 22,
+      "likely_category": "PARTICLE",
+      "confidence": 1.0,
+      "scores": {
+        "PRONOUN": 0.0,
+        "VERB": 0.1884359400998336,
+        "NOUN": 0.3198835274542429,
+        "PARTICLE": 1.0
+      },
+      "top_suffixes": [
+        "eey",
+        "al",
+        "ar"
+      ],
+      "section_distribution": {
+        "section_counts": {
+          "herbal": 1232,
+          "biological": 254,
+          "pharmaceutical": 580,
+          "recipes": 338
+        },
+        "section_proportions": {
+          "herbal": 0.5124792013311148,
+          "biological": 0.10565723793677205,
+          "pharmaceutical": 0.24126455906821964,
+          "recipes": 0.1405990016638935
+        },
+        "enriched_section": "herbal",
+        "enrichment_score": 0.5124792013311148
+      }
+    },
+    {
+      "root": "ee",
+      "frequency": 735,
+      "num_variants": 17,
+      "likely_category": "NOUN",
+      "confidence": 0.17647058823529413,
+      "scores": {
+        "PRONOUN": -0.014705882352941176,
+        "VERB": 0.1323529411764706,
+        "NOUN": 0.17647058823529413
+      },
+      "top_suffixes": [
+        "y",
+        "dy",
+        "ey"
+      ],
+      "section_distribution": {
+        "section_counts": {
+          "herbal": 39,
+          "biological": 10,
+          "pharmaceutical": 12,
+          "recipes": 7
+        },
+        "section_proportions": {
+          "herbal": 0.5735294117647058,
+          "biological": 0.14705882352941177,
+          "pharmaceutical": 0.17647058823529413,
+          "recipes": 0.10294117647058823
+        },
+        "enriched_section": "herbal",
+        "enrichment_score": 0.5735294117647058
+      }
+    },
+    {
+      "root": "al",
+      "frequency": 652,
+      "num_variants": 20,
+      "likely_category": "PARTICLE",
+      "confidence": 0.668,
+      "scores": {
+        "PRONOUN": 0.036000000000000004,
+        "VERB": 0.136,
+        "NOUN": 0.10400000000000001,
+        "PARTICLE": 0.668
+      },
+      "top_suffixes": [
+        "y",
+        "dy",
+        "or"
+      ],
+      "section_distribution": {
+        "section_counts": {
+          "herbal": 212,
+          "biological": 44,
+          "pharmaceutical": 123,
+          "recipes": 121
+        },
+        "section_proportions": {
+          "herbal": 0.424,
+          "biological": 0.088,
+          "pharmaceutical": 0.246,
+          "recipes": 0.242
+        },
+        "enriched_section": "herbal",
+        "enrichment_score": 0.424
+      }
+    },
+    {
+      "root": "ar",
+      "frequency": 641,
+      "num_variants": 15,
+      "likely_category": "PARTICLE",
+      "confidence": 0.6647058823529411,
+      "scores": {
+        "PRONOUN": -0.004048582995951417,
+        "VERB": 0.13562753036437247,
+        "NOUN": 0.10121457489878542,
+        "PARTICLE": 0.6647058823529411
+      },
+      "top_suffixes": [
+        "y",
+        "al",
+        "ol"
+      ],
+      "section_distribution": {
+        "section_counts": {
+          "herbal": 219,
+          "biological": 65,
+          "pharmaceutical": 97,
+          "recipes": 113
+        },
+        "section_proportions": {
+          "herbal": 0.4433198380566802,
+          "biological": 0.13157894736842105,
+          "pharmaceutical": 0.19635627530364372,
+          "recipes": 0.22874493927125505
+        },
+        "enriched_section": "herbal",
+        "enrichment_score": 0.4433198380566802
+      }
+    },
+    {
+      "root": "ol",
+      "frequency": 611,
+      "num_variants": 15,
+      "likely_category": "PARTICLE",
+      "confidence": 0.578544061302682,
+      "scores": {
+        "PRONOUN": 0.014538558786346401,
+        "VERB": 0.11504424778761062,
+        "NOUN": 0.1675094816687737,
+        "PARTICLE": 0.578544061302682
+      },
+      "top_suffixes": [
+        "y",
+        "or",
+        "dy"
+      ],
+      "section_distribution": {
+        "section_counts": {
+          "herbal": 836,
+          "biological": 286,
+          "pharmaceutical": 295,
+          "recipes": 165
+        },
+        "section_proportions": {
+          "herbal": 0.5284450063211125,
+          "biological": 0.18078381795195955,
+          "pharmaceutical": 0.18647281921618206,
+          "recipes": 0.10429835651074588
+        },
+        "enriched_section": "herbal",
+        "enrichment_score": 0.5284450063211125
+      }
+    },
+    {
+      "root": "che",
+      "frequency": 477,
+      "num_variants": 19,
+      "likely_category": "PARTICLE",
+      "confidence": 1.0,
+      "scores": {
+        "PRONOUN": 0.022710622710622713,
+        "VERB": 0.12454212454212454,
+        "NOUN": 0.24285714285714288,
+        "PARTICLE": 1.0
+      },
+      "top_suffixes": [
+        "ol",
+        "or",
+        "edy"
+      ],
+      "section_distribution": {
+        "section_counts": {
+          "herbal": 1277,
+          "biological": 347,
+          "pharmaceutical": 590,
+          "recipes": 516
+        },
+        "section_proportions": {
+          "herbal": 0.46776556776556777,
+          "biological": 0.1271062271062271,
+          "pharmaceutical": 0.21611721611721613,
+          "recipes": 0.189010989010989
+        },
+        "enriched_section": "herbal",
+        "enrichment_score": 0.46776556776556777
+      }
+    },
+    {
+      "root": "ho",
+      "frequency": 452,
+      "num_variants": 7,
+      "likely_category": "PRONOUN",
+      "confidence": 0.0,
+      "scores": {
+        "PRONOUN": 0.0,
+        "VERB": 0.0,
+        "NOUN": 0.0
+      },
+      "top_suffixes": [
+        "l",
+        "r",
+        "dy"
+      ],
+      "section_distribution": {
+        "section_counts": {
+          "herbal": 0,
+          "biological": 1,
+          "pharmaceutical": 0,
+          "recipes": 2
+        },
+        "section_proportions": {
+          "herbal": 0.0,
+          "biological": 0.3333333333333333,
+          "pharmaceutical": 0.0,
+          "recipes": 0.6666666666666666
+        },
+        "enriched_section": "recipes",
+        "enrichment_score": 0.6666666666666666
+      }
+    },
+    {
+      "root": "ai!",
+      "frequency": 434,
+      "num_variants": 5,
+      "likely_category": "VERB",
+      "confidence": 0.13793103448275862,
+      "scores": {
+        "PRONOUN": 0.0,
+        "VERB": 0.13793103448275862,
+        "NOUN": 0.017241379310344827
+      },
+      "top_suffixes": [
+        "n"
+      ],
+      "section_distribution": {
+        "section_counts": {
+          "herbal": 10,
+          "biological": 7,
+          "pharmaceutical": 16,
+          "recipes": 25
+        },
+        "section_proportions": {
+          "herbal": 0.1724137931034483,
+          "biological": 0.1206896551724138,
+          "pharmaceutical": 0.27586206896551724,
+          "recipes": 0.43103448275862066
+        },
+        "enriched_section": "recipes",
+        "enrichment_score": 0.43103448275862066
+      }
+    },
+    {
+      "root": "otch",
+      "frequency": 344,
+      "num_variants": 16,
+      "likely_category": "PARTICLE",
+      "confidence": 1.0,
+      "scores": {
+        "PRONOUN": 0.01083032490974729,
+        "VERB": 0.1371841155234657,
+        "NOUN": 0.26714801444043323,
+        "PARTICLE": 1.0
+      },
+      "top_suffixes": [
+        "y",
+        "edy",
+        "ey"
+      ],
+      "section_distribution": {
+        "section_counts": {
+          "herbal": 175,
+          "biological": 38,
+          "pharmaceutical": 27,
+          "recipes": 37
+        },
+        "section_proportions": {
+          "herbal": 0.631768953068592,
+          "biological": 0.1371841155234657,
+          "pharmaceutical": 0.09747292418772563,
+          "recipes": 0.13357400722021662
+        },
+        "enriched_section": "herbal",
+        "enrichment_score": 0.631768953068592
+      }
+    },
+    {
+      "root": "ed",
+      "frequency": 323,
+      "num_variants": 5,
+      "likely_category": "UNKNOWN",
+      "confidence": 0.0,
+      "scores": {},
+      "top_suffixes": [
+        "y",
+        "ar",
+        "al"
+      ],
+      "section_distribution": null
+    },
+    {
+      "root": "ke",
+      "frequency": 317,
+      "num_variants": 15,
+      "likely_category": "PARTICLE",
+      "confidence": 1.0,
+      "scores": {
+        "PRONOUN": -0.01652892561983471,
+        "VERB": 0.12396694214876033,
+        "NOUN": 0.23140495867768596,
+        "PARTICLE": 1.0
+      },
+      "top_suffixes": [
+        "ey",
+        "edy",
+        "dy"
+      ],
+      "section_distribution": {
+        "section_counts": {
+          "herbal": 171,
+          "biological": 43,
+          "pharmaceutical": 77,
+          "recipes": 72
+        },
+        "section_proportions": {
+          "herbal": 0.47107438016528924,
+          "biological": 0.1184573002754821,
+          "pharmaceutical": 0.21212121212121213,
+          "recipes": 0.19834710743801653
+        },
+        "enriched_section": "herbal",
+        "enrichment_score": 0.47107438016528924
+      }
+    },
+    {
+      "root": "cth",
+      "frequency": 298,
+      "num_variants": 10,
+      "likely_category": "PARTICLE",
+      "confidence": 1.0,
+      "scores": {
+        "PRONOUN": 0.08418891170431211,
+        "VERB": 0.1273100616016427,
+        "NOUN": 0.33470225872689935,
+        "PARTICLE": 1.0
+      },
+      "top_suffixes": [
+        "y",
+        "ol",
+        "ey"
+      ],
+      "section_distribution": {
+        "section_counts": {
+          "herbal": 371,
+          "biological": 66,
+          "pharmaceutical": 38,
+          "recipes": 12
+        },
+        "section_proportions": {
+          "herbal": 0.7618069815195072,
+          "biological": 0.13552361396303902,
+          "pharmaceutical": 0.07802874743326489,
+          "recipes": 0.024640657084188913
+        },
+        "enriched_section": "herbal",
+        "enrichment_score": 0.7618069815195072
+      }
+    },
+    {
+      "root": "ote",
+      "frequency": 276,
+      "num_variants": 13,
+      "likely_category": "PARTICLE",
+      "confidence": 1.0,
+      "scores": {
+        "PRONOUN": -0.009356725146198827,
+        "VERB": 0.1847953216374269,
+        "NOUN": 0.22690058479532163,
+        "PARTICLE": 1.0
+      },
+      "top_suffixes": [
+        "edy",
+        "ol",
+        "or"
+      ],
+      "section_distribution": {
+        "section_counts": {
+          "herbal": 413,
+          "biological": 93,
+          "pharmaceutical": 193,
+          "recipes": 156
+        },
+        "section_proportions": {
+          "herbal": 0.4830409356725146,
+          "biological": 0.10877192982456141,
+          "pharmaceutical": 0.22573099415204678,
+          "recipes": 0.1824561403508772
+        },
+        "enriched_section": "herbal",
+        "enrichment_score": 0.4830409356725146
+      }
+    },
+    {
+      "root": "or",
+      "frequency": 258,
+      "num_variants": 12,
+      "likely_category": "PARTICLE",
+      "confidence": 0.6527377521613833,
+      "scores": {
+        "PRONOUN": 0.027027027027027025,
+        "VERB": 0.0945945945945946,
+        "NOUN": 0.10641891891891891,
+        "PARTICLE": 0.6527377521613833
+      },
+      "top_suffixes": [
+        "y",
+        "ol",
+        "al"
+      ],
+      "section_distribution": {
+        "section_counts": {
+          "herbal": 277,
+          "biological": 130,
+          "pharmaceutical": 128,
+          "recipes": 57
+        },
+        "section_proportions": {
+          "herbal": 0.46790540540540543,
+          "biological": 0.2195945945945946,
+          "pharmaceutical": 0.21621621621621623,
+          "recipes": 0.09628378378378379
+        },
+        "enriched_section": "herbal",
+        "enrichment_score": 0.46790540540540543
+      }
+    },
+    {
+      "root": "otai",
+      "frequency": 250,
+      "num_variants": 4,
+      "likely_category": "VERB",
+      "confidence": 0.30662020905923343,
+      "scores": {
+        "PRONOUN": -0.013937282229965153,
+        "VERB": 0.30662020905923343,
+        "NOUN": 0.05226480836236934
+      },
+      "top_suffixes": [
+        "in",
+        "r"
+      ],
+      "section_distribution": {
+        "section_counts": {
+          "herbal": 101,
+          "biological": 32,
+          "pharmaceutical": 80,
+          "recipes": 74
+        },
+        "section_proportions": {
+          "herbal": 0.3519163763066202,
+          "biological": 0.11149825783972125,
+          "pharmaceutical": 0.2787456445993031,
+          "recipes": 0.2578397212543554
+        },
+        "enriched_section": "herbal",
+        "enrichment_score": 0.3519163763066202
+      }
+    },
+    {
+      "root": "oke",
+      "frequency": 245,
+      "num_variants": 9,
+      "likely_category": "NOUN",
+      "confidence": 0.2746331236897275,
+      "scores": {
+        "PRONOUN": 0.0020964360587002115,
+        "VERB": 0.18553459119496854,
+        "NOUN": 0.2746331236897275
+      },
+      "top_suffixes": [
+        "edy",
+        "ol",
+        "eey"
+      ],
+      "section_distribution": {
+        "section_counts": {
+          "herbal": 416,
+          "biological": 92,
+          "pharmaceutical": 301,
+          "recipes": 145
+        },
+        "section_proportions": {
+          "herbal": 0.4360587002096436,
+          "biological": 0.09643605870020965,
+          "pharmaceutical": 0.31551362683438156,
+          "recipes": 0.1519916142557652
+        },
+        "enriched_section": "herbal",
+        "enrichment_score": 0.4360587002096436
+      }
+    }
+  ],
+  "summary": {
+    "PARTICLE": [
+      "ch",
+      "ot",
+      "ok",
+      "al",
+      "ar",
+      "ol",
+      "che",
+      "otch",
+      "ke",
+      "cth",
+      "ote",
+      "or"
+    ],
+    "VERB": [
+      "ai",
+      "ai!",
+      "otai"
+    ],
+    "UNKNOWN": [
+      "he",
+      "ed"
+    ],
+    "NOUN": [
+      "ee",
+      "oke"
+    ],
+    "PRONOUN": [
+      "ho"
+    ]
+  }
+}

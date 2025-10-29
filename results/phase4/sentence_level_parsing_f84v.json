@@ -1,0 +1,1587 @@
+{
+  "sentences_analyzed": [
+    {
+      "sentence": "dan teodaiin oekeey qokees ody chekaiin chekaiin chky chaiin ycheey ky olkain chey kain cholky",
+      "structure": [
+        "?",
+        "PRO",
+        "?",
+        "GEN+?",
+        "VRB",
+        "PRO",
+        "PRO",
+        "?",
+        "PRO",
+        "?",
+        "?",
+        "PRO",
+        "?",
+        "PRO",
+        "?"
+      ],
+      "known_ratio": 0.06666666666666667,
+      "decompositions": [
+        {
+          "word": "dan",
+          "root": "an",
+          "prefixes": [
+            "d"
+          ],
+          "suffixes": [],
+          "known_elements": [
+            "ROOT:?(an)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "teodaiin",
+          "root": "teodai",
+          "prefixes": [],
+          "suffixes": [
+            "in"
+          ],
+          "known_elements": [
+            "PRONOUN",
+            "ROOT:?(teodai)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "oekeey",
+          "root": "oeke",
+          "prefixes": [],
+          "suffixes": [
+            "ey"
+          ],
+          "known_elements": [
+            "ROOT:?(oeke)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "qokees",
+          "root": "ees",
+          "prefixes": [
+            "qok"
+          ],
+          "suffixes": [],
+          "known_elements": [
+            "GENITIVE",
+            "ROOT:?(ees)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "ody",
+          "root": "o",
+          "prefixes": [],
+          "suffixes": [
+            "dy"
+          ],
+          "known_elements": [
+            "VERBAL"
+          ],
+          "confidence": "very_low"
+        },
+        {
+          "word": "chekaiin",
+          "root": "chekai",
+          "prefixes": [],
+          "suffixes": [
+            "in"
+          ],
+          "known_elements": [
+            "PRONOUN",
+            "ROOT:?(chekai)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "chekaiin",
+          "root": "chekai",
+          "prefixes": [],
+          "suffixes": [
+            "in"
+          ],
+          "known_elements": [
+            "PRONOUN",
+            "ROOT:?(chekai)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "chky",
+          "root": "chk",
+          "prefixes": [],
+          "suffixes": [
+            "y"
+          ],
+          "known_elements": [
+            "ROOT:?(chk)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "chaiin",
+          "root": "chai",
+          "prefixes": [],
+          "suffixes": [
+            "in"
+          ],
+          "known_elements": [
+            "PRONOUN",
+            "ROOT:?(chai)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "ycheey",
+          "root": "yche",
+          "prefixes": [],
+          "suffixes": [
+            "ey"
+          ],
+          "known_elements": [
+            "ROOT:?(yche)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "ky",
+          "root": "k",
+          "prefixes": [],
+          "suffixes": [
+            "y"
+          ],
+          "known_elements": [],
+          "confidence": "very_low"
+        },
+        {
+          "word": "olkain",
+          "root": "olka",
+          "prefixes": [],
+          "suffixes": [
+            "in"
+          ],
+          "known_elements": [
+            "PRONOUN",
+            "ROOT:?(olka)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "chey",
+          "root": "ch",
+          "prefixes": [],
+          "suffixes": [
+            "ey"
+          ],
+          "known_elements": [
+            "ROOT:ch(verb?)"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "word": "kain",
+          "root": "ka",
+          "prefixes": [],
+          "suffixes": [
+            "in"
+          ],
+          "known_elements": [
+            "PRONOUN",
+            "ROOT:?(ka)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "cholky",
+          "root": "cholk",
+          "prefixes": [],
+          "suffixes": [
+            "y"
+          ],
+          "known_elements": [
+            "ROOT:?(cholk)"
+          ],
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "sentence": "chedy qokaiin chy kaiin ly ytar chedy todai!n",
+      "structure": [
+        "VRB",
+        "PRO",
+        "?",
+        "PRO",
+        "?",
+        "?+CASE",
+        "VRB",
+        "?"
+      ],
+      "known_ratio": 0.5,
+      "decompositions": [
+        {
+          "word": "chedy",
+          "root": "ch",
+          "prefixes": [],
+          "suffixes": [
+            "edy"
+          ],
+          "known_elements": [
+            "VERB?"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "word": "qokaiin",
+          "root": "ai",
+          "prefixes": [
+            "qok"
+          ],
+          "suffixes": [
+            "in"
+          ],
+          "known_elements": [
+            "GENITIVE",
+            "PRONOUN",
+            "ROOT:pronoun"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "word": "chy",
+          "root": "ch",
+          "prefixes": [],
+          "suffixes": [
+            "y"
+          ],
+          "known_elements": [
+            "ROOT:ch(verb?)"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "word": "kaiin",
+          "root": "kai",
+          "prefixes": [],
+          "suffixes": [
+            "in"
+          ],
+          "known_elements": [
+            "PRONOUN",
+            "ROOT:?(kai)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "ly",
+          "root": "l",
+          "prefixes": [],
+          "suffixes": [
+            "y"
+          ],
+          "known_elements": [],
+          "confidence": "very_low"
+        },
+        {
+          "word": "ytar",
+          "root": "yt",
+          "prefixes": [],
+          "suffixes": [
+            "ar"
+          ],
+          "known_elements": [
+            "CASE:ar",
+            "ROOT:?(yt)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "chedy",
+          "root": "ch",
+          "prefixes": [],
+          "suffixes": [
+            "edy"
+          ],
+          "known_elements": [
+            "VERB?"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "word": "todai!n",
+          "root": "todai!n",
+          "prefixes": [],
+          "suffixes": [],
+          "known_elements": [
+            "ROOT:?(todai!n)"
+          ],
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "sentence": "qoky shdaly tchdor or chekchdy qokar chcthy qotchdy lshedy qoky qofai!n",
+      "structure": [
+        "GEN+?",
+        "?+CASE",
+        "?+CASE",
+        "?",
+        "VRB",
+        "GEN+?",
+        "?",
+        "VRB",
+        "VRB",
+        "GEN+?",
+        "?"
+      ],
+      "known_ratio": 0.0,
+      "decompositions": [
+        {
+          "word": "qoky",
+          "root": "y",
+          "prefixes": [
+            "qok"
+          ],
+          "suffixes": [],
+          "known_elements": [
+            "GENITIVE"
+          ],
+          "confidence": "very_low"
+        },
+        {
+          "word": "shdaly",
+          "root": "hd",
+          "prefixes": [
+            "s"
+          ],
+          "suffixes": [
+            "al",
+            "y"
+          ],
+          "known_elements": [
+            "CASE:al",
+            "ROOT:?(hd)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "tchdor",
+          "root": "tchd",
+          "prefixes": [],
+          "suffixes": [
+            "or"
+          ],
+          "known_elements": [
+            "CASE:or",
+            "ROOT:?(tchd)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "or",
+          "root": "or",
+          "prefixes": [],
+          "suffixes": [],
+          "known_elements": [
+            "ROOT:?(or)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "chekchdy",
+          "root": "chekch",
+          "prefixes": [],
+          "suffixes": [
+            "dy"
+          ],
+          "known_elements": [
+            "VERBAL",
+            "ROOT:?(chekch)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "qokar",
+          "root": "ar",
+          "prefixes": [
+            "qok"
+          ],
+          "suffixes": [],
+          "known_elements": [
+            "GENITIVE",
+            "ROOT:?(ar)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "chcthy",
+          "root": "chcth",
+          "prefixes": [],
+          "suffixes": [
+            "y"
+          ],
+          "known_elements": [
+            "ROOT:?(chcth)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "qotchdy",
+          "root": "otch",
+          "prefixes": [
+            "q"
+          ],
+          "suffixes": [
+            "dy"
+          ],
+          "known_elements": [
+            "GEN?",
+            "VERBAL",
+            "ROOT:?(otch)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "lshedy",
+          "root": "lsh",
+          "prefixes": [],
+          "suffixes": [
+            "edy"
+          ],
+          "known_elements": [
+            "VERBAL",
+            "ROOT:?(lsh)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "qoky",
+          "root": "y",
+          "prefixes": [
+            "qok"
+          ],
+          "suffixes": [],
+          "known_elements": [
+            "GENITIVE"
+          ],
+          "confidence": "very_low"
+        },
+        {
+          "word": "qofai!n",
+          "root": "ofai!n",
+          "prefixes": [
+            "q"
+          ],
+          "suffixes": [],
+          "known_elements": [
+            "GEN?",
+            "ROOT:?(ofai!n)"
+          ],
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "sentence": "dy ykchedy sheky chekar chdai!n",
+      "structure": [
+        "?",
+        "VRB",
+        "?",
+        "?+CASE",
+        "?"
+      ],
+      "known_ratio": 0.0,
+      "decompositions": [
+        {
+          "word": "dy",
+          "root": "y",
+          "prefixes": [
+            "d"
+          ],
+          "suffixes": [],
+          "known_elements": [],
+          "confidence": "very_low"
+        },
+        {
+          "word": "ykchedy",
+          "root": "ykch",
+          "prefixes": [],
+          "suffixes": [
+            "edy"
+          ],
+          "known_elements": [
+            "VERBAL",
+            "ROOT:?(ykch)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "sheky",
+          "root": "hek",
+          "prefixes": [
+            "s"
+          ],
+          "suffixes": [
+            "y"
+          ],
+          "known_elements": [
+            "ROOT:?(hek)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "chekar",
+          "root": "chek",
+          "prefixes": [],
+          "suffixes": [
+            "ar"
+          ],
+          "known_elements": [
+            "CASE:ar",
+            "ROOT:?(chek)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "chdai!n",
+          "root": "chdai!n",
+          "prefixes": [],
+          "suffixes": [],
+          "known_elements": [
+            "ROOT:?(chdai!n)"
+          ],
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "sentence": "chdaiin okar chetchdy chdy chkam olkor chdaiin chol kaiin qokeedy qoky chedy lchedy chedy alod",
+      "structure": [
+        "PRO",
+        "NOUN+CASE",
+        "VRB",
+        "VRB",
+        "?",
+        "?+CASE",
+        "PRO",
+        "?+CASE",
+        "PRO",
+        "VRB",
+        "GEN+?",
+        "VRB",
+        "VRB",
+        "VRB",
+        "?"
+      ],
+      "known_ratio": 0.4,
+      "decompositions": [
+        {
+          "word": "chdaiin",
+          "root": "chdai",
+          "prefixes": [],
+          "suffixes": [
+            "in"
+          ],
+          "known_elements": [
+            "PRONOUN",
+            "ROOT:?(chdai)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "okar",
+          "root": "ok",
+          "prefixes": [],
+          "suffixes": [
+            "ar"
+          ],
+          "known_elements": [
+            "CASE:ar",
+            "ROOT:oak"
+          ],
+          "confidence": "high"
+        },
+        {
+          "word": "chetchdy",
+          "root": "chetch",
+          "prefixes": [],
+          "suffixes": [
+            "dy"
+          ],
+          "known_elements": [
+            "VERBAL",
+            "ROOT:?(chetch)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "chdy",
+          "root": "ch",
+          "prefixes": [],
+          "suffixes": [
+            "dy"
+          ],
+          "known_elements": [
+            "VERBAL",
+            "ROOT:ch(verb?)"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "word": "chkam",
+          "root": "chkam",
+          "prefixes": [],
+          "suffixes": [],
+          "known_elements": [
+            "ROOT:?(chkam)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "olkor",
+          "root": "olk",
+          "prefixes": [],
+          "suffixes": [
+            "or"
+          ],
+          "known_elements": [
+            "CASE:or",
+            "ROOT:?(olk)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "chdaiin",
+          "root": "chdai",
+          "prefixes": [],
+          "suffixes": [
+            "in"
+          ],
+          "known_elements": [
+            "PRONOUN",
+            "ROOT:?(chdai)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "chol",
+          "root": "ch",
+          "prefixes": [],
+          "suffixes": [
+            "ol"
+          ],
+          "known_elements": [
+            "CASE:ol",
+            "ROOT:ch(verb?)"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "word": "kaiin",
+          "root": "kai",
+          "prefixes": [],
+          "suffixes": [
+            "in"
+          ],
+          "known_elements": [
+            "PRONOUN",
+            "ROOT:?(kai)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "qokeedy",
+          "root": "e",
+          "prefixes": [
+            "qok"
+          ],
+          "suffixes": [
+            "edy"
+          ],
+          "known_elements": [
+            "VERB?"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "word": "qoky",
+          "root": "y",
+          "prefixes": [
+            "qok"
+          ],
+          "suffixes": [],
+          "known_elements": [
+            "GENITIVE"
+          ],
+          "confidence": "very_low"
+        },
+        {
+          "word": "chedy",
+          "root": "ch",
+          "prefixes": [],
+          "suffixes": [
+            "edy"
+          ],
+          "known_elements": [
+            "VERB?"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "word": "lchedy",
+          "root": "lch",
+          "prefixes": [],
+          "suffixes": [
+            "edy"
+          ],
+          "known_elements": [
+            "VERBAL",
+            "ROOT:?(lch)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "chedy",
+          "root": "ch",
+          "prefixes": [],
+          "suffixes": [
+            "edy"
+          ],
+          "known_elements": [
+            "VERB?"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "word": "alod",
+          "root": "alod",
+          "prefixes": [],
+          "suffixes": [],
+          "known_elements": [
+            "ROOT:?(alod)"
+          ],
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "sentence": "tchdy tchor chol tar chdy okol ykoldy olkeedy qotaiin or",
+      "structure": [
+        "VRB",
+        "?+CASE",
+        "?+CASE",
+        "?+CASE",
+        "VRB",
+        "NOUN+CASE",
+        "VRB",
+        "VRB",
+        "PRO",
+        "?"
+      ],
+      "known_ratio": 0.3,
+      "decompositions": [
+        {
+          "word": "tchdy",
+          "root": "tch",
+          "prefixes": [],
+          "suffixes": [
+            "dy"
+          ],
+          "known_elements": [
+            "VERBAL",
+            "ROOT:?(tch)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "tchor",
+          "root": "tch",
+          "prefixes": [],
+          "suffixes": [
+            "or"
+          ],
+          "known_elements": [
+            "CASE:or",
+            "ROOT:?(tch)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "chol",
+          "root": "ch",
+          "prefixes": [],
+          "suffixes": [
+            "ol"
+          ],
+          "known_elements": [
+            "CASE:ol",
+            "ROOT:ch(verb?)"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "word": "tar",
+          "root": "t",
+          "prefixes": [],
+          "suffixes": [
+            "ar"
+          ],
+          "known_elements": [
+            "CASE:ar"
+          ],
+          "confidence": "very_low"
+        },
+        {
+          "word": "chdy",
+          "root": "ch",
+          "prefixes": [],
+          "suffixes": [
+            "dy"
+          ],
+          "known_elements": [
+            "VERBAL",
+            "ROOT:ch(verb?)"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "word": "okol",
+          "root": "ok",
+          "prefixes": [],
+          "suffixes": [
+            "ol"
+          ],
+          "known_elements": [
+            "CASE:ol",
+            "ROOT:oak"
+          ],
+          "confidence": "high"
+        },
+        {
+          "word": "ykoldy",
+          "root": "yk",
+          "prefixes": [],
+          "suffixes": [
+            "ol",
+            "dy"
+          ],
+          "known_elements": [
+            "VERBAL",
+            "CASE:ol",
+            "ROOT:?(yk)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "olkeedy",
+          "root": "olke",
+          "prefixes": [],
+          "suffixes": [
+            "edy"
+          ],
+          "known_elements": [
+            "VERBAL",
+            "ROOT:?(olke)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "qotaiin",
+          "root": "otai",
+          "prefixes": [
+            "q"
+          ],
+          "suffixes": [
+            "in"
+          ],
+          "known_elements": [
+            "GEN?",
+            "PRONOUN",
+            "ROOT:?(otai)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "or",
+          "root": "or",
+          "prefixes": [],
+          "suffixes": [],
+          "known_elements": [
+            "ROOT:?(or)"
+          ],
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "sentence": "daiin chckhy okaiin chckhy",
+      "structure": [
+        "PRO",
+        "?",
+        "PRO",
+        "?"
+      ],
+      "known_ratio": 0.25,
+      "decompositions": [
+        {
+          "word": "daiin",
+          "root": "dai",
+          "prefixes": [],
+          "suffixes": [
+            "in"
+          ],
+          "known_elements": [
+            "PRONOUN"
+          ],
+          "confidence": "high"
+        },
+        {
+          "word": "chckhy",
+          "root": "chckh",
+          "prefixes": [],
+          "suffixes": [
+            "y"
+          ],
+          "known_elements": [
+            "ROOT:?(chckh)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "okaiin",
+          "root": "okai",
+          "prefixes": [],
+          "suffixes": [
+            "in"
+          ],
+          "known_elements": [
+            "PRONOUN",
+            "ROOT:?(okai)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "chckhy",
+          "root": "chckh",
+          "prefixes": [],
+          "suffixes": [
+            "y"
+          ],
+          "known_elements": [
+            "ROOT:?(chckh)"
+          ],
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "sentence": "daiin ykedy epaiin okaraiin ls ykaiin or chdy chekai!n",
+      "structure": [
+        "PRO",
+        "VRB",
+        "PRO",
+        "PRO",
+        "?",
+        "PRO",
+        "?",
+        "VRB",
+        "?"
+      ],
+      "known_ratio": 0.2222222222222222,
+      "decompositions": [
+        {
+          "word": "daiin",
+          "root": "dai",
+          "prefixes": [],
+          "suffixes": [
+            "in"
+          ],
+          "known_elements": [
+            "PRONOUN"
+          ],
+          "confidence": "high"
+        },
+        {
+          "word": "ykedy",
+          "root": "yk",
+          "prefixes": [],
+          "suffixes": [
+            "edy"
+          ],
+          "known_elements": [
+            "VERBAL",
+            "ROOT:?(yk)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "epaiin",
+          "root": "epai",
+          "prefixes": [],
+          "suffixes": [
+            "in"
+          ],
+          "known_elements": [
+            "PRONOUN",
+            "ROOT:?(epai)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "okaraiin",
+          "root": "okarai",
+          "prefixes": [],
+          "suffixes": [
+            "in"
+          ],
+          "known_elements": [
+            "PRONOUN",
+            "ROOT:?(okarai)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "ls",
+          "root": "ls",
+          "prefixes": [],
+          "suffixes": [],
+          "known_elements": [
+            "ROOT:?(ls)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "ykaiin",
+          "root": "ykai",
+          "prefixes": [],
+          "suffixes": [
+            "in"
+          ],
+          "known_elements": [
+            "PRONOUN",
+            "ROOT:?(ykai)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "or",
+          "root": "or",
+          "prefixes": [],
+          "suffixes": [],
+          "known_elements": [
+            "ROOT:?(or)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "chdy",
+          "root": "ch",
+          "prefixes": [],
+          "suffixes": [
+            "dy"
+          ],
+          "known_elements": [
+            "VERBAL",
+            "ROOT:ch(verb?)"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "word": "chekai!n",
+          "root": "chekai!n",
+          "prefixes": [],
+          "suffixes": [],
+          "known_elements": [
+            "ROOT:?(chekai!n)"
+          ],
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "sentence": "ol dar ykar olkeey ldar chckhal kshedy or chdy dalfchy qodaiin chckhy!fchy",
+      "structure": [
+        "?",
+        "?",
+        "?+CASE",
+        "?",
+        "?+CASE",
+        "?+CASE",
+        "VRB",
+        "?",
+        "VRB",
+        "?",
+        "PRO",
+        "?"
+      ],
+      "known_ratio": 0.08333333333333333,
+      "decompositions": [
+        {
+          "word": "ol",
+          "root": "ol",
+          "prefixes": [],
+          "suffixes": [],
+          "known_elements": [
+            "ROOT:?(ol)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "dar",
+          "root": "ar",
+          "prefixes": [
+            "d"
+          ],
+          "suffixes": [],
+          "known_elements": [
+            "ROOT:?(ar)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "ykar",
+          "root": "yk",
+          "prefixes": [],
+          "suffixes": [
+            "ar"
+          ],
+          "known_elements": [
+            "CASE:ar",
+            "ROOT:?(yk)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "olkeey",
+          "root": "olke",
+          "prefixes": [],
+          "suffixes": [
+            "ey"
+          ],
+          "known_elements": [
+            "ROOT:?(olke)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "ldar",
+          "root": "ld",
+          "prefixes": [],
+          "suffixes": [
+            "ar"
+          ],
+          "known_elements": [
+            "CASE:ar",
+            "ROOT:?(ld)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "chckhal",
+          "root": "chckh",
+          "prefixes": [],
+          "suffixes": [
+            "al"
+          ],
+          "known_elements": [
+            "CASE:al",
+            "ROOT:?(chckh)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "kshedy",
+          "root": "ksh",
+          "prefixes": [],
+          "suffixes": [
+            "edy"
+          ],
+          "known_elements": [
+            "VERBAL",
+            "ROOT:?(ksh)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "or",
+          "root": "or",
+          "prefixes": [],
+          "suffixes": [],
+          "known_elements": [
+            "ROOT:?(or)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "chdy",
+          "root": "ch",
+          "prefixes": [],
+          "suffixes": [
+            "dy"
+          ],
+          "known_elements": [
+            "VERBAL",
+            "ROOT:ch(verb?)"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "word": "dalfchy",
+          "root": "alfch",
+          "prefixes": [
+            "d"
+          ],
+          "suffixes": [
+            "y"
+          ],
+          "known_elements": [
+            "ROOT:?(alfch)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "qodaiin",
+          "root": "odai",
+          "prefixes": [
+            "q"
+          ],
+          "suffixes": [
+            "in"
+          ],
+          "known_elements": [
+            "GEN?",
+            "PRONOUN",
+            "ROOT:?(odai)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "chckhy!fchy",
+          "root": "chckhy!fch",
+          "prefixes": [],
+          "suffixes": [
+            "y"
+          ],
+          "known_elements": [
+            "ROOT:?(chckhy!fch)"
+          ],
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "sentence": "daraiin dalal daiin shody chkai!n",
+      "structure": [
+        "PRO",
+        "?+CASE",
+        "PRO",
+        "VRB",
+        "?"
+      ],
+      "known_ratio": 0.2,
+      "decompositions": [
+        {
+          "word": "daraiin",
+          "root": "arai",
+          "prefixes": [
+            "d"
+          ],
+          "suffixes": [
+            "in"
+          ],
+          "known_elements": [
+            "PRONOUN",
+            "ROOT:?(arai)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "dalal",
+          "root": "al",
+          "prefixes": [
+            "d"
+          ],
+          "suffixes": [
+            "al"
+          ],
+          "known_elements": [
+            "CASE:al",
+            "ROOT:?(al)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "daiin",
+          "root": "dai",
+          "prefixes": [],
+          "suffixes": [
+            "in"
+          ],
+          "known_elements": [
+            "PRONOUN"
+          ],
+          "confidence": "high"
+        },
+        {
+          "word": "shody",
+          "root": "ho",
+          "prefixes": [
+            "s"
+          ],
+          "suffixes": [
+            "dy"
+          ],
+          "known_elements": [
+            "VERBAL",
+            "ROOT:?(ho)"
+          ],
+          "confidence": "low"
+        },
+        {
+          "word": "chkai!n",
+          "root": "chkai!n",
+          "prefixes": [],
+          "suffixes": [],
+          "known_elements": [
+            "ROOT:?(chkai!n)"
+          ],
+          "confidence": "low"
+        }
+      ]
+    }
+  ],
+  "patterns": {
+    "common_structures": [
+      {
+        "pattern": [
+          "?",
+          "PRO",
+          "?",
+          "GEN+?",
+          "VRB",
+          "PRO",
+          "PRO",
+          "?",
+          "PRO",
+          "?",
+          "?",
+          "PRO",
+          "?",
+          "PRO",
+          "?"
+        ],
+        "count": 1
+      },
+      {
+        "pattern": [
+          "VRB",
+          "PRO",
+          "?",
+          "PRO",
+          "?",
+          "?+CASE",
+          "VRB",
+          "?"
+        ],
+        "count": 1
+      },
+      {
+        "pattern": [
+          "GEN+?",
+          "?+CASE",
+          "?+CASE",
+          "?",
+          "VRB",
+          "GEN+?",
+          "?",
+          "VRB",
+          "VRB",
+          "GEN+?",
+          "?"
+        ],
+        "count": 1
+      },
+      {
+        "pattern": [
+          "?",
+          "VRB",
+          "?",
+          "?+CASE",
+          "?"
+        ],
+        "count": 1
+      },
+      {
+        "pattern": [
+          "PRO",
+          "NOUN+CASE",
+          "VRB",
+          "VRB",
+          "?",
+          "?+CASE",
+          "PRO",
+          "?+CASE",
+          "PRO",
+          "VRB",
+          "GEN+?",
+          "VRB",
+          "VRB",
+          "VRB",
+          "?"
+        ],
+        "count": 1
+      },
+      {
+        "pattern": [
+          "VRB",
+          "?+CASE",
+          "?+CASE",
+          "?+CASE",
+          "VRB",
+          "NOUN+CASE",
+          "VRB",
+          "VRB",
+          "PRO",
+          "?"
+        ],
+        "count": 1
+      },
+      {
+        "pattern": [
+          "PRO",
+          "?",
+          "PRO",
+          "?"
+        ],
+        "count": 1
+      },
+      {
+        "pattern": [
+          "PRO",
+          "VRB",
+          "PRO",
+          "PRO",
+          "?",
+          "PRO",
+          "?",
+          "VRB",
+          "?"
+        ],
+        "count": 1
+      },
+      {
+        "pattern": [
+          "?",
+          "?",
+          "?+CASE",
+          "?",
+          "?+CASE",
+          "?+CASE",
+          "VRB",
+          "?",
+          "VRB",
+          "?",
+          "PRO",
+          "?"
+        ],
+        "count": 1
+      },
+      {
+        "pattern": [
+          "PRO",
+          "?+CASE",
+          "PRO",
+          "VRB",
+          "?"
+        ],
+        "count": 1
+      }
+    ],
+    "positional_frequencies": {
+      "position_0": {
+        "PRO": 4,
+        "?": 3,
+        "VRB": 2,
+        "GEN+?": 1
+      },
+      "position_1": {
+        "?+CASE": 3,
+        "PRO": 2,
+        "VRB": 2,
+        "?": 2,
+        "NOUN+CASE": 1
+      },
+      "position_2": {
+        "?": 3,
+        "?+CASE": 3,
+        "PRO": 3,
+        "VRB": 1
+      },
+      "position_3": {
+        "?": 3,
+        "PRO": 2,
+        "?+CASE": 2,
+        "VRB": 2,
+        "GEN+?": 1
+      },
+      "position_4": {
+        "?": 5,
+        "VRB": 3,
+        "?+CASE": 1
+      },
+      "position_5+": {
+        "?": 15,
+        "VRB": 12,
+        "PRO": 10,
+        "?+CASE": 4,
+        "GEN+?": 3
+      }
+    }
+  },
+  "gaps": {
+    "all_unknowns": {
+      "y": 4,
+      "or": 4,
+      "yk": 3,
+      "chckh": 3,
+      "chekai": 2,
+      "kai": 2,
+      "ar": 2,
+      "chdai": 2,
+      "tch": 2,
+      "olke": 2,
+      "an": 1,
+      "teodai": 1,
+      "oeke": 1,
+      "ees": 1,
+      "o": 1,
+      "chk": 1,
+      "chai": 1,
+      "yche": 1,
+      "k": 1,
+      "olka": 1
+    },
+    "verb_position_unknowns": {},
+    "object_position_unknowns": {
+      "y": 2,
+      "chekai": 1,
+      "ar": 1,
+      "lsh": 1,
+      "hek": 1,
+      "chkam": 1,
+      "lch": 1,
+      "tch": 1,
+      "olke": 1,
+      "otai": 1
+    }
+  },
+  "verdict": {
+    "checks_passed": 1,
+    "total_checks": 4,
+    "avg_known_ratio": 0.20222222222222222,
+    "model_validated": false
+  }
+}
