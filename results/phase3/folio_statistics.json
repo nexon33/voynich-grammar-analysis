@@ -1,0 +1,738 @@
+{
+  "f1r": {
+    "start_word": 0,
+    "word_count": 203
+  },
+  "f1v": {
+    "start_word": 203,
+    "word_count": 34
+  },
+  "f2r": {
+    "start_word": 237,
+    "word_count": 34
+  },
+  "f2v": {
+    "start_word": 271,
+    "word_count": 14
+  },
+  "f3r": {
+    "start_word": 285,
+    "word_count": 64
+  },
+  "f3v": {
+    "start_word": 349,
+    "word_count": 75
+  },
+  "f4r": {
+    "start_word": 424,
+    "word_count": 39
+  },
+  "f4v": {
+    "start_word": 463,
+    "word_count": 42
+  },
+  "f5r": {
+    "start_word": 505,
+    "word_count": 44
+  },
+  "f5v": {
+    "start_word": 549,
+    "word_count": 39
+  },
+  "f6r": {
+    "start_word": 588,
+    "word_count": 48
+  },
+  "f6v": {
+    "start_word": 636,
+    "word_count": 90
+  },
+  "f7r": {
+    "start_word": 726,
+    "word_count": 26
+  },
+  "f7v": {
+    "start_word": 752,
+    "word_count": 50
+  },
+  "f8r": {
+    "start_word": 802,
+    "word_count": 87
+  },
+  "f8v": {
+    "start_word": 889,
+    "word_count": 75
+  },
+  "f9r": {
+    "start_word": 964,
+    "word_count": 17
+  },
+  "f9v": {
+    "start_word": 981,
+    "word_count": 29
+  },
+  "f10r": {
+    "start_word": 1010,
+    "word_count": 48
+  },
+  "f10v": {
+    "start_word": 1058,
+    "word_count": 40
+  },
+  "f11r": {
+    "start_word": 1098,
+    "word_count": 53
+  },
+  "f11v": {
+    "start_word": 1151,
+    "word_count": 14
+  },
+  "f13r": {
+    "start_word": 1165,
+    "word_count": 54
+  },
+  "f13v": {
+    "start_word": 1219,
+    "word_count": 32
+  },
+  "f14r": {
+    "start_word": 1251,
+    "word_count": 45
+  },
+  "f14v": {
+    "start_word": 1296,
+    "word_count": 59
+  },
+  "f15r": {
+    "start_word": 1355,
+    "word_count": 34
+  },
+  "f15v": {
+    "start_word": 1389,
+    "word_count": 69
+  },
+  "f16r": {
+    "start_word": 1458,
+    "word_count": 55
+  },
+  "f16v": {
+    "start_word": 1513,
+    "word_count": 68
+  },
+  "f17r": {
+    "start_word": 1581,
+    "word_count": 50
+  },
+  "f17v": {
+    "start_word": 1631,
+    "word_count": 134
+  },
+  "f18r": {
+    "start_word": 1765,
+    "word_count": 49
+  },
+  "f18v": {
+    "start_word": 1814,
+    "word_count": 63
+  },
+  "f19r": {
+    "start_word": 1877,
+    "word_count": 62
+  },
+  "f19v": {
+    "start_word": 1939,
+    "word_count": 77
+  },
+  "f20r": {
+    "start_word": 2016,
+    "word_count": 72
+  },
+  "f20v": {
+    "start_word": 2088,
+    "word_count": 74
+  },
+  "f21r": {
+    "start_word": 2162,
+    "word_count": 71
+  },
+  "f21v": {
+    "start_word": 2233,
+    "word_count": 45
+  },
+  "f22r": {
+    "start_word": 2278,
+    "word_count": 40
+  },
+  "f22v": {
+    "start_word": 2318,
+    "word_count": 47
+  },
+  "f23r": {
+    "start_word": 2365,
+    "word_count": 58
+  },
+  "f23v": {
+    "start_word": 2423,
+    "word_count": 34
+  },
+  "f24r": {
+    "start_word": 2457,
+    "word_count": 113
+  },
+  "f24v": {
+    "start_word": 2570,
+    "word_count": 73
+  },
+  "f25r": {
+    "start_word": 2643,
+    "word_count": 47
+  },
+  "f25v": {
+    "start_word": 2690,
+    "word_count": 48
+  },
+  "f26r": {
+    "start_word": 2738,
+    "word_count": 24
+  },
+  "f26v": {
+    "start_word": 2762,
+    "word_count": 92
+  },
+  "f27r": {
+    "start_word": 2854,
+    "word_count": 35
+  },
+  "f27v": {
+    "start_word": 2889,
+    "word_count": 37
+  },
+  "f28r": {
+    "start_word": 2926,
+    "word_count": 22
+  },
+  "f28v": {
+    "start_word": 2948,
+    "word_count": 40
+  },
+  "f29r": {
+    "start_word": 2988,
+    "word_count": 26
+  },
+  "f29v": {
+    "start_word": 3014,
+    "word_count": 18
+  },
+  "f30r": {
+    "start_word": 3032,
+    "word_count": 58
+  },
+  "f30v": {
+    "start_word": 3090,
+    "word_count": 68
+  },
+  "f31r": {
+    "start_word": 3158,
+    "word_count": 95
+  },
+  "f31v": {
+    "start_word": 3253,
+    "word_count": 99
+  },
+  "f32r": {
+    "start_word": 3352,
+    "word_count": 47
+  },
+  "f32v": {
+    "start_word": 3399,
+    "word_count": 17
+  },
+  "f33r": {
+    "start_word": 3416,
+    "word_count": 71
+  },
+  "f33v": {
+    "start_word": 3487,
+    "word_count": 29
+  },
+  "f34r": {
+    "start_word": 3516,
+    "word_count": 71
+  },
+  "f34v": {
+    "start_word": 3587,
+    "word_count": 102
+  },
+  "f35r": {
+    "start_word": 3689,
+    "word_count": 60
+  },
+  "f35v": {
+    "start_word": 3749,
+    "word_count": 82
+  },
+  "f36r": {
+    "start_word": 3831,
+    "word_count": 28
+  },
+  "f36v": {
+    "start_word": 3859,
+    "word_count": 66
+  },
+  "f37r": {
+    "start_word": 3925,
+    "word_count": 34
+  },
+  "f37v": {
+    "start_word": 3959,
+    "word_count": 88
+  },
+  "f38r": {
+    "start_word": 4047,
+    "word_count": 24
+  },
+  "f38v": {
+    "start_word": 4071,
+    "word_count": 17
+  },
+  "f39r": {
+    "start_word": 4088,
+    "word_count": 151
+  },
+  "f39v": {
+    "start_word": 4239,
+    "word_count": 89
+  },
+  "f40r": {
+    "start_word": 4328,
+    "word_count": 61
+  },
+  "f40v": {
+    "start_word": 4389,
+    "word_count": 62
+  },
+  "f41r": {
+    "start_word": 4451,
+    "word_count": 58
+  },
+  "f41v": {
+    "start_word": 4509,
+    "word_count": 31
+  },
+  "f42r": {
+    "start_word": 4540,
+    "word_count": 108
+  },
+  "f42v": {
+    "start_word": 4648,
+    "word_count": 33
+  },
+  "f43r": {
+    "start_word": 4681,
+    "word_count": 139
+  },
+  "f43v": {
+    "start_word": 4820,
+    "word_count": 143
+  },
+  "f44r": {
+    "start_word": 4963,
+    "word_count": 51
+  },
+  "f44v": {
+    "start_word": 5014,
+    "word_count": 71
+  },
+  "f45r": {
+    "start_word": 5085,
+    "word_count": 77
+  },
+  "f45v": {
+    "start_word": 5162,
+    "word_count": 25
+  },
+  "f46r": {
+    "start_word": 5187,
+    "word_count": 136
+  },
+  "f46v": {
+    "start_word": 5323,
+    "word_count": 107
+  },
+  "f47r": {
+    "start_word": 5430,
+    "word_count": 74
+  },
+  "f47v": {
+    "start_word": 5504,
+    "word_count": 27
+  },
+  "f48r": {
+    "start_word": 5531,
+    "word_count": 84
+  },
+  "f48v": {
+    "start_word": 5615,
+    "word_count": 42
+  },
+  "f49r": {
+    "start_word": 5657,
+    "word_count": 104
+  },
+  "f49v": {
+    "start_word": 5761,
+    "word_count": 93
+  },
+  "f50r": {
+    "start_word": 5854,
+    "word_count": 98
+  },
+  "f50v": {
+    "start_word": 5952,
+    "word_count": 84
+  },
+  "f51r": {
+    "start_word": 6036,
+    "word_count": 95
+  },
+  "f51v": {
+    "start_word": 6131,
+    "word_count": 48
+  },
+  "f52r": {
+    "start_word": 6179,
+    "word_count": 23
+  },
+  "f52v": {
+    "start_word": 6202,
+    "word_count": 77
+  },
+  "f53r": {
+    "start_word": 6279,
+    "word_count": 34
+  },
+  "f53v": {
+    "start_word": 6313,
+    "word_count": 71
+  },
+  "f54r": {
+    "start_word": 6384,
+    "word_count": 29
+  },
+  "f54v": {
+    "start_word": 6413,
+    "word_count": 84
+  },
+  "f55r": {
+    "start_word": 6497,
+    "word_count": 129
+  },
+  "f55v": {
+    "start_word": 6626,
+    "word_count": 41
+  },
+  "f56r": {
+    "start_word": 6667,
+    "word_count": 91
+  },
+  "f56v": {
+    "start_word": 6758,
+    "word_count": 73
+  },
+  "f57r": {
+    "start_word": 6831,
+    "word_count": 67
+  },
+  "f57v": {
+    "start_word": 6898,
+    "word_count": 210
+  },
+  "f58r": {
+    "start_word": 7108,
+    "word_count": 351
+  },
+  "f58v": {
+    "start_word": 7459,
+    "word_count": 348
+  },
+  "f65r": {
+    "start_word": 7807,
+    "word_count": 2
+  },
+  "f65v": {
+    "start_word": 7809,
+    "word_count": 28
+  },
+  "f66r": {
+    "start_word": 7837,
+    "word_count": 307
+  },
+  "f66v": {
+    "start_word": 8144,
+    "word_count": 1167
+  },
+  "f69r": {
+    "start_word": 9311,
+    "word_count": 153
+  },
+  "f69v": {
+    "start_word": 9464,
+    "word_count": 719
+  },
+  "f71r": {
+    "start_word": 10183,
+    "word_count": 93
+  },
+  "f71v": {
+    "start_word": 10276,
+    "word_count": 791
+  },
+  "f73r": {
+    "start_word": 11067,
+    "word_count": 101
+  },
+  "f73v": {
+    "start_word": 11168,
+    "word_count": 98
+  },
+  "f75r": {
+    "start_word": 11266,
+    "word_count": 269
+  },
+  "f75v": {
+    "start_word": 11535,
+    "word_count": 251
+  },
+  "f76r": {
+    "start_word": 11786,
+    "word_count": 520
+  },
+  "f76v": {
+    "start_word": 12306,
+    "word_count": 303
+  },
+  "f77r": {
+    "start_word": 12609,
+    "word_count": 312
+  },
+  "f77v": {
+    "start_word": 12921,
+    "word_count": 324
+  },
+  "f78r": {
+    "start_word": 13245,
+    "word_count": 269
+  },
+  "f78v": {
+    "start_word": 13514,
+    "word_count": 257
+  },
+  "f79r": {
+    "start_word": 13771,
+    "word_count": 329
+  },
+  "f79v": {
+    "start_word": 14100,
+    "word_count": 294
+  },
+  "f80r": {
+    "start_word": 14394,
+    "word_count": 392
+  },
+  "f80v": {
+    "start_word": 14786,
+    "word_count": 316
+  },
+  "f81r": {
+    "start_word": 15102,
+    "word_count": 181
+  },
+  "f81v": {
+    "start_word": 15283,
+    "word_count": 242
+  },
+  "f82r": {
+    "start_word": 15525,
+    "word_count": 259
+  },
+  "f82v": {
+    "start_word": 15784,
+    "word_count": 271
+  },
+  "f83r": {
+    "start_word": 16055,
+    "word_count": 316
+  },
+  "f83v": {
+    "start_word": 16371,
+    "word_count": 231
+  },
+  "f84r": {
+    "start_word": 16602,
+    "word_count": 284
+  },
+  "f84v": {
+    "start_word": 16886,
+    "word_count": 2434
+  },
+  "f87r": {
+    "start_word": 19320,
+    "word_count": 87
+  },
+  "f87v": {
+    "start_word": 19407,
+    "word_count": 29
+  },
+  "f88r": {
+    "start_word": 19436,
+    "word_count": 125
+  },
+  "f88v": {
+    "start_word": 19561,
+    "word_count": 772
+  },
+  "f93r": {
+    "start_word": 20333,
+    "word_count": 118
+  },
+  "f93v": {
+    "start_word": 20451,
+    "word_count": 26
+  },
+  "f94r": {
+    "start_word": 20477,
+    "word_count": 65
+  },
+  "f94v": {
+    "start_word": 20542,
+    "word_count": 299
+  },
+  "f96r": {
+    "start_word": 20841,
+    "word_count": 74
+  },
+  "f96v": {
+    "start_word": 20915,
+    "word_count": 42
+  },
+  "f99r": {
+    "start_word": 20957,
+    "word_count": 158
+  },
+  "f99v": {
+    "start_word": 21115,
+    "word_count": 96
+  },
+  "f100r": {
+    "start_word": 21211,
+    "word_count": 113
+  },
+  "f100v": {
+    "start_word": 21324,
+    "word_count": 97
+  },
+  "f101r": {
+    "start_word": 21421,
+    "word_count": 168
+  },
+  "f101v": {
+    "start_word": 21589,
+    "word_count": 637
+  },
+  "f103r": {
+    "start_word": 22226,
+    "word_count": 405
+  },
+  "f103v": {
+    "start_word": 22631,
+    "word_count": 362
+  },
+  "f104r": {
+    "start_word": 22993,
+    "word_count": 343
+  },
+  "f104v": {
+    "start_word": 23336,
+    "word_count": 365
+  },
+  "f105r": {
+    "start_word": 23701,
+    "word_count": 302
+  },
+  "f105v": {
+    "start_word": 24003,
+    "word_count": 314
+  },
+  "f106r": {
+    "start_word": 24317,
+    "word_count": 328
+  },
+  "f106v": {
+    "start_word": 24645,
+    "word_count": 340
+  },
+  "f107r": {
+    "start_word": 24985,
+    "word_count": 395
+  },
+  "f107v": {
+    "start_word": 25380,
+    "word_count": 350
+  },
+  "f108r": {
+    "start_word": 25730,
+    "word_count": 377
+  },
+  "f108v": {
+    "start_word": 26107,
+    "word_count": 510
+  },
+  "f111r": {
+    "start_word": 26617,
+    "word_count": 556
+  },
+  "f111v": {
+    "start_word": 27173,
+    "word_count": 487
+  },
+  "f112r": {
+    "start_word": 27660,
+    "word_count": 306
+  },
+  "f112v": {
+    "start_word": 27966,
+    "word_count": 326
+  },
+  "f113r": {
+    "start_word": 28292,
+    "word_count": 391
+  },
+  "f113v": {
+    "start_word": 28683,
+    "word_count": 388
+  },
+  "f114r": {
+    "start_word": 29071,
+    "word_count": 365
+  },
+  "f114v": {
+    "start_word": 29436,
+    "word_count": 289
+  },
+  "f115r": {
+    "start_word": 29725,
+    "word_count": 363
+  },
+  "f115v": {
+    "start_word": 30088,
+    "word_count": 322
+  },
+  "f116r": {
+    "start_word": 30410,
+    "word_count": 491
+  },
+  "f116v": {
+    "start_word": 30901,
+    "word_count": 0
+  }
+}

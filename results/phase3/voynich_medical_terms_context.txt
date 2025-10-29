@@ -1,0 +1,156 @@
+"""
+VOYNICH MANUSCRIPT - MEDICAL TERMS IN CONTEXT
+==============================================
+
+This file shows all identified medical terms with their surrounding context.
+Format: [context before] MEDICAL_TERM [context after]
+
+Use this to identify medical recipe patterns, instructions, and treatments.
+
+Total medical terms found: 244
+Categories: Body parts (171), Conditions (68), Treatments (4)
+
+Key terms to watch for:
+- "sor" (sore) - appears 51 times - most common condition
+- "ched/shed" - body part terms
+- "hele" (heal) - treatment verb
+- "ear" (oar) - body part
+- Common words: she, or, an, in, for (often preserved)
+
+==============================================
+"""
+
+# Extract from full translation
+import json
+from pathlib import Path
+
+# Load the full translation
+with open('results/phase3/full_manuscript_translation.json', 'r', encoding='utf-8') as f:
+    data = json.load(f)
+
+output_lines = []
+output_lines.append("VOYNICH MANUSCRIPT - MEDICAL TERMS IN CONTEXT")
+output_lines.append("="*70)
+output_lines.append("")
+output_lines.append("All medical terms with surrounding context (±5 words)")
+output_lines.append("")
+
+# Track medical term instances
+medical_instances = []
+
+for section in data['sections']:
+    if section['annotations']:
+        # Get section text
+        words = section['translation'].split()
+
+        for ann in section['annotations']:
+            if ann['category']:  # Is a medical term
+                medical_term = ann['translation']
+                original = ann['original']
+                category = ann['category']
+
+                # Find position in translation
+                try:
+                    pos = words.index(medical_term)
+
+                    # Get context (5 words before and after)
+                    start = max(0, pos - 5)
+                    end = min(len(words), pos + 6)
+
+                    context_before = ' '.join(words[start:pos])
+                    context_after = ' '.join(words[pos+1:end])
+
+                    medical_instances.append({
+                        'section': section['section_id'],
+                        'term': medical_term,
+                        'original': original,
+                        'category': category,
+                        'context_before': context_before,
+                        'context_after': context_after
+                    })
+                except ValueError:
+                    continue
+
+# Group by medical term
+from collections import defaultdict
+by_term = defaultdict(list)
+for inst in medical_instances:
+    by_term[inst['term']].append(inst)
+
+# Output by frequency
+output_lines.append("="*70)
+output_lines.append("MEDICAL TERMS BY FREQUENCY")
+output_lines.append("="*70)
+output_lines.append("")
+
+for term in sorted(by_term.keys(), key=lambda t: len(by_term[t]), reverse=True):
+    instances = by_term[term]
+    category = instances[0]['category']
+
+    output_lines.append(f"\n{term.upper()} ({category}) - {len(instances)} instances:")
+    output_lines.append("-"*70)
+
+    for i, inst in enumerate(instances[:10], 1):  # Show first 10
+        output_lines.append(f"{i}. Section {inst['section']}:")
+        output_lines.append(f"   ...{inst['context_before']} >>{term}<< {inst['context_after']}...")
+
+    if len(instances) > 10:
+        output_lines.append(f"   ... and {len(instances) - 10} more instances")
+    output_lines.append("")
+
+# Group by category
+output_lines.append("\n" + "="*70)
+output_lines.append("MEDICAL TERMS BY CATEGORY")
+output_lines.append("="*70)
+output_lines.append("")
+
+by_category = defaultdict(list)
+for inst in medical_instances:
+    by_category[inst['category']].append(inst)
+
+for category in ['conditions', 'treatments', 'body_parts', 'women_health']:
+    if category in by_category:
+        instances = by_category[category]
+        output_lines.append(f"\n{category.upper().replace('_', ' ')} ({len(instances)} instances):")
+        output_lines.append("-"*70)
+
+        # Get unique terms in this category
+        terms_in_cat = set(inst['term'] for inst in instances)
+        output_lines.append(f"Terms: {', '.join(sorted(terms_in_cat))}")
+        output_lines.append("")
+
+        # Show some examples with context
+        output_lines.append("Examples with context:")
+        for inst in instances[:15]:
+            output_lines.append(f"  [{inst['term']}] ...{inst['context_before']} >>{inst['term']}<< {inst['context_after']}...")
+
+        if len(instances) > 15:
+            output_lines.append(f"  ... and {len(instances) - 15} more")
+        output_lines.append("")
+
+# Look for patterns - medical terms appearing together
+output_lines.append("\n" + "="*70)
+output_lines.append("MEDICAL TERM CO-OCCURRENCE PATTERNS")
+output_lines.append("="*70)
+output_lines.append("")
+output_lines.append("Sections with multiple medical terms (likely recipes):")
+output_lines.append("")
+
+for section in data['sections']:
+    if section['medical_term_count'] >= 2:
+        output_lines.append(f"Section {section['section_id']} ({section['medical_term_count']} medical terms):")
+
+        if section['annotations']:
+            terms = [f"{ann['original']}→{ann['translation']}" for ann in section['annotations'] if ann['category']]
+            output_lines.append(f"  Terms: {', '.join(terms)}")
+            output_lines.append(f"  Translation: {section['translation'][:200]}...")
+        output_lines.append("")
+
+# Save
+with open('results/phase3/voynich_medical_terms_context.txt', 'w', encoding='utf-8') as f:
+    f.write('\n'.join(output_lines))
+
+print("✓ Medical terms context file created!")
+print(f"  Total medical instances: {len(medical_instances)}")
+print(f"  Unique medical terms: {len(by_term)}")
+print(f"  Sections with 2+ terms: {len([s for s in data['sections'] if s['medical_term_count'] >= 2])}")

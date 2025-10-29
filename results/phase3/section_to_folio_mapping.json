@@ -1,0 +1,972 @@
+[
+  {
+    "section_id": 4,
+    "word_range": "2000-2500",
+    "folios": [
+      "f19r",
+      "f19v",
+      "f20r",
+      "f20v",
+      "f21r",
+      "f21v",
+      "f22r",
+      "f22v"
+    ],
+    "medical_density": 1.6,
+    "medical_term_count": 8,
+    "first_words": "ol chy kchey kchor dal pcho daiin chopol shoiin daiin"
+  },
+  {
+    "section_id": 24,
+    "word_range": "12000-12500",
+    "folios": [
+      "f75r",
+      "f75v"
+    ],
+    "medical_density": 1.2,
+    "medical_term_count": 6,
+    "first_words": "ypcheg oty opcheey chso cheey chedaly ykeeey qokeey chokeear osheey"
+  },
+  {
+    "section_id": 51,
+    "word_range": "25500-26000",
+    "folios": [
+      "f105v",
+      "f106r"
+    ],
+    "medical_density": 1.2,
+    "medical_term_count": 6,
+    "first_words": "n qokeeol qokeody chol cheol ykeo qo qol cheo loiiin"
+  },
+  {
+    "section_id": 55,
+    "word_range": "27500-28000",
+    "folios": [
+      "f108r",
+      "f108v"
+    ],
+    "medical_density": 1.2,
+    "medical_term_count": 6,
+    "first_words": "okolaiin okolaiin cheol dy yoiin ol ol olaiin qockhey qokol"
+  },
+  {
+    "section_id": 60,
+    "word_range": "30000-30500",
+    "folios": [
+      "f112v",
+      "f113r"
+    ],
+    "medical_density": 1.2,
+    "medical_term_count": 6,
+    "first_words": "ycheeoy qokecho qokol cheeo dam tol chedal cheock ay otyd"
+  },
+  {
+    "section_id": 72,
+    "word_range": "36000-36500",
+    "folios": [],
+    "medical_density": 1.2,
+    "medical_term_count": 6,
+    "first_words": "n olr ar olor polchey lkar shar okai n qokai"
+  },
+  {
+    "section_id": 5,
+    "word_range": "2500-3000",
+    "folios": [
+      "f22v",
+      "f23r",
+      "f23v",
+      "f24r",
+      "f24v",
+      "f25r",
+      "f25v",
+      "f26r",
+      "f26v"
+    ],
+    "medical_density": 1.0,
+    "medical_term_count": 5,
+    "first_words": "shol qokol qor olaiin opydgsom ypchy ypaim ychekchy cthy chor"
+  },
+  {
+    "section_id": 7,
+    "word_range": "3500-4000",
+    "folios": [
+      "f31v",
+      "f32r",
+      "f32v",
+      "f33r",
+      "f33v",
+      "f34r",
+      "f34v",
+      "f35r",
+      "f35v"
+    ],
+    "medical_density": 1.0,
+    "medical_term_count": 5,
+    "first_words": "daiin sor ytal sokaiin oty dy ychky daiin cthy okchain"
+  },
+  {
+    "section_id": 23,
+    "word_range": "11500-12000",
+    "folios": [
+      "f71v",
+      "f73r",
+      "f73v",
+      "f75r"
+    ],
+    "medical_density": 1.0,
+    "medical_term_count": 5,
+    "first_words": "eesey kchy qofchal dshol keedy qokyr okaiin dol kal daiin"
+  },
+  {
+    "section_id": 26,
+    "word_range": "13000-13500",
+    "folios": [
+      "f76r",
+      "f76v",
+      "f77r"
+    ],
+    "medical_density": 1.0,
+    "medical_term_count": 5,
+    "first_words": "ykeey ytary oeesa ytody okody otody okeol okeod oteeys oteol"
+  },
+  {
+    "section_id": 30,
+    "word_range": "15000-15500",
+    "folios": [
+      "f79v",
+      "f80r"
+    ],
+    "medical_density": 1.0,
+    "medical_term_count": 5,
+    "first_words": "qokedyqokedy qokedy qokedy qokain olshedy sai n ol keeshy qokai"
+  },
+  {
+    "section_id": 36,
+    "word_range": "18000-18500",
+    "folios": [
+      "f84v"
+    ],
+    "medical_density": 1.0,
+    "medical_term_count": 5,
+    "first_words": "chedy qokain dal cheey qol chedy qokey or cheef chckhey"
+  },
+  {
+    "section_id": 38,
+    "word_range": "19000-19500",
+    "folios": [
+      "f84v"
+    ],
+    "medical_density": 1.0,
+    "medical_term_count": 5,
+    "first_words": "qokeey okeedy shedy qokeey okai n sheckhdy dag qokeedy ykeey"
+  },
+  {
+    "section_id": 42,
+    "word_range": "21000-21500",
+    "folios": [
+      "f88v"
+    ],
+    "medical_density": 1.0,
+    "medical_term_count": 5,
+    "first_words": "dolchedy lchey r ol rol cheey s ai n sh"
+  },
+  {
+    "section_id": 48,
+    "word_range": "24000-24500",
+    "folios": [
+      "f103r",
+      "f103v",
+      "f104r"
+    ],
+    "medical_density": 1.0,
+    "medical_term_count": 5,
+    "first_words": "chepy ltedy dar olkar am daiin or otol otshey otal"
+  },
+  {
+    "section_id": 52,
+    "word_range": "26000-26500",
+    "folios": [
+      "f106r",
+      "f106v"
+    ],
+    "medical_density": 1.0,
+    "medical_term_count": 5,
+    "first_words": "qokeey qodar qokeed s choky ykodar qoekchy seokol okom toealchs"
+  },
+  {
+    "section_id": 54,
+    "word_range": "27000-27500",
+    "folios": [
+      "f107v",
+      "f108r"
+    ],
+    "medical_density": 1.0,
+    "medical_term_count": 5,
+    "first_words": "sai n sheyk chody k chedaiin chedaiin otai n daiin"
+  },
+  {
+    "section_id": 68,
+    "word_range": "34000-34500",
+    "folios": [],
+    "medical_density": 1.0,
+    "medical_term_count": 5,
+    "first_words": "chlar ycheol chckhy qokedy okai n pychory opchey lkeol chdar"
+  },
+  {
+    "section_id": 77,
+    "word_range": "38500-39000",
+    "folios": [],
+    "medical_density": 1.0,
+    "medical_term_count": 5,
+    "first_words": "oeedaiin qoaiin ykedy okair olkeedy qoai n ai n okeey"
+  },
+  {
+    "section_id": 0,
+    "word_range": "0-500",
+    "folios": [
+      "f1r",
+      "f1v",
+      "f2r",
+      "f2v",
+      "f3r",
+      "f3v",
+      "f4r",
+      "f4v"
+    ],
+    "medical_density": 0.8,
+    "medical_term_count": 4,
+    "first_words": "fachys ykal ar ataiin shol shory cth res y kor"
+  },
+  {
+    "section_id": 16,
+    "word_range": "8000-8500",
+    "folios": [
+      "f58v",
+      "f65r",
+      "f65v",
+      "f66r"
+    ],
+    "medical_density": 0.8,
+    "medical_term_count": 4,
+    "first_words": "ched l chedy chedyokeedchs y qokeedy chete dar or aick"
+  },
+  {
+    "section_id": 19,
+    "word_range": "9500-10000",
+    "folios": [
+      "f66v",
+      "f69r",
+      "f69v"
+    ],
+    "medical_density": 0.8,
+    "medical_term_count": 4,
+    "first_words": "s am tol cheol shocthy qodaiin kchody daiin sheody qoctheol"
+  },
+  {
+    "section_id": 32,
+    "word_range": "16000-16500",
+    "folios": [
+      "f80v",
+      "f81r",
+      "f81v"
+    ],
+    "medical_density": 0.8,
+    "medical_term_count": 4,
+    "first_words": "chedy qokey dalshedy qol sheedy qokaldy chepy dai n al"
+  },
+  {
+    "section_id": 44,
+    "word_range": "22000-22500",
+    "folios": [
+      "f94v",
+      "f96r",
+      "f96v",
+      "f99r",
+      "f99v"
+    ],
+    "medical_density": 0.8,
+    "medical_term_count": 4,
+    "first_words": "qokedy qokeedy qokedy chedy okai n chey qokedy dar olar"
+  },
+  {
+    "section_id": 47,
+    "word_range": "23500-24000",
+    "folios": [
+      "f101v",
+      "f103r"
+    ],
+    "medical_density": 0.8,
+    "medical_term_count": 4,
+    "first_words": "dalam tar lol chol olkar daiin chear or otshey qokar"
+  },
+  {
+    "section_id": 64,
+    "word_range": "32000-32500",
+    "folios": [
+      "f115r",
+      "f115v",
+      "f116r"
+    ],
+    "medical_density": 0.8,
+    "medical_term_count": 4,
+    "first_words": "yteey sholfaiin opchdy lchdy dol ycheool cheeey ol aiin cheody"
+  },
+  {
+    "section_id": 69,
+    "word_range": "34500-35000",
+    "folios": [],
+    "medical_density": 0.8,
+    "medical_term_count": 4,
+    "first_words": "lal lkeeedy otai n sheey chol kan al dar chey"
+  },
+  {
+    "section_id": 75,
+    "word_range": "37500-38000",
+    "folios": [],
+    "medical_density": 0.8,
+    "medical_term_count": 4,
+    "first_words": "rchedy qosai n dcheey sheody shedai n tshedy qokaiin shedar"
+  },
+  {
+    "section_id": 78,
+    "word_range": "39000-39500",
+    "folios": [],
+    "medical_density": 0.8,
+    "medical_term_count": 4,
+    "first_words": "qoteey qokeeedy cheoctheey qokeeo lkealy olkeechy ol oaiin aiin chocthey"
+  },
+  {
+    "section_id": 8,
+    "word_range": "4000-4500",
+    "folios": [
+      "f35v",
+      "f36r",
+      "f36v",
+      "f37r",
+      "f37v",
+      "f38r",
+      "f38v",
+      "f39r"
+    ],
+    "medical_density": 0.6,
+    "medical_term_count": 3,
+    "first_words": "qokcho shol daiin ckhear ckhol daiin chkear dar chakeey dshor"
+  },
+  {
+    "section_id": 13,
+    "word_range": "6500-7000",
+    "folios": [
+      "f51v",
+      "f52r",
+      "f52v",
+      "f53r",
+      "f53v",
+      "f54r",
+      "f54v",
+      "f55r"
+    ],
+    "medical_density": 0.6,
+    "medical_term_count": 3,
+    "first_words": "okar oky okoldy ol lokar qokar okarokol ol chedy qokchd"
+  },
+  {
+    "section_id": 27,
+    "word_range": "13500-14000",
+    "folios": [
+      "f77r",
+      "f77v"
+    ],
+    "medical_density": 0.6,
+    "medical_term_count": 3,
+    "first_words": "otalalg okasy otar chedaiin otchy dair shchey daiin chalaly oteody"
+  },
+  {
+    "section_id": 29,
+    "word_range": "14500-15000",
+    "folios": [
+      "f78v",
+      "f79r",
+      "f79v"
+    ],
+    "medical_density": 0.6,
+    "medical_term_count": 3,
+    "first_words": "okches air am shey qokeodal oteotey oteoldy oteal chedy chotal"
+  },
+  {
+    "section_id": 31,
+    "word_range": "15500-16000",
+    "folios": [
+      "f80r",
+      "f80v"
+    ],
+    "medical_density": 0.6,
+    "medical_term_count": 3,
+    "first_words": "ol sheor qokal dar olked orol kchey otai n olchey"
+  },
+  {
+    "section_id": 40,
+    "word_range": "20000-20500",
+    "folios": [
+      "f84v"
+    ],
+    "medical_density": 0.6,
+    "medical_term_count": 3,
+    "first_words": "al qokai n ol cheeor olar chey tchar ol chedy"
+  },
+  {
+    "section_id": 41,
+    "word_range": "20500-21000",
+    "folios": [
+      "f84v",
+      "f87r",
+      "f87v",
+      "f88r",
+      "f88v"
+    ],
+    "medical_density": 0.6,
+    "medical_term_count": 3,
+    "first_words": "dol chy qocthey chek al chody qokedy l shety qoldy"
+  },
+  {
+    "section_id": 43,
+    "word_range": "21500-22000",
+    "folios": [
+      "f88v",
+      "f93r",
+      "f93v",
+      "f94r",
+      "f94v"
+    ],
+    "medical_density": 0.6,
+    "medical_term_count": 3,
+    "first_words": "chckhdy sar schedair otchedy qokeedy chedai n chedy qotedaiin otaiin"
+  },
+  {
+    "section_id": 45,
+    "word_range": "22500-23000",
+    "folios": [
+      "f100r",
+      "f100v",
+      "f101r",
+      "f101v",
+      "f99v"
+    ],
+    "medical_density": 0.6,
+    "medical_term_count": 3,
+    "first_words": "daiin dol sheedy chedy okedy rkchdy kol kaldy dsheey qokeedy"
+  },
+  {
+    "section_id": 56,
+    "word_range": "28000-28500",
+    "folios": [
+      "f108v",
+      "f111r"
+    ],
+    "medical_density": 0.6,
+    "medical_term_count": 3,
+    "first_words": "sho olcheeol kal shey okeoly oiin aiioly sairaly otaldy otal"
+  },
+  {
+    "section_id": 57,
+    "word_range": "28500-29000",
+    "folios": [
+      "f111r",
+      "f111v"
+    ],
+    "medical_density": 0.6,
+    "medical_term_count": 3,
+    "first_words": "odalydary porshols soe dy otolky oror eeor sachy okeos otol"
+  },
+  {
+    "section_id": 63,
+    "word_range": "31500-32000",
+    "folios": [
+      "f114v",
+      "f115r"
+    ],
+    "medical_density": 0.6,
+    "medical_term_count": 3,
+    "first_words": "fchedy qotor oeeeodr qopar aifhhy dl lkl sheeodees otaiin otar"
+  },
+  {
+    "section_id": 71,
+    "word_range": "35500-36000",
+    "folios": [],
+    "medical_density": 0.6,
+    "medical_term_count": 3,
+    "first_words": "sheokai n cheok okeal shedy ralchy sheekeey cheol keedy qokair"
+  },
+  {
+    "section_id": 74,
+    "word_range": "37000-37500",
+    "folios": [],
+    "medical_density": 0.6,
+    "medical_term_count": 3,
+    "first_words": "n cheo dai n teodarody opcheed okaiin chaiin otam oteedy"
+  },
+  {
+    "section_id": 79,
+    "word_range": "39500-40000",
+    "folios": [],
+    "medical_density": 0.6,
+    "medical_term_count": 3,
+    "first_words": "lkshey qokcho raiin chkshy qos aiin okchey pchar dor cheol"
+  },
+  {
+    "section_id": 81,
+    "word_range": "40500-41000",
+    "folios": [],
+    "medical_density": 0.5586592178770949,
+    "medical_term_count": 1,
+    "first_words": "n shey okeey lkai n l dai n chey sheckhy"
+  },
+  {
+    "section_id": 1,
+    "word_range": "500-1000",
+    "folios": [
+      "f4v",
+      "f5r",
+      "f5v",
+      "f6r",
+      "f6v",
+      "f7r",
+      "f7v",
+      "f8r",
+      "f8v"
+    ],
+    "medical_density": 0.4,
+    "medical_term_count": 2,
+    "first_words": "sols sheol shey okadaiin qokchor qoschodam octhy qokeey qot shey"
+  },
+  {
+    "section_id": 2,
+    "word_range": "1000-1500",
+    "folios": [
+      "f10r",
+      "f10v",
+      "f11r",
+      "f11v",
+      "f13r",
+      "f13v",
+      "f14r",
+      "f14v",
+      "f15r",
+      "f15v",
+      "f8v",
+      "f9r",
+      "f9v"
+    ],
+    "medical_density": 0.4,
+    "medical_term_count": 2,
+    "first_words": "oochockhy chekchoy ckhy okolrychos y shckhy ytchoy s os y"
+  },
+  {
+    "section_id": 3,
+    "word_range": "1500-2000",
+    "folios": [
+      "f15v",
+      "f16r",
+      "f16v",
+      "f17r",
+      "f17v",
+      "f18r",
+      "f18v",
+      "f19r"
+    ],
+    "medical_density": 0.4,
+    "medical_term_count": 2,
+    "first_words": "cthy chokoiin shol dsholdyotchol ot dy pshoain cthyaiin okaiir cfhodo"
+  },
+  {
+    "section_id": 6,
+    "word_range": "3000-3500",
+    "folios": [
+      "f26v",
+      "f27r",
+      "f27v",
+      "f28r",
+      "f28v",
+      "f29r",
+      "f29v",
+      "f30r",
+      "f30v",
+      "f31r",
+      "f31v"
+    ],
+    "medical_density": 0.4,
+    "medical_term_count": 2,
+    "first_words": "ytchor ytaiin otchol cheaiin cthol kdchody chopy cheey qotchol qotoeey"
+  },
+  {
+    "section_id": 9,
+    "word_range": "4500-5000",
+    "folios": [
+      "f39r",
+      "f39v",
+      "f40r",
+      "f40v",
+      "f41r",
+      "f41v",
+      "f42r",
+      "f42v",
+      "f43r"
+    ],
+    "medical_density": 0.4,
+    "medical_term_count": 2,
+    "first_words": "shear cthordchor choly chocthy qoos chos kcheol cheor sheos sheey"
+  },
+  {
+    "section_id": 11,
+    "word_range": "5500-6000",
+    "folios": [
+      "f45v",
+      "f46r",
+      "f46v",
+      "f47r",
+      "f47v",
+      "f48r",
+      "f48v"
+    ],
+    "medical_density": 0.4,
+    "medical_term_count": 2,
+    "first_words": "tchdaiin chekal shedy qokedar chdaiin oldar qoldar chedy daiin otam"
+  },
+  {
+    "section_id": 12,
+    "word_range": "6000-6500",
+    "folios": [
+      "f48v",
+      "f49r",
+      "f49v",
+      "f50r",
+      "f50v",
+      "f51r",
+      "f51v"
+    ],
+    "medical_density": 0.4,
+    "medical_term_count": 2,
+    "first_words": "daiin qotor choiin chetchy daiin dor chor sho daiiin daiin"
+  },
+  {
+    "section_id": 15,
+    "word_range": "7500-8000",
+    "folios": [
+      "f57v",
+      "f58r",
+      "f58v"
+    ],
+    "medical_density": 0.4,
+    "medical_term_count": 2,
+    "first_words": "cthy yokalod shaiin shor shorody shky sho y tchy opchod"
+  },
+  {
+    "section_id": 17,
+    "word_range": "8500-9000",
+    "folios": [
+      "f66r",
+      "f66v"
+    ],
+    "medical_density": 0.4,
+    "medical_term_count": 2,
+    "first_words": "dchodaiin daiin q ocho cheey dchey qotchody olol ol chey"
+  },
+  {
+    "section_id": 18,
+    "word_range": "9000-9500",
+    "folios": [
+      "f66v"
+    ],
+    "medical_density": 0.4,
+    "medical_term_count": 2,
+    "first_words": "seodaiin qotaldscheey saiin dy dshody ckhody qokol dy kaiin chyqokey"
+  },
+  {
+    "section_id": 28,
+    "word_range": "14000-14500",
+    "folios": [
+      "f77v",
+      "f78r",
+      "f78v"
+    ],
+    "medical_density": 0.4,
+    "medical_term_count": 2,
+    "first_words": "otees oteos aiin okeo daiin okeey cheo keodal cheol okeol"
+  },
+  {
+    "section_id": 34,
+    "word_range": "17000-17500",
+    "folios": [
+      "f82v",
+      "f83r",
+      "f83v"
+    ],
+    "medical_density": 0.4,
+    "medical_term_count": 2,
+    "first_words": "qokeedy qotedy olchey qotey qokain olcheedy sar lom saiin cheeol"
+  },
+  {
+    "section_id": 35,
+    "word_range": "17500-18000",
+    "folios": [
+      "f83v",
+      "f84r",
+      "f84v"
+    ],
+    "medical_density": 0.4,
+    "medical_term_count": 2,
+    "first_words": "shedy sholdy qokal dar qokeey r ol chdor cheey qokaiin"
+  },
+  {
+    "section_id": 37,
+    "word_range": "18500-19000",
+    "folios": [
+      "f84v"
+    ],
+    "medical_density": 0.4,
+    "medical_term_count": 2,
+    "first_words": "oltshedy sheol ykeey okeey cheor sheedy ol s ol cheedy"
+  },
+  {
+    "section_id": 39,
+    "word_range": "19500-20000",
+    "folios": [
+      "f84v"
+    ],
+    "medical_density": 0.4,
+    "medical_term_count": 2,
+    "first_words": "olkai n shedy qokai n orol s p olchy ef"
+  },
+  {
+    "section_id": 46,
+    "word_range": "23000-23500",
+    "folios": [
+      "f101v"
+    ],
+    "medical_density": 0.4,
+    "medical_term_count": 2,
+    "first_words": "saiin ol karar odeeed kchedar yteol okchdy qekedy otor odor"
+  },
+  {
+    "section_id": 59,
+    "word_range": "29500-30000",
+    "folios": [
+      "f112r",
+      "f112v"
+    ],
+    "medical_density": 0.4,
+    "medical_term_count": 2,
+    "first_words": "pchal shal shorchdy okeor okai n shedy pchedy qotchedy qotar"
+  },
+  {
+    "section_id": 61,
+    "word_range": "30500-31000",
+    "folios": [
+      "f113r",
+      "f113v",
+      "f114r"
+    ],
+    "medical_density": 0.4,
+    "medical_term_count": 2,
+    "first_words": "oteeey oteedy qoty ched l cheol par oltedy chedam ycheol"
+  },
+  {
+    "section_id": 62,
+    "word_range": "31000-31500",
+    "folios": [
+      "f114r",
+      "f114v"
+    ],
+    "medical_density": 0.4,
+    "medical_term_count": 2,
+    "first_words": "okeedy olkeeody lkaiin okeeol oteeol shod daiin aral yteody oteeeos"
+  },
+  {
+    "section_id": 65,
+    "word_range": "32500-33000",
+    "folios": [
+      "f116r"
+    ],
+    "medical_density": 0.4,
+    "medical_term_count": 2,
+    "first_words": "fchedy odr okcheody qokeey otchey qokeey qokeedal qokchkeey qol rody"
+  },
+  {
+    "section_id": 73,
+    "word_range": "36500-37000",
+    "folios": [],
+    "medical_density": 0.4,
+    "medical_term_count": 2,
+    "first_words": "l shdar okechedy qokar ar am qotedy araiin qokchdy opary"
+  },
+  {
+    "section_id": 76,
+    "word_range": "38000-38500",
+    "folios": [],
+    "medical_density": 0.4,
+    "medical_term_count": 2,
+    "first_words": "okaiiin aiin shody otcham daiiin cheol teeoar shek lchedy okaiin"
+  },
+  {
+    "section_id": 10,
+    "word_range": "5000-5500",
+    "folios": [
+      "f43r",
+      "f43v",
+      "f44r",
+      "f44v",
+      "f45r",
+      "f45v"
+    ],
+    "medical_density": 0.2,
+    "medical_term_count": 1,
+    "first_words": "okeey qoear oraiin cheom fchoiin shykeody daiiody dainsho tchy oty"
+  },
+  {
+    "section_id": 14,
+    "word_range": "7000-7500",
+    "folios": [
+      "f55r",
+      "f55v",
+      "f56r",
+      "f56v",
+      "f57r",
+      "f57v"
+    ],
+    "medical_density": 0.2,
+    "medical_term_count": 1,
+    "first_words": "cthar dam chok sheo key keeey dcheke esshy sodal saiin"
+  },
+  {
+    "section_id": 20,
+    "word_range": "10000-10500",
+    "folios": [
+      "f69v"
+    ],
+    "medical_density": 0.2,
+    "medical_term_count": 1,
+    "first_words": "cheooky qokeody sheey okeody cheody cheeody chee keody dchos cheocthy"
+  },
+  {
+    "section_id": 22,
+    "word_range": "11000-11500",
+    "folios": [
+      "f71v"
+    ],
+    "medical_density": 0.2,
+    "medical_term_count": 1,
+    "first_words": "chokey cheeky dalar ykeeody qokar qoky keey qokol okol okor"
+  },
+  {
+    "section_id": 25,
+    "word_range": "12500-13000",
+    "folios": [
+      "f75v",
+      "f76r"
+    ],
+    "medical_density": 0.2,
+    "medical_term_count": 1,
+    "first_words": "ykeody shdy shot y tchy dchaiin shey dcheedy qokeey shekeey"
+  },
+  {
+    "section_id": 33,
+    "word_range": "16500-17000",
+    "folios": [
+      "f81v",
+      "f82r",
+      "f82v"
+    ],
+    "medical_density": 0.2,
+    "medical_term_count": 1,
+    "first_words": "cheor sheedy daiin oekeedy qokeey qokedy oteedy shedy qokedy shedam"
+  },
+  {
+    "section_id": 49,
+    "word_range": "24500-25000",
+    "folios": [
+      "f104r",
+      "f104v"
+    ],
+    "medical_density": 0.2,
+    "medical_term_count": 1,
+    "first_words": "cheody ytchey otaiin kshd qotar chear or am yteeo dy"
+  },
+  {
+    "section_id": 50,
+    "word_range": "25000-25500",
+    "folios": [
+      "f104v",
+      "f105r",
+      "f105v"
+    ],
+    "medical_density": 0.2,
+    "medical_term_count": 1,
+    "first_words": "cheom okolyd cheocthy cpheor otar a rody otokol teodal lkeo"
+  },
+  {
+    "section_id": 67,
+    "word_range": "33500-34000",
+    "folios": [],
+    "medical_density": 0.2,
+    "medical_term_count": 1,
+    "first_words": "shedy qokaiin chedy qokeedy lol tol chey lcheor sheol qokaiin"
+  },
+  {
+    "section_id": 70,
+    "word_range": "35000-35500",
+    "folios": [],
+    "medical_density": 0.2,
+    "medical_term_count": 1,
+    "first_words": "qokeedy okeodai n she t sheota m oteal tey lkeey"
+  },
+  {
+    "section_id": 80,
+    "word_range": "40000-40500",
+    "folios": [],
+    "medical_density": 0.2,
+    "medical_term_count": 1,
+    "first_words": "kol chey fchedol shedy qotoee tchy choiphy qopchyr yair al"
+  },
+  {
+    "section_id": 21,
+    "word_range": "10500-11000",
+    "folios": [
+      "f69v",
+      "f71r",
+      "f71v"
+    ],
+    "medical_density": 0.0,
+    "medical_term_count": 0,
+    "first_words": "chal tar ar sheeetchy tal al chear chear char ar"
+  },
+  {
+    "section_id": 53,
+    "word_range": "26500-27000",
+    "folios": [
+      "f106v",
+      "f107r",
+      "f107v"
+    ],
+    "medical_density": 0.0,
+    "medical_term_count": 0,
+    "first_words": "daiin chekar olkaiin olkeody ykaiin otai n dar okeedy ykaro"
+  },
+  {
+    "section_id": 58,
+    "word_range": "29000-29500",
+    "folios": [
+      "f111v",
+      "f112r"
+    ],
+    "medical_density": 0.0,
+    "medical_term_count": 0,
+    "first_words": "okeey qokar checkhy qokai n chedy pchdy tshdy dal kasol"
+  },
+  {
+    "section_id": 66,
+    "word_range": "33000-33500",
+    "folios": [],
+    "medical_density": 0.0,
+    "medical_term_count": 0,
+    "first_words": "kchekai n cheear ol oiin cho lkai n al oeedy"
+  }
+]

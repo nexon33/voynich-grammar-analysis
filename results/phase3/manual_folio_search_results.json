@@ -1,0 +1,27 @@
+{
+  "search_date": "2025-10-29",
+  "method": "manual_text_search",
+  "results": {
+    "4": {
+      "folio": "f1v",
+      "line_number": 71,
+      "text_found": "dolchey.chodo.lol.chy.cthy"
+    },
+    "24": {
+      "folio": "f66v",
+      "line_number": 3040,
+      "text_found": "    ykeeo.cheo.daiin.ypcheg.oty"
+    },
+    "51": {
+      "folio": "f106r",
+      "line_number": 7134,
+      "text_found": "     shor.sheor.orkchsd.otair,or.qokeeo.raiin.qokeeolchedy.olchedy.qokeol.qoky"
+    },
+    "55": {
+      "folio": "f99v",
+      "line_number": 6348,
+      "text_found": "     dol.okeeol.okeor.okal.okaiin.ckheol.okolaiin.okolaiin.cheoldy"
+    },
+    "60": null
+  }
+}

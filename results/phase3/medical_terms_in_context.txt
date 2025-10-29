@@ -1,0 +1,792 @@
+# Voynich Medical Terms in Context
+
+This file shows all identified medical terms with their surrounding context.
+Terms are sorted by frequency of occurrence.
+
+Total unique medical terms: 42
+Total medical term occurrences: 262
+
+================================================================================
+
+## sor
+Category: conditions
+Occurrences: 59
+
+### Context 1499 (Section 14, Confidence: HIGH)
+**Original:** otar dorytol dayty daiin chor sor
+**Translated:** [otar] [dorytol?] [dayty] [daiin] [chor] **sor**
+
+### Context 1642 (Section 16, Confidence: HIGH)
+**Original:** chol or yty dy dy sor chaiin chcthy ctho ckhy or
+**Translated:** [chol] or [yty] [dy] [dy] **sor** [chaiin?] [chcthy?] [ctho] [ckhy] or
+
+### Context 2297 (Section 22, Confidence: HIGH)
+**Original:** cthol chol chol chody kan sor chor cthoiin
+**Translated:** [cthol] [chol] [chol] [chody] [kan] **sor** [chor] [cthoiin?]
+
+### Context 2427 (Section 24, Confidence: HIGH)
+**Original:** chyty chor chol ytchy dan sor chkar oty chkar chol dairin
+**Translated:** [chyty] [chor] [chol] [ytchy] [dan] **sor** [chkar] [oty] [chkar] [chol] [dairin?]
+
+### Context 2584 (Section 25, Confidence: HIGH)
+**Original:** or okaiin or otaiin d sor chkeey poiis cheor os s
+**Translated:** or [okaiin?] or [otaiin?] [d] **sor** [chkeey?] [poiis] [cheor] [os] [s]
+
+### Context 2932 (Section 29, Confidence: HIGH)
+**Original:** opchey py kchy qokchy kchol sor qokchos ykchy darom otchy chol
+**Translated:** [opchey?] [py] [kchy] [qokchy?] [kchol] **sor** [qokchos?] [ykchy] [darom] [otchy] [chol]
+
+### Context 3501 (Section 35, Confidence: HIGH)
+**Original:** daiin sor ytal sokaiin oty dy ychky
+**Translated:** [daiin] **sor** [ytal] [sokaiin?] [oty] [dy] [ychky]
+
+### Context 4471 (Section 44, Confidence: HIGH)
+**Original:** chan chain cthor dainykchydaiin cthol sor chear chl s choly dar
+**Translated:** [chan] [chain] [cthor] [dainykchydaiin?] [cthol] **sor** [chear] [chl] [s] [choly] [dar]
+
+### Context 5938 (Section 59, Confidence: HIGH)
+**Original:** shol qokchy qotom odydchol daiin sor chey kor qokor daiin koiin
+**Translated:** [shol] [qokchy?] [qotom] [odydchol?] [daiin] **sor** [chey] [kor] [qokor] [daiin] [koiin]
+
+### Context 6336 (Section 63, Confidence: HIGH)
+**Original:** or aiin dol ky oshdy sor shy kor chol qoty kchdy
+**Translated:** or [aiin] [dol] [ky] [oshdy] **sor** [shy] [kor] [chol] [qoty] [kchdy]
+
+... and 49 more occurrences
+
+--------------------------------------------------------------------------------
+
+## shed
+Category: body_parts
+Occurrences: 47
+
+### Context 27 (Section 0, Confidence: HIGH)
+**Original:** dan syaiir sheky or ykaiin shod cthoary cthes daraiin sa o
+**Translated:** [dan] [syaiir?] [sheky] or [ykaiin?] **shed** [cthoary?] [cthes] [daraiin?] [sa] [o]
+
+### Context 3051 (Section 30, Confidence: HIGH)
+**Original:** chy choiin daiin ocho l shod daiin choteol chol dol shol
+**Translated:** [chy] [choiin?] [daiin] [ocho] [l] **shed** [daiin] [choteol?] [chol] [dol] [shol]
+
+### Context 3836 (Section 38, Confidence: HIGH)
+**Original:** sam chorly tchodar chocfhhg opom shod chcphy opshody ocphoraii n ok
+**Translated:** [sam] [chorly?] [tchodar?] [chocfhhg?] [opom] **shed** [chcphy?] [opshody?] [ocphoraii?] [n] [ok]
+
+### Context 4351 (Section 43, Confidence: HIGH)
+**Original:** shdydchdchschsaotchdy okshes okcho kshy pchodar shod chocphy opchol daiinotchol chy qo
+**Translated:** [shdydchdchschsaotchdy?] [okshes?] [okcho] [kshy] [pchodar?] **shed** [chocphy?] [opchol?] [daiinotchol?] [chy] [qo]
+
+### Context 4858 (Section 48, Confidence: HIGH)
+**Original:** okedy okedy qokedy qokeedy dar shed shey olsheol qokchy dal chey
+**Translated:** [okedy] [okedy] [qokedy?] [qokeedy?] [dar] **shed** [shey] [olsheol?] [qokchy?] [dal] [chey]
+
+### Context 5334 (Section 53, Confidence: HIGH)
+**Original:** oram pcheoepchy olar ylyfody okedody shod ololdy dar ytey ytar sheody
+**Translated:** [oram] [pcheoepchy?] [olar] [ylyfody?] [okedody?] **shed** [ololdy?] [dar] [ytey] [ytar] [sheody?]
+
+### Context 6185 (Section 61, Confidence: HIGH)
+**Original:** qokal chdy chekaiin checkhy dar shed qokeedar eeedy dar or cheey
+**Translated:** [qokal] [chdy] [chekaiin?] [checkhy?] [dar] **shed** [qokeedar?] [eeedy] [dar] or [cheey]
+
+### Context 7168 (Section 71, Confidence: HIGH)
+**Original:** qotedy dor cheey odain pshdar shed ody qotedy yfchdy qockhhdy opchdy
+**Translated:** [qotedy?] [dor] [cheey] [odain] [pshdar?] **shed** [ody] [qotedy?] [yfchdy?] [qockhhdy?] [opchdy?]
+
+### Context 8350 (Section 83, Confidence: HIGH)
+**Original:** m lkeey qo cthedy taiin shed qokar otedy dydain tolkain otam
+**Translated:** [m] [lkeey] [qo] [cthedy?] [taiin] **shed** [qokar] [otedy] [dydain?] [tolkain?] [otam]
+
+### Context 9895 (Section 98, Confidence: HIGH)
+**Original:** chey qokoiin shor qotcheol choror shod shey qoteeey qoteey daiin
+**Translated:** [chey] [qokoiin?] [shor] [qotcheol?] [choror?] **shed** [shey] [qoteeey?] [qoteey?] [daiin]
+
+... and 37 more occurrences
+
+--------------------------------------------------------------------------------
+
+## ched
+Category: body_parts
+Occurrences: 40
+
+### Context 2056 (Section 20, Confidence: HIGH)
+**Original:** koiin sysho ty dy qotchor chod shoty chody dol dy dyokchy
+**Translated:** [koiin] [sysho] [ty] [dy] [qotchor?] **ched** [shoty] [chody] [dol] [dy] [dyokchy?]
+
+### Context 2818 (Section 28, Confidence: HIGH)
+**Original:** s ar ykar ychol dor chod qokol daiin qokol dar dy
+**Translated:** [s] [ar] [ykar] [ychol] [dor] **ched** [qokol] [daiin] [qokol] [dar] [dy]
+
+### Context 4333 (Section 43, Confidence: HIGH)
+**Original:** eeees m qoky shkeeo s chod ar shkolchotchy ctho dol dsho
+**Translated:** [eeees] [m] [qoky] [shkeeo?] [s] **ched** [ar] [shkolchotchy?] [ctho] [dol] [dsho]
+
+### Context 8000 (Section 80, Confidence: HIGH)
+**Original:** ched l chedy chedyokeedchs y qokeedy
+**Translated:** **ched** [l] [chedy] [chedyokeedchs?] [y] [qokeedy?]
+
+### Context 8273 (Section 82, Confidence: HIGH)
+**Original:** ytchedy qokedy lotal qotol otal ched okey ykeey dalmy tocthy qokeol
+**Translated:** [ytchedy?] [qokedy?] [lotal] [qotol] [otal] **ched** [okey] [ykeey] [dalmy] [tocthy?] [qokeol?]
+
+### Context 9280 (Section 92, Confidence: HIGH)
+**Original:** otol chol ctheees os orol chod qoty tshor shey qodckhy cpho
+**Translated:** [otol] [chol] [ctheees?] [os] erel **ched** [qoty] [tshor] [shey] [qodckhy?] [cpho]
+
+### Context 12067 (Section 120, Confidence: HIGH)
+**Original:** cheeteey yteody chpor cheo korchey chod ykor shey qocheey chokalokeey ror
+**Translated:** [cheeteey?] [yteody?] [chpor] [cheo] [korchey?] **ched** [ykor] [shey] [qocheey?] [chokalokeey?] [ror]
+
+### Context 13139 (Section 131, Confidence: HIGH)
+**Original:** aly otechg tshey ol oteey ched ar oteos sheor al al
+**Translated:** [aly] [otechg?] [tshey] [ol] [oteey] **ched** [ar] [oteos] [sheor] [al] [al]
+
+### Context 14854 (Section 148, Confidence: HIGH)
+**Original:** chey okchdy saly ar daly ched oky oi air okal ykey
+**Translated:** [chey] [okchdy?] [saly] [ar] [daly] **ched** [oky] [oi] [air] [okal] [ykey]
+
+### Context 15390 (Section 153, Confidence: HIGH)
+**Original:** dal ol chety lchdycse dy ched otedy qotedy ota r qokeed
+**Translated:** [dal] [ol] [chety] [lchdycse?] [dy] **ched** [otedy] [qotedy?] [ota] [r] [qokeed?]
+
+... and 30 more occurrences
+
+--------------------------------------------------------------------------------
+
+## ear
+Category: body_parts
+Occurrences: 20
+
+### Context 793 (Section 7, Confidence: HIGH)
+**Original:** chtody kshody fchoy chkoy oaiin oar olsy chody dkshy dy ochey
+**Translated:** [chtody?] [kshody?] [fchoy] [chkoy] [oaiin] **ear** [olsy] [chody] [dkshy] [dy] [ochey]
+
+### Context 10483 (Section 104, Confidence: HIGH)
+**Original:** ar otalor cheoekar cheky otakar oar cheekey oteeoaly otar alkar or
+**Translated:** [ar] [otalor?] [cheoekar?] [cheky] [otakar?] **ear** [cheekey?] [oteeoaly?] [otar] [alkar] or
+
+### Context 11579 (Section 115, Confidence: HIGH)
+**Original:** chekeey s ar air s oar cheey dair cthey soairal shdy
+**Translated:** [chekeey?] [s] [ar] [air] [s] **ear** [cheey] [dair] [cthey] [soairal?] [shdy]
+
+### Context 11938 (Section 119, Confidence: HIGH)
+**Original:** dam koaiin ofyl ol ofalaiin oar o eeey oekchdy oeola les
+**Translated:** [dam] [koaiin?] [ofyl] [ol] [ofalaiin?] **ear** [o] [eeey] [oekchdy?] [oeola] [les]
+
+### Context 11945 (Section 119, Confidence: HIGH)
+**Original:** eeey oekchdy oeola les airar oar ykalo char okar alet olkao
+**Translated:** [eeey] [oekchdy?] [oeola] [les] [airar] **ear** [ykalo] [char] [okar] [alet] [olkao]
+
+### Context 11938 (Section 119, Confidence: HIGH)
+**Original:** dam koaiin ofyl ol ofalaiin oar o eeey oekchdy oeola les
+**Translated:** [dam] [koaiin?] [ofyl] [ol] [ofalaiin?] **ear** [o] [eeey] [oekchdy?] [oeola] [les]
+
+### Context 11945 (Section 119, Confidence: HIGH)
+**Original:** eeey oekchdy oeola les airar oar ykalo char okar alet olkao
+**Translated:** [eeey] [oekchdy?] [oeola] [les] [airar] **ear** [ykalo] [char] [okar] [alet] [olkao]
+
+### Context 13028 (Section 130, Confidence: HIGH)
+**Original:** okeod okodchy okeody okchey s oar alys okchy sar okeo dy
+**Translated:** [okeod] [okodchy?] [okeody?] [okchey?] [s] **ear** [alys] [okchy] [sar] [okeo] [dy]
+
+### Context 13204 (Section 132, Confidence: HIGH)
+**Original:** dar otar ar chedal oar al aldaiin ykeeeedaiir sheo l
+**Translated:** [dar] [otar] [ar] [chedal?] **ear** [al] [aldaiin?] [ykeeeedaiir?] [sheo] [l]
+
+### Context 24173 (Section 241, Confidence: HIGH)
+**Original:** otar ytar aiin ytaii m oar ar aiin okaiin yteey ytaiin
+**Translated:** [otar] [ytar] [aiin] [ytaii] [m] **ear** [ar] [aiin] [okaiin?] [yteey] [ytaiin?]
+
+... and 10 more occurrences
+
+--------------------------------------------------------------------------------
+
+## erel
+Category: body_parts
+Occurrences: 16
+
+### Context 9279 (Section 92, Confidence: HIGH)
+**Original:** oytoyd otol chol ctheees os orol chod qoty tshor shey qodckhy
+**Translated:** [oytoyd?] [otol] [chol] [ctheees?] [os] **erel** ched [qoty] [tshor] [shey] [qodckhy?]
+
+### Context 9588 (Section 95, Confidence: HIGH)
+**Original:** okaiin chckhy saiin daiin or orol chas or kaiin okchd ykar
+**Translated:** [okaiin?] [chckhy?] [saiin] [daiin] or **erel** [chas] or [kaiin] [okchd] [ykar]
+
+### Context 12479 (Section 124, Confidence: HIGH)
+**Original:** ol yko r otair or orol orkeeey olkeeoly ykeeol otodol opcholdg
+**Translated:** [ol] [yko] [r] [otair] or **erel** [orkeeey?] [olkeeoly?] [ykeeol?] [otodol?] [opcholdg?]
+
+### Context 15505 (Section 155, Confidence: HIGH)
+**Original:** ol sheor qokal dar olked orol kchey otai n olchey okar
+**Translated:** [ol] [sheor] [qokal] [dar] [olked] **erel** [kchey] [otai] [n] [olchey?] [okar]
+
+### Context 15727 (Section 157, Confidence: HIGH)
+**Original:** qol chey qokey olchedy otey orol otedy oteey qotedy okedy qeky
+**Translated:** [qol] [chey] [qokey] [olchedy?] [otey] **erel** [otedy] [oteey] [qotedy?] [okedy] [qeky]
+
+### Context 18956 (Section 189, Confidence: HIGH)
+**Original:** oshey qoky chey okeey ldy orol ykeeey qokeey lshey qoky tchedy
+**Translated:** [oshey] [qoky] [chey] [okeey] [ldy] **erel** [ykeeey?] [qokeey?] [lshey] [qoky] [tchedy?]
+
+### Context 19269 (Section 192, Confidence: HIGH)
+**Original:** okain sol lshedy dol checthy orol eeesal olo teol ory lchol
+**Translated:** [okain] [sol] [lshedy?] [dol] [checthy?] **erel** [eeesal?] [olo] [teol] [ory] [lchol]
+
+### Context 19505 (Section 195, Confidence: HIGH)
+**Original:** olkai n shedy qokai n orol s p olchy ef al
+**Translated:** [olkai] [n] [shedy] [qokai] [n] **erel** [s] [p] [olchy] of [al]
+
+### Context 20048 (Section 200, Confidence: HIGH)
+**Original:** dal ar shokal dy qokal orol p olchey qokedy shol opchedy
+**Translated:** [dal] [ar] [shokal?] [dy] [qokal] **erel** [p] [olchey?] [qokedy?] [shol] [opchedy?]
+
+### Context 20661 (Section 206, Confidence: HIGH)
+**Original:** chkedy rchey dair chey qokaiin orol dain kolchdy qokedy qopol qotedor
+**Translated:** [chkedy?] [rchey] [dair] [chey] [qokaiin?] **erel** [dain] [kolchdy?] [qokedy?] [qopol] [qotedor?]
+
+... and 6 more occurrences
+
+--------------------------------------------------------------------------------
+
+## ere
+Category: body_parts
+Occurrences: 8
+
+### Context 2244 (Section 22, Confidence: HIGH)
+**Original:** dtchan opchor dy chor or oro r aiin cthy k ain
+**Translated:** [dtchan?] [opchor?] [dy] [chor] or **ere** [r] [aiin] [cthy] [k] [ain]
+
+### Context 3716 (Section 37, Confidence: HIGH)
+**Original:** cheen ols ol aiior ol oro eeeoly por or y chor
+**Translated:** [cheen] [ols] [ol] [aiior] [ol] **ere** [eeeoly?] [por] or [y] [chor]
+
+### Context 3870 (Section 38, Confidence: HIGH)
+**Original:** odaiin dlos oeor oraiin tchar oro tochol chor cf ar asr
+**Translated:** [odaiin?] [dlos] [oeor] [oraiin?] [tchar] **ere** [tochol?] [chor] [cf] [ar] [asr]
+
+### Context 14197 (Section 141, Confidence: HIGH)
+**Original:** aiin ykeeoly otaiin shear oiin oro o a
+**Translated:** [aiin] [ykeeoly?] [otaiin?] [shear] [oiin] **ere** [o] a
+
+### Context 22269 (Section 222, Confidence: HIGH)
+**Original:** otey cheor air shckhy orair oro shey dar shey dai n
+**Translated:** [otey] [cheor] [air] [shckhy?] [orair] **ere** [shey] [dar] [shey] [dai] [n]
+
+### Context 23837 (Section 238, Confidence: HIGH)
+**Original:** or aiiin oeey ldaiiin or oro ol kaiiin sas aiin otariin
+**Translated:** or [aiiin] [oeey] [ldaiiin?] or **ere** [ol] [kaiiin?] [sas] [aiin] [otariin?]
+
+### Context 27190 (Section 271, Confidence: HIGH)
+**Original:** okar y darar oky salo oro ain okor salol skeeal okary
+**Translated:** [okar] [y] [darar] [oky] [salo] **ere** [ain] [okor] [salol] [skeeal?] [okary]
+
+### Context 39221 (Section 392, Confidence: HIGH)
+**Original:** n qokechdy qodaiin or chol oro chey tchedy qoolkeedy qokchedy qotchd
+**Translated:** [n] [qokechdy?] [qodaiin?] or [chol] **ere** [chey] [tchedy?] [qoolkeedy?] [qokchedy?] [qotchd?]
+
+--------------------------------------------------------------------------------
+
+## chetel
+Category: conditions
+Occurrences: 7
+
+### Context 2419 (Section 24, Confidence: HIGH)
+**Original:** kchy koshet dchol chcthody cphod chotol dal ytchy chyty chor chol
+**Translated:** [kchy] [koshet?] [dchol] [chcthody?] [cphod] **chetel** [dal] [ytchy] [chyty] [chor] [chol]
+
+### Context 3014 (Section 30, Confidence: HIGH)
+**Original:** qotoeey dchor choiin chodey cthey chotol odaiir qotchy cthody chodchy qoteey
+**Translated:** [qotoeey?] [dchor] [choiin?] [chodey?] [cthey] **chetel** [odaiir?] [qotchy?] [cthody?] [chodchy?] [qoteey?]
+
+### Context 6980 (Section 69, Confidence: HIGH)
+**Original:** dandain otol daiin sho chotody chotol oky chol choldl chcthy otoy
+**Translated:** [dandain?] [otol] [daiin] she [chotody?] **chetel** [oky] [chol] [choldl?] [chcthy?] [otoy]
+
+### Context 9864 (Section 98, Confidence: HIGH)
+**Original:** qokokchy okchy chokcheo kchal schol chotol qotchy tcho tchol chol cthy
+**Translated:** [qokokchy?] [okchy] [chokcheo?] [kchal] [schol] **chetel** [qotchy?] [tcho] [tchol] [chol] [cthy]
+
+### Context 13304 (Section 133, Confidence: HIGH)
+**Original:** oko dar al sho chotol d al dy otchsy ol
+**Translated:** [oko] [dar] [al] she **chetel** [d] [al] [dy] [otchsy?] [ol]
+
+### Context 13510 (Section 135, Confidence: HIGH)
+**Original:** dair shchey daiin chalaly oteody chotol chedy oteatey otcheor ar alody
+**Translated:** [dair] [shchey?] [daiin] [chalaly?] [oteody?] **chetel** [chedy] [oteatey?] [otcheor?] [ar] [alody]
+
+### Context 26246 (Section 262, Confidence: HIGH)
+**Original:** qotchd sol shotol qokchodal shody chotol sotol ykchdg ol chody cfhol
+**Translated:** [qotchd?] [sol] [shotol?] [qokchodal?] [shody] **chetel** [sotol] [ykchdg?] [ol] [chody] [cfhol]
+
+--------------------------------------------------------------------------------
+
+## erer
+Category: body_parts
+Occurrences: 6
+
+### Context 9750 (Section 97, Confidence: HIGH)
+**Original:** okary ykaky qokchy okal chey oror aiin okaiin ykain otaky oaiin
+**Translated:** [okary] [ykaky] [qokchy?] [okal] [chey] **erer** [aiin] [okaiin?] [ykain] [otaky] [oaiin]
+
+### Context 22571 (Section 225, Confidence: HIGH)
+**Original:** okol shedy cthy kor ol oror y cheey okeedy olkai n
+**Translated:** [okol] [shedy] [cthy] [kor] [ol] **erer** [y] [cheey] [okeedy?] [olkai] [n]
+
+### Context 28505 (Section 285, Confidence: HIGH)
+**Original:** odalydary porshols soe dy otolky oror eeor sachy okeos otol otory
+**Translated:** [odalydary?] [porshols?] see [dy] [otolky?] **erer** [eeor] [sachy] [okeos] [otol] [otory]
+
+### Context 31714 (Section 317, Confidence: HIGH)
+**Original:** qokam sheol qokor cheees porarchy oror ol kaiin shedy oteedy qotor
+**Translated:** [qokam] [sheol] [qokor] [cheees?] [porarchy?] **erer** [ol] [kaiin] [shedy] [oteedy?] [qotor]
+
+### Context 36716 (Section 367, Confidence: HIGH)
+**Original:** qokchdy dai n sheey okchedy oror tchor aiin odeedy oteeey qokey
+**Translated:** [qokchdy?] [dai] [n] [sheey] [okchedy?] **erer** [tchor] [aiin] [odeedy?] [oteeey?] [qokey]
+
+### Context 37807 (Section 378, Confidence: HIGH)
+**Original:** sol chedy otsheody arl olchey oror poraiin otar ar okol shedy
+**Translated:** [sol] [chedy] [otsheody?] [arl] [olchey?] **erer** [poraiin?] [otar] [ar] [okol] [shedy]
+
+--------------------------------------------------------------------------------
+
+## erem
+Category: body_parts
+Occurrences: 5
+
+### Context 2319 (Section 23, Confidence: HIGH)
+**Original:** opchy dor ychy daiin dychor orom ychykchy otly kol shor ody
+**Translated:** [opchy] [dor] [ychy] [daiin] [dychor?] **erem** [ychykchy?] [otly] [kol] [shor] [ody]
+
+### Context 13818 (Section 138, Confidence: HIGH)
+**Original:** or arol cheols okaikaly char orom chfaly okolar otchody olcphy otaiin
+**Translated:** or [arol] [cheols?] [okaikaly?] [char] **erem** [chfaly?] [okolar?] [otchody?] [olcphy?] [otaiin?]
+
+### Context 14734 (Section 147, Confidence: HIGH)
+**Original:** olalaiin sair ar chopchedy chdar orom otor eees olteey okees otar
+**Translated:** [olalaiin?] [sair] [ar] [chopchedy?] [chdar] **erem** [otor] [eees] [olteey?] [okees] [otar]
+
+### Context 23802 (Section 238, Confidence: HIGH)
+**Original:** olkchey otytam orom qokeey qoeear chsey oky qokar
+**Translated:** [olkchey?] [otytam?] **erem** [qokeey?] [qoeear?] [chsey] [oky] [qokar]
+
+### Context 30850 (Section 308, Confidence: HIGH)
+**Original:** qokeey okeeey qoteodaiin okai n orom daiin ycheeo chey okeeey qokeeey
+**Translated:** [qokeey?] [okeeey?] [qoteodaiin?] [okai] [n] **erem** [daiin] [ycheeo?] [chey] [okeeey?] [qokeeey?]
+
+--------------------------------------------------------------------------------
+
+## chete
+Category: conditions
+Occurrences: 4
+
+### Context 1273 (Section 12, Confidence: HIGH)
+**Original:** kol toldyshy chocty cheeody sol choto kchoa n choor dain ocho
+**Translated:** [kol] [toldyshy?] [chocty?] [cheeody?] [sol] **chete** [kchoa] [n] [choor] [dain] [ocho]
+
+### Context 8006 (Section 80, Confidence: HIGH)
+**Original:** l chedy chedyokeedchs y qokeedy chete dar or aick y yteedy
+**Translated:** [l] [chedy] [chedyokeedchs?] [y] [qokeedy?] **chete** [dar] or [aick] [y] [yteedy?]
+
+### Context 25586 (Section 255, Confidence: HIGH)
+**Original:** aiin koiin chtodaiin pd an choto qofoiin dy qopdol doiir ofaiin
+**Translated:** [aiin] [koiin] [chtodaiin?] [pd] an **chete** [qofoiin?] [dy] [qopdol?] [doiir] [ofaiin?]
+
+### Context 39779 (Section 397, Confidence: HIGH)
+**Original:** qopchedy yshedy qokeedy lxor xoiin choto keeody qoteody dai n qokchedy
+**Translated:** [qopchedy?] [yshedy?] [qokeedy?] [lxor] [xoiin] **chete** [keeody?] [qoteody?] [dai] [n] [qokchedy?]
+
+--------------------------------------------------------------------------------
+
+## yched
+Category: body_parts
+Occurrences: 4
+
+### Context 2545 (Section 25, Confidence: HIGH)
+**Original:** otchol cthar okaiin chol daiiin ychod y chotom pchodol chor fchy
+**Translated:** [otchol?] [cthar] [okaiin?] [chol] [daiiin?] **yched** [y] [chotom?] [pchodol?] [chor] [fchy]
+
+### Context 17677 (Section 176, Confidence: HIGH)
+**Original:** qchedy qokain cheeky l okeedy yched qokain daiin chckhdy lr sai
+**Translated:** [qchedy?] [qokain?] [cheeky?] [l] [okeedy?] **yched** [qokain?] [daiin] [chckhdy?] [lr] [sai]
+
+### Context 25612 (Section 256, Confidence: HIGH)
+**Original:** n okol al chor dar yched okeey qoeol daiinchor ch or
+**Translated:** [n] [okol] [al] [chor] [dar] **yched** [okeey] [qoeol] [daiinchor?] [ch] or
+
+### Context 34132 (Section 341, Confidence: HIGH)
+**Original:** qokaiin cheodar cheey qokedy al yched chockhey dai n sheol okedy
+**Translated:** [qokaiin?] [cheodar?] [cheey] [qokedy?] [al] **yched** [chockhey?] [dai] [n] [sheol] [okedy]
+
+--------------------------------------------------------------------------------
+
+## tear
+Category: body_parts
+Occurrences: 4
+
+### Context 6554 (Section 65, Confidence: HIGH)
+**Original:** karar oky ykedy okair ody toar ykaiin ory dal pchedain chefaiin
+**Translated:** [karar] [oky] [ykedy] [okair] [ody] **tear** [ykaiin?] [ory] [dal] [pchedain?] [chefaiin?]
+
+### Context 14646 (Section 146, Confidence: HIGH)
+**Original:** otol opaiin shaldy chepchy atey tear oeeoly okady okeey oiiny oeey
+**Translated:** [otol] [opaiin?] [shaldy?] [chepchy?] [atey] **tear** [oeeoly?] [okady] [okeey] [oiiny] [oeey]
+
+### Context 25695 (Section 256, Confidence: HIGH)
+**Original:** choeees okar chcthy daram s toar qokeeody doef sheydairy sheos
+**Translated:** [choeees?] [okar] [chcthy?] [daram] [s] **tear** [qokeeody?] [doef] [sheydairy?] [sheos]
+
+### Context 35222 (Section 352, Confidence: HIGH)
+**Original:** checthy dsheeoteey qokeeo l keey tear qoteey qotai n chol keeedy
+**Translated:** [checthy?] [dsheeoteey?] [qokeeo?] [l] [keey] **tear** [qoteey?] [qotai] [n] [chol] [keeedy?]
+
+--------------------------------------------------------------------------------
+
+## sory
+Category: conditions
+Occurrences: 3
+
+### Context 11 (Section 0, Confidence: HIGH)
+**Original:** cth res y kor sholdy sory ckhar o r y kair
+**Translated:** [cth] [res] [y] [kor] [sholdy?] **sory** [ckhar] [o] [r] [y] [kair]
+
+### Context 12575 (Section 125, Confidence: HIGH)
+**Original:** okchy qokeechy dal chy chokeeey sory choteey daro otey dala r
+**Translated:** [okchy] [qokeechy?] [dal] [chy] [chokeeey?] **sory** [choteey?] [daro] [otey] [dala] [r]
+
+### Context 27436 (Section 274, Confidence: HIGH)
+**Original:** qokor oloiram okoldody oeeesary daiiine sory saiino otolsar osary doror okeeody
+**Translated:** [qokor] [oloiram?] [okoldody?] [oeeesary?] [daiiine?] **sory** [saiino?] [otolsar?] [osary] derer [okeeody?]
+
+--------------------------------------------------------------------------------
+
+## chede
+Category: body_parts
+Occurrences: 3
+
+### Context 270 (Section 2, Confidence: HIGH)
+**Original:** choky chol cthol shol okaldolchey chodo lol chy cthy qo ol
+**Translated:** [choky] [chol] [cthol] [shol] [okaldolchey?] **chede** [lol] [chy] [cthy] [qo] [ol]
+
+### Context 12455 (Section 124, Confidence: HIGH)
+**Original:** ocheol qoeey keody cheoky okchy chodo dy oteem ydaiil ol chok
+**Translated:** [ocheol?] [qoeey] [keody] [cheoky?] [okchy] **chede** [dy] [oteem] [ydaiil?] [ol] [chok]
+
+### Context 32223 (Section 322, Confidence: HIGH)
+**Original:** ychdy oltydy tchdy s ar chedo oteeody kshedy qotchdy qotar shedy
+**Translated:** [ychdy] [oltydy?] [tchdy] [s] [ar] **chede** [oteeody?] [kshedy?] [qotchdy?] [qotar] [shedy]
+
+--------------------------------------------------------------------------------
+
+## chele
+Category: treatments
+Occurrences: 3
+
+### Context 418 (Section 4, Confidence: HIGH)
+**Original:** chol chody chodainchcthy daiin sho cholo cheor chodaiin kchor shy daiiin
+**Translated:** [chol] [chody] [chodainchcthy?] [daiin] she **chele** [cheor] [chodaiin?] [kchor] [shy] [daiiin?]
+
+### Context 13885 (Section 138, Confidence: HIGH)
+**Original:** oteey o koiin oteeo ckhey cholo cheol olchear al oteey chedal
+**Translated:** [oteey] [o] [koiin] [oteeo] [ckhey] **chele** [cheol] [olchear?] [al] [oteey] [chedal?]
+
+### Context 18273 (Section 182, Confidence: HIGH)
+**Original:** y kchedy chcthy yoky qokal cholo saiin shedy psheedy qokar sheol
+**Translated:** [y] [kchedy?] [chcthy?] [yoky] [qokal] **chele** [saiin] [shedy] [psheedy?] [qokar] [sheol]
+
+--------------------------------------------------------------------------------
+
+## seear
+Category: body_parts
+Occurrences: 3
+
+### Context 4984 (Section 49, Confidence: HIGH)
+**Original:** chkaiin chetchey ctheey okear dar seoar al kar oeeeos cheos aiin
+**Translated:** [chkaiin?] [chetchey?] [ctheey?] [okear] [dar] **seear** [al] [kar] [oeeeos?] [cheos] [aiin]
+
+### Context 5522 (Section 55, Confidence: HIGH)
+**Original:** chedy qokar chekaly cholky pchedar seear qokchdy qokees cheol ypchdaiin chedy
+**Translated:** [chedy] [qokar] [chekaly?] [cholky?] [pchedar?] **seear** [qokchdy?] [qokees?] [cheol] [ypchdaiin?] [chedy]
+
+### Context 14424 (Section 144, Confidence: HIGH)
+**Original:** ykeso darar oleeo dy shedy soear aldy oteor cheor ataseos oty
+**Translated:** [ykeso] [darar] [oleeo] [dy] [shedy] **seear** [aldy] [oteor] [cheor] [ataseos?] [oty]
+
+--------------------------------------------------------------------------------
+
+## fear
+Category: body_parts
+Occurrences: 2
+
+### Context 895 (Section 8, Confidence: HIGH)
+**Original:** chol chotaiin otol chol dairodg foar y shol cholor cphol
+**Translated:** [chol] [chotaiin?] [otol] [chol] [dairodg?] **fear** [y] [shol] [cholor?] [cphol]
+
+### Context 3899 (Section 38, Confidence: HIGH)
+**Original:** ydaiin cheor qodom okodaiin ksho foar
+**Translated:** [ydaiin?] [cheor] [qodom] [okodaiin?] [ksho] **fear**
+
+--------------------------------------------------------------------------------
+
+## terer
+Category: body_parts
+Occurrences: 2
+
+### Context 2369 (Section 23, Confidence: HIGH)
+**Original:** shody otol daiin saiin ytaiin toror daly dal opchy fchol ypchocf
+**Translated:** [shody] [otol] [daiin] [saiin] [ytaiin?] **terer** [daly] [dal] [opchy] [fchol] [ypchocf?]
+
+### Context 23877 (Section 238, Confidence: HIGH)
+**Original:** octhair lo poiin otal kal toror olaiin okeockhey olkeey qoedy lkaiin
+**Translated:** [octhair?] [lo] [poiin] [otal] [kal] **terer** [olaiin?] [okeockhey?] [olkeey?] [qoedy] [lkaiin?]
+
+--------------------------------------------------------------------------------
+
+## sear
+Category: body_parts
+Occurrences: 2
+
+### Context 8760 (Section 87, Confidence: HIGH)
+**Original:** okai n ykai n s sear ol kchedy okal qotor cheeor
+**Translated:** [okai] [n] [ykai] [n] [s] **sear** [ol] [kchedy?] [okal] [qotor] [cheeor?]
+
+### Context 36305 (Section 363, Confidence: HIGH)
+**Original:** okeey otaiin chcthy oteey dy soar ar al chey otaiin okeedy
+**Translated:** [okeey] [otaiin?] [chcthy?] [oteey] [dy] **sear** [ar] [al] [chey] [otaiin?] [okeedy?]
+
+--------------------------------------------------------------------------------
+
+## pear
+Category: body_parts
+Occurrences: 2
+
+### Context 31568 (Section 315, Confidence: HIGH)
+**Original:** otaiin aiidy okchd otor daiin poar keeo daiin qoair ar aiphhey
+**Translated:** [otaiin?] [aiidy] [okchd] [otor] [daiin] **pear** [keeo] [daiin] [qoair] [ar] [aiphhey?]
+
+### Context 36312 (Section 363, Confidence: HIGH)
+**Original:** al chey otaiin okeedy qokeey poar alchor octhy otedy qokeedy okedy
+**Translated:** [al] [chey] [otaiin?] [okeedy?] [qokeey?] **pear** [alchor?] [octhy] [otedy] [qokeedy?] [okedy]
+
+--------------------------------------------------------------------------------
+
+## scheal
+Category: treatments
+Occurrences: 1
+
+### Context 1760 (Section 17, Confidence: HIGH)
+**Original:** cheky daiin dain chckhan tshol schoal cfhy sh f ydaiin cphy
+**Translated:** [cheky] [daiin] [dain] [chckhan?] [tshol] **scheal** [cfhy] [sh] [f] [ydaiin?] [cphy]
+
+--------------------------------------------------------------------------------
+
+## perer
+Category: body_parts
+Occurrences: 1
+
+### Context 2236 (Section 22, Confidence: HIGH)
+**Original:** qotchor chaiin chy kol daky poror orshy choiin dtchan opchor dy
+**Translated:** [qotchor?] [chaiin?] [chy] [kol] [daky] **perer** [orshy] [choiin?] [dtchan?] [opchor?] [dy]
+
+--------------------------------------------------------------------------------
+
+## year
+Category: body_parts
+Occurrences: 1
+
+### Context 2691 (Section 26, Confidence: HIGH)
+**Original:** char okeom pdrairdy darods f yoar ykchol dar o m chckhyockhor
+**Translated:** [char] [okeom] [pdrairdy?] [darods?] [f] **year** [ykchol?] [dar] [o] [m] [chckhyockhor?]
+
+--------------------------------------------------------------------------------
+
+## chere
+Category: body_parts
+Occurrences: 1
+
+### Context 6954 (Section 69, Confidence: HIGH)
+**Original:** os odan kchaiin chos ckhaiin choro chaiin okchol shol kolschees tcho
+**Translated:** [os] [odan] [kchaiin?] [chos] [ckhaiin?] **chere** [chaiin?] [okchol?] [shol] [kolschees?] [tcho]
+
+--------------------------------------------------------------------------------
+
+## shete
+Category: conditions
+Occurrences: 1
+
+### Context 7710 (Section 77, Confidence: HIGH)
+**Original:** qotol choiin okchar dar oty shoto dol pyoty tam ss aiin
+**Translated:** [qotol] [choiin?] [okchar?] [dar] [oty] **shete** [dol] [pyoty] [tam] [ss] [aiin]
+
+--------------------------------------------------------------------------------
+
+## shede
+Category: body_parts
+Occurrences: 1
+
+### Context 7781 (Section 77, Confidence: HIGH)
+**Original:** ykal chckhy daiin she dal shedo qokol s aiin shee ykar
+**Translated:** [ykal] [chckhy?] [daiin] she [dal] **shede** [qokol] [s] [aiin] [shee] [ykar]
+
+--------------------------------------------------------------------------------
+
+## deare
+Category: body_parts
+Occurrences: 1
+
+### Context 12298 (Section 122, Confidence: HIGH)
+**Original:** kchoty oteey daiin dcheeody oteey doaro oalcheol
+**Translated:** [kchoty?] [oteey] [daiin] [dcheeody?] [oteey] **deare** [oalcheol?]
+
+--------------------------------------------------------------------------------
+
+## dear
+Category: body_parts
+Occurrences: 1
+
+### Context 12485 (Section 124, Confidence: HIGH)
+**Original:** orkeeey olkeeoly ykeeol otodol opcholdg doar ykeol darol daly solaiin ckhhy
+**Translated:** [orkeeey?] [olkeeoly?] [ykeeol?] [otodol?] [opcholdg?] **dear** [ykeol] [darol] [daly] [solaiin?] [ckhhy]
+
+--------------------------------------------------------------------------------
+
+## sorel
+Category: conditions
+Occurrences: 1
+
+### Context 15313 (Section 153, Confidence: HIGH)
+**Original:** dy sshedy shckhy qokey okedy sorol oty otedy qotedy otedy okaiin
+**Translated:** [dy] [sshedy?] [shckhy?] [qokey] [okedy] **sorel** [oty] [otedy] [qotedy?] [otedy] [okaiin?]
+
+--------------------------------------------------------------------------------
+
+## sheds
+Category: body_parts
+Occurrences: 1
+
+### Context 18220 (Section 182, Confidence: HIGH)
+**Original:** r chedy teey dar qotar sheds sheekeey qokeey okey qolshy olchey
+**Translated:** [r] [chedy] [teey] [dar] [qotar] **sheds** [sheekeey?] [qokeey?] [okey] [qolshy?] [olchey?]
+
+--------------------------------------------------------------------------------
+
+## day
+Category: general_medical
+Occurrences: 1
+
+### Context 19161 (Section 191, Confidence: HIGH)
+**Original:** olkar okai n sheky qokal day paiin sheol qokai n chety
+**Translated:** [olkar] [okai] [n] [sheky] [qokal] **day** [paiin] [sheol] [qokai] [n] [chety]
+
+--------------------------------------------------------------------------------
+
+## sekely
+Category: conditions
+Occurrences: 1
+
+### Context 20897 (Section 208, Confidence: HIGH)
+**Original:** okoldy okairady sororl olko ky sokoly dolol ol
+**Translated:** [okoldy?] [okairady?] [sororl?] [olko] [ky] **sekely** [dolol] [ol]
+
+--------------------------------------------------------------------------------
+
+## erely
+Category: body_parts
+Occurrences: 1
+
+### Context 22163 (Section 221, Confidence: HIGH)
+**Original:** o qofchedy or aiiin ofoly oroly s or ol olaiin oqol
+**Translated:** [o] [qofchedy?] or [aiiin] [ofoly] **erely** [s] or [ol] [olaiin?] [oqol]
+
+--------------------------------------------------------------------------------
+
+## shere
+Category: body_parts
+Occurrences: 1
+
+### Context 22842 (Section 228, Confidence: HIGH)
+**Original:** qopcheedy dal chdal chor shef shoro raiin dalor aiin opakam tdai
+**Translated:** [qopcheedy?] [dal] [chdal] [chor] [shef] **shere** [raiin] [dalor] [aiin] [opakam?] [tdai]
+
+--------------------------------------------------------------------------------
+
+## eare
+Category: body_parts
+Occurrences: 1
+
+### Context 27242 (Section 272, Confidence: HIGH)
+**Original:** daiin ckhy op ara l oaro aloly ooror choky oky okeoly
+**Translated:** [daiin] [ckhy] [op] [ara] [l] **eare** [aloly] [ooror] [choky] [oky] [okeoly?]
+
+--------------------------------------------------------------------------------
+
+## derer
+Category: body_parts
+Occurrences: 1
+
+### Context 27440 (Section 274, Confidence: HIGH)
+**Original:** daiiine sory saiino otolsar osary doror okeeody opar okor eosaiin otoraiin
+**Translated:** [daiiine?] sory [saiino?] [otolsar?] [osary] **derer** [okeeody?] [opar] [okor] [eosaiin?] [otoraiin?]
+
+--------------------------------------------------------------------------------
+
+## erey
+Category: body_parts
+Occurrences: 1
+
+### Context 27783 (Section 277, Confidence: HIGH)
+**Original:** ly araroy okar cheeeal cheokeol orey daiin cheky chory pcheol cheol
+**Translated:** [ly] [araroy?] [okar] [cheeeal?] [cheokeol?] **erey** [daiin] [cheky] [chory] [pcheol?] [cheol]
+
+--------------------------------------------------------------------------------
+
+## perel
+Category: body_parts
+Occurrences: 1
+
+### Context 34045 (Section 340, Confidence: HIGH)
+**Original:** cheedy qokeedy otedy qeeey chey porol tedo lchdai n qokar otedy
+**Translated:** [cheedy?] [qokeedy?] [otedy] [qeeey] [chey] **perel** [tedo] [lchdai?] [n] [qokar] [otedy]
+
+--------------------------------------------------------------------------------
+
+## cheyer
+Category: body_parts
+Occurrences: 1
+
+### Context 37702 (Section 377, Confidence: HIGH)
+**Original:** n okal cheyor sar aiin chotar okeeodar qokai
+**Translated:** [n] [okal] **cheyer** [sar] [aiin] [chotar?] [okeeodar?] [qokai]
+
+--------------------------------------------------------------------------------
+
+## lear
+Category: body_parts
+Occurrences: 1
+
+### Context 37933 (Section 379, Confidence: HIGH)
+**Original:** otal lkl lol olkeey lcheey loar cheos tokary lkchey lkeedy otey
+**Translated:** [otal] [lkl] [lol] [olkeey?] [lcheey?] **lear** [cheos] [tokary?] [lkchey?] [lkeedy?] [otey]
+
+--------------------------------------------------------------------------------
+
+## arere
+Category: body_parts
+Occurrences: 1
+
+### Context 39415 (Section 394, Confidence: HIGH)
+**Original:** al saiin cheody llsa n aroro chees fshedy shdalky cheedar qopchedy
+**Translated:** [al] [saiin] [cheody?] [llsa] [n] **arere** [chees] [fshedy?] [shdalky?] [cheedar?] [qopchedy?]
+
+--------------------------------------------------------------------------------
+
+## polched
+Category: body_parts
+Occurrences: 1
+
+### Context 39710 (Section 397, Confidence: HIGH)
+**Original:** soraiin pchdarody pcheed rar tcheody polched lpchdy tol rchees cphor orair
+**Translated:** [soraiin?] [pchdarody?] [pcheed?] [rar] [tcheody?] **polched** [lpchdy?] [tol] [rchees?] [cphor] [orair]
+
+--------------------------------------------------------------------------------
+

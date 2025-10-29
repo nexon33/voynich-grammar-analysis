@@ -1,0 +1,1048 @@
+[
+  {
+    "section_id": 0,
+    "word_range": "0-500",
+    "primary_folio": "f1r",
+    "folios": [
+      "f1r",
+      "f1v",
+      "f2r",
+      "f2v",
+      "f3r",
+      "f3v",
+      "f4r",
+      "f4v"
+    ],
+    "folio_word_counts": {
+      "f1r": 203,
+      "f1v": 34,
+      "f2r": 34,
+      "f2v": 14,
+      "f3r": 64,
+      "f3v": 75,
+      "f4r": 39,
+      "f4v": 37
+    }
+  },
+  {
+    "section_id": 1,
+    "word_range": "500-1000",
+    "primary_folio": "f6v",
+    "folios": [
+      "f4v",
+      "f5r",
+      "f5v",
+      "f6r",
+      "f6v",
+      "f7r",
+      "f7v",
+      "f8r",
+      "f8v",
+      "f9r",
+      "f9v"
+    ],
+    "folio_word_counts": {
+      "f4v": 5,
+      "f5r": 44,
+      "f5v": 39,
+      "f6r": 48,
+      "f6v": 90,
+      "f7r": 26,
+      "f7v": 50,
+      "f8r": 87,
+      "f8v": 75,
+      "f9r": 17,
+      "f9v": 19
+    }
+  },
+  {
+    "section_id": 2,
+    "word_range": "1000-1500",
+    "primary_folio": "f15v",
+    "folios": [
+      "f9v",
+      "f10r",
+      "f10v",
+      "f11r",
+      "f11v",
+      "f13r",
+      "f13v",
+      "f14r",
+      "f14v",
+      "f15r",
+      "f15v",
+      "f16r"
+    ],
+    "folio_word_counts": {
+      "f9v": 10,
+      "f10r": 48,
+      "f10v": 40,
+      "f11r": 53,
+      "f11v": 14,
+      "f13r": 54,
+      "f13v": 32,
+      "f14r": 45,
+      "f14v": 59,
+      "f15r": 34,
+      "f15v": 69,
+      "f16r": 42
+    }
+  },
+  {
+    "section_id": 3,
+    "word_range": "1500-2000",
+    "primary_folio": "f17v",
+    "folios": [
+      "f16r",
+      "f16v",
+      "f17r",
+      "f17v",
+      "f18r",
+      "f18v",
+      "f19r",
+      "f19v"
+    ],
+    "folio_word_counts": {
+      "f16r": 13,
+      "f16v": 68,
+      "f17r": 50,
+      "f17v": 134,
+      "f18r": 49,
+      "f18v": 63,
+      "f19r": 62,
+      "f19v": 61
+    }
+  },
+  {
+    "section_id": 4,
+    "word_range": "2000-2500",
+    "primary_folio": "f20v",
+    "folios": [
+      "f19v",
+      "f20r",
+      "f20v",
+      "f21r",
+      "f21v",
+      "f22r",
+      "f22v",
+      "f23r",
+      "f23v",
+      "f24r"
+    ],
+    "folio_word_counts": {
+      "f19v": 16,
+      "f20r": 72,
+      "f20v": 74,
+      "f21r": 71,
+      "f21v": 45,
+      "f22r": 40,
+      "f22v": 47,
+      "f23r": 58,
+      "f23v": 34,
+      "f24r": 43
+    }
+  },
+  {
+    "section_id": 5,
+    "word_range": "2500-3000",
+    "primary_folio": "f26v",
+    "folios": [
+      "f24r",
+      "f24v",
+      "f25r",
+      "f25v",
+      "f26r",
+      "f26v",
+      "f27r",
+      "f27v",
+      "f28r",
+      "f28v",
+      "f29r"
+    ],
+    "folio_word_counts": {
+      "f24r": 70,
+      "f24v": 73,
+      "f25r": 47,
+      "f25v": 48,
+      "f26r": 24,
+      "f26v": 92,
+      "f27r": 35,
+      "f27v": 37,
+      "f28r": 22,
+      "f28v": 40,
+      "f29r": 12
+    }
+  },
+  {
+    "section_id": 6,
+    "word_range": "3000-3500",
+    "primary_folio": "f31v",
+    "folios": [
+      "f29r",
+      "f29v",
+      "f30r",
+      "f30v",
+      "f31r",
+      "f31v",
+      "f32r",
+      "f32v",
+      "f33r",
+      "f33v"
+    ],
+    "folio_word_counts": {
+      "f29r": 14,
+      "f29v": 18,
+      "f30r": 58,
+      "f30v": 68,
+      "f31r": 95,
+      "f31v": 99,
+      "f32r": 47,
+      "f32v": 17,
+      "f33r": 71,
+      "f33v": 13
+    }
+  },
+  {
+    "section_id": 7,
+    "word_range": "3500-4000",
+    "primary_folio": "f34v",
+    "folios": [
+      "f33v",
+      "f34r",
+      "f34v",
+      "f35r",
+      "f35v",
+      "f36r",
+      "f36v",
+      "f37r",
+      "f37v"
+    ],
+    "folio_word_counts": {
+      "f33v": 16,
+      "f34r": 71,
+      "f34v": 102,
+      "f35r": 60,
+      "f35v": 82,
+      "f36r": 28,
+      "f36v": 66,
+      "f37r": 34,
+      "f37v": 41
+    }
+  },
+  {
+    "section_id": 8,
+    "word_range": "4000-4500",
+    "primary_folio": "f39r",
+    "folios": [
+      "f37v",
+      "f38r",
+      "f38v",
+      "f39r",
+      "f39v",
+      "f40r",
+      "f40v",
+      "f41r"
+    ],
+    "folio_word_counts": {
+      "f37v": 47,
+      "f38r": 24,
+      "f38v": 17,
+      "f39r": 151,
+      "f39v": 89,
+      "f40r": 61,
+      "f40v": 62,
+      "f41r": 49
+    }
+  },
+  {
+    "section_id": 9,
+    "word_range": "4500-5000",
+    "primary_folio": "f43v",
+    "folios": [
+      "f41r",
+      "f41v",
+      "f42r",
+      "f42v",
+      "f43r",
+      "f43v",
+      "f44r"
+    ],
+    "folio_word_counts": {
+      "f41r": 9,
+      "f41v": 31,
+      "f42r": 108,
+      "f42v": 33,
+      "f43r": 139,
+      "f43v": 143,
+      "f44r": 37
+    }
+  },
+  {
+    "section_id": 10,
+    "word_range": "5000-5500",
+    "primary_folio": "f46r",
+    "folios": [
+      "f44r",
+      "f44v",
+      "f45r",
+      "f45v",
+      "f46r",
+      "f46v",
+      "f47r"
+    ],
+    "folio_word_counts": {
+      "f44r": 14,
+      "f44v": 71,
+      "f45r": 77,
+      "f45v": 25,
+      "f46r": 136,
+      "f46v": 107,
+      "f47r": 70
+    }
+  },
+  {
+    "section_id": 11,
+    "word_range": "5500-6000",
+    "primary_folio": "f49r",
+    "folios": [
+      "f47r",
+      "f47v",
+      "f48r",
+      "f48v",
+      "f49r",
+      "f49v",
+      "f50r",
+      "f50v"
+    ],
+    "folio_word_counts": {
+      "f47r": 4,
+      "f47v": 27,
+      "f48r": 84,
+      "f48v": 42,
+      "f49r": 104,
+      "f49v": 93,
+      "f50r": 98,
+      "f50v": 48
+    }
+  },
+  {
+    "section_id": 12,
+    "word_range": "6000-6500",
+    "primary_folio": "f51r",
+    "folios": [
+      "f50v",
+      "f51r",
+      "f51v",
+      "f52r",
+      "f52v",
+      "f53r",
+      "f53v",
+      "f54r",
+      "f54v",
+      "f55r"
+    ],
+    "folio_word_counts": {
+      "f50v": 36,
+      "f51r": 95,
+      "f51v": 48,
+      "f52r": 23,
+      "f52v": 77,
+      "f53r": 34,
+      "f53v": 71,
+      "f54r": 29,
+      "f54v": 84,
+      "f55r": 3
+    }
+  },
+  {
+    "section_id": 13,
+    "word_range": "6500-7000",
+    "primary_folio": "f55r",
+    "folios": [
+      "f55r",
+      "f55v",
+      "f56r",
+      "f56v",
+      "f57r",
+      "f57v"
+    ],
+    "folio_word_counts": {
+      "f55r": 126,
+      "f55v": 41,
+      "f56r": 91,
+      "f56v": 73,
+      "f57r": 67,
+      "f57v": 102
+    }
+  },
+  {
+    "section_id": 14,
+    "word_range": "7000-7500",
+    "primary_folio": "f58r",
+    "folios": [
+      "f57v",
+      "f58r",
+      "f58v"
+    ],
+    "folio_word_counts": {
+      "f57v": 108,
+      "f58r": 351,
+      "f58v": 41
+    }
+  },
+  {
+    "section_id": 15,
+    "word_range": "7500-8000",
+    "primary_folio": "f58v",
+    "folios": [
+      "f58v",
+      "f65r",
+      "f65v",
+      "f66r"
+    ],
+    "folio_word_counts": {
+      "f58v": 307,
+      "f65r": 2,
+      "f65v": 28,
+      "f66r": 163
+    }
+  },
+  {
+    "section_id": 16,
+    "word_range": "8000-8500",
+    "primary_folio": "f66v",
+    "folios": [
+      "f66r",
+      "f66v"
+    ],
+    "folio_word_counts": {
+      "f66r": 144,
+      "f66v": 356
+    }
+  },
+  {
+    "section_id": 17,
+    "word_range": "8500-9000",
+    "primary_folio": "f66v",
+    "folios": [
+      "f66v"
+    ],
+    "folio_word_counts": {
+      "f66v": 500
+    }
+  },
+  {
+    "section_id": 18,
+    "word_range": "9000-9500",
+    "primary_folio": "f66v",
+    "folios": [
+      "f66v",
+      "f69r",
+      "f69v"
+    ],
+    "folio_word_counts": {
+      "f66v": 311,
+      "f69r": 153,
+      "f69v": 36
+    }
+  },
+  {
+    "section_id": 19,
+    "word_range": "9500-10000",
+    "primary_folio": "f69v",
+    "folios": [
+      "f69v"
+    ],
+    "folio_word_counts": {
+      "f69v": 500
+    }
+  },
+  {
+    "section_id": 20,
+    "word_range": "10000-10500",
+    "primary_folio": "f71v",
+    "folios": [
+      "f69v",
+      "f71r",
+      "f71v"
+    ],
+    "folio_word_counts": {
+      "f69v": 183,
+      "f71r": 93,
+      "f71v": 224
+    }
+  },
+  {
+    "section_id": 21,
+    "word_range": "10500-11000",
+    "primary_folio": "f71v",
+    "folios": [
+      "f71v"
+    ],
+    "folio_word_counts": {
+      "f71v": 500
+    }
+  },
+  {
+    "section_id": 22,
+    "word_range": "11000-11500",
+    "primary_folio": "f75r",
+    "folios": [
+      "f71v",
+      "f73r",
+      "f73v",
+      "f75r"
+    ],
+    "folio_word_counts": {
+      "f71v": 67,
+      "f73r": 101,
+      "f73v": 98,
+      "f75r": 234
+    }
+  },
+  {
+    "section_id": 23,
+    "word_range": "11500-12000",
+    "primary_folio": "f75v",
+    "folios": [
+      "f75r",
+      "f75v",
+      "f76r"
+    ],
+    "folio_word_counts": {
+      "f75r": 35,
+      "f75v": 251,
+      "f76r": 214
+    }
+  },
+  {
+    "section_id": 24,
+    "word_range": "12000-12500",
+    "primary_folio": "f76r",
+    "folios": [
+      "f76r",
+      "f76v"
+    ],
+    "folio_word_counts": {
+      "f76r": 306,
+      "f76v": 194
+    }
+  },
+  {
+    "section_id": 25,
+    "word_range": "12500-13000",
+    "primary_folio": "f77r",
+    "folios": [
+      "f76v",
+      "f77r",
+      "f77v"
+    ],
+    "folio_word_counts": {
+      "f76v": 109,
+      "f77r": 312,
+      "f77v": 79
+    }
+  },
+  {
+    "section_id": 26,
+    "word_range": "13000-13500",
+    "primary_folio": "f78r",
+    "folios": [
+      "f77v",
+      "f78r"
+    ],
+    "folio_word_counts": {
+      "f77v": 245,
+      "f78r": 255
+    }
+  },
+  {
+    "section_id": 27,
+    "word_range": "13500-14000",
+    "primary_folio": "f78v",
+    "folios": [
+      "f78r",
+      "f78v",
+      "f79r"
+    ],
+    "folio_word_counts": {
+      "f78r": 14,
+      "f78v": 257,
+      "f79r": 229
+    }
+  },
+  {
+    "section_id": 28,
+    "word_range": "14000-14500",
+    "primary_folio": "f79v",
+    "folios": [
+      "f79r",
+      "f79v",
+      "f80r"
+    ],
+    "folio_word_counts": {
+      "f79r": 100,
+      "f79v": 294,
+      "f80r": 106
+    }
+  },
+  {
+    "section_id": 29,
+    "word_range": "14500-15000",
+    "primary_folio": "f80r",
+    "folios": [
+      "f80r",
+      "f80v"
+    ],
+    "folio_word_counts": {
+      "f80r": 286,
+      "f80v": 214
+    }
+  },
+  {
+    "section_id": 30,
+    "word_range": "15000-15500",
+    "primary_folio": "f81v",
+    "folios": [
+      "f80v",
+      "f81r",
+      "f81v"
+    ],
+    "folio_word_counts": {
+      "f80v": 102,
+      "f81r": 181,
+      "f81v": 217
+    }
+  },
+  {
+    "section_id": 31,
+    "word_range": "15500-16000",
+    "primary_folio": "f82r",
+    "folios": [
+      "f81v",
+      "f82r",
+      "f82v"
+    ],
+    "folio_word_counts": {
+      "f81v": 25,
+      "f82r": 259,
+      "f82v": 216
+    }
+  },
+  {
+    "section_id": 32,
+    "word_range": "16000-16500",
+    "primary_folio": "f83r",
+    "folios": [
+      "f82v",
+      "f83r",
+      "f83v"
+    ],
+    "folio_word_counts": {
+      "f82v": 55,
+      "f83r": 316,
+      "f83v": 129
+    }
+  },
+  {
+    "section_id": 33,
+    "word_range": "16500-17000",
+    "primary_folio": "f84r",
+    "folios": [
+      "f83v",
+      "f84r",
+      "f84v"
+    ],
+    "folio_word_counts": {
+      "f83v": 102,
+      "f84r": 284,
+      "f84v": 114
+    }
+  },
+  {
+    "section_id": 34,
+    "word_range": "17000-17500",
+    "primary_folio": "f84v",
+    "folios": [
+      "f84v"
+    ],
+    "folio_word_counts": {
+      "f84v": 500
+    }
+  },
+  {
+    "section_id": 35,
+    "word_range": "17500-18000",
+    "primary_folio": "f84v",
+    "folios": [
+      "f84v"
+    ],
+    "folio_word_counts": {
+      "f84v": 500
+    }
+  },
+  {
+    "section_id": 36,
+    "word_range": "18000-18500",
+    "primary_folio": "f84v",
+    "folios": [
+      "f84v"
+    ],
+    "folio_word_counts": {
+      "f84v": 500
+    }
+  },
+  {
+    "section_id": 37,
+    "word_range": "18500-19000",
+    "primary_folio": "f84v",
+    "folios": [
+      "f84v"
+    ],
+    "folio_word_counts": {
+      "f84v": 500
+    }
+  },
+  {
+    "section_id": 38,
+    "word_range": "19000-19500",
+    "primary_folio": "f84v",
+    "folios": [
+      "f84v",
+      "f87r",
+      "f87v",
+      "f88r"
+    ],
+    "folio_word_counts": {
+      "f84v": 320,
+      "f87r": 87,
+      "f87v": 29,
+      "f88r": 64
+    }
+  },
+  {
+    "section_id": 39,
+    "word_range": "19500-20000",
+    "primary_folio": "f88v",
+    "folios": [
+      "f88r",
+      "f88v"
+    ],
+    "folio_word_counts": {
+      "f88r": 61,
+      "f88v": 439
+    }
+  },
+  {
+    "section_id": 40,
+    "word_range": "20000-20500",
+    "primary_folio": "f88v",
+    "folios": [
+      "f88v",
+      "f93r",
+      "f93v",
+      "f94r"
+    ],
+    "folio_word_counts": {
+      "f88v": 333,
+      "f93r": 118,
+      "f93v": 26,
+      "f94r": 23
+    }
+  },
+  {
+    "section_id": 41,
+    "word_range": "20500-21000",
+    "primary_folio": "f94v",
+    "folios": [
+      "f94r",
+      "f94v",
+      "f96r",
+      "f96v",
+      "f99r"
+    ],
+    "folio_word_counts": {
+      "f94r": 42,
+      "f94v": 299,
+      "f96r": 74,
+      "f96v": 42,
+      "f99r": 43
+    }
+  },
+  {
+    "section_id": 42,
+    "word_range": "21000-21500",
+    "primary_folio": "f99r",
+    "folios": [
+      "f99r",
+      "f99v",
+      "f100r",
+      "f100v",
+      "f101r"
+    ],
+    "folio_word_counts": {
+      "f99r": 115,
+      "f99v": 96,
+      "f100r": 113,
+      "f100v": 97,
+      "f101r": 79
+    }
+  },
+  {
+    "section_id": 43,
+    "word_range": "21500-22000",
+    "primary_folio": "f101v",
+    "folios": [
+      "f101r",
+      "f101v"
+    ],
+    "folio_word_counts": {
+      "f101r": 89,
+      "f101v": 411
+    }
+  },
+  {
+    "section_id": 44,
+    "word_range": "22000-22500",
+    "primary_folio": "f103r",
+    "folios": [
+      "f101v",
+      "f103r"
+    ],
+    "folio_word_counts": {
+      "f101v": 226,
+      "f103r": 274
+    }
+  },
+  {
+    "section_id": 45,
+    "word_range": "22500-23000",
+    "primary_folio": "f103v",
+    "folios": [
+      "f103r",
+      "f103v",
+      "f104r"
+    ],
+    "folio_word_counts": {
+      "f103r": 131,
+      "f103v": 362,
+      "f104r": 7
+    }
+  },
+  {
+    "section_id": 46,
+    "word_range": "23000-23500",
+    "primary_folio": "f104r",
+    "folios": [
+      "f104r",
+      "f104v"
+    ],
+    "folio_word_counts": {
+      "f104r": 336,
+      "f104v": 164
+    }
+  },
+  {
+    "section_id": 47,
+    "word_range": "23500-24000",
+    "primary_folio": "f105r",
+    "folios": [
+      "f104v",
+      "f105r"
+    ],
+    "folio_word_counts": {
+      "f104v": 201,
+      "f105r": 299
+    }
+  },
+  {
+    "section_id": 48,
+    "word_range": "24000-24500",
+    "primary_folio": "f105v",
+    "folios": [
+      "f105r",
+      "f105v",
+      "f106r"
+    ],
+    "folio_word_counts": {
+      "f105r": 3,
+      "f105v": 314,
+      "f106r": 183
+    }
+  },
+  {
+    "section_id": 49,
+    "word_range": "24500-25000",
+    "primary_folio": "f106v",
+    "folios": [
+      "f106r",
+      "f106v",
+      "f107r"
+    ],
+    "folio_word_counts": {
+      "f106r": 145,
+      "f106v": 340,
+      "f107r": 15
+    }
+  },
+  {
+    "section_id": 50,
+    "word_range": "25000-25500",
+    "primary_folio": "f107r",
+    "folios": [
+      "f107r",
+      "f107v"
+    ],
+    "folio_word_counts": {
+      "f107r": 380,
+      "f107v": 120
+    }
+  },
+  {
+    "section_id": 51,
+    "word_range": "25500-26000",
+    "primary_folio": "f108r",
+    "folios": [
+      "f107v",
+      "f108r"
+    ],
+    "folio_word_counts": {
+      "f107v": 230,
+      "f108r": 270
+    }
+  },
+  {
+    "section_id": 52,
+    "word_range": "26000-26500",
+    "primary_folio": "f108v",
+    "folios": [
+      "f108r",
+      "f108v"
+    ],
+    "folio_word_counts": {
+      "f108r": 107,
+      "f108v": 393
+    }
+  },
+  {
+    "section_id": 53,
+    "word_range": "26500-27000",
+    "primary_folio": "f111r",
+    "folios": [
+      "f108v",
+      "f111r"
+    ],
+    "folio_word_counts": {
+      "f108v": 117,
+      "f111r": 383
+    }
+  },
+  {
+    "section_id": 54,
+    "word_range": "27000-27500",
+    "primary_folio": "f111v",
+    "folios": [
+      "f111r",
+      "f111v"
+    ],
+    "folio_word_counts": {
+      "f111r": 173,
+      "f111v": 327
+    }
+  },
+  {
+    "section_id": 55,
+    "word_range": "27500-28000",
+    "primary_folio": "f112r",
+    "folios": [
+      "f111v",
+      "f112r",
+      "f112v"
+    ],
+    "folio_word_counts": {
+      "f111v": 160,
+      "f112r": 306,
+      "f112v": 34
+    }
+  },
+  {
+    "section_id": 56,
+    "word_range": "28000-28500",
+    "primary_folio": "f112v",
+    "folios": [
+      "f112v",
+      "f113r"
+    ],
+    "folio_word_counts": {
+      "f112v": 292,
+      "f113r": 208
+    }
+  },
+  {
+    "section_id": 57,
+    "word_range": "28500-29000",
+    "primary_folio": "f113v",
+    "folios": [
+      "f113r",
+      "f113v"
+    ],
+    "folio_word_counts": {
+      "f113r": 183,
+      "f113v": 317
+    }
+  },
+  {
+    "section_id": 58,
+    "word_range": "29000-29500",
+    "primary_folio": "f114r",
+    "folios": [
+      "f113v",
+      "f114r",
+      "f114v"
+    ],
+    "folio_word_counts": {
+      "f113v": 71,
+      "f114r": 365,
+      "f114v": 64
+    }
+  },
+  {
+    "section_id": 59,
+    "word_range": "29500-30000",
+    "primary_folio": "f115r",
+    "folios": [
+      "f114v",
+      "f115r"
+    ],
+    "folio_word_counts": {
+      "f114v": 225,
+      "f115r": 275
+    }
+  },
+  {
+    "section_id": 60,
+    "word_range": "30000-30500",
+    "primary_folio": "f115v",
+    "folios": [
+      "f115r",
+      "f115v",
+      "f116r"
+    ],
+    "folio_word_counts": {
+      "f115r": 88,
+      "f115v": 322,
+      "f116r": 90
+    }
+  },
+  {
+    "section_id": 61,
+    "word_range": "30500-30900",
+    "primary_folio": "f116r",
+    "folios": [
+      "f116r"
+    ],
+    "folio_word_counts": {
+      "f116r": 400
+    }
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "section_id": 4,
+    "density": 1.6,
+    "medical_count": 8,
+    "primary_folio": "f20v",
+    "word_range": "2000-2500"
+  },
+  {
+    "section_id": 24,
+    "density": 1.2,
+    "medical_count": 6,
+    "primary_folio": "f76r",
+    "word_range": "12000-12500"
+  },
+  {
+    "section_id": 51,
+    "density": 1.2,
+    "medical_count": 6,
+    "primary_folio": "f108r",
+    "word_range": "25500-26000"
+  },
+  {
+    "section_id": 55,
+    "density": 1.2,
+    "medical_count": 6,
+    "primary_folio": "f112r",
+    "word_range": "27500-28000"
+  },
+  {
+    "section_id": 60,
+    "density": 1.2,
+    "medical_count": 6,
+    "primary_folio": "f115v",
+    "word_range": "30000-30500"
+  },
+  {
+    "section_id": 5,
+    "density": 1.0,
+    "medical_count": 5,
+    "primary_folio": "f26v",
+    "word_range": "2500-3000"
+  },
+  {
+    "section_id": 7,
+    "density": 1.0,
+    "medical_count": 5,
+    "primary_folio": "f34v",
+    "word_range": "3500-4000"
+  },
+  {
+    "section_id": 23,
+    "density": 1.0,
+    "medical_count": 5,
+    "primary_folio": "f75v",
+    "word_range": "11500-12000"
+  },
+  {
+    "section_id": 26,
+    "density": 1.0,
+    "medical_count": 5,
+    "primary_folio": "f78r",
+    "word_range": "13000-13500"
+  }
+]
