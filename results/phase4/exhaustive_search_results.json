@@ -1,0 +1,266 @@
+[
+  {
+    "me_word": "leke",
+    "meaning": "leek",
+    "category": "plant",
+    "voynich_word": "okol",
+    "frequency": 77,
+    "transform_applied": "reversal + e→o"
+  },
+  {
+    "me_word": "red",
+    "meaning": "red",
+    "category": "descriptor",
+    "voynich_word": "dor",
+    "frequency": 70,
+    "transform_applied": "reversal + e→o"
+  },
+  {
+    "me_word": "rede",
+    "meaning": "red",
+    "category": "descriptor",
+    "voynich_word": "otor",
+    "frequency": 42,
+    "transform_applied": "multi-transform"
+  },
+  {
+    "me_word": "red",
+    "meaning": "red",
+    "category": "descriptor",
+    "voynich_word": "tor",
+    "frequency": 23,
+    "transform_applied": "multi-transform"
+  },
+  {
+    "me_word": "ear",
+    "meaning": "ear",
+    "category": "anatomy",
+    "voynich_word": "oar",
+    "frequency": 16,
+    "transform_applied": "e→o"
+  },
+  {
+    "me_word": "ote",
+    "meaning": "oat",
+    "category": "plant",
+    "voynich_word": "oto",
+    "frequency": 9,
+    "transform_applied": "e→o"
+  },
+  {
+    "me_word": "oke",
+    "meaning": "oak",
+    "category": "plant",
+    "voynich_word": "oko",
+    "frequency": 8,
+    "transform_applied": "e→o"
+  },
+  {
+    "me_word": "rede",
+    "meaning": "red",
+    "category": "descriptor",
+    "voynich_word": "odor",
+    "frequency": 7,
+    "transform_applied": "reversal + e→o"
+  },
+  {
+    "me_word": "seke",
+    "meaning": "sick",
+    "category": "condition",
+    "voynich_word": "okos",
+    "frequency": 7,
+    "transform_applied": "reversal + e→o"
+  },
+  {
+    "me_word": "soke",
+    "meaning": "soak",
+    "category": "action",
+    "voynich_word": "okos",
+    "frequency": 7,
+    "transform_applied": "reversal + e→o"
+  },
+  {
+    "me_word": "more",
+    "meaning": "more",
+    "category": "quantity",
+    "voynich_word": "orom",
+    "frequency": 5,
+    "transform_applied": "reversal + e→o"
+  },
+  {
+    "me_word": "ere",
+    "meaning": "ear",
+    "category": "anatomy",
+    "voynich_word": "oro",
+    "frequency": 4,
+    "transform_applied": "e→o"
+  },
+  {
+    "me_word": "chop",
+    "meaning": "chop",
+    "category": "action",
+    "voynich_word": "chep",
+    "frequency": 4,
+    "transform_applied": "o→e"
+  },
+  {
+    "me_word": "sode",
+    "meaning": "boiled/cooked",
+    "category": "descriptor",
+    "voynich_word": "otos",
+    "frequency": 4,
+    "transform_applied": "multi-transform"
+  },
+  {
+    "me_word": "cheek",
+    "meaning": "cheek",
+    "category": "anatomy",
+    "voynich_word": "sheek",
+    "frequency": 3,
+    "transform_applied": "ch→sh"
+  },
+  {
+    "me_word": "ale",
+    "meaning": "ale",
+    "category": "treatment",
+    "voynich_word": "alo",
+    "frequency": 3,
+    "transform_applied": "e→o"
+  },
+  {
+    "me_word": "cheke",
+    "meaning": "cheek",
+    "category": "anatomy",
+    "voynich_word": "choko",
+    "frequency": 2,
+    "transform_applied": "e→o"
+  },
+  {
+    "me_word": "sage",
+    "meaning": "sage",
+    "category": "plant",
+    "voynich_word": "okas",
+    "frequency": 2,
+    "transform_applied": "multi-transform"
+  },
+  {
+    "me_word": "elder",
+    "meaning": "elder",
+    "category": "plant",
+    "voynich_word": "oldor",
+    "frequency": 2,
+    "transform_applied": "e→o"
+  },
+  {
+    "me_word": "pear",
+    "meaning": "pear",
+    "category": "plant",
+    "voynich_word": "poar",
+    "frequency": 2,
+    "transform_applied": "e→o"
+  },
+  {
+    "me_word": "eir",
+    "meaning": "air",
+    "category": "substance",
+    "voynich_word": "oir",
+    "frequency": 2,
+    "transform_applied": "e→o"
+  },
+  {
+    "me_word": "cheek",
+    "meaning": "cheek",
+    "category": "anatomy",
+    "voynich_word": "cheeg",
+    "frequency": 1,
+    "transform_applied": "k→g"
+  },
+  {
+    "me_word": "leek",
+    "meaning": "leek",
+    "category": "plant",
+    "voynich_word": "keel",
+    "frequency": 1,
+    "transform_applied": "reversal"
+  },
+  {
+    "me_word": "evel",
+    "meaning": "evil/illness",
+    "category": "condition",
+    "voynich_word": "ofol",
+    "frequency": 1,
+    "transform_applied": "multi-transform"
+  },
+  {
+    "me_word": "ale",
+    "meaning": "ale",
+    "category": "treatment",
+    "voynich_word": "ola",
+    "frequency": 1,
+    "transform_applied": "reversal + e→o"
+  },
+  {
+    "me_word": "cool",
+    "meaning": "cool",
+    "category": "descriptor",
+    "voynich_word": "keel",
+    "frequency": 1,
+    "transform_applied": "multi-transform"
+  },
+  {
+    "me_word": "lay",
+    "meaning": "lay/place",
+    "category": "action",
+    "voynich_word": "yal",
+    "frequency": 1,
+    "transform_applied": "reversal"
+  },
+  {
+    "me_word": "chop",
+    "meaning": "chop",
+    "category": "action",
+    "voynich_word": "shep",
+    "frequency": 1,
+    "transform_applied": "ch→sh"
+  },
+  {
+    "me_word": "good",
+    "meaning": "good",
+    "category": "descriptor",
+    "voynich_word": "keed",
+    "frequency": 1,
+    "transform_applied": "multi-transform"
+  },
+  {
+    "me_word": "gode",
+    "meaning": "good",
+    "category": "descriptor",
+    "voynich_word": "kodo",
+    "frequency": 1,
+    "transform_applied": "multi-transform"
+  },
+  {
+    "me_word": "red",
+    "meaning": "red",
+    "category": "descriptor",
+    "voynich_word": "rod",
+    "frequency": 1,
+    "transform_applied": "e→o"
+  },
+  {
+    "me_word": "grete",
+    "meaning": "great",
+    "category": "descriptor",
+    "voynich_word": "otork",
+    "frequency": 1,
+    "transform_applied": "multi-transform"
+  },
+  {
+    "me_word": "year",
+    "meaning": "year",
+    "category": "time",
+    "voynich_word": "yoar",
+    "frequency": 1,
+    "transform_applied": "e→o"
+  }
+]

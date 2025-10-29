@@ -1,0 +1,26 @@
+{
+  "total_voynich_words": 37187,
+  "recognized_word_types": 191,
+  "recognized_instances": 3302,
+  "overall_recognition_rate": 8.87944711861672,
+  "transformed_instances": 3164,
+  "transformed_rate": 8.5083496920967,
+  "preserved_instances": 138,
+  "preserved_rate": 0.3710974265200204,
+  "sources": {
+    "exhaustive_search": {
+      "types": 31,
+      "instances": 311
+    },
+    "partial_matches": {
+      "types": 165,
+      "instances": 3137
+    }
+  },
+  "goals": {
+    "3pct_target": 1115,
+    "4pct_target": 1487,
+    "achieved_3pct": true,
+    "achieved_4pct": true
+  }
+}
