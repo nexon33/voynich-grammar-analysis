@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software or methodology, please cite it as below."
+type: software
+title: "Voynich Manuscript: Systematic Grammatical Analysis"
+version: 1.0.0
+date-released: 2025-10-29
+url: "https://github.com/nexon33/voynich-grammar-analysis"
+repository-code: "https://github.com/nexon33/voynich-grammar-analysis"
+license: MIT
+authors:
+  - family-names: "Belmans Gresko"
+    given-names: "Adrian Tadeusz"
+    orcid: "https://orcid.org/0009-0001-9938-7617"
+abstract: >-
+  Systematic grammatical analysis of the Voynich manuscript presenting
+  evidence for universal agglutinative grammar validated across 4 manuscript
+  sections (herbal, pharmaceutical, biological, astronomical) with 92%
+  structural coherence (n=58 test lines, p < 0.00001). Identifies 4 complete
+  morphological systems (case, definiteness, verbal, genitive) and validates
+  8 semantic nouns using rigorous 8/8 evidence scoring methodology.
+keywords:
+  - Voynich manuscript
+  - computational linguistics
+  - agglutinative morphology
+  - digital humanities
+  - grammatical analysis
+  - unsupervised morphology learning
+  - historical linguistics
+  - manuscript studies
+preferred-citation:
+  type: software
+  title: "Voynich Manuscript: Systematic Grammatical Analysis"
+  authors:
+    - family-names: "Belmans Gresko"
+      given-names: "Adrian Tadeusz"
+  year: 2025
+  url: "https://github.com/nexon33/voynich-grammar-analysis"
+  notes: "Unpublished research. Formal publication in preparation."
