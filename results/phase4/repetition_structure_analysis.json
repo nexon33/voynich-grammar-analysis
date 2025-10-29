@@ -1,0 +1,3235 @@
+{
+  "immediate_repetitions": {
+    "daiin": {
+      "count": 19,
+      "lengths": {
+        "2": 18,
+        "3": 1
+      },
+      "contexts": [
+        {
+          "before": "qotcho ytor",
+          "repeated": "daiin daiin",
+          "after": "otchor daiir"
+        },
+        {
+          "before": "chcthy qotol",
+          "repeated": "daiin daiin",
+          "after": "qotchy qo!teey"
+        },
+        {
+          "before": "choty chol",
+          "repeated": "daiin daiin",
+          "after": "chty chtol"
+        },
+        {
+          "before": "dchain cthain",
+          "repeated": "daiin daiin",
+          "after": "cthain qotaiin"
+        },
+        {
+          "before": "dol cho",
+          "repeated": "daiin daiin",
+          "after": "qokcho r"
+        }
+      ]
+    },
+    "chol": {
+      "count": 18,
+      "lengths": {
+        "2": 17,
+        "3": 1
+      },
+      "contexts": [
+        {
+          "before": "shey kol",
+          "repeated": "chol chol",
+          "after": "kor chal"
+        },
+        {
+          "before": "daiin chary",
+          "repeated": "chol chol",
+          "after": "darotchar etaiin"
+        },
+        {
+          "before": "okchol kshchol",
+          "repeated": "chol chol",
+          "after": "cthaiin dain"
+        },
+        {
+          "before": "daiin otchol!o!cthol",
+          "repeated": "chol chol",
+          "after": "chody kan"
+        },
+        {
+          "before": "chor ykeor",
+          "repeated": "chol chol",
+          "after": "cthol chkor"
+        }
+      ]
+    },
+    "qokeedy": {
+      "count": 18,
+      "lengths": {
+        "2": 17,
+        "3": 1
+      },
+      "contexts": [
+        {
+          "before": "qokechdy lol",
+          "repeated": "qokeedy qokeedy",
+          "after": "qokedy qokedy"
+        },
+        {
+          "before": "lchey lsheey",
+          "repeated": "qokeedy qokeedy",
+          "after": "qokar qokeey"
+        },
+        {
+          "before": "saiin cheeol",
+          "repeated": "qokeedy qokeedy",
+          "after": "qotal qokaiin"
+        },
+        {
+          "before": "qokeedy qotedy",
+          "repeated": "qokeedy qokeedy",
+          "after": "qokeey r!aiin"
+        },
+        {
+          "before": "qoke!dy otaram",
+          "repeated": "qokeedy qokeedy",
+          "after": "qotai!n sol"
+        }
+      ]
+    },
+    "qokeey": {
+      "count": 12,
+      "lengths": {
+        "2": 12
+      },
+      "contexts": [
+        {
+          "before": "okeedy qokeed",
+          "repeated": "qokeey qokeey",
+          "after": "otey qoky"
+        },
+        {
+          "before": "dcheedy qo!lchey",
+          "repeated": "qokeey qokeey",
+          "after": "chedy qo!kar"
+        },
+        {
+          "before": "chor!ol shedy",
+          "repeated": "qokeey qokeey",
+          "after": "ol laiin"
+        },
+        {
+          "before": "lshedy qotolaiin",
+          "repeated": "qokeey qokeey",
+          "after": "shkchy opchealol"
+        },
+        {
+          "before": "qokeey chedy",
+          "repeated": "qokeey qokeey",
+          "after": "lchedy loty"
+        }
+      ]
+    },
+    "chedy": {
+      "count": 10,
+      "lengths": {
+        "2": 10
+      },
+      "contexts": [
+        {
+          "before": "oteol sheshdy",
+          "repeated": "chedy chedy",
+          "after": "dy shes"
+        },
+        {
+          "before": "sheedy qokedy",
+          "repeated": "chedy chedy",
+          "after": "qokain chckhy"
+        },
+        {
+          "before": "qokedy qokol",
+          "repeated": "chedy chedy",
+          "after": "lchy sol!shedy"
+        },
+        {
+          "before": "qolky qokal",
+          "repeated": "chedy chedy",
+          "after": "daiin chckhey"
+        },
+        {
+          "before": "olol okal",
+          "repeated": "chedy chedy",
+          "after": "ol qokar"
+        }
+      ]
+    },
+    "qokedy": {
+      "count": 10,
+      "lengths": {
+        "2": 9,
+        "3": 1
+      },
+      "contexts": [
+        {
+          "before": "keedy qokedyqokedy",
+          "repeated": "qokedy qokedy",
+          "after": "qokain olshedy"
+        },
+        {
+          "before": "qokeedy qokeedy",
+          "repeated": "qokedy qokedy",
+          "after": "qokeedy ldy"
+        },
+        {
+          "before": "qol sheckhy",
+          "repeated": "qokedy qokedy",
+          "after": "qokalys!or chedy"
+        },
+        {
+          "before": "qotain sheckhy",
+          "repeated": "qokedy qokedy",
+          "after": "lsheckhy qokai!n"
+        },
+        {
+          "before": "qokal otedy",
+          "repeated": "qokedy qokedy",
+          "after": "dal qokedy"
+        }
+      ]
+    },
+    "ol": {
+      "count": 8,
+      "lengths": {
+        "2": 7,
+        "3": 1
+      },
+      "contexts": [
+        {
+          "before": "chol ar",
+          "repeated": "ol ol",
+          "after": "dol dain"
+        },
+        {
+          "before": "r ain",
+          "repeated": "ol ol",
+          "after": "sheedy qokeey"
+        },
+        {
+          "before": "oly l!cheol",
+          "repeated": "ol ol",
+          "after": "sheey olsheey"
+        },
+        {
+          "before": "oteedy chkai!n",
+          "repeated": "ol ol",
+          "after": "chedy oly"
+        },
+        {
+          "before": "or ocheey",
+          "repeated": "ol ol",
+          "after": "o keeedy"
+        }
+      ]
+    },
+    "shedy": {
+      "count": 8,
+      "lengths": {
+        "2": 8
+      },
+      "contexts": [
+        {
+          "before": "checthy qoteedy",
+          "repeated": "shedy shedy",
+          "after": "olokes ar"
+        },
+        {
+          "before": "chedy qo!kar",
+          "repeated": "shedy shedy",
+          "after": "lshedy qolchedy"
+        },
+        {
+          "before": "ytal qokar",
+          "repeated": "shedy shedy",
+          "after": "qokar shedy"
+        },
+        {
+          "before": "shey qo!ol!kal",
+          "repeated": "shedy shedy",
+          "after": "shey shedy"
+        },
+        {
+          "before": "qoteey qokol",
+          "repeated": "shedy shedy",
+          "after": "chedy olched!r"
+        }
+      ]
+    },
+    "ar": {
+      "count": 8,
+      "lengths": {
+        "2": 8
+      },
+      "contexts": [
+        {
+          "before": "chedy qokchd",
+          "repeated": "ar ar",
+          "after": "or dam"
+        },
+        {
+          "before": "otal otear",
+          "repeated": "ar ar",
+          "after": "keey qoty"
+        },
+        {
+          "before": "qkai!n shey",
+          "repeated": "ar ar",
+          "after": "oky rai!n"
+        },
+        {
+          "before": "okcheey lkair",
+          "repeated": "ar ar",
+          "after": "adam ycheor!aiin"
+        },
+        {
+          "before": "okeol ykedor",
+          "repeated": "ar ar",
+          "after": "alkair otos"
+        }
+      ]
+    },
+    "chor": {
+      "count": 6,
+      "lengths": {
+        "2": 6
+      },
+      "contexts": [
+        {
+          "before": "daiin chckhy",
+          "repeated": "chor chor",
+          "after": "kar cthycthor"
+        },
+        {
+          "before": "dy qotor",
+          "repeated": "chor chor",
+          "after": "sheeydchol shesed"
+        },
+        {
+          "before": "qotchod otchor",
+          "repeated": "chor chor",
+          "after": "ytchor cthy"
+        },
+        {
+          "before": "dar ochaiin",
+          "repeated": "chor chor",
+          "after": "cheey tchey"
+        },
+        {
+          "before": "dan doiin",
+          "repeated": "chor chor",
+          "after": "pchafdan qorain"
+        }
+      ]
+    },
+    "dar": {
+      "count": 6,
+      "lengths": {
+        "2": 6
+      },
+      "contexts": [
+        {
+          "before": "cheoee!sykeor ytaiin",
+          "repeated": "dar dar",
+          "after": "cho s"
+        },
+        {
+          "before": "ytol chcthy",
+          "repeated": "dar dar",
+          "after": "dal oshor"
+        },
+        {
+          "before": "dar deeschdy",
+          "repeated": "dar dar",
+          "after": "ar otar"
+        },
+        {
+          "before": "sheety qokai!n",
+          "repeated": "dar dar",
+          "after": "shedy qoka!r"
+        },
+        {
+          "before": "okar otar",
+          "repeated": "dar dar",
+          "after": "dy qokedy"
+        }
+      ]
+    },
+    "shol": {
+      "count": 5,
+      "lengths": {
+        "2": 5
+      },
+      "contexts": [
+        {
+          "before": "cthom shor",
+          "repeated": "shol shol",
+          "after": "cthy cpholdy"
+        },
+        {
+          "before": "shol shot",
+          "repeated": "shol shol",
+          "after": "daiin dain"
+        },
+        {
+          "before": "shol aiin",
+          "repeated": "shol shol",
+          "after": "chdy cholol"
+        },
+        {
+          "before": "d y!shol",
+          "repeated": "shol shol",
+          "after": "shocthhy dalaly"
+        },
+        {
+          "before": "chol cphol",
+          "repeated": "shol shol",
+          "after": "qockhol chor"
+        }
+      ]
+    },
+    "okaiin": {
+      "count": 5,
+      "lengths": {
+        "2": 4,
+        "3": 1
+      },
+      "contexts": [
+        {
+          "before": "sholo dshy",
+          "repeated": "okaiin okaiin",
+          "after": "chol chor"
+        },
+        {
+          "before": "tchedy!dy chekar",
+          "repeated": "okaiin okaiin",
+          "after": "daiin okal"
+        },
+        {
+          "before": "olaiin ordain",
+          "repeated": "okaiin okaiin okaiin",
+          "after": "daram saiin"
+        },
+        {
+          "before": "aithchr lo",
+          "repeated": "okaiin okaiin",
+          "after": "cheeky raiin"
+        },
+        {
+          "before": "okaiin cheody",
+          "repeated": "okaiin okaiin",
+          "after": "otar aly"
+        }
+      ]
+    },
+    "*": {
+      "count": 5,
+      "lengths": {
+        "2": 2,
+        "5": 2,
+        "4": 1
+      },
+      "contexts": [
+        {
+          "before": "y e",
+          "repeated": "* *",
+          "after": "p o"
+        },
+        {
+          "before": "dy ochoyk",
+          "repeated": "* * * * *",
+          "after": "* *"
+        },
+        {
+          "before": "* *",
+          "repeated": "* * * * *",
+          "after": "* *"
+        },
+        {
+          "before": "* *",
+          "repeated": "* *",
+          "after": "oooooooool!ar* *"
+        },
+        {
+          "before": "* oooooooool!ar*",
+          "repeated": "* * * *",
+          "after": "!s* *"
+        }
+      ]
+    },
+    "qol": {
+      "count": 5,
+      "lengths": {
+        "2": 5
+      },
+      "contexts": [
+        {
+          "before": "qokain dal",
+          "repeated": "qol qol",
+          "after": "ol sheedy"
+        },
+        {
+          "before": "dal l!shckhy",
+          "repeated": "qol qol",
+          "after": "oteedy qor"
+        },
+        {
+          "before": "okeol olchedy",
+          "repeated": "qol qol",
+          "after": "chedy okeshy"
+        },
+        {
+          "before": "qokai!n chedy",
+          "repeated": "qol qol",
+          "after": "shect yhy!"
+        },
+        {
+          "before": "olkar y",
+          "repeated": "qol qol",
+          "after": "kai!n okii!n"
+        }
+      ]
+    },
+    "dy": {
+      "count": 4,
+      "lengths": {
+        "2": 4
+      },
+      "contexts": [
+        {
+          "before": "or yty",
+          "repeated": "dy dy",
+          "after": "sor chaiin"
+        },
+        {
+          "before": "qokchdoky chol",
+          "repeated": "dy dy",
+          "after": "qokchor chololer"
+        },
+        {
+          "before": "ykeoees yty",
+          "repeated": "dy dy",
+          "after": "chody otol!olees"
+        },
+        {
+          "before": "sheos chkorchy",
+          "repeated": "dy dy",
+          "after": "shety oteey"
+        }
+      ]
+    },
+    "qotedy": {
+      "count": 4,
+      "lengths": {
+        "2": 4
+      },
+      "contexts": [
+        {
+          "before": "qoteedy qokody",
+          "repeated": "qotedy qotedy",
+          "after": "opchedy ofchy"
+        },
+        {
+          "before": "chckhy qokeey",
+          "repeated": "qotedy qotedy",
+          "after": "qotary qor"
+        },
+        {
+          "before": "dar qopshedy",
+          "repeated": "qotedy qotedy",
+          "after": "qokedy dal"
+        },
+        {
+          "before": "ol chedy",
+          "repeated": "qotedy qotedy",
+          "after": "chsdy qotal"
+        }
+      ]
+    },
+    "okedy": {
+      "count": 4,
+      "lengths": {
+        "2": 4
+      },
+      "contexts": [
+        {
+          "before": "tol shso",
+          "repeated": "okedy okedy",
+          "after": "qokedy qokeedy"
+        },
+        {
+          "before": "ar aror",
+          "repeated": "okedy okedy",
+          "after": "otaly otdy"
+        },
+        {
+          "before": "ol otedy",
+          "repeated": "okedy okedy",
+          "after": "qokedy dol"
+        },
+        {
+          "before": "chdy okar",
+          "repeated": "okedy okedy",
+          "after": "chlar ycheol"
+        }
+      ]
+    },
+    "chdy": {
+      "count": 4,
+      "lengths": {
+        "2": 4
+      },
+      "contexts": [
+        {
+          "before": "olaiin okar",
+          "repeated": "chdy chdy",
+          "after": "oldyokar chdy="
+        },
+        {
+          "before": "chcthy okedy",
+          "repeated": "chdy chdy",
+          "after": "otal otchdy"
+        },
+        {
+          "before": "odai!n ol",
+          "repeated": "chdy chdy",
+          "after": "qokaiin shdy"
+        },
+        {
+          "before": "shol qotar",
+          "repeated": "chdy chdy",
+          "after": "qokar okar"
+        }
+      ]
+    },
+    "al": {
+      "count": 4,
+      "lengths": {
+        "2": 4
+      },
+      "contexts": [
+        {
+          "before": "chokeedy otes",
+          "repeated": "al al",
+          "after": "ar chetolain"
+        },
+        {
+          "before": "sheey okees",
+          "repeated": "al al",
+          "after": "chedai!n dar"
+        },
+        {
+          "before": "cheey qokaiin",
+          "repeated": "al al",
+          "after": "kalos chedy"
+        },
+        {
+          "before": "chedy dai!n",
+          "repeated": "al al",
+          "after": "keedy otal"
+        }
+      ]
+    },
+    "okeey": {
+      "count": 4,
+      "lengths": {
+        "2": 4
+      },
+      "contexts": [
+        {
+          "before": "okeol daisi!n",
+          "repeated": "okeey okeey",
+          "after": "dairi!n daiin"
+        },
+        {
+          "before": "okeeey qokeeey",
+          "repeated": "okeey okeey",
+          "after": "paiin dar"
+        },
+        {
+          "before": "doiin sheeky",
+          "repeated": "okeey okeey",
+          "after": "qeeal shedy"
+        },
+        {
+          "before": "cheer ai!n",
+          "repeated": "okeey okeey",
+          "after": "shy lar"
+        }
+      ]
+    },
+    "sho": {
+      "count": 3,
+      "lengths": {
+        "2": 3
+      },
+      "contexts": [
+        {
+          "before": "sheo cheorycholdy",
+          "repeated": "sho sho",
+          "after": "chaiin shaiin"
+        },
+        {
+          "before": "doiir cheekdam",
+          "repeated": "sho sho",
+          "after": "dy dchey"
+        },
+        {
+          "before": "kchrrr okeedydchschys!otchdy",
+          "repeated": "sho sho",
+          "after": "y!kcho shdydchdchschsaotchdy"
+        }
+      ]
+    },
+    "shor": {
+      "count": 3,
+      "lengths": {
+        "2": 3
+      },
+      "contexts": [
+        {
+          "before": "daiin tchol",
+          "repeated": "shor shor",
+          "after": "dky shcphy"
+        },
+        {
+          "before": "chokshy shocthy",
+          "repeated": "shor shor",
+          "after": "daiinqokaiiin qokchy"
+        },
+        {
+          "before": "r choiin",
+          "repeated": "shor shor",
+          "after": "shy chotcheol"
+        }
+      ]
+    },
+    "otaiin": {
+      "count": 3,
+      "lengths": {
+        "2": 3
+      },
+      "contexts": [
+        {
+          "before": "okseey chody!sytoiin",
+          "repeated": "otaiin otaiin",
+          "after": "cthar qokor"
+        },
+        {
+          "before": "ypcholy daiin",
+          "repeated": "otaiin otaiin",
+          "after": "yfolaiin fcheolai!n"
+        },
+        {
+          "before": "okaiin chckhaiin",
+          "repeated": "otaiin otaiin",
+          "after": "araral sheol"
+        }
+      ]
+    },
+    "or": {
+      "count": 3,
+      "lengths": {
+        "2": 3
+      },
+      "contexts": [
+        {
+          "before": "sai!n sheey",
+          "repeated": "or or",
+          "after": "al solshey"
+        },
+        {
+          "before": "ykeey sheey",
+          "repeated": "or or",
+          "after": "aiin yefaiin"
+        },
+        {
+          "before": "sheoly sain",
+          "repeated": "or or",
+          "after": "aiin opchdy"
+        }
+      ]
+    },
+    "qokal": {
+      "count": 3,
+      "lengths": {
+        "2": 3
+      },
+      "contexts": [
+        {
+          "before": "kchedy sockhey",
+          "repeated": "qokal qokal",
+          "after": "shedy sholdy"
+        },
+        {
+          "before": "qotair cheol",
+          "repeated": "qokal qokal",
+          "after": "cheety qokai!n"
+        },
+        {
+          "before": "okaiin qokar",
+          "repeated": "qokal qokal",
+          "after": "cheody qokain"
+        }
+      ]
+    },
+    "otai!n": {
+      "count": 3,
+      "lengths": {
+        "2": 3
+      },
+      "contexts": [
+        {
+          "before": "chey qokai!n",
+          "repeated": "otai!n otai!n",
+          "after": "otal ol"
+        },
+        {
+          "before": "lcheody tedy",
+          "repeated": "otai!n otai!n",
+          "after": "otaly doiin"
+        },
+        {
+          "before": "olan otan",
+          "repeated": "otai!n otai!n",
+          "after": "ar y"
+        }
+      ]
+    },
+    "okeol": {
+      "count": 3,
+      "lengths": {
+        "2": 3
+      },
+      "contexts": [
+        {
+          "before": "olcheey qokeol",
+          "repeated": "okeol okeol",
+          "after": "shokolykey! dor"
+        },
+        {
+          "before": "oky qokeod",
+          "repeated": "okeol okeol",
+          "after": "ycheo ckhey"
+        },
+        {
+          "before": "chy okeor",
+          "repeated": "okeol okeol",
+          "after": "shy o"
+        }
+      ]
+    },
+    "cthar": {
+      "count": 2,
+      "lengths": {
+        "2": 2
+      },
+      "contexts": [
+        {
+          "before": "shar are",
+          "repeated": "cthar cthar",
+          "after": "dan! syaiir"
+        },
+        {
+          "before": "or ochy",
+          "repeated": "cthar cthar",
+          "after": "cthy y"
+        }
+      ]
+    },
+    "ckhey": {
+      "count": 2,
+      "lengths": {
+        "2": 2
+      },
+      "contexts": [
+        {
+          "before": "daiin dcheey",
+          "repeated": "ckhey ckhey",
+          "after": "daiin chkeaiin"
+        },
+        {
+          "before": "chkeey chey",
+          "repeated": "ckhey ckhey",
+          "after": "ykeey oiin"
+        }
+      ]
+    },
+    "chy": {
+      "count": 2,
+      "lengths": {
+        "2": 2
+      },
+      "contexts": [
+        {
+          "before": "cho keesy",
+          "repeated": "chy chy",
+          "after": "chekychochy daiin"
+        },
+        {
+          "before": "cphy chor",
+          "repeated": "chy chy",
+          "after": "chokchey chol"
+        }
+      ]
+    },
+    "qokchdy": {
+      "count": 2,
+      "lengths": {
+        "2": 2
+      },
+      "contexts": [
+        {
+          "before": "s!olkchy chckhy",
+          "repeated": "qokchdy qokchdy",
+          "after": "okar ar"
+        },
+        {
+          "before": "qokai!n sheol",
+          "repeated": "qokchdy qokchdy",
+          "after": "qoty dy"
+        }
+      ]
+    },
+    "okal": {
+      "count": 2,
+      "lengths": {
+        "2": 2
+      },
+      "contexts": [
+        {
+          "before": "daram qokar",
+          "repeated": "okal okal",
+          "after": "d! o"
+        },
+        {
+          "before": "olkar otair",
+          "repeated": "okal okal",
+          "after": "qokai!n ar"
+        }
+      ]
+    },
+    "otar": {
+      "count": 2,
+      "lengths": {
+        "2": 2
+      },
+      "contexts": [
+        {
+          "before": "qor dchairam",
+          "repeated": "otar otar",
+          "after": "char ar"
+        },
+        {
+          "before": "dar oty",
+          "repeated": "otar otar",
+          "after": "ol kain"
+        }
+      ]
+    },
+    "oteey": {
+      "count": 2,
+      "lengths": {
+        "2": 2
+      },
+      "contexts": [
+        {
+          "before": "okody dal",
+          "repeated": "oteey oteey",
+          "after": "ykeey ytary"
+        },
+        {
+          "before": "olkeey qokol",
+          "repeated": "oteey oteey",
+          "after": "lkai!n okai!n"
+        }
+      ]
+    },
+    "qopchedy": {
+      "count": 2,
+      "lengths": {
+        "2": 2
+      },
+      "contexts": [
+        {
+          "before": "qokol chey",
+          "repeated": "qopchedy qopchedy",
+          "after": "dy!lches olkedy"
+        },
+        {
+          "before": "cheo ckhor",
+          "repeated": "qopchedy qopchedy",
+          "after": "qokchedy shody"
+        }
+      ]
+    },
+    "qoteedy": {
+      "count": 2,
+      "lengths": {
+        "2": 2
+      },
+      "contexts": [
+        {
+          "before": "qokeedy lol",
+          "repeated": "qoteedy qoteedy",
+          "after": "qokedy sheed"
+        },
+        {
+          "before": "rsheedy qokedy",
+          "repeated": "qoteedy qoteedy",
+          "after": "p!chedal otedy"
+        }
+      ]
+    },
+    "qokaiin": {
+      "count": 2,
+      "lengths": {
+        "2": 2
+      },
+      "contexts": [
+        {
+          "before": "qol chedy",
+          "repeated": "qokaiin qokaiin",
+          "after": "checkhy raiin"
+        },
+        {
+          "before": "qokal!ys!ol!kaiin chckhy",
+          "repeated": "qokaiin qokaiin",
+          "after": "octheol chkeey"
+        }
+      ]
+    },
+    "lchedy": {
+      "count": 2,
+      "lengths": {
+        "2": 2
+      },
+      "contexts": [
+        {
+          "before": "ol!y qotchedy",
+          "repeated": "lchedy lchedy",
+          "after": "kedy qol"
+        },
+        {
+          "before": "okeol lkeey",
+          "repeated": "lchedy lchedy",
+          "after": "dair al"
+        }
+      ]
+    },
+    "qokai!n": {
+      "count": 2,
+      "lengths": {
+        "2": 2
+      },
+      "contexts": [
+        {
+          "before": "y!cheey!tal checthy",
+          "repeated": "qokai!n qokai!n",
+          "after": "checthy qokai!n"
+        },
+        {
+          "before": "lchdy qorshy",
+          "repeated": "qokai!n qokai!n",
+          "after": "chep chotchdy"
+        }
+      ]
+    },
+    "otal": {
+      "count": 2,
+      "lengths": {
+        "2": 2
+      },
+      "contexts": [
+        {
+          "before": "otaiin qokai!n",
+          "repeated": "otal otal",
+          "after": "lt al"
+        },
+        {
+          "before": "chol ol!cheey",
+          "repeated": "otal otal",
+          "after": "ol otchy"
+        }
+      ]
+    },
+    "qokol": {
+      "count": 2,
+      "lengths": {
+        "2": 2
+      },
+      "contexts": [
+        {
+          "before": "qokol chol",
+          "repeated": "qokol qokol",
+          "after": "chol cheey"
+        },
+        {
+          "before": "qokchd qotol",
+          "repeated": "qokol qokol",
+          "after": "daiin polchechy"
+        }
+      ]
+    },
+    "keey": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "cthy ok!chey",
+          "repeated": "keey keey",
+          "after": "dal chtor"
+        }
+      ]
+    },
+    "cham": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "chor chal",
+          "repeated": "cham cham",
+          "after": "cho qokol"
+        }
+      ]
+    },
+    "chaiin": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "qoty soiin",
+          "repeated": "chaiin chaiin",
+          "after": "daiin cthey="
+        }
+      ]
+    },
+    "kchy": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "sodaiin chy",
+          "repeated": "kchy kchy",
+          "after": "ykeody= pdychoiin"
+        }
+      ]
+    },
+    "qokchy": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "shy! okshy",
+          "repeated": "qokchy qokchy",
+          "after": "s g"
+        }
+      ]
+    },
+    "qoky": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "or shy",
+          "repeated": "qoky qoky",
+          "after": "chkchy qokshy"
+        }
+      ]
+    },
+    "eedy": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "haiin shedy",
+          "repeated": "eedy eedy",
+          "after": "schydaiin cthedyqokeedy"
+        }
+      ]
+    },
+    "shy": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "chkar otchy",
+          "repeated": "shy shy",
+          "after": "dchy dshy"
+        }
+      ]
+    },
+    "otchor": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "chy!qo l!dy",
+          "repeated": "otchor otchor",
+          "after": "cthol ct!y"
+        }
+      ]
+    },
+    "cthol": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "qotchaiin shor",
+          "repeated": "cthol cthol",
+          "after": "shorchotchy tchodar"
+        }
+      ]
+    },
+    "yty": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "dal !s",
+          "repeated": "yty yty",
+          "after": "oty she"
+        }
+      ]
+    },
+    "choky": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "qoto ykol",
+          "repeated": "choky choky",
+          "after": "chol dam"
+        }
+      ]
+    },
+    "cthy": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "otol daiin",
+          "repeated": "cthy cthy",
+          "after": "yokalod shaiin"
+        }
+      ]
+    },
+    "ykeol": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "lory kaiin",
+          "repeated": "ykeol ykeol",
+          "after": "cham kol!sho"
+        }
+      ]
+    },
+    "qotol": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "or cheol",
+          "repeated": "qotol qotol",
+          "after": "chy ky"
+        }
+      ]
+    },
+    "sheky": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "chekal chckhy",
+          "repeated": "sheky sheky",
+          "after": "dal!octhhy okeedy"
+        }
+      ]
+    },
+    "cho": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "daiin chy",
+          "repeated": "cho cho",
+          "after": "keesy chy"
+        }
+      ]
+    },
+    "otchey": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "chocphy ytodaiin",
+          "repeated": "otchey otchey",
+          "after": "qockho dalsockhody"
+        }
+      ]
+    },
+    "dam": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "chetysol d!sh",
+          "repeated": "dam dam",
+          "after": "toshey kodl"
+        }
+      ]
+    },
+    "kedy": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "daiin sho",
+          "repeated": "kedy kedy",
+          "after": "okol chdy"
+        }
+      ]
+    },
+    "chear": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "tal al",
+          "repeated": "chear chear",
+          "after": "char ar"
+        }
+      ]
+    },
+    "opaiin": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "tol shokchy",
+          "repeated": "opaiin opaiin",
+          "after": "chofaly ypar"
+        }
+      ]
+    },
+    "f!": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "sh y",
+          "repeated": "f! f!",
+          "after": "y o"
+        }
+      ]
+    },
+    "qokeody": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "ar qokeeody",
+          "repeated": "qokeody qokeody",
+          "after": "qokar sheky"
+        }
+      ]
+    },
+    "kal": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "chekal chckhy",
+          "repeated": "kal kal",
+          "after": "dar chkchody"
+        }
+      ]
+    },
+    "ykchey": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "syshees qeykeey",
+          "repeated": "ykchey ykchey",
+          "after": "qokeochy oaiin"
+        }
+      ]
+    },
+    "okar": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "cho aiin",
+          "repeated": "okar okar",
+          "after": "chol chese"
+        }
+      ]
+    },
+    "okeear": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "aiin okees",
+          "repeated": "okeear okeear",
+          "after": "ar alekeey"
+        }
+      ]
+    },
+    "olal": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "oekeeor aiin",
+          "repeated": "olal olal",
+          "after": "kair okolraiin"
+        }
+      ]
+    },
+    "oteody": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "oteodal okol",
+          "repeated": "oteody oteody",
+          "after": "cheody otoar"
+        }
+      ]
+    },
+    "l": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "dainy s",
+          "repeated": "l l",
+          "after": "o r"
+        }
+      ]
+    },
+    "dai!n": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "ld!y qokal",
+          "repeated": "dai!n dai!n",
+          "after": "o!qoky daiin"
+        }
+      ]
+    },
+    "olkedy": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "ldy okeshey",
+          "repeated": "olkedy olkedy",
+          "after": "qol chey"
+        }
+      ]
+    },
+    "qokain": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "tcho!r sheey!",
+          "repeated": "qokain qokain",
+          "after": "sheol qokeedy"
+        }
+      ]
+    },
+    "dal": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "otedy kedy",
+          "repeated": "dal dal",
+          "after": "dol oty"
+        }
+      ]
+    },
+    "olkai!n": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "ly qokai!n",
+          "repeated": "olkai!n olkai!n",
+          "after": "ol keeol"
+        }
+      ]
+    },
+    "lshedy": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "lsho qokey",
+          "repeated": "lshedy lshedy",
+          "after": "chedy qolky"
+        }
+      ]
+    },
+    "qoty": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "okchhy qotedy",
+          "repeated": "qoty qoty",
+          "after": "qoteey raiin"
+        }
+      ]
+    },
+    "shckhedy": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "chedy qokeedy",
+          "repeated": "shckhedy shckhedy",
+          "after": "saiin cheek!y"
+        }
+      ]
+    },
+    "otam": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "ol ytal",
+          "repeated": "otam otam",
+          "after": "shedy chdy"
+        }
+      ]
+    },
+    "oty": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "shckhy shoky",
+          "repeated": "oty oty",
+          "after": "otain olkchdy"
+        }
+      ]
+    },
+    "ytaiin": {
+      "count": 1,
+      "lengths": {
+        "3": 1
+      },
+      "contexts": [
+        {
+          "before": "qokaiin taiin",
+          "repeated": "ytaiin ytaiin ytaiin",
+          "after": "or ar"
+        }
+      ]
+    },
+    "ykaiin": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "aiin chcthy",
+          "repeated": "ykaiin ykaiin",
+          "after": "chdar ar!aiin"
+        }
+      ]
+    },
+    "qoekol": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "chokol daiin",
+          "repeated": "qoekol qoekol",
+          "after": "qockhoy okol"
+        }
+      ]
+    },
+    "ykeey": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "dal dy",
+          "repeated": "ykeey ykeey",
+          "after": "odal shoky"
+        }
+      ]
+    },
+    "chekaiin": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "qokees ody",
+          "repeated": "chekaiin chekaiin",
+          "after": "chky chaiin"
+        }
+      ]
+    },
+    "okolaiin": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "okaiin ckheol",
+          "repeated": "okolaiin okolaiin",
+          "after": "cheol dy"
+        }
+      ]
+    },
+    "oky": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "qokol daiin",
+          "repeated": "oky oky",
+          "after": "qokeod okeol"
+        }
+      ]
+    },
+    "okey": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "s!or chey",
+          "repeated": "okey okey",
+          "after": "okeey qokeor"
+        }
+      ]
+    },
+    "chey": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "lchees ol",
+          "repeated": "chey chey",
+          "after": "chol keechy"
+        }
+      ]
+    },
+    "lshey": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "daiin shey",
+          "repeated": "lshey lshey",
+          "after": "qoar shar"
+        }
+      ]
+    },
+    "qotcheo": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "qokeochy qokchy",
+          "repeated": "qotcheo qotcheo",
+          "after": "dlchd chedy"
+        }
+      ]
+    },
+    "sheol": {
+      "count": 1,
+      "lengths": {
+        "3": 1
+      },
+      "contexts": [
+        {
+          "before": "pchoror shor",
+          "repeated": "sheol sheol sheol",
+          "after": "qokchedy chdor"
+        }
+      ]
+    },
+    "lcheedy": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "cheeos aiiinro",
+          "repeated": "lcheedy lcheedy",
+          "after": "qosaiin cfheo"
+        }
+      ]
+    },
+    "okain": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "otaiikam ysheedal",
+          "repeated": "okain okain",
+          "after": "otar kaiin"
+        }
+      ]
+    },
+    "cheol": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "aly tair",
+          "repeated": "cheol cheol",
+          "after": "kchekai!n cheear"
+        }
+      ]
+    },
+    "qokey": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "qokeey okeoteey",
+          "repeated": "qokey qokey",
+          "after": "qokeey daiin"
+        }
+      ]
+    },
+    "lkedy": {
+      "count": 1,
+      "lengths": {
+        "2": 1
+      },
+      "contexts": [
+        {
+          "before": "qokey qokeey",
+          "repeated": "lkedy lkedy",
+          "after": "qokeedy lchedy"
+        }
+      ]
+    }
+  },
+  "class_statistics": {
+    "plants": {
+      "unique_words": 13,
+      "total_repetitions": 24,
+      "avg_max_length": 2.0,
+      "top_repeaters": [
+        {
+          "word": "qotedy",
+          "count": 4,
+          "max_length": 2
+        },
+        {
+          "word": "okedy",
+          "count": 4,
+          "max_length": 2
+        },
+        {
+          "word": "okeol",
+          "count": 3,
+          "max_length": 2
+        },
+        {
+          "word": "oteey",
+          "count": 2,
+          "max_length": 2
+        },
+        {
+          "word": "qoteedy",
+          "count": 2,
+          "max_length": 2
+        }
+      ]
+    },
+    "pronouns": {
+      "unique_words": 1,
+      "total_repetitions": 19,
+      "avg_max_length": 3.0,
+      "top_repeaters": [
+        {
+          "word": "daiin",
+          "count": 19,
+          "max_length": 3
+        }
+      ]
+    },
+    "verbs": {
+      "unique_words": 5,
+      "total_repetitions": 58,
+      "avg_max_length": 2.4,
+      "top_repeaters": [
+        {
+          "word": "qokeedy",
+          "count": 18,
+          "max_length": 3
+        },
+        {
+          "word": "qokeey",
+          "count": 12,
+          "max_length": 2
+        },
+        {
+          "word": "chedy",
+          "count": 10,
+          "max_length": 2
+        },
+        {
+          "word": "qokedy",
+          "count": 10,
+          "max_length": 3
+        },
+        {
+          "word": "shedy",
+          "count": 8,
+          "max_length": 2
+        }
+      ]
+    },
+    "function_words": {
+      "unique_words": 6,
+      "total_repetitions": 30,
+      "avg_max_length": 2.1666666666666665,
+      "top_repeaters": [
+        {
+          "word": "ol",
+          "count": 8,
+          "max_length": 3
+        },
+        {
+          "word": "ar",
+          "count": 8,
+          "max_length": 2
+        },
+        {
+          "word": "dar",
+          "count": 6,
+          "max_length": 2
+        },
+        {
+          "word": "al",
+          "count": 4,
+          "max_length": 2
+        },
+        {
+          "word": "or",
+          "count": 3,
+          "max_length": 2
+        }
+      ]
+    },
+    "unknown": {
+      "unique_words": 86,
+      "total_repetitions": 154,
+      "avg_max_length": 2.0813953488372094,
+      "top_repeaters": [
+        {
+          "word": "chol",
+          "count": 18,
+          "max_length": 3
+        },
+        {
+          "word": "chor",
+          "count": 6,
+          "max_length": 2
+        },
+        {
+          "word": "shol",
+          "count": 5,
+          "max_length": 2
+        },
+        {
+          "word": "okaiin",
+          "count": 5,
+          "max_length": 3
+        },
+        {
+          "word": "*",
+          "count": 5,
+          "max_length": 5
+        }
+      ]
+    }
+  },
+  "section_statistics": {
+    "herbal": {
+      "total_words": 20000,
+      "repetition_events": 170,
+      "repetition_density": 0.8500000000000001
+    },
+    "biological": {
+      "total_words": 5000,
+      "repetition_events": 23,
+      "repetition_density": 0.45999999999999996
+    },
+    "pharmaceutical": {
+      "total_words": 7000,
+      "repetition_events": 62,
+      "repetition_density": 0.8857142857142857
+    },
+    "recipes": {
+      "total_words": 5187,
+      "repetition_events": 28,
+      "repetition_density": 0.5398110661268556
+    }
+  },
+  "verb_sequences": [
+    {
+      "sequence": [
+        "shedy",
+        "qokeedy"
+      ],
+      "length": 2,
+      "before": [
+        "sas",
+        "daiin"
+      ],
+      "after": [
+        "qoteedar",
+        "sokolotedy"
+      ]
+    },
+    {
+      "sequence": [
+        "shedy",
+        "qokedy"
+      ],
+      "length": 2,
+      "before": [
+        "chedy",
+        "ldy"
+      ],
+      "after": [
+        "cheol",
+        "cheod"
+      ]
+    },
+    {
+      "sequence": [
+        "qokedy",
+        "qokeedy"
+      ],
+      "length": 2,
+      "before": [
+        "okedy",
+        "okedy"
+      ],
+      "after": [
+        "dar",
+        "shed!shey"
+      ]
+    },
+    {
+      "sequence": [
+        "qokedy",
+        "shedy"
+      ],
+      "length": 2,
+      "before": [
+        "y",
+        "cheky"
+      ],
+      "after": [
+        "chdal",
+        "chech!daiin"
+      ]
+    },
+    {
+      "sequence": [
+        "shedy",
+        "shedy"
+      ],
+      "length": 2,
+      "before": [
+        "checthy",
+        "qoteedy"
+      ],
+      "after": [
+        "olokes",
+        "ar"
+      ]
+    },
+    {
+      "sequence": [
+        "chedy",
+        "qokedy"
+      ],
+      "length": 2,
+      "before": [
+        "keedy",
+        "kchdy"
+      ],
+      "after": [
+        "chdy",
+        "kal"
+      ]
+    },
+    {
+      "sequence": [
+        "qokedy",
+        "chedy",
+        "qokedy"
+      ],
+      "length": 3,
+      "before": [
+        "qokeodyykedy",
+        "chkedy"
+      ],
+      "after": [
+        "dair",
+        "chedy"
+      ]
+    },
+    {
+      "sequence": [
+        "qokeedy",
+        "qokedy"
+      ],
+      "length": 2,
+      "before": [
+        "qekchdy",
+        "dchdal!dyykedy"
+      ],
+      "after": [
+        "qokeg",
+        "ykeod"
+      ]
+    },
+    {
+      "sequence": [
+        "shedy",
+        "chedy"
+      ],
+      "length": 2,
+      "before": [
+        "oty",
+        "qoty"
+      ],
+      "after": [
+        "dam",
+        "ydaiin"
+      ]
+    },
+    {
+      "sequence": [
+        "shedy",
+        "qokedy"
+      ],
+      "length": 2,
+      "before": [
+        "shckhef!y",
+        "lodaiin"
+      ],
+      "after": [
+        "chdy",
+        "okedy"
+      ]
+    },
+    {
+      "sequence": [
+        "shedy",
+        "chedy"
+      ],
+      "length": 2,
+      "before": [
+        "daiin",
+        "dal"
+      ],
+      "after": [
+        "ltar",
+        "ol"
+      ]
+    },
+    {
+      "sequence": [
+        "chedy",
+        "chedy"
+      ],
+      "length": 2,
+      "before": [
+        "oteol",
+        "sheshdy"
+      ],
+      "after": [
+        "dy",
+        "shes"
+      ]
+    },
+    {
+      "sequence": [
+        "qokedy",
+        "qokedy"
+      ],
+      "length": 2,
+      "before": [
+        "keedy",
+        "qokedyqokedy"
+      ],
+      "after": [
+        "qokain",
+        "olshedy"
+      ]
+    },
+    {
+      "sequence": [
+        "qokeedy",
+        "chedy"
+      ],
+      "length": 2,
+      "before": [
+        "dai!n",
+        "olchey"
+      ],
+      "after": [
+        "qotan",
+        "qo!daiin"
+      ]
+    },
+    {
+      "sequence": [
+        "qokeedy",
+        "qokeedy",
+        "qokedy",
+        "qokedy",
+        "qokeedy"
+      ],
+      "length": 5,
+      "before": [
+        "qokechdy",
+        "lol"
+      ],
+      "after": [
+        "ldy",
+        "yshedy"
+      ]
+    },
+    {
+      "sequence": [
+        "qokedy",
+        "qokedy"
+      ],
+      "length": 2,
+      "before": [
+        "qol",
+        "sheckhy"
+      ],
+      "after": [
+        "qokalys!or",
+        "chedy"
+      ]
+    },
+    {
+      "sequence": [
+        "qokeey",
+        "qokeey"
+      ],
+      "length": 2,
+      "before": [
+        "okeedy",
+        "qokeed"
+      ],
+      "after": [
+        "otey",
+        "qoky"
+      ]
+    },
+    {
+      "sequence": [
+        "qokedy",
+        "qokedy"
+      ],
+      "length": 2,
+      "before": [
+        "qotain",
+        "sheckhy"
+      ],
+      "after": [
+        "lsheckhy",
+        "qokai!n"
+      ]
+    },
+    {
+      "sequence": [
+        "shedy",
+        "qokedy",
+        "qokeedy"
+      ],
+      "length": 3,
+      "before": [
+        "dar",
+        "ol"
+      ],
+      "after": [
+        "qokar",
+        "olshedy"
+      ]
+    },
+    {
+      "sequence": [
+        "shedy",
+        "qokedy"
+      ],
+      "length": 2,
+      "before": [
+        "qokeeo",
+        "sol"
+      ],
+      "after": [
+        "sheey",
+        "okees"
+      ]
+    },
+    {
+      "sequence": [
+        "qokeey",
+        "shedy"
+      ],
+      "length": 2,
+      "before": [
+        "okeedal",
+        "qoked"
+      ],
+      "after": [
+        "chey",
+        "lkeedy"
+      ]
+    },
+    {
+      "sequence": [
+        "shedy",
+        "qokeedy"
+      ],
+      "length": 2,
+      "before": [
+        "chol",
+        "lkai!n"
+      ],
+      "after": [
+        "okain",
+        "chedy"
+      ]
+    },
+    {
+      "sequence": [
+        "qokeey",
+        "qokeey",
+        "chedy"
+      ],
+      "length": 3,
+      "before": [
+        "dcheedy",
+        "qo!lchey"
+      ],
+      "after": [
+        "qo!kar",
+        "shedy"
+      ]
+    },
+    {
+      "sequence": [
+        "shedy",
+        "shedy"
+      ],
+      "length": 2,
+      "before": [
+        "chedy",
+        "qo!kar"
+      ],
+      "after": [
+        "lshedy",
+        "qolchedy"
+      ]
+    },
+    {
+      "sequence": [
+        "qokedy",
+        "chedy",
+        "chedy"
+      ],
+      "length": 3,
+      "before": [
+        "oleeed",
+        "sheedy"
+      ],
+      "after": [
+        "qokain",
+        "chckhy"
+      ]
+    },
+    {
+      "sequence": [
+        "shedy",
+        "shedy"
+      ],
+      "length": 2,
+      "before": [
+        "ytal",
+        "qokar"
+      ],
+      "after": [
+        "qokar",
+        "shedy"
+      ]
+    },
+    {
+      "sequence": [
+        "shedy",
+        "shedy"
+      ],
+      "length": 2,
+      "before": [
+        "shey",
+        "qo!ol!kal"
+      ],
+      "after": [
+        "shey",
+        "shedy"
+      ]
+    },
+    {
+      "sequence": [
+        "qokedy",
+        "qokeedy",
+        "qokedy"
+      ],
+      "length": 3,
+      "before": [
+        "ror!ol",
+        "ol!sheed"
+      ],
+      "after": [
+        "lkedy",
+        "lsheedy"
+      ]
+    },
+    {
+      "sequence": [
+        "shedy",
+        "qokeey"
+      ],
+      "length": 2,
+      "before": [
+        "qokaiin",
+        "ol"
+      ],
+      "after": [
+        "or",
+        "shdy"
+      ]
+    },
+    {
+      "sequence": [
+        "shedy",
+        "chedy",
+        "qokeedy"
+      ],
+      "length": 3,
+      "before": [
+        "otedor",
+        "okor"
+      ],
+      "after": [
+        "oly",
+        "shey"
+      ]
+    },
+    {
+      "sequence": [
+        "qokeey",
+        "qokedy"
+      ],
+      "length": 2,
+      "before": [
+        "daiin",
+        "oekeedy"
+      ],
+      "after": [
+        "oteedy",
+        "shedy"
+      ]
+    },
+    {
+      "sequence": [
+        "shedy",
+        "qokedy"
+      ],
+      "length": 2,
+      "before": [
+        "qokedy",
+        "oteedy"
+      ],
+      "after": [
+        "shedam",
+        "sol"
+      ]
+    },
+    {
+      "sequence": [
+        "qokedy",
+        "shedy"
+      ],
+      "length": 2,
+      "before": [
+        "otedair",
+        "opshedal"
+      ],
+      "after": [
+        "ps!chedal",
+        "tsheokeedy"
+      ]
+    },
+    {
+      "sequence": [
+        "qokedy",
+        "chedy"
+      ],
+      "length": 2,
+      "before": [
+        "teedy",
+        "lchey"
+      ],
+      "after": [
+        "l!al",
+        "chedy"
+      ]
+    },
+    {
+      "sequence": [
+        "shedy",
+        "shedy",
+        "chedy"
+      ],
+      "length": 3,
+      "before": [
+        "qoteey",
+        "qokol"
+      ],
+      "after": [
+        "olched!r",
+        "shetey"
+      ]
+    },
+    {
+      "sequence": [
+        "chedy",
+        "shedy",
+        "qokeedy"
+      ],
+      "length": 3,
+      "before": [
+        "sy",
+        "saiin"
+      ],
+      "after": [
+        "lol!s!aiiin",
+        "qokain"
+      ]
+    },
+    {
+      "sequence": [
+        "chedy",
+        "qokedy",
+        "chedy"
+      ],
+      "length": 3,
+      "before": [
+        "sol",
+        "shey"
+      ],
+      "after": [
+        "qol",
+        "r"
+      ]
+    },
+    {
+      "sequence": [
+        "shedy",
+        "qokeedy"
+      ],
+      "length": 2,
+      "before": [
+        "qoteedy",
+        "qokaiin"
+      ],
+      "after": [
+        "qotedy",
+        "qokeedy"
+      ]
+    },
+    {
+      "sequence": [
+        "qokeedy",
+        "shedy"
+      ],
+      "length": 2,
+      "before": [
+        "qokeedy",
+        "qotedy"
+      ],
+      "after": [
+        "qotol",
+        "shedy"
+      ]
+    },
+    {
+      "sequence": [
+        "qokeedy",
+        "qokeedy"
+      ],
+      "length": 2,
+      "before": [
+        "lchey",
+        "lsheey"
+      ],
+      "after": [
+        "qokar",
+        "qokeey"
+      ]
+    },
+    {
+      "sequence": [
+        "shedy",
+        "qokeedy",
+        "qokedy",
+        "qokeey",
+        "chedy"
+      ],
+      "length": 5,
+      "before": [
+        "dalchedy",
+        "chedaiin"
+      ],
+      "after": [
+        "shear",
+        "olaiiny"
+      ]
+    },
+    {
+      "sequence": [
+        "qokeedy",
+        "chedy"
+      ],
+      "length": 2,
+      "before": [
+        "l!chedy",
+        "olshedy"
+      ],
+      "after": [
+        "qokol",
+        "daiin"
+      ]
+    },
+    {
+      "sequence": [
+        "shedy",
+        "qokeedy"
+      ],
+      "length": 2,
+      "before": [
+        "qokain",
+        "okaiin"
+      ],
+      "after": [
+        "qotedy",
+        "olchey"
+      ]
+    },
+    {
+      "sequence": [
+        "qokeedy",
+        "qokeedy"
+      ],
+      "length": 2,
+      "before": [
+        "saiin",
+        "cheeol"
+      ],
+      "after": [
+        "qotal",
+        "qokaiin"
+      ]
+    },
+    {
+      "sequence": [
+        "shedy",
+        "chedy"
+      ],
+      "length": 2,
+      "before": [
+        "dy",
+        "qokaiin"
+      ],
+      "after": [
+        "qol",
+        "chedy"
+      ]
+    },
+    {
+      "sequence": [
+        "qokeedy",
+        "qokeedy",
+        "qokeey"
+      ],
+      "length": 3,
+      "before": [
+        "qokeedy",
+        "qotedy"
+      ],
+      "after": [
+        "r!aiin",
+        "al"
+      ]
+    },
+    {
+      "sequence": [
+        "shedy",
+        "qokeedy"
+      ],
+      "length": 2,
+      "before": [
+        "qolky",
+        "qokeeey"
+      ],
+      "after": [
+        "qodykey",
+        "qokedy"
+      ]
+    },
+    {
+      "sequence": [
+        "qokedy",
+        "chedy"
+      ],
+      "length": 2,
+      "before": [
+        "ol",
+        "sheedy"
+      ],
+      "after": [
+        "tchedar",
+        "ol!ain"
+      ]
+    },
+    {
+      "sequence": [
+        "chedy",
+        "qokedy"
+      ],
+      "length": 2,
+      "before": [
+        "shedy",
+        "qokal"
+      ],
+      "after": [
+        "qol",
+        "shedy"
+      ]
+    },
+    {
+      "sequence": [
+        "shedy",
+        "qokeedy"
+      ],
+      "length": 2,
+      "before": [
+        "chedy",
+        "dal"
+      ],
+      "after": [
+        "dal",
+        "ol!chy"
+      ]
+    }
+  ],
+  "plant_sequences": [
+    {
+      "sequence": [
+        "oteey",
+        "oteos"
+      ],
+      "plant_count": 2,
+      "has_connectors": false
+    },
+    {
+      "sequence": [
+        "okeom",
+        "yteody",
+        "qokeeo"
+      ],
+      "plant_count": 2,
+      "has_connectors": true
+    },
+    {
+      "sequence": [
+        "qoteeol",
+        "okchor",
+        "okor"
+      ],
+      "plant_count": 2,
+      "has_connectors": true
+    },
+    {
+      "sequence": [
+        "okeody",
+        "chol",
+        "chokeody"
+      ],
+      "plant_count": 2,
+      "has_connectors": true
+    },
+    {
+      "sequence": [
+        "qotor",
+        "shees",
+        "otol"
+      ],
+      "plant_count": 2,
+      "has_connectors": true
+    },
+    {
+      "sequence": [
+        "qokol",
+        "chor!aiin",
+        "qokol"
+      ],
+      "plant_count": 2,
+      "has_connectors": true
+    },
+    {
+      "sequence": [
+        "qokor",
+        "okeor"
+      ],
+      "plant_count": 2,
+      "has_connectors": false
+    },
+    {
+      "sequence": [
+        "okeor",
+        "okar",
+        "okol"
+      ],
+      "plant_count": 2,
+      "has_connectors": true
+    },
+    {
+      "sequence": [
+        "okeeol",
+        "chodaiin",
+        "okeol"
+      ],
+      "plant_count": 2,
+      "has_connectors": true
+    },
+    {
+      "sequence": [
+        "otor",
+        "oteol"
+      ],
+      "plant_count": 2,
+      "has_connectors": false
+    },
+    {
+      "sequence": [
+        "okeor",
+        "char",
+        "okeom"
+      ],
+      "plant_count": 2,
+      "has_connectors": true
+    },
+    {
+      "sequence": [
+        "qokol",
+        "daiin",
+        "qokol"
+      ],
+      "plant_count": 2,
+      "has_connectors": true
+    },
+    {
+      "sequence": [
+        "qokoiin",
+        "otol"
+      ],
+      "plant_count": 2,
+      "has_connectors": false
+    },
+    {
+      "sequence": [
+        "qokeol",
+        "chol!ol",
+        "qoteeol"
+      ],
+      "plant_count": 2,
+      "has_connectors": true
+    },
+    {
+      "sequence": [
+        "qoteedy",
+        "qokody",
+        "qotedy",
+        "qotedy"
+      ],
+      "plant_count": 4,
+      "has_connectors": false
+    },
+    {
+      "sequence": [
+        "qokechy",
+        "qoko"
+      ],
+      "plant_count": 2,
+      "has_connectors": false
+    },
+    {
+      "sequence": [
+        "qokeeor",
+        "chokol",
+        "chokeody"
+      ],
+      "plant_count": 2,
+      "has_connectors": true
+    },
+    {
+      "sequence": [
+        "okeedy",
+        "qokees"
+      ],
+      "plant_count": 2,
+      "has_connectors": false
+    },
+    {
+      "sequence": [
+        "okedy",
+        "okedy"
+      ],
+      "plant_count": 2,
+      "has_connectors": false
+    },
+    {
+      "sequence": [
+        "okedy",
+        "okey"
+      ],
+      "plant_count": 2,
+      "has_connectors": false
+    },
+    {
+      "sequence": [
+        "okeo",
+        "kor",
+        "oteol"
+      ],
+      "plant_count": 2,
+      "has_connectors": true
+    },
+    {
+      "sequence": [
+        "otor",
+        "oldor",
+        "qotor"
+      ],
+      "plant_count": 2,
+      "has_connectors": true
+    },
+    {
+      "sequence": [
+        "qotol",
+        "okedy"
+      ],
+      "plant_count": 2,
+      "has_connectors": false
+    },
+    {
+      "sequence": [
+        "otey",
+        "okaiin",
+        "oteol",
+        "chekey",
+        "chetey"
+      ],
+      "plant_count": 3,
+      "has_connectors": true
+    },
+    {
+      "sequence": [
+        "qotol",
+        "cthol",
+        "okol"
+      ],
+      "plant_count": 2,
+      "has_connectors": true
+    },
+    {
+      "sequence": [
+        "shekey",
+        "okedy",
+        "okalydaiin",
+        "okedy"
+      ],
+      "plant_count": 3,
+      "has_connectors": true
+    },
+    {
+      "sequence": [
+        "qokeody",
+        "okey",
+        "qokeody"
+      ],
+      "plant_count": 3,
+      "has_connectors": false
+    },
+    {
+      "sequence": [
+        "qoteol",
+        "oteodar"
+      ],
+      "plant_count": 2,
+      "has_connectors": false
+    },
+    {
+      "sequence": [
+        "oteody",
+        "ykeey",
+        "okey"
+      ],
+      "plant_count": 2,
+      "has_connectors": true
+    },
+    {
+      "sequence": [
+        "chokey",
+        "chol",
+        "okey",
+        "okor"
+      ],
+      "plant_count": 3,
+      "has_connectors": true
+    },
+    {
+      "sequence": [
+        "qotody",
+        "qotar",
+        "okedy"
+      ],
+      "plant_count": 2,
+      "has_connectors": true
+    },
+    {
+      "sequence": [
+        "qokol",
+        "shedy",
+        "qotedy",
+        "qokehdy",
+        "qokody"
+      ],
+      "plant_count": 3,
+      "has_connectors": true
+    },
+    {
+      "sequence": [
+        "qotol",
+        "qotol"
+      ],
+      "plant_count": 2,
+      "has_connectors": false
+    },
+    {
+      "sequence": [
+        "okeedy",
+        "shekeey"
+      ],
+      "plant_count": 2,
+      "has_connectors": false
+    },
+    {
+      "sequence": [
+        "qokeol",
+        "chokeeody",
+        "otol"
+      ],
+      "plant_count": 2,
+      "has_connectors": true
+    },
+    {
+      "sequence": [
+        "qokol",
+        "oteodaiin"
+      ],
+      "plant_count": 2,
+      "has_connectors": false
+    },
+    {
+      "sequence": [
+        "qoteey",
+        "daiin",
+        "qoteey"
+      ],
+      "plant_count": 2,
+      "has_connectors": true
+    },
+    {
+      "sequence": [
+        "qokeody",
+        "sheey",
+        "okeody"
+      ],
+      "plant_count": 2,
+      "has_connectors": true
+    },
+    {
+      "sequence": [
+        "qokeol",
+        "okey"
+      ],
+      "plant_count": 2,
+      "has_connectors": false
+    },
+    {
+      "sequence": [
+        "okeor",
+        "sheey",
+        "qokeol",
+        "okeoly"
+      ],
+      "plant_count": 3,
+      "has_connectors": true
+    },
+    {
+      "sequence": [
+        "otol",
+        "chokey"
+      ],
+      "plant_count": 2,
+      "has_connectors": false
+    },
+    {
+      "sequence": [
+        "qokol",
+        "okol",
+        "okor"
+      ],
+      "plant_count": 3,
+      "has_connectors": false
+    },
+    {
+      "sequence": [
+        "shekey",
+        "qokeedar",
+        "okal",
+        "okedy"
+      ],
+      "plant_count": 3,
+      "has_connectors": true
+    },
+    {
+      "sequence": [
+        "qokeeody",
+        "qokeody",
+        "qokeody"
+      ],
+      "plant_count": 3,
+      "has_connectors": false
+    },
+    {
+      "sequence": [
+        "qokeeody",
+        "okedy"
+      ],
+      "plant_count": 2,
+      "has_connectors": false
+    },
+    {
+      "sequence": [
+        "okeedy",
+        "oteodaiin"
+      ],
+      "plant_count": 2,
+      "has_connectors": false
+    },
+    {
+      "sequence": [
+        "oteos",
+        "oteees",
+        "oteo"
+      ],
+      "plant_count": 2,
+      "has_connectors": true
+    },
+    {
+      "sequence": [
+        "otol",
+        "otor"
+      ],
+      "plant_count": 2,
+      "has_connectors": false
+    },
+    {
+      "sequence": [
+        "okeo",
+        "okor"
+      ],
+      "plant_count": 2,
+      "has_connectors": false
+    },
+    {
+      "sequence": [
+        "okeo",
+        "okoaiin",
+        "okol"
+      ],
+      "plant_count": 2,
+      "has_connectors": true
+    }
+  ],
+  "formulaic_sequences": [
+    {
+      "sequence": [
+        "*",
+        "*",
+        "*",
+        "*",
+        "*"
+      ],
+      "frequency": 8
+    }
+  ],
+  "summary": {
+    "overall_repetition_density": 0.7663968591174335,
+    "recipe_enrichment": 0.635071842502183,
+    "total_repetition_events": 285,
+    "verb_serial_constructions": 207,
+    "plant_lists": 345
+  }
+}

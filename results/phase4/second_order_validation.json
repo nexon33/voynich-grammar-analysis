@@ -1,0 +1,3042 @@
+{
+  "anchor_distribution": {
+    "herbal": 0.49836363636363634,
+    "biological": 0.13363636363636364,
+    "pharmaceutical": 0.22527272727272726,
+    "recipes": 0.14272727272727273
+  },
+  "validated_words": {
+    "olshedy": {
+      "composite_score": 1.66230561802634,
+      "cooccurrence_score": 2.9,
+      "near_anchor_count": 58,
+      "total_count": 20,
+      "distribution_correlation": 0.9487041201756015,
+      "distribution": {
+        "herbal": 0.55,
+        "biological": 0.2,
+        "pharmaceutical": 0.2,
+        "recipes": 0.05
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-edy"
+      ],
+      "morphological_root": "olsh"
+    },
+    "lkedy": {
+      "composite_score": 1.6044312810402876,
+      "cooccurrence_score": 2.925925925925926,
+      "near_anchor_count": 79,
+      "total_count": 27,
+      "distribution_correlation": 0.4937394044661148,
+      "distribution": {
+        "herbal": 0.3333333333333333,
+        "biological": 0.0,
+        "pharmaceutical": 0.4444444444444444,
+        "recipes": 0.2222222222222222
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-edy"
+      ],
+      "morphological_root": "lk"
+    },
+    "ykeedy": {
+      "composite_score": 1.5942044651562455,
+      "cooccurrence_score": 2.5,
+      "near_anchor_count": 60,
+      "total_count": 24,
+      "distribution_correlation": 0.9613631010416361,
+      "distribution": {
+        "herbal": 0.4583333333333333,
+        "biological": 0.20833333333333334,
+        "pharmaceutical": 0.20833333333333334,
+        "recipes": 0.125
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "y-",
+        "-edy"
+      ],
+      "morphological_root": "ke"
+    },
+    "dchedy": {
+      "composite_score": 1.5799391356776722,
+      "cooccurrence_score": 2.48,
+      "near_anchor_count": 62,
+      "total_count": 25,
+      "distribution_correlation": 0.9195942378511472,
+      "distribution": {
+        "herbal": 0.52,
+        "biological": 0.08,
+        "pharmaceutical": 0.16,
+        "recipes": 0.24
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "d-",
+        "-edy"
+      ],
+      "morphological_root": "ch"
+    },
+    "otedy": {
+      "composite_score": 1.5138511905519167,
+      "cooccurrence_score": 2.5197368421052633,
+      "near_anchor_count": 383,
+      "total_count": 152,
+      "distribution_correlation": 0.9730430247320754,
+      "distribution": {
+        "herbal": 0.40789473684210525,
+        "biological": 0.19736842105263158,
+        "pharmaceutical": 0.25,
+        "recipes": 0.14473684210526316
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-edy"
+      ],
+      "morphological_root": "ot"
+    },
+    "dshedy": {
+      "composite_score": 1.46897528232305,
+      "cooccurrence_score": 2.2,
+      "near_anchor_count": 77,
+      "total_count": 35,
+      "distribution_correlation": 0.9265018821536657,
+      "distribution": {
+        "herbal": 0.6857142857142857,
+        "biological": 0.2,
+        "pharmaceutical": 0.08571428571428572,
+        "recipes": 0.02857142857142857
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "d-",
+        "-edy"
+      ],
+      "morphological_root": "sh"
+    },
+    "qotal": {
+      "composite_score": 1.4208896431781226,
+      "cooccurrence_score": 2.0526315789473686,
+      "near_anchor_count": 117,
+      "total_count": 57,
+      "distribution_correlation": 0.9989134106611675,
+      "distribution": {
+        "herbal": 0.5789473684210527,
+        "biological": 0.08771929824561403,
+        "pharmaceutical": 0.21052631578947367,
+        "recipes": 0.12280701754385964
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "q-",
+        "-al"
+      ],
+      "morphological_root": "ot"
+    },
+    "sheedy": {
+      "composite_score": 1.4025075806958016,
+      "cooccurrence_score": 2.0240963855421685,
+      "near_anchor_count": 168,
+      "total_count": 83,
+      "distribution_correlation": 0.9524601765262277,
+      "distribution": {
+        "herbal": 0.5783132530120482,
+        "biological": 0.0963855421686747,
+        "pharmaceutical": 0.13253012048192772,
+        "recipes": 0.1927710843373494
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "s-",
+        "-edy"
+      ],
+      "morphological_root": "he"
+    },
+    "olkedy": {
+      "composite_score": 1.3754653640556558,
+      "cooccurrence_score": 2.185185185185185,
+      "near_anchor_count": 59,
+      "total_count": 27,
+      "distribution_correlation": 0.9426085998772114,
+      "distribution": {
+        "herbal": 0.6296296296296297,
+        "biological": 0.18518518518518517,
+        "pharmaceutical": 0.1111111111111111,
+        "recipes": 0.07407407407407407
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-edy"
+      ],
+      "morphological_root": "olk"
+    },
+    "oldy": {
+      "composite_score": 1.372623120376478,
+      "cooccurrence_score": 2.1666666666666665,
+      "near_anchor_count": 52,
+      "total_count": 24,
+      "distribution_correlation": 0.9730430247320754,
+      "distribution": {
+        "herbal": 0.625,
+        "biological": 0.125,
+        "pharmaceutical": 0.25,
+        "recipes": 0.0
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-dy"
+      ],
+      "morphological_root": "ol"
+    },
+    "checthy": {
+      "composite_score": 1.3707085198304396,
+      "cooccurrence_score": 2.1785714285714284,
+      "near_anchor_count": 61,
+      "total_count": 28,
+      "distribution_correlation": 0.9285329893457878,
+      "distribution": {
+        "herbal": 0.6428571428571429,
+        "biological": 0.10714285714285714,
+        "pharmaceutical": 0.07142857142857142,
+        "recipes": 0.17857142857142858
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-y"
+      ],
+      "morphological_root": "checth"
+    },
+    "lchedy": {
+      "composite_score": 1.3701155118416888,
+      "cooccurrence_score": 2.185185185185185,
+      "near_anchor_count": 236,
+      "total_count": 108,
+      "distribution_correlation": 0.9069429184507656,
+      "distribution": {
+        "herbal": 0.5092592592592593,
+        "biological": 0.009259259259259259,
+        "pharmaceutical": 0.25925925925925924,
+        "recipes": 0.2222222222222222
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-edy"
+      ],
+      "morphological_root": "lch"
+    },
+    "yteedy": {
+      "composite_score": 1.363172124135388,
+      "cooccurrence_score": 1.9259259259259258,
+      "near_anchor_count": 52,
+      "total_count": 27,
+      "distribution_correlation": 0.9520116917667848,
+      "distribution": {
+        "herbal": 0.4444444444444444,
+        "biological": 0.1111111111111111,
+        "pharmaceutical": 0.2962962962962963,
+        "recipes": 0.14814814814814814
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "y-",
+        "-edy"
+      ],
+      "morphological_root": "te"
+    },
+    "olchedy": {
+      "composite_score": 1.337029329846597,
+      "cooccurrence_score": 2.1176470588235294,
+      "near_anchor_count": 72,
+      "total_count": 34,
+      "distribution_correlation": 0.8664700421145676,
+      "distribution": {
+        "herbal": 0.6176470588235294,
+        "biological": 0.14705882352941177,
+        "pharmaceutical": 0.029411764705882353,
+        "recipes": 0.20588235294117646
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-edy"
+      ],
+      "morphological_root": "olch"
+    },
+    "shcthy": {
+      "composite_score": 1.3290254249520148,
+      "cooccurrence_score": 1.8275862068965518,
+      "near_anchor_count": 53,
+      "total_count": 29,
+      "distribution_correlation": 0.9866062812892927,
+      "distribution": {
+        "herbal": 0.5517241379310345,
+        "biological": 0.13793103448275862,
+        "pharmaceutical": 0.1724137931034483,
+        "recipes": 0.13793103448275862
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "s-",
+        "-y"
+      ],
+      "morphological_root": "hcth"
+    },
+    "lshedy": {
+      "composite_score": 1.3019535131180824,
+      "cooccurrence_score": 2.0,
+      "near_anchor_count": 74,
+      "total_count": 37,
+      "distribution_correlation": 0.9463567541205492,
+      "distribution": {
+        "herbal": 0.5405405405405406,
+        "biological": 0.08108108108108109,
+        "pharmaceutical": 0.16216216216216217,
+        "recipes": 0.21621621621621623
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-edy"
+      ],
+      "morphological_root": "lsh"
+    },
+    "qotai!n": {
+      "composite_score": 1.289742570092096,
+      "cooccurrence_score": 1.8888888888888888,
+      "near_anchor_count": 102,
+      "total_count": 54,
+      "distribution_correlation": 0.5612467635769356,
+      "distribution": {
+        "herbal": 0.37037037037037035,
+        "biological": 0.037037037037037035,
+        "pharmaceutical": 0.24074074074074073,
+        "recipes": 0.35185185185185186
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "q-",
+        "-n"
+      ],
+      "morphological_root": "otai!"
+    },
+    "keedy": {
+      "composite_score": 1.2886664792922709,
+      "cooccurrence_score": 2.018867924528302,
+      "near_anchor_count": 107,
+      "total_count": 53,
+      "distribution_correlation": 0.807462063206333,
+      "distribution": {
+        "herbal": 0.4716981132075472,
+        "biological": 0.03773584905660377,
+        "pharmaceutical": 0.18867924528301888,
+        "recipes": 0.3018867924528302
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-edy"
+      ],
+      "morphological_root": "ke"
+    },
+    "lol": {
+      "composite_score": 1.2796062549489844,
+      "cooccurrence_score": 2.225,
+      "near_anchor_count": 89,
+      "total_count": 40,
+      "distribution_correlation": 0.9973750329932275,
+      "distribution": {
+        "herbal": 0.575,
+        "biological": 0.075,
+        "pharmaceutical": 0.225,
+        "recipes": 0.125
+      },
+      "morphological_score": 0.3,
+      "morphological_affixes": [
+        "-ol"
+      ],
+      "morphological_root": "l"
+    },
+    "checkhy": {
+      "composite_score": 1.278926547191109,
+      "cooccurrence_score": 1.934782608695652,
+      "near_anchor_count": 89,
+      "total_count": 46,
+      "distribution_correlation": 0.9667566914189896,
+      "distribution": {
+        "herbal": 0.5434782608695652,
+        "biological": 0.08695652173913043,
+        "pharmaceutical": 0.17391304347826086,
+        "recipes": 0.1956521739130435
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-y"
+      ],
+      "morphological_root": "checkh"
+    },
+    "chedal": {
+      "composite_score": 1.2778022540831206,
+      "cooccurrence_score": 2.1666666666666665,
+      "near_anchor_count": 52,
+      "total_count": 24,
+      "distribution_correlation": 0.3409039161096937,
+      "distribution": {
+        "herbal": 0.2916666666666667,
+        "biological": 0.0,
+        "pharmaceutical": 0.4166666666666667,
+        "recipes": 0.2916666666666667
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-al"
+      ],
+      "morphological_root": "ched"
+    },
+    "qol": {
+      "composite_score": 1.2752052814038113,
+      "cooccurrence_score": 2.0,
+      "near_anchor_count": 294,
+      "total_count": 147,
+      "distribution_correlation": 0.9680352093587429,
+      "distribution": {
+        "herbal": 0.7210884353741497,
+        "biological": 0.08163265306122448,
+        "pharmaceutical": 0.08843537414965986,
+        "recipes": 0.10884353741496598
+      },
+      "morphological_score": 0.6,
+      "morphological_affixes": [
+        "q-",
+        "-l"
+      ],
+      "morphological_root": "o"
+    },
+    "sai!n": {
+      "composite_score": 1.2601556431717618,
+      "cooccurrence_score": 1.72,
+      "near_anchor_count": 86,
+      "total_count": 50,
+      "distribution_correlation": 0.8143709544784117,
+      "distribution": {
+        "herbal": 0.36,
+        "biological": 0.12,
+        "pharmaceutical": 0.26,
+        "recipes": 0.26
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "s-",
+        "-n"
+      ],
+      "morphological_root": "ai!"
+    },
+    "sheckhy": {
+      "composite_score": 1.2573355072988388,
+      "cooccurrence_score": 1.6470588235294117,
+      "near_anchor_count": 56,
+      "total_count": 34,
+      "distribution_correlation": 0.9900798525804938,
+      "distribution": {
+        "herbal": 0.6764705882352942,
+        "biological": 0.0,
+        "pharmaceutical": 0.20588235294117646,
+        "recipes": 0.11764705882352941
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "s-",
+        "-y"
+      ],
+      "morphological_root": "heckh"
+    },
+    "cheedy": {
+      "composite_score": 1.2528552472706218,
+      "cooccurrence_score": 1.8644067796610169,
+      "near_anchor_count": 110,
+      "total_count": 59,
+      "distribution_correlation": 0.9806169027081005,
+      "distribution": {
+        "herbal": 0.4406779661016949,
+        "biological": 0.13559322033898305,
+        "pharmaceutical": 0.22033898305084745,
+        "recipes": 0.2033898305084746
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-edy"
+      ],
+      "morphological_root": "che"
+    },
+    "okeey": {
+      "composite_score": 1.252805412622456,
+      "cooccurrence_score": 2.087719298245614,
+      "near_anchor_count": 357,
+      "total_count": 171,
+      "distribution_correlation": 0.3847846221614033,
+      "distribution": {
+        "herbal": 0.29239766081871343,
+        "biological": 0.04093567251461988,
+        "pharmaceutical": 0.42105263157894735,
+        "recipes": 0.24561403508771928
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-eey"
+      ],
+      "morphological_root": "ok"
+    },
+    "shckhy": {
+      "composite_score": 1.2498606560253929,
+      "cooccurrence_score": 1.6296296296296295,
+      "near_anchor_count": 88,
+      "total_count": 54,
+      "distribution_correlation": 0.9867253611569404,
+      "distribution": {
+        "herbal": 0.4444444444444444,
+        "biological": 0.18518518518518517,
+        "pharmaceutical": 0.2037037037037037,
+        "recipes": 0.16666666666666666
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "s-",
+        "-y"
+      ],
+      "morphological_root": "hckh"
+    },
+    "qokain": {
+      "composite_score": 1.2373433971867478,
+      "cooccurrence_score": 1.9027777777777777,
+      "near_anchor_count": 137,
+      "total_count": 72,
+      "distribution_correlation": 0.9748819071709125,
+      "distribution": {
+        "herbal": 0.7777777777777778,
+        "biological": 0.05555555555555555,
+        "pharmaceutical": 0.08333333333333333,
+        "recipes": 0.08333333333333333
+      },
+      "morphological_score": 0.6,
+      "morphological_affixes": [
+        "qok-",
+        "-in"
+      ],
+      "morphological_root": "a"
+    },
+    "olchey": {
+      "composite_score": 1.2356389513596735,
+      "cooccurrence_score": 1.8333333333333333,
+      "near_anchor_count": 44,
+      "total_count": 24,
+      "distribution_correlation": 0.9487041201756015,
+      "distribution": {
+        "herbal": 0.5,
+        "biological": 0.20833333333333334,
+        "pharmaceutical": 0.20833333333333334,
+        "recipes": 0.08333333333333333
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-ey"
+      ],
+      "morphological_root": "olch"
+    },
+    "qoky": {
+      "composite_score": 1.2331366839891893,
+      "cooccurrence_score": 2.1223021582733814,
+      "near_anchor_count": 295,
+      "total_count": 139,
+      "distribution_correlation": 0.9614388045322448,
+      "distribution": {
+        "herbal": 0.6258992805755396,
+        "biological": 0.14388489208633093,
+        "pharmaceutical": 0.11510791366906475,
+        "recipes": 0.11510791366906475
+      },
+      "morphological_score": 0.3,
+      "morphological_affixes": [
+        "qok-"
+      ],
+      "morphological_root": "y"
+    },
+    "chedar": {
+      "composite_score": 1.232361723554846,
+      "cooccurrence_score": 2.1666666666666665,
+      "near_anchor_count": 65,
+      "total_count": 30,
+      "distribution_correlation": 0.03796704592119586,
+      "distribution": {
+        "herbal": 0.23333333333333334,
+        "biological": 0.06666666666666667,
+        "pharmaceutical": 0.3333333333333333,
+        "recipes": 0.36666666666666664
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-ar"
+      ],
+      "morphological_root": "ched"
+    },
+    "ldy": {
+      "composite_score": 1.2306188920067271,
+      "cooccurrence_score": 2.2,
+      "near_anchor_count": 44,
+      "total_count": 20,
+      "distribution_correlation": 0.7374592800448462,
+      "distribution": {
+        "herbal": 0.6,
+        "biological": 0.05,
+        "pharmaceutical": 0.0,
+        "recipes": 0.35
+      },
+      "morphological_score": 0.3,
+      "morphological_affixes": [
+        "-dy"
+      ],
+      "morphological_root": "l"
+    },
+    "qotaiin": {
+      "composite_score": 1.228783099632516,
+      "cooccurrence_score": 1.6666666666666667,
+      "near_anchor_count": 125,
+      "total_count": 75,
+      "distribution_correlation": 0.7474428864389955,
+      "distribution": {
+        "herbal": 0.29333333333333333,
+        "biological": 0.18666666666666668,
+        "pharmaceutical": 0.26666666666666666,
+        "recipes": 0.25333333333333335
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "q-",
+        "-in"
+      ],
+      "morphological_root": "otai"
+    },
+    "qokal": {
+      "composite_score": 1.2273660577056862,
+      "cooccurrence_score": 1.8763440860215055,
+      "near_anchor_count": 349,
+      "total_count": 186,
+      "distribution_correlation": 0.978856155313893,
+      "distribution": {
+        "herbal": 0.6182795698924731,
+        "biological": 0.15053763440860216,
+        "pharmaceutical": 0.17204301075268819,
+        "recipes": 0.05913978494623656
+      },
+      "morphological_score": 0.6,
+      "morphological_affixes": [
+        "qok-",
+        "-l"
+      ],
+      "morphological_root": "a"
+    },
+    "chedaiin": {
+      "composite_score": 1.2257421922025926,
+      "cooccurrence_score": 1.903225806451613,
+      "near_anchor_count": 59,
+      "total_count": 31,
+      "distribution_correlation": 0.6963457974796499,
+      "distribution": {
+        "herbal": 0.3225806451612903,
+        "biological": 0.12903225806451613,
+        "pharmaceutical": 0.2903225806451613,
+        "recipes": 0.25806451612903225
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-in"
+      ],
+      "morphological_root": "chedai"
+    },
+    "tchedy": {
+      "composite_score": 1.2240246704096713,
+      "cooccurrence_score": 1.65625,
+      "near_anchor_count": 53,
+      "total_count": 32,
+      "distribution_correlation": 0.7434978027311419,
+      "distribution": {
+        "herbal": 0.4375,
+        "biological": 0.21875,
+        "pharmaceutical": 0.09375,
+        "recipes": 0.25
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "t-",
+        "-edy"
+      ],
+      "morphological_root": "ch"
+    },
+    "olkeedy": {
+      "composite_score": 1.2209129102756928,
+      "cooccurrence_score": 2.05,
+      "near_anchor_count": 82,
+      "total_count": 40,
+      "distribution_correlation": 0.2727527351712862,
+      "distribution": {
+        "herbal": 0.275,
+        "biological": 0.3,
+        "pharmaceutical": 0.225,
+        "recipes": 0.2
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-edy"
+      ],
+      "morphological_root": "olke"
+    },
+    "sheol": {
+      "composite_score": 1.2193286686796034,
+      "cooccurrence_score": 1.6126126126126126,
+      "near_anchor_count": 179,
+      "total_count": 111,
+      "distribution_correlation": 0.8285574908970561,
+      "distribution": {
+        "herbal": 0.4144144144144144,
+        "biological": 0.26126126126126126,
+        "pharmaceutical": 0.24324324324324326,
+        "recipes": 0.08108108108108109
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "s-",
+        "-ol"
+      ],
+      "morphological_root": "he"
+    },
+    "ckhey": {
+      "composite_score": 1.2100435009988324,
+      "cooccurrence_score": 1.8064516129032258,
+      "near_anchor_count": 56,
+      "total_count": 31,
+      "distribution_correlation": 0.8497523722502808,
+      "distribution": {
+        "herbal": 0.4838709677419355,
+        "biological": 0.16129032258064516,
+        "pharmaceutical": 0.3548387096774194,
+        "recipes": 0.0
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-ey"
+      ],
+      "morphological_root": "ckh"
+    },
+    "qoty": {
+      "composite_score": 1.2032632319420902,
+      "cooccurrence_score": 1.5125,
+      "near_anchor_count": 121,
+      "total_count": 80,
+      "distribution_correlation": 0.9884215462806011,
+      "distribution": {
+        "herbal": 0.6625,
+        "biological": 0.1,
+        "pharmaceutical": 0.15,
+        "recipes": 0.0875
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "q-",
+        "-y"
+      ],
+      "morphological_root": "ot"
+    },
+    "dai!n": {
+      "composite_score": 1.1990989023517995,
+      "cooccurrence_score": 1.6306306306306306,
+      "near_anchor_count": 181,
+      "total_count": 111,
+      "distribution_correlation": 0.6456443339969824,
+      "distribution": {
+        "herbal": 0.3153153153153153,
+        "biological": 0.1891891891891892,
+        "pharmaceutical": 0.2072072072072072,
+        "recipes": 0.2882882882882883
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "d-",
+        "-n"
+      ],
+      "morphological_root": "ai!"
+    },
+    "ched": {
+      "composite_score": 1.1936890745872621,
+      "cooccurrence_score": 1.7391304347826086,
+      "near_anchor_count": 40,
+      "total_count": 23,
+      "distribution_correlation": 0.920246004494792,
+      "distribution": {
+        "herbal": 0.43478260869565216,
+        "biological": 0.08695652173913043,
+        "pharmaceutical": 0.30434782608695654,
+        "recipes": 0.17391304347826086
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-ed"
+      ],
+      "morphological_root": "ch"
+    },
+    "qoaiin": {
+      "composite_score": 1.1915090675682332,
+      "cooccurrence_score": 1.5714285714285714,
+      "near_anchor_count": 33,
+      "total_count": 21,
+      "distribution_correlation": 0.7529175933120312,
+      "distribution": {
+        "herbal": 0.38095238095238093,
+        "biological": 0.23809523809523808,
+        "pharmaceutical": 0.14285714285714285,
+        "recipes": 0.23809523809523808
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "q-",
+        "-in"
+      ],
+      "morphological_root": "oai"
+    },
+    "qokaiin": {
+      "composite_score": 1.1907878114385382,
+      "cooccurrence_score": 1.484732824427481,
+      "near_anchor_count": 389,
+      "total_count": 262,
+      "distribution_correlation": 0.9792978777836387,
+      "distribution": {
+        "herbal": 0.4198473282442748,
+        "biological": 0.14122137404580154,
+        "pharmaceutical": 0.26717557251908397,
+        "recipes": 0.1717557251908397
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "qok-",
+        "-in"
+      ],
+      "morphological_root": "ai"
+    },
+    "chckhy": {
+      "composite_score": 1.1889693322388595,
+      "cooccurrence_score": 1.7054263565891472,
+      "near_anchor_count": 220,
+      "total_count": 129,
+      "distribution_correlation": 0.97865859735467,
+      "distribution": {
+        "herbal": 0.5736434108527132,
+        "biological": 0.11627906976744186,
+        "pharmaceutical": 0.15503875968992248,
+        "recipes": 0.15503875968992248
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-y"
+      ],
+      "morphological_root": "chckh"
+    },
+    "sal": {
+      "composite_score": 1.1841118124719818,
+      "cooccurrence_score": 1.7755102040816326,
+      "near_anchor_count": 87,
+      "total_count": 49,
+      "distribution_correlation": 0.9593848722621922,
+      "distribution": {
+        "herbal": 0.6326530612244898,
+        "biological": 0.16326530612244897,
+        "pharmaceutical": 0.12244897959183673,
+        "recipes": 0.08163265306122448
+      },
+      "morphological_score": 0.6,
+      "morphological_affixes": [
+        "s-",
+        "-l"
+      ],
+      "morphological_root": "a"
+    },
+    "oly": {
+      "composite_score": 1.1812164829115175,
+      "cooccurrence_score": 1.6875,
+      "near_anchor_count": 81,
+      "total_count": 48,
+      "distribution_correlation": 0.9747765527434492,
+      "distribution": {
+        "herbal": 0.7291666666666666,
+        "biological": 0.10416666666666667,
+        "pharmaceutical": 0.10416666666666667,
+        "recipes": 0.0625
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-y"
+      ],
+      "morphological_root": "ol"
+    },
+    "keody": {
+      "composite_score": 1.1747909280633504,
+      "cooccurrence_score": 1.6818181818181819,
+      "near_anchor_count": 37,
+      "total_count": 22,
+      "distribution_correlation": 0.9470910355738501,
+      "distribution": {
+        "herbal": 0.6363636363636364,
+        "biological": 0.13636363636363635,
+        "pharmaceutical": 0.09090909090909091,
+        "recipes": 0.13636363636363635
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-dy"
+      ],
+      "morphological_root": "keo"
+    },
+    "sor": {
+      "composite_score": 1.1705681059318225,
+      "cooccurrence_score": 1.7391304347826086,
+      "near_anchor_count": 80,
+      "total_count": 46,
+      "distribution_correlation": 0.9661062134585269,
+      "distribution": {
+        "herbal": 0.6086956521739131,
+        "biological": 0.15217391304347827,
+        "pharmaceutical": 0.13043478260869565,
+        "recipes": 0.10869565217391304
+      },
+      "morphological_score": 0.6,
+      "morphological_affixes": [
+        "s-",
+        "-r"
+      ],
+      "morphological_root": "o"
+    },
+    "aly": {
+      "composite_score": 1.1690774144922083,
+      "cooccurrence_score": 1.6551724137931034,
+      "near_anchor_count": 48,
+      "total_count": 29,
+      "distribution_correlation": 0.9800563264997793,
+      "distribution": {
+        "herbal": 0.6896551724137931,
+        "biological": 0.034482758620689655,
+        "pharmaceutical": 0.13793103448275862,
+        "recipes": 0.13793103448275862
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-y"
+      ],
+      "morphological_root": "al"
+    },
+    "dol": {
+      "composite_score": 1.1660372715600213,
+      "cooccurrence_score": 1.7454545454545454,
+      "near_anchor_count": 192,
+      "total_count": 110,
+      "distribution_correlation": 0.9190363558546872,
+      "distribution": {
+        "herbal": 0.5636363636363636,
+        "biological": 0.22727272727272727,
+        "pharmaceutical": 0.17272727272727273,
+        "recipes": 0.03636363636363636
+      },
+      "morphological_score": 0.6,
+      "morphological_affixes": [
+        "d-",
+        "-l"
+      ],
+      "morphological_root": "o"
+    },
+    "tedy": {
+      "composite_score": 1.1624107197115854,
+      "cooccurrence_score": 1.7619047619047619,
+      "near_anchor_count": 74,
+      "total_count": 42,
+      "distribution_correlation": 0.850992099664538,
+      "distribution": {
+        "herbal": 0.5476190476190477,
+        "biological": 0.2619047619047619,
+        "pharmaceutical": 0.09523809523809523,
+        "recipes": 0.09523809523809523
+      },
+      "morphological_score": 0.6,
+      "morphological_affixes": [
+        "t-",
+        "-dy"
+      ],
+      "morphological_root": "e"
+    },
+    "qotar": {
+      "composite_score": 1.162158870817967,
+      "cooccurrence_score": 1.45,
+      "near_anchor_count": 87,
+      "total_count": 60,
+      "distribution_correlation": 0.8810591387864481,
+      "distribution": {
+        "herbal": 0.2833333333333333,
+        "biological": 0.23333333333333334,
+        "pharmaceutical": 0.23333333333333334,
+        "recipes": 0.25
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "q-",
+        "-ar"
+      ],
+      "morphological_root": "ot"
+    },
+    "cheol": {
+      "composite_score": 1.1603107394675065,
+      "cooccurrence_score": 1.6666666666666667,
+      "near_anchor_count": 275,
+      "total_count": 165,
+      "distribution_correlation": 0.8909604853389325,
+      "distribution": {
+        "herbal": 0.3878787878787879,
+        "biological": 0.15757575757575756,
+        "pharmaceutical": 0.3151515151515151,
+        "recipes": 0.1393939393939394
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-ol"
+      ],
+      "morphological_root": "che"
+    },
+    "cheky": {
+      "composite_score": 1.1595324722462748,
+      "cooccurrence_score": 1.631578947368421,
+      "near_anchor_count": 93,
+      "total_count": 57,
+      "distribution_correlation": 0.9793392886593754,
+      "distribution": {
+        "herbal": 0.7543859649122807,
+        "biological": 0.03508771929824561,
+        "pharmaceutical": 0.10526315789473684,
+        "recipes": 0.10526315789473684
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-y"
+      ],
+      "morphological_root": "chek"
+    },
+    "sheky": {
+      "composite_score": 1.158379929653823,
+      "cooccurrence_score": 1.4,
+      "near_anchor_count": 49,
+      "total_count": 35,
+      "distribution_correlation": 0.9891995310254871,
+      "distribution": {
+        "herbal": 0.7142857142857143,
+        "biological": 0.08571428571428572,
+        "pharmaceutical": 0.14285714285714285,
+        "recipes": 0.05714285714285714
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "s-",
+        "-y"
+      ],
+      "morphological_root": "hek"
+    },
+    "chdy": {
+      "composite_score": 1.1510845636245557,
+      "cooccurrence_score": 1.6453900709219857,
+      "near_anchor_count": 232,
+      "total_count": 141,
+      "distribution_correlation": 0.8861902350384084,
+      "distribution": {
+        "herbal": 0.475177304964539,
+        "biological": 0.24822695035460993,
+        "pharmaceutical": 0.15602836879432624,
+        "recipes": 0.12056737588652482
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-dy"
+      ],
+      "morphological_root": "ch"
+    },
+    "qokai!n": {
+      "composite_score": 1.149534934157547,
+      "cooccurrence_score": 1.4179104477611941,
+      "near_anchor_count": 285,
+      "total_count": 201,
+      "distribution_correlation": 0.8824717003537945,
+      "distribution": {
+        "herbal": 0.47761194029850745,
+        "biological": 0.06467661691542288,
+        "pharmaceutical": 0.19402985074626866,
+        "recipes": 0.263681592039801
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "qok-",
+        "-n"
+      ],
+      "morphological_root": "ai!"
+    },
+    "qo": {
+      "composite_score": 1.1477048657816256,
+      "cooccurrence_score": 1.9615384615384615,
+      "near_anchor_count": 51,
+      "total_count": 26,
+      "distribution_correlation": 0.8205965411082725,
+      "distribution": {
+        "herbal": 0.5769230769230769,
+        "biological": 0.11538461538461539,
+        "pharmaceutical": 0.038461538461538464,
+        "recipes": 0.2692307692307692
+      },
+      "morphological_score": 0.3,
+      "morphological_affixes": [
+        "q-"
+      ],
+      "morphological_root": "o"
+    },
+    "pchedy": {
+      "composite_score": 1.1462847312063233,
+      "cooccurrence_score": 1.6153846153846154,
+      "near_anchor_count": 42,
+      "total_count": 26,
+      "distribution_correlation": 0.934205900349848,
+      "distribution": {
+        "herbal": 0.46153846153846156,
+        "biological": 0.07692307692307693,
+        "pharmaceutical": 0.3076923076923077,
+        "recipes": 0.15384615384615385
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-edy"
+      ],
+      "morphological_root": "pch"
+    },
+    "lchey": {
+      "composite_score": 1.1456657639313026,
+      "cooccurrence_score": 1.625,
+      "near_anchor_count": 65,
+      "total_count": 40,
+      "distribution_correlation": 0.904438426208684,
+      "distribution": {
+        "herbal": 0.525,
+        "biological": 0.075,
+        "pharmaceutical": 0.15,
+        "recipes": 0.25
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-ey"
+      ],
+      "morphological_root": "lch"
+    },
+    "ycheey": {
+      "composite_score": 1.144888958673605,
+      "cooccurrence_score": 1.8571428571428572,
+      "near_anchor_count": 39,
+      "total_count": 21,
+      "distribution_correlation": -0.3197878945569182,
+      "distribution": {
+        "herbal": 0.14285714285714285,
+        "biological": 0.14285714285714285,
+        "pharmaceutical": 0.42857142857142855,
+        "recipes": 0.2857142857142857
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "y-",
+        "-eey"
+      ],
+      "morphological_root": "ch"
+    },
+    "cheeky": {
+      "composite_score": 1.1329510656570274,
+      "cooccurrence_score": 1.5714285714285714,
+      "near_anchor_count": 33,
+      "total_count": 21,
+      "distribution_correlation": 0.9625309139039925,
+      "distribution": {
+        "herbal": 0.8095238095238095,
+        "biological": 0.047619047619047616,
+        "pharmaceutical": 0.047619047619047616,
+        "recipes": 0.09523809523809523
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-y"
+      ],
+      "morphological_root": "cheek"
+    },
+    "sheor": {
+      "composite_score": 1.131747106234864,
+      "cooccurrence_score": 1.38,
+      "near_anchor_count": 69,
+      "total_count": 50,
+      "distribution_correlation": 0.8649807082324275,
+      "distribution": {
+        "herbal": 0.42,
+        "biological": 0.26,
+        "pharmaceutical": 0.2,
+        "recipes": 0.12
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "s-",
+        "-or"
+      ],
+      "morphological_root": "he"
+    },
+    "kedy": {
+      "composite_score": 1.131369821420061,
+      "cooccurrence_score": 1.8837209302325582,
+      "near_anchor_count": 81,
+      "total_count": 43,
+      "distribution_correlation": 0.9192096621802501,
+      "distribution": {
+        "herbal": 0.5813953488372093,
+        "biological": 0.18604651162790697,
+        "pharmaceutical": 0.09302325581395349,
+        "recipes": 0.13953488372093023
+      },
+      "morphological_score": 0.3,
+      "morphological_affixes": [
+        "-edy"
+      ],
+      "morphological_root": "k"
+    },
+    "chey": {
+      "composite_score": 1.1277243354201016,
+      "cooccurrence_score": 1.5476190476190477,
+      "near_anchor_count": 520,
+      "total_count": 336,
+      "distribution_correlation": 0.9911781091498842,
+      "distribution": {
+        "herbal": 0.5059523809523809,
+        "biological": 0.09821428571428571,
+        "pharmaceutical": 0.25297619047619047,
+        "recipes": 0.14285714285714285
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-ey"
+      ],
+      "morphological_root": "ch"
+    },
+    "qokchdy": {
+      "composite_score": 1.1276693376662605,
+      "cooccurrence_score": 1.3454545454545455,
+      "near_anchor_count": 74,
+      "total_count": 55,
+      "distribution_correlation": 0.9299167965629483,
+      "distribution": {
+        "herbal": 0.5636363636363636,
+        "biological": 0.18181818181818182,
+        "pharmaceutical": 0.10909090909090909,
+        "recipes": 0.14545454545454545
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "qok-",
+        "-dy"
+      ],
+      "morphological_root": "ch"
+    },
+    "okaly": {
+      "composite_score": 1.1270299300646622,
+      "cooccurrence_score": 1.55,
+      "near_anchor_count": 31,
+      "total_count": 20,
+      "distribution_correlation": 0.9801995337644148,
+      "distribution": {
+        "herbal": 0.8,
+        "biological": 0.0,
+        "pharmaceutical": 0.1,
+        "recipes": 0.1
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-y"
+      ],
+      "morphological_root": "okal"
+    },
+    "sol": {
+      "composite_score": 1.1228365587176832,
+      "cooccurrence_score": 1.6181818181818182,
+      "near_anchor_count": 89,
+      "total_count": 55,
+      "distribution_correlation": 0.9704255429663722,
+      "distribution": {
+        "herbal": 0.6181818181818182,
+        "biological": 0.16363636363636364,
+        "pharmaceutical": 0.18181818181818182,
+        "recipes": 0.03636363636363636
+      },
+      "morphological_score": 0.6,
+      "morphological_affixes": [
+        "s-",
+        "-l"
+      ],
+      "morphological_root": "o"
+    },
+    "qopchedy": {
+      "composite_score": 1.1208711557677178,
+      "cooccurrence_score": 1.625,
+      "near_anchor_count": 52,
+      "total_count": 32,
+      "distribution_correlation": 0.13914103845145162,
+      "distribution": {
+        "herbal": 0.25,
+        "biological": 0.0625,
+        "pharmaceutical": 0.34375,
+        "recipes": 0.34375
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "q-",
+        "-edy"
+      ],
+      "morphological_root": "opch"
+    },
+    "sar": {
+      "composite_score": 1.1202428793978119,
+      "cooccurrence_score": 1.6216216216216217,
+      "near_anchor_count": 120,
+      "total_count": 74,
+      "distribution_correlation": 0.9439615383277546,
+      "distribution": {
+        "herbal": 0.47297297297297297,
+        "biological": 0.20270270270270271,
+        "pharmaceutical": 0.24324324324324326,
+        "recipes": 0.08108108108108109
+      },
+      "morphological_score": 0.6,
+      "morphological_affixes": [
+        "s-",
+        "-r"
+      ],
+      "morphological_root": "a"
+    },
+    "ykeey": {
+      "composite_score": 1.119678744016095,
+      "cooccurrence_score": 1.6226415094339623,
+      "near_anchor_count": 86,
+      "total_count": 53,
+      "distribution_correlation": 0.937480934950067,
+      "distribution": {
+        "herbal": 0.4528301886792453,
+        "biological": 0.1509433962264151,
+        "pharmaceutical": 0.3018867924528302,
+        "recipes": 0.09433962264150944
+      },
+      "morphological_score": 0.6,
+      "morphological_affixes": [
+        "y-",
+        "-eey"
+      ],
+      "morphological_root": "k"
+    },
+    "daly": {
+      "composite_score": 1.119129506795422,
+      "cooccurrence_score": 1.3076923076923077,
+      "near_anchor_count": 34,
+      "total_count": 26,
+      "distribution_correlation": 0.9736838914566589,
+      "distribution": {
+        "herbal": 0.9230769230769231,
+        "biological": 0.038461538461538464,
+        "pharmaceutical": 0.038461538461538464,
+        "recipes": 0.0
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "d-",
+        "-y"
+      ],
+      "morphological_root": "al"
+    },
+    "sheey": {
+      "composite_score": 1.1182992906320939,
+      "cooccurrence_score": 1.5971223021582734,
+      "near_anchor_count": 222,
+      "total_count": 139,
+      "distribution_correlation": 0.9963357984585626,
+      "distribution": {
+        "herbal": 0.4676258992805755,
+        "biological": 0.12949640287769784,
+        "pharmaceutical": 0.23741007194244604,
+        "recipes": 0.16546762589928057
+      },
+      "morphological_score": 0.6,
+      "morphological_affixes": [
+        "s-",
+        "-eey"
+      ],
+      "morphological_root": "h"
+    },
+    "shody": {
+      "composite_score": 1.115821969378024,
+      "cooccurrence_score": 1.3725490196078431,
+      "near_anchor_count": 70,
+      "total_count": 51,
+      "distribution_correlation": 0.7786824102325784,
+      "distribution": {
+        "herbal": 0.43137254901960786,
+        "biological": 0.29411764705882354,
+        "pharmaceutical": 0.19607843137254902,
+        "recipes": 0.0784313725490196
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "s-",
+        "-dy"
+      ],
+      "morphological_root": "ho"
+    },
+    "chety": {
+      "composite_score": 1.1081437364278948,
+      "cooccurrence_score": 1.5,
+      "near_anchor_count": 36,
+      "total_count": 24,
+      "distribution_correlation": 0.9876249095192977,
+      "distribution": {
+        "herbal": 0.75,
+        "biological": 0.041666666666666664,
+        "pharmaceutical": 0.125,
+        "recipes": 0.08333333333333333
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-y"
+      ],
+      "morphological_root": "chet"
+    },
+    "daiir": {
+      "composite_score": 1.1067289687597148,
+      "cooccurrence_score": 1.2727272727272727,
+      "near_anchor_count": 28,
+      "total_count": 22,
+      "distribution_correlation": 0.9842537311253712,
+      "distribution": {
+        "herbal": 0.8636363636363636,
+        "biological": 0.045454545454545456,
+        "pharmaceutical": 0.09090909090909091,
+        "recipes": 0.0
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "d-",
+        "-r"
+      ],
+      "morphological_root": "aii"
+    },
+    "sheody": {
+      "composite_score": 1.1062688706921886,
+      "cooccurrence_score": 1.2916666666666667,
+      "near_anchor_count": 62,
+      "total_count": 48,
+      "distribution_correlation": 0.9306813601701452,
+      "distribution": {
+        "herbal": 0.375,
+        "biological": 0.20833333333333334,
+        "pharmaceutical": 0.2708333333333333,
+        "recipes": 0.14583333333333334
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "s-",
+        "-dy"
+      ],
+      "morphological_root": "heo"
+    },
+    "teey": {
+      "composite_score": 1.1061855704485084,
+      "cooccurrence_score": 1.7,
+      "near_anchor_count": 34,
+      "total_count": 20,
+      "distribution_correlation": 0.6412371363233897,
+      "distribution": {
+        "herbal": 0.55,
+        "biological": 0.05,
+        "pharmaceutical": 0.0,
+        "recipes": 0.4
+      },
+      "morphological_score": 0.6,
+      "morphological_affixes": [
+        "t-",
+        "-ey"
+      ],
+      "morphological_root": "e"
+    },
+    "cheal": {
+      "composite_score": 1.1054252028798135,
+      "cooccurrence_score": 1.6333333333333333,
+      "near_anchor_count": 49,
+      "total_count": 30,
+      "distribution_correlation": 0.6139457969765351,
+      "distribution": {
+        "herbal": 0.36666666666666664,
+        "biological": 0.1,
+        "pharmaceutical": 0.2,
+        "recipes": 0.3333333333333333
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-al"
+      ],
+      "morphological_root": "che"
+    },
+    "dair": {
+      "composite_score": 1.1014340188900158,
+      "cooccurrence_score": 1.2755102040816326,
+      "near_anchor_count": 125,
+      "total_count": 98,
+      "distribution_correlation": 0.9415329150490842,
+      "distribution": {
+        "herbal": 0.5,
+        "biological": 0.17346938775510204,
+        "pharmaceutical": 0.14285714285714285,
+        "recipes": 0.1836734693877551
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "d-",
+        "-r"
+      ],
+      "morphological_root": "ai"
+    },
+    "otaiin": {
+      "composite_score": 1.09604224115806,
+      "cooccurrence_score": 1.516778523489933,
+      "near_anchor_count": 226,
+      "total_count": 149,
+      "distribution_correlation": 0.8622055450805786,
+      "distribution": {
+        "herbal": 0.3825503355704698,
+        "biological": 0.10738255033557047,
+        "pharmaceutical": 0.3087248322147651,
+        "recipes": 0.20134228187919462
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-in"
+      ],
+      "morphological_root": "otai"
+    },
+    "tol": {
+      "composite_score": 1.095394992875681,
+      "cooccurrence_score": 1.5555555555555556,
+      "near_anchor_count": 70,
+      "total_count": 45,
+      "distribution_correlation": 0.9544851376897249,
+      "distribution": {
+        "herbal": 0.6444444444444445,
+        "biological": 0.17777777777777778,
+        "pharmaceutical": 0.13333333333333333,
+        "recipes": 0.044444444444444446
+      },
+      "morphological_score": 0.6,
+      "morphological_affixes": [
+        "t-",
+        "-l"
+      ],
+      "morphological_root": "o"
+    },
+    "qoeedy": {
+      "composite_score": 1.0919906983610799,
+      "cooccurrence_score": 1.85,
+      "near_anchor_count": 37,
+      "total_count": 20,
+      "distribution_correlation": -0.6533953442594677,
+      "distribution": {
+        "herbal": 0.15,
+        "biological": 0.25,
+        "pharmaceutical": 0.35,
+        "recipes": 0.25
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "q-",
+        "-edy"
+      ],
+      "morphological_root": "oe"
+    },
+    "qokchy": {
+      "composite_score": 1.091182234940811,
+      "cooccurrence_score": 1.2352941176470589,
+      "near_anchor_count": 84,
+      "total_count": 68,
+      "distribution_correlation": 0.9804305858799154,
+      "distribution": {
+        "herbal": 0.7058823529411765,
+        "biological": 0.07352941176470588,
+        "pharmaceutical": 0.11764705882352941,
+        "recipes": 0.10294117647058823
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "qok-",
+        "-y"
+      ],
+      "morphological_root": "ch"
+    },
+    "olor": {
+      "composite_score": 1.090032946425523,
+      "cooccurrence_score": 1.4642857142857142,
+      "near_anchor_count": 41,
+      "total_count": 28,
+      "distribution_correlation": 0.9621244047415811,
+      "distribution": {
+        "herbal": 0.75,
+        "biological": 0.10714285714285714,
+        "pharmaceutical": 0.07142857142857142,
+        "recipes": 0.07142857142857142
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-or"
+      ],
+      "morphological_root": "ol"
+    },
+    "oky": {
+      "composite_score": 1.0881078440635281,
+      "cooccurrence_score": 1.4545454545454546,
+      "near_anchor_count": 128,
+      "total_count": 88,
+      "distribution_correlation": 0.9752644149689743,
+      "distribution": {
+        "herbal": 0.6704545454545454,
+        "biological": 0.13636363636363635,
+        "pharmaceutical": 0.13636363636363635,
+        "recipes": 0.056818181818181816
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-y"
+      ],
+      "morphological_root": "ok"
+    },
+    "oiin": {
+      "composite_score": 1.086575737603081,
+      "cooccurrence_score": 1.46875,
+      "near_anchor_count": 47,
+      "total_count": 32,
+      "distribution_correlation": 0.9271715840205393,
+      "distribution": {
+        "herbal": 0.53125,
+        "biological": 0.0,
+        "pharmaceutical": 0.28125,
+        "recipes": 0.1875
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-in"
+      ],
+      "morphological_root": "oi"
+    },
+    "olaiin": {
+      "composite_score": 1.0856389513596736,
+      "cooccurrence_score": 1.4583333333333333,
+      "near_anchor_count": 70,
+      "total_count": 48,
+      "distribution_correlation": 0.9487041201756015,
+      "distribution": {
+        "herbal": 0.375,
+        "biological": 0.22916666666666666,
+        "pharmaceutical": 0.22916666666666666,
+        "recipes": 0.16666666666666666
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-in"
+      ],
+      "morphological_root": "olai"
+    },
+    "sair": {
+      "composite_score": 1.0854375007018104,
+      "cooccurrence_score": 1.2173913043478262,
+      "near_anchor_count": 28,
+      "total_count": 23,
+      "distribution_correlation": 0.9898731930845333,
+      "distribution": {
+        "herbal": 0.4782608695652174,
+        "biological": 0.17391304347826086,
+        "pharmaceutical": 0.21739130434782608,
+        "recipes": 0.13043478260869565
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "s-",
+        "-r"
+      ],
+      "morphological_root": "ai"
+    },
+    "okai!n": {
+      "composite_score": 1.0836280053370801,
+      "cooccurrence_score": 1.6767676767676767,
+      "near_anchor_count": 166,
+      "total_count": 99,
+      "distribution_correlation": 0.3528062308667301,
+      "distribution": {
+        "herbal": 0.2828282828282828,
+        "biological": 0.08080808080808081,
+        "pharmaceutical": 0.3434343434343434,
+        "recipes": 0.29292929292929293
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-n"
+      ],
+      "morphological_root": "okai!"
+    },
+    "cheey": {
+      "composite_score": 1.08157501045189,
+      "cooccurrence_score": 1.4797687861271676,
+      "near_anchor_count": 256,
+      "total_count": 173,
+      "distribution_correlation": 0.8644499733401523,
+      "distribution": {
+        "herbal": 0.3988439306358382,
+        "biological": 0.08670520231213873,
+        "pharmaceutical": 0.2947976878612717,
+        "recipes": 0.21965317919075145
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-eey"
+      ],
+      "morphological_root": "ch"
+    },
+    "choty": {
+      "composite_score": 1.0782467841563645,
+      "cooccurrence_score": 1.4285714285714286,
+      "near_anchor_count": 50,
+      "total_count": 35,
+      "distribution_correlation": 0.978788084851953,
+      "distribution": {
+        "herbal": 0.7142857142857143,
+        "biological": 0.05714285714285714,
+        "pharmaceutical": 0.11428571428571428,
+        "recipes": 0.11428571428571428
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-y"
+      ],
+      "morphological_root": "chot"
+    },
+    "okchey": {
+      "composite_score": 1.0775836634901668,
+      "cooccurrence_score": 1.4193548387096775,
+      "near_anchor_count": 44,
+      "total_count": 31,
+      "distribution_correlation": 0.9989448533753048,
+      "distribution": {
+        "herbal": 0.5483870967741935,
+        "biological": 0.0967741935483871,
+        "pharmaceutical": 0.22580645161290322,
+        "recipes": 0.12903225806451613
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-ey"
+      ],
+      "morphological_root": "okch"
+    },
+    "okam": {
+      "composite_score": 1.0759022430636809,
+      "cooccurrence_score": 1.64,
+      "near_anchor_count": 41,
+      "total_count": 25,
+      "distribution_correlation": 0.9993482870912066,
+      "distribution": {
+        "herbal": 0.64,
+        "biological": 0.08,
+        "pharmaceutical": 0.2,
+        "recipes": 0.08
+      },
+      "morphological_score": 0.4,
+      "morphological_affixes": [],
+      "morphological_root": "okam"
+    },
+    "qotchy": {
+      "composite_score": 1.0714696684060403,
+      "cooccurrence_score": 1.1935483870967742,
+      "near_anchor_count": 74,
+      "total_count": 62,
+      "distribution_correlation": 0.960335423782204,
+      "distribution": {
+        "herbal": 0.8387096774193549,
+        "biological": 0.06451612903225806,
+        "pharmaceutical": 0.03225806451612903,
+        "recipes": 0.06451612903225806
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "q-",
+        "-y"
+      ],
+      "morphological_root": "otch"
+    },
+    "otchey": {
+      "composite_score": 1.06932654601765,
+      "cooccurrence_score": 1.4193548387096775,
+      "near_anchor_count": 44,
+      "total_count": 31,
+      "distribution_correlation": 0.9438974035585269,
+      "distribution": {
+        "herbal": 0.5483870967741935,
+        "biological": 0.12903225806451613,
+        "pharmaceutical": 0.12903225806451613,
+        "recipes": 0.1935483870967742
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-ey"
+      ],
+      "morphological_root": "otch"
+    },
+    "dal": {
+      "composite_score": 1.066241268469307,
+      "cooccurrence_score": 1.493723849372385,
+      "near_anchor_count": 357,
+      "total_count": 239,
+      "distribution_correlation": 0.9250115248023539,
+      "distribution": {
+        "herbal": 0.6820083682008368,
+        "biological": 0.200836820083682,
+        "pharmaceutical": 0.08368200836820083,
+        "recipes": 0.03347280334728033
+      },
+      "morphological_score": 0.6,
+      "morphological_affixes": [
+        "d-",
+        "-l"
+      ],
+      "morphological_root": "a"
+    },
+    "chcthy": {
+      "composite_score": 1.0658306401985327,
+      "cooccurrence_score": 1.4102564102564104,
+      "near_anchor_count": 110,
+      "total_count": 78,
+      "distribution_correlation": 0.9448538406397894,
+      "distribution": {
+        "herbal": 0.5769230769230769,
+        "biological": 0.1282051282051282,
+        "pharmaceutical": 0.11538461538461539,
+        "recipes": 0.1794871794871795
+      },
+      "morphological_score": 0.7,
+      "morphological_affixes": [
+        "-y"
+      ],
+      "morphological_root": "chcth"
+    },
+    "qotchedy": {
+      "composite_score": 1.0620394679171914,
+      "cooccurrence_score": 1.6956521739130435,
+      "near_anchor_count": 39,
+      "total_count": 23,
+      "distribution_correlation": -0.4414760109868405,
+      "distribution": {
+        "herbal": 0.13043478260869565,
+        "biological": 0.13043478260869565,
+        "pharmaceutical": 0.17391304347826086,
+        "recipes": 0.5652173913043478
+      },
+      "morphological_score": 1.0,
+      "morphological_affixes": [
+        "q-",
+        "-edy"
+      ],
+      "morphological_root": "otch"
+    }
+  },
+  "categorized": {
+    "likely_plants": [
+      {
+        "word": "otedy",
+        "score": 1.5138511905519167,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "qotal",
+        "score": 1.4208896431781226,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "qotai!n",
+        "score": 1.289742570092096,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "okeey",
+        "score": 1.252805412622456,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "qotaiin",
+        "score": 1.228783099632516,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "qoty",
+        "score": 1.2032632319420902,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "qotar",
+        "score": 1.162158870817967,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "okaly",
+        "score": 1.1270299300646622,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "otaiin",
+        "score": 1.09604224115806,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "oky",
+        "score": 1.0881078440635281,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "okai!n",
+        "score": 1.0836280053370801,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "choty",
+        "score": 1.0782467841563645,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "okchey",
+        "score": 1.0775836634901668,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "okam",
+        "score": 1.0759022430636809,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "qotchy",
+        "score": 1.0714696684060403,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "otchey",
+        "score": 1.06932654601765,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "qotchedy",
+        "score": 1.0620394679171914,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "otchdy",
+        "score": 1.0567362409539198,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "otal",
+        "score": 1.0499083310434818,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "oty",
+        "score": 1.0475853808628572,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "okair",
+        "score": 1.0462408146776974,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "otar",
+        "score": 1.039970653883104,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "okain",
+        "score": 1.0297716740687664,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "okar",
+        "score": 1.0286646032496591,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "okal",
+        "score": 1.0227331082427924,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "okchedy",
+        "score": 1.0163080632985182,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "okaiin",
+        "score": 1.0111716511746214,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "qotchdy",
+        "score": 1.007135090027962,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "choky",
+        "score": 0.9974744760330779,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "otam",
+        "score": 0.9729235655312982,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "otchy",
+        "score": 0.9676807007213044,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "otai!n",
+        "score": 0.9073410597570881,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "okchdy",
+        "score": 0.9023291670159959,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "otchedy",
+        "score": 0.8953005501800455,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "okchy",
+        "score": 0.8894325628847162,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "otchol",
+        "score": 0.8350216582059702,
+        "reason": "Plant root detected"
+      },
+      {
+        "word": "otair",
+        "score": 0.8071363984462989,
+        "reason": "Plant root detected"
+      }
+    ],
+    "likely_verbs": [
+      {
+        "word": "olshedy",
+        "score": 1.66230561802634,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "lkedy",
+        "score": 1.6044312810402876,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "ykeedy",
+        "score": 1.5942044651562455,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "dchedy",
+        "score": 1.5799391356776722,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "dshedy",
+        "score": 1.46897528232305,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "sheedy",
+        "score": 1.4025075806958016,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "olkedy",
+        "score": 1.3754653640556558,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "oldy",
+        "score": 1.372623120376478,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "lchedy",
+        "score": 1.3701155118416888,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "yteedy",
+        "score": 1.363172124135388,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "olchedy",
+        "score": 1.337029329846597,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "lshedy",
+        "score": 1.3019535131180824,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "keedy",
+        "score": 1.2886664792922709,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "cheedy",
+        "score": 1.2528552472706218,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "ldy",
+        "score": 1.2306188920067271,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "tchedy",
+        "score": 1.2240246704096713,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "olkeedy",
+        "score": 1.2209129102756928,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "keody",
+        "score": 1.1747909280633504,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "tedy",
+        "score": 1.1624107197115854,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "chdy",
+        "score": 1.1510845636245557,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "pchedy",
+        "score": 1.1462847312063233,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "kedy",
+        "score": 1.131369821420061,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "qokchdy",
+        "score": 1.1276693376662605,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "qopchedy",
+        "score": 1.1208711557677178,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "shody",
+        "score": 1.115821969378024,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "sheody",
+        "score": 1.1062688706921886,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "qoeedy",
+        "score": 1.0919906983610799,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "shdy",
+        "score": 1.0581041575062995,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "cheody",
+        "score": 1.0516598470459653,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "chody",
+        "score": 1.0278321619771742,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "lkeedy",
+        "score": 1.0156094546473098,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "opchedy",
+        "score": 0.9965156320839779,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "qokchedy",
+        "score": 0.9887201619728507,
+        "reason": "Verbal suffix detected"
+      },
+      {
+        "word": "ody",
+        "score": 0.9397942388591923,
+        "reason": "Verbal suffix detected"
+      }
+    ],
+    "likely_function_words": [
+      {
+        "word": "qol",
+        "score": 1.2752052814038113,
+        "reason": "Short, high-frequency"
+      },
+      {
+        "word": "dol",
+        "score": 1.1660372715600213,
+        "reason": "Short, high-frequency"
+      },
+      {
+        "word": "dal",
+        "score": 1.066241268469307,
+        "reason": "Short, high-frequency"
+      },
+      {
+        "word": "dar",
+        "score": 1.0479996613122877,
+        "reason": "Short, high-frequency"
+      },
+      {
+        "word": "ol",
+        "score": 1.0236634433464356,
+        "reason": "Short, high-frequency"
+      },
+      {
+        "word": "al",
+        "score": 0.9761894014617317,
+        "reason": "Short, high-frequency"
+      },
+      {
+        "word": "sho",
+        "score": 0.9692764758920698,
+        "reason": "Short, high-frequency"
+      },
+      {
+        "word": "dy",
+        "score": 0.9419108120362568,
+        "reason": "Short, high-frequency"
+      },
+      {
+        "word": "or",
+        "score": 0.916204442677406,
+        "reason": "Short, high-frequency"
+      },
+      {
+        "word": "chy",
+        "score": 0.9108220320864567,
+        "reason": "Short, high-frequency"
+      },
+      {
+        "word": "ar",
+        "score": 0.9009903821010136,
+        "reason": "Short, high-frequency"
+      },
+      {
+        "word": "s",
+        "score": 0.7759973547326486,
+        "reason": "Short, high-frequency"
+      },
+      {
+        "word": "y",
+        "score": 0.749464266164453,
+        "reason": "Short, high-frequency"
+      }
+    ],
+    "unknown_category": [
+      {
+        "word": "checthy",
+        "score": 1.3707085198304396,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "shcthy",
+        "score": 1.3290254249520148,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "lol",
+        "score": 1.2796062549489844,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "checkhy",
+        "score": 1.278926547191109,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "chedal",
+        "score": 1.2778022540831206,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "sai!n",
+        "score": 1.2601556431717618,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "sheckhy",
+        "score": 1.2573355072988388,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "shckhy",
+        "score": 1.2498606560253929,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "qokain",
+        "score": 1.2373433971867478,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "olchey",
+        "score": 1.2356389513596735,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "qoky",
+        "score": 1.2331366839891893,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "chedar",
+        "score": 1.232361723554846,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "qokal",
+        "score": 1.2273660577056862,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "chedaiin",
+        "score": 1.2257421922025926,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "sheol",
+        "score": 1.2193286686796034,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "ckhey",
+        "score": 1.2100435009988324,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "dai!n",
+        "score": 1.1990989023517995,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "ched",
+        "score": 1.1936890745872621,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "qoaiin",
+        "score": 1.1915090675682332,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "qokaiin",
+        "score": 1.1907878114385382,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "chckhy",
+        "score": 1.1889693322388595,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "sal",
+        "score": 1.1841118124719818,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "oly",
+        "score": 1.1812164829115175,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "sor",
+        "score": 1.1705681059318225,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "aly",
+        "score": 1.1690774144922083,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "cheol",
+        "score": 1.1603107394675065,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "cheky",
+        "score": 1.1595324722462748,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "sheky",
+        "score": 1.158379929653823,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "qokai!n",
+        "score": 1.149534934157547,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "qo",
+        "score": 1.1477048657816256,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "lchey",
+        "score": 1.1456657639313026,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "ycheey",
+        "score": 1.144888958673605,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "cheeky",
+        "score": 1.1329510656570274,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "sheor",
+        "score": 1.131747106234864,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "chey",
+        "score": 1.1277243354201016,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "sol",
+        "score": 1.1228365587176832,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "sar",
+        "score": 1.1202428793978119,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "ykeey",
+        "score": 1.119678744016095,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "daly",
+        "score": 1.119129506795422,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "sheey",
+        "score": 1.1182992906320939,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "chety",
+        "score": 1.1081437364278948,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "daiir",
+        "score": 1.1067289687597148,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "teey",
+        "score": 1.1061855704485084,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "cheal",
+        "score": 1.1054252028798135,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "dair",
+        "score": 1.1014340188900158,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "tol",
+        "score": 1.095394992875681,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "qokchy",
+        "score": 1.091182234940811,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "olor",
+        "score": 1.090032946425523,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "oiin",
+        "score": 1.086575737603081,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "olaiin",
+        "score": 1.0856389513596736,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "sair",
+        "score": 1.0854375007018104,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "cheey",
+        "score": 1.08157501045189,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "chcthy",
+        "score": 1.0658306401985327,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "olkai!n",
+        "score": 1.0579918300566291,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "olkeey",
+        "score": 1.0540730704197494,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "ykar",
+        "score": 1.0480156418282487,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "oraiin",
+        "score": 1.0463686105478989,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "shey",
+        "score": 1.0426953088829147,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "chckhey",
+        "score": 1.0391924412692335,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "tchey",
+        "score": 1.0355604973652601,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "ckhol",
+        "score": 1.0350021730090233,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "dor",
+        "score": 1.0341582354866425,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "ches",
+        "score": 1.0329003435468598,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "qokchey",
+        "score": 1.0319914867439586,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "taiin",
+        "score": 1.0288697703317402,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "sy",
+        "score": 1.0282220493425873,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "qodaiin",
+        "score": 1.0256891056507427,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "raiin",
+        "score": 1.0242075375648303,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "ykaiin",
+        "score": 1.0229043205755655,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "dain",
+        "score": 1.0224559922324326,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "keey",
+        "score": 1.0203321826382048,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "shear",
+        "score": 1.018223598319008,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "lkeey",
+        "score": 1.0142663824184055,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "dchor",
+        "score": 1.0122234426091987,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "sheo",
+        "score": 1.0108109789287916,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "cthey",
+        "score": 1.0047017283779063,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "chol",
+        "score": 1.0045511573261456,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "qokar",
+        "score": 1.003623107729329,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "cthor",
+        "score": 1.0021863495269268,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "chos",
+        "score": 1.00082354732027,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "kchor",
+        "score": 0.9985637088235391,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "chal",
+        "score": 0.9968668305631665,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "yteey",
+        "score": 0.994375623283241,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "qokam",
+        "score": 0.99416452588919,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "chodaiin",
+        "score": 0.9930992825180767,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "opchey",
+        "score": 0.9904115864346761,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "odaiin",
+        "score": 0.9817963154667589,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "ain",
+        "score": 0.9801576178232062,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "om",
+        "score": 0.9778324292375269,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "tchy",
+        "score": 0.9773749577607138,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "dchol",
+        "score": 0.9714653425853492,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "dam",
+        "score": 0.9709397493082412,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "aiir",
+        "score": 0.9676645413151116,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "cheor",
+        "score": 0.9651688888514961,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "shaiin",
+        "score": 0.9591653580527943,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "cthy",
+        "score": 0.9527549814175077,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "am",
+        "score": 0.9477311956905746,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "lkaiin",
+        "score": 0.9421999829264622,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "kor",
+        "score": 0.9313703860008606,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "olky",
+        "score": 0.9301762917322001,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "chor",
+        "score": 0.9264845594697595,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "chear",
+        "score": 0.9257779166331086,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "chl",
+        "score": 0.9250774388363361,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "shor",
+        "score": 0.9244973394827272,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "shol",
+        "score": 0.9154467800714439,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "os",
+        "score": 0.9137875299986086,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "cham",
+        "score": 0.9130570433963218,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "lkar",
+        "score": 0.9081581415605328,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "olkaiin",
+        "score": 0.9050236910672064,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "cho",
+        "score": 0.9029017789486854,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "lkai!n",
+        "score": 0.9012551084131037,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "yty",
+        "score": 0.8999735546822498,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "tar",
+        "score": 0.8995386173431574,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "shy",
+        "score": 0.8931785941773294,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "ytar",
+        "score": 0.8916677540044122,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "cthol",
+        "score": 0.8879685355386722,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "dchy",
+        "score": 0.8869611061845049,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "kai!n",
+        "score": 0.8855481508599188,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "cheo",
+        "score": 0.8807163689282117,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "kal",
+        "score": 0.873936915928987,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "char",
+        "score": 0.8726317974958384,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "kchey",
+        "score": 0.8691764736433552,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "air",
+        "score": 0.8687034193781527,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "shar",
+        "score": 0.8654258726272113,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "r",
+        "score": 0.8590077530032667,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "cheos",
+        "score": 0.8530302164247837,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "kaiin",
+        "score": 0.8519401317027729,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "ytaiin",
+        "score": 0.8457336175815946,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "kol",
+        "score": 0.8426695721121521,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "chees",
+        "score": 0.8412677874852003,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "lor",
+        "score": 0.8410604115935919,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "chaiin",
+        "score": 0.8325569215115716,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "qor",
+        "score": 0.8257239528444869,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "she",
+        "score": 0.8243796370855989,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "kchol",
+        "score": 0.8214653425853492,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "ky",
+        "score": 0.807701606785577,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "ckhy",
+        "score": 0.8063494545699612,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "ary",
+        "score": 0.8039241135888886,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "o",
+        "score": 0.8018643393647154,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "shodaiin",
+        "score": 0.7979552880212691,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "ai!n",
+        "score": 0.7915832817698104,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "kar",
+        "score": 0.7899286342472519,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "tor",
+        "score": 0.7807085034993171,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "d",
+        "score": 0.7481883548899004,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "l",
+        "score": 0.7256929360427989,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "kchy",
+        "score": 0.7067411107113915,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "aiiin",
+        "score": 0.6913822986016044,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "odar",
+        "score": 0.673450479192724,
+        "reason": "No clear category match"
+      },
+      {
+        "word": "*",
+        "score": 0.5140198187321489,
+        "reason": "No clear category match"
+      }
+    ]
+  },
+  "statistics": {
+    "total_candidates": 233,
+    "high_confidence": 232,
+    "medium_confidence": 1,
+    "low_confidence": 0,
+    "high_confidence_coverage": 41.80493183101622,
+    "avg_cooccurrence": 1.444488490259073,
+    "avg_correlation": 0.7863854972150154,
+    "avg_morphological": 0.6802575107296137
+  }
+}
