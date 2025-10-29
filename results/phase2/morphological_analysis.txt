@@ -1,0 +1,148 @@
+MORPHOLOGICAL PATTERN ANALYSIS
+======================================================================
+
+Total unique matches: 347
+Words with ME suffixes: 104
+Words with ME prefixes: 10
+
+SUFFIX PATTERNS:
+----------------------------------------------------------------------
+
+-ed: 14 matches
+  arod                 → ared
+  chod                 → ched
+  shed                 → shed
+  ched                 → ched
+  shod                 → shed
+  ted                  → ted
+  ded                  → ded
+  kod                  → ked
+  ked                  → ked
+  led                  → led
+  rod                  → red
+  dod                  → ded
+  tod                  → ted
+  lod                  → led
+
+-es: 27 matches
+  deedes               → deedes
+  chees                → chees
+  olees                → elees
+  taros                → tares
+  lotos                → letes
+  cheos                → chees
+  dalos                → dales
+  alos                 → ales
+  otes                 → etes
+  teos                 → tees
+  chos                 → ches
+  sees                 → sees
+  otos                 → etes
+  soes                 → sees
+  tees                 → tees
+  olos                 → eles
+  ches                 → ches
+  dos                  → des
+  sos                  → ses
+  tos                  → tes
+  res                  → res
+  ees                  → ees
+  fos                  → fes
+  les                  → les
+  los                  → les
+  ses                  → ses
+  kos                  → kes
+
+-ing: 0 matches
+
+-yng: 0 matches
+
+-ly: 10 matches
+  choly                → chely
+  oroly                → erely
+  ytaly                → ytaly
+  ally                 → ally
+  doly                 → dely
+  toly                 → tely
+  loly                 → lely
+  soly                 → sely
+  oly                  → ely
+  aly                  → aly
+
+-er: 33 matches
+  chokor               → cheker
+  chekor               → cheker
+  polor                → peler
+  schor                → scher
+  oldor                → elder
+  solor                → seler
+  cheer                → cheer
+  toror                → terer
+  choor                → cheer
+  cheor                → cheer
+  ofor                 → efer
+  axor                 → axer
+  odor                 → eder
+  seor                 → seer
+  teor                 → teer
+  ydor                 → yder
+  cher                 → cher
+  dyor                 → dyer
+  chor                 → cher
+  alor                 → aler
+  for                  → fer
+  ker                  → ker
+  dor                  → der
+  tor                  → ter
+  por                  → per
+  oor                  → eer
+  sor                  → ser
+  hor                  → her
+  yor                  → yer
+  lor                  → ler
+  ror                  → rer
+  eor                  → eer
+  kor                  → ker
+
+-or: 0 matches
+
+-el: 20 matches
+  tochol               → techel
+  techol               → techel
+  schol                → schel
+  porol                → perel
+  ofol                 → efel
+  shol                 → shel
+  deol                 → deel
+  stol                 → stel
+  del                  → del
+  rol                  → rel
+  dol                  → del
+  yol                  → yel
+  nol                  → nel
+  tol                  → tel
+  fol                  → fel
+  pol                  → pel
+  hol                  → hel
+  mol                  → mel
+  lol                  → lel
+  sol                  → sel
+
+
+VOYNICH SUFFIX MAPPINGS:
+----------------------------------------------------------------------
+
+ME '-er' → Voynich patterns:
+  '-or': 30/33 (90.9%)
+  '-er': 3/33 (9.1%)
+
+ME '-es' → Voynich patterns:
+  '-os': 15/27 (55.6%)
+  '-es': 12/27 (44.4%)
+
+ME '-ly' → Voynich patterns:
+  '-ly': 10/10 (100.0%)
+
+ME '-ed' → Voynich patterns:
+  '-od': 8/14 (57.1%)
+  '-ed': 6/14 (42.9%)

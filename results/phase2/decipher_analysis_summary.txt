@@ -1,0 +1,37 @@
+DECIPHER ANALYSIS SUMMARY
+======================================================================
+
+Cipher mapping: o → e
+Total recognized words: 75
+Unique recognized words: 20
+Recognition rate: ~9.85%
+
+TOP 50 RECOGNIZED WORDS:
+----------------------------------------------------------------------
+dar                     19x
+she                     14x
+der                     11x
+del                      8x
+che                      5x
+das                      2x
+dame                     2x
+ser                      2x
+dem                      2x
+are                      1x
+eer                      1x
+dele                     1x
+sal                      1x
+year                     1x
+teld                     1x
+eche                     1x
+ches                     1x
+kam                      1x
+tel                      1x
+
+
+POTENTIAL MEDICAL VOCABULARY:
+----------------------------------------------------------------------
+cho             → che             (relates to: ache)
+ocho            → eche            (relates to: leche)
+cho             → che             (relates to: leche)
+dor             → der             (relates to: moder)
