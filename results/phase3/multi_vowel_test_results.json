@@ -1,0 +1,119 @@
+{
+  "section_id": 4,
+  "total_words": 500,
+  "eo_only": {
+    "recognized": 8,
+    "rate": 1.6,
+    "unique_terms": 4,
+    "matches": [
+      {
+        "original": "or",
+        "variant": "or",
+        "meaning": "or",
+        "category": "COMMON"
+      },
+      {
+        "original": "oro",
+        "variant": "ere",
+        "meaning": "ear",
+        "category": "body_parts"
+      },
+      {
+        "original": "sho",
+        "variant": "she",
+        "meaning": "she",
+        "category": "COMMON"
+      },
+      {
+        "original": "sor",
+        "variant": "sor",
+        "meaning": "sore/pain",
+        "category": "conditions"
+      },
+      {
+        "original": "sho",
+        "variant": "she",
+        "meaning": "she",
+        "category": "COMMON"
+      },
+      {
+        "original": "sor",
+        "variant": "sor",
+        "meaning": "sore/pain",
+        "category": "conditions"
+      },
+      {
+        "original": "sho",
+        "variant": "she",
+        "meaning": "she",
+        "category": "COMMON"
+      },
+      {
+        "original": "or",
+        "variant": "or",
+        "meaning": "or",
+        "category": "COMMON"
+      }
+    ]
+  },
+  "multi_vowel": {
+    "recognized": 8,
+    "rate": 1.6,
+    "unique_terms": 4,
+    "matches": [
+      {
+        "original": "or",
+        "variant": "or",
+        "meaning": "or",
+        "category": "COMMON"
+      },
+      {
+        "original": "oro",
+        "variant": "ere",
+        "meaning": "ear",
+        "category": "body_parts"
+      },
+      {
+        "original": "sho",
+        "variant": "she",
+        "meaning": "she",
+        "category": "COMMON"
+      },
+      {
+        "original": "sor",
+        "variant": "sor",
+        "meaning": "sore/pain",
+        "category": "conditions"
+      },
+      {
+        "original": "sho",
+        "variant": "she",
+        "meaning": "she",
+        "category": "COMMON"
+      },
+      {
+        "original": "sor",
+        "variant": "sor",
+        "meaning": "sore/pain",
+        "category": "conditions"
+      },
+      {
+        "original": "sho",
+        "variant": "she",
+        "meaning": "she",
+        "category": "COMMON"
+      },
+      {
+        "original": "or",
+        "variant": "or",
+        "meaning": "or",
+        "category": "COMMON"
+      }
+    ]
+  },
+  "improvement": {
+    "absolute": 0.0,
+    "relative_pct": 0.0
+  },
+  "new_matches": []
+}

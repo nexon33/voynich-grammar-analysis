@@ -1,0 +1,19 @@
+{
+  "section_id": 4,
+  "total_words": 100,
+  "eo_only": {
+    "recognized": 0,
+    "rate": 0.0,
+    "unique_terms": 0
+  },
+  "multi_vowel": {
+    "recognized": 0,
+    "rate": 0.0,
+    "unique_terms": 0
+  },
+  "improvement": {
+    "absolute": 0.0,
+    "relative_pct": 0
+  },
+  "new_matches": []
+}

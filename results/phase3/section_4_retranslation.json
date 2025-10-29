@@ -1,0 +1,145 @@
+{
+  "section_id": 4,
+  "total_words": 500,
+  "recognized": 15,
+  "recognition_rate": 3.0,
+  "translations": [
+    {
+      "original": "or",
+      "variant": "or",
+      "meaning": "or",
+      "category": "COMMON",
+      "confidence": 1.0,
+      "folio": "f19v",
+      "position": 2004
+    },
+    {
+      "original": "dai",
+      "variant": "dai",
+      "meaning": "day",
+      "category": "TIME",
+      "confidence": 1.0,
+      "folio": "f19v",
+      "position": 2006
+    },
+    {
+      "original": "sho",
+      "variant": "she",
+      "meaning": "she",
+      "category": "COMMON_VAR",
+      "confidence": 0.8,
+      "folio": "f20r",
+      "position": 2032
+    },
+    {
+      "original": "sho",
+      "variant": "she",
+      "meaning": "she",
+      "category": "COMMON_VAR",
+      "confidence": 0.8,
+      "folio": "f20v",
+      "position": 2140
+    },
+    {
+      "original": "sho",
+      "variant": "she",
+      "meaning": "she",
+      "category": "COMMON_VAR",
+      "confidence": 0.8,
+      "folio": "f21r",
+      "position": 2209
+    },
+    {
+      "original": "sho",
+      "variant": "she",
+      "meaning": "she",
+      "category": "COMMON_VAR",
+      "confidence": 0.8,
+      "folio": "f21v",
+      "position": 2266
+    },
+    {
+      "original": "do",
+      "variant": "do",
+      "meaning": "do",
+      "category": "COMMON",
+      "confidence": 1.0,
+      "folio": "f22r",
+      "position": 2305
+    },
+    {
+      "original": "a",
+      "variant": "a",
+      "meaning": "a",
+      "category": "COMMON",
+      "confidence": 1.0,
+      "folio": "f22r",
+      "position": 2314
+    },
+    {
+      "original": "sor",
+      "variant": "sor",
+      "meaning": "sore/pain",
+      "category": "CONDITIONS",
+      "confidence": 1.0,
+      "folio": "f22v",
+      "position": 2318
+    },
+    {
+      "original": "or",
+      "variant": "or",
+      "meaning": "or",
+      "category": "COMMON",
+      "confidence": 1.0,
+      "folio": "f22v",
+      "position": 2344
+    },
+    {
+      "original": "sho",
+      "variant": "she",
+      "meaning": "she",
+      "category": "COMMON_VAR",
+      "confidence": 0.8,
+      "folio": "f22v",
+      "position": 2360
+    },
+    {
+      "original": "to",
+      "variant": "to",
+      "meaning": "to",
+      "category": "COMMON",
+      "confidence": 1.0,
+      "folio": "f23r",
+      "position": 2375
+    },
+    {
+      "original": "she",
+      "variant": "she",
+      "meaning": "she",
+      "category": "COMMON",
+      "confidence": 1.0,
+      "folio": "f24r",
+      "position": 2460
+    },
+    {
+      "original": "or",
+      "variant": "or",
+      "meaning": "or",
+      "category": "COMMON",
+      "confidence": 1.0,
+      "folio": "f24r",
+      "position": 2463
+    },
+    {
+      "original": "or",
+      "variant": "or",
+      "meaning": "or",
+      "category": "COMMON",
+      "confidence": 1.0,
+      "folio": "f24r",
+      "position": 2476
+    }
+  ],
+  "vocabulary_size": 192,
+  "method": "e_o_substitution_with_specialized_vocab"
+}
