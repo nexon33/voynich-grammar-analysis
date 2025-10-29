@@ -1,0 +1,752 @@
+{
+  "summary": {
+    "total_unknown_roots": 3519,
+    "candidates_tested": 50,
+    "high_priority": 1,
+    "medium_priority": 13
+  },
+  "high_priority_candidates": [
+    {
+      "root": "sho",
+      "score": 6,
+      "evidence": {
+        "root": "sho",
+        "total_instances": 973,
+        "frequency_pct": 2.580833399644572,
+        "cooccurrence": {
+          "total": 3283,
+          "detail": {
+            "she": 377,
+            "ok": 730,
+            "cho": 801,
+            "ot": 606,
+            "cheo": 170,
+            "dor": 30,
+            "qot": 189,
+            "shee": 70,
+            "qok": 310
+          }
+        },
+        "enrichment": {
+          "max": 1.9895057646442396,
+          "by_section": {
+            "herbal": 1.9895057646442396
+          }
+        },
+        "case_rate": 43.06269270298047,
+        "verbal_rate": 10.688591983556012,
+        "score": 6,
+        "sample_instances": [
+          "shol",
+          "shory",
+          "sholdy",
+          "shod",
+          "shol",
+          "shodary",
+          "shody",
+          "shos",
+          "shody",
+          "shoshy",
+          "oksho",
+          "kshoy",
+          "shodain",
+          "shoy",
+          "sho",
+          "sho",
+          "shodan",
+          "sho",
+          "pshol",
+          "shol"
+        ]
+      }
+    }
+  ],
+  "medium_priority_candidates": [
+    {
+      "root": "ol",
+      "score": 5,
+      "evidence": {
+        "root": "ol",
+        "total_instances": 5406,
+        "frequency_pct": 14.339142197819687,
+        "cooccurrence": {
+          "total": 18815,
+          "detail": {
+            "ot": 3031,
+            "ok": 5371,
+            "she": 2352,
+            "cho": 2690,
+            "cheo": 982,
+            "dor": 149,
+            "shee": 470,
+            "qok": 2864,
+            "qot": 906
+          }
+        },
+        "enrichment": {
+          "max": 1.0,
+          "by_section": {}
+        },
+        "case_rate": 67.81354051054383,
+        "verbal_rate": 9.877913429522753,
+        "score": 5,
+        "sample_instances": [
+          "shol",
+          "sholdy",
+          "roloty",
+          "shol",
+          "otchol",
+          "cfhol",
+          "ols",
+          "oteol",
+          "oldain",
+          "chol",
+          "kol",
+          "chol",
+          "chol",
+          "chol",
+          "pshol",
+          "shol",
+          "tol",
+          "cthols",
+          "otol",
+          "chol"
+        ]
+      }
+    },
+    {
+      "root": "al",
+      "score": 5,
+      "evidence": {
+        "root": "al",
+        "total_instances": 3051,
+        "frequency_pct": 8.092623537837193,
+        "cooccurrence": {
+          "total": 9914,
+          "detail": {
+            "ok": 3094,
+            "cho": 938,
+            "she": 1295,
+            "cheo": 514,
+            "shee": 249,
+            "ot": 1904,
+            "dor": 46,
+            "qok": 1480,
+            "qot": 394
+          }
+        },
+        "enrichment": {
+          "max": 1.823190642171716,
+          "by_section": {
+            "astronomical": 1.823190642171716
+          }
+        },
+        "case_rate": 71.38643067846607,
+        "verbal_rate": 7.014093739757457,
+        "score": 5,
+        "sample_instances": [
+          "ykal",
+          "cphodal",
+          "chal",
+          "cphealy",
+          "cthal",
+          "dal",
+          "dal",
+          "dal",
+          "cphoaldar",
+          "okaldolchey",
+          "dal",
+          "otchalypchaiin",
+          "dalschokaiin",
+          "alshodaiinchol",
+          "dal",
+          "dalor",
+          "sal",
+          "qopal",
+          "chal",
+          "otaldam"
+        ]
+      }
+    },
+    {
+      "root": "eo",
+      "score": 5,
+      "evidence": {
+        "root": "eo",
+        "total_instances": 3381,
+        "frequency_pct": 8.967931885095886,
+        "cooccurrence": {
+          "total": 11554,
+          "detail": {
+            "ot": 2077,
+            "ok": 3282,
+            "she": 1378,
+            "cho": 1518,
+            "qot": 486,
+            "cheo": 980,
+            "qok": 1458,
+            "shee": 290,
+            "dor": 85
+          }
+        },
+        "enrichment": {
+          "max": 1.0,
+          "by_section": {}
+        },
+        "case_rate": 41.023365868086366,
+        "verbal_rate": 19.964507542147295,
+        "score": 5,
+        "sample_instances": [
+          "oteo",
+          "teody",
+          "oteol",
+          "eo",
+          "sheo",
+          "dcheo",
+          "eo",
+          "chokeo",
+          "cheol",
+          "keol",
+          "cheo",
+          "cheor",
+          "keol",
+          "chokeoschees",
+          "cheol",
+          "tsheos",
+          "ycheor",
+          "qocheor",
+          "ysheor",
+          "sheoldam"
+        ]
+      }
+    },
+    {
+      "root": "ar",
+      "score": 4,
+      "evidence": {
+        "root": "ar",
+        "total_instances": 3263,
+        "frequency_pct": 8.654942839712474,
+        "cooccurrence": {
+          "total": 10059,
+          "detail": {
+            "she": 1241,
+            "ot": 2195,
+            "ok": 2953,
+            "cho": 1023,
+            "qot": 509,
+            "cheo": 493,
+            "qok": 1308,
+            "shee": 259,
+            "dor": 78
+          }
+        },
+        "enrichment": {
+          "max": 1.5853629027621474,
+          "by_section": {
+            "astronomical": 1.5853629027621474
+          }
+        },
+        "case_rate": 85.5654305853509,
+        "verbal_rate": 2.421084891204413,
+        "score": 4,
+        "sample_instances": [
+          "ar",
+          "ckhar",
+          "shar",
+          "cthar",
+          "cthar",
+          "cthoary",
+          "daraiin",
+          "cthiar",
+          "chear",
+          "cphar",
+          "ydaraishy",
+          "odar",
+          "oydar",
+          "shodary",
+          "char",
+          "dar",
+          "dchar",
+          "dar",
+          "dar",
+          "shear"
+        ]
+      }
+    },
+    {
+      "root": "or",
+      "score": 4,
+      "evidence": {
+        "root": "or",
+        "total_instances": 2578,
+        "frequency_pct": 6.838014906766398,
+        "cooccurrence": {
+          "total": 8062,
+          "detail": {
+            "she": 965,
+            "ok": 2011,
+            "cho": 1598,
+            "ot": 1414,
+            "qot": 425,
+            "dor": 97,
+            "shee": 201,
+            "cheo": 468,
+            "qok": 883
+          }
+        },
+        "enrichment": {
+          "max": 1.0,
+          "by_section": {}
+        },
+        "case_rate": 84.48409619860357,
+        "verbal_rate": 2.0558572536850273,
+        "score": 4,
+        "sample_instances": [
+          "shory",
+          "kor",
+          "sory",
+          "or",
+          "or",
+          "or",
+          "chor",
+          "kor",
+          "or",
+          "chor",
+          "chtor",
+          "or",
+          "shor",
+          "dchor",
+          "taor",
+          "dorchorychkar",
+          "sshor",
+          "ychor",
+          "otochor",
+          "sorytoldydchol"
+        ]
+      }
+    },
+    {
+      "root": "ain",
+      "score": 4,
+      "evidence": {
+        "root": "ain",
+        "total_instances": 1676,
+        "frequency_pct": 4.445505424259304,
+        "cooccurrence": {
+          "total": 5577,
+          "detail": {
+            "cho": 423,
+            "ot": 952,
+            "ok": 1703,
+            "she": 839,
+            "cheo": 237,
+            "qot": 276,
+            "shee": 146,
+            "qok": 987,
+            "dor": 14
+          }
+        },
+        "enrichment": {
+          "max": 1.5244807957425994,
+          "by_section": {
+            "biological": 1.5244807957425994
+          }
+        },
+        "case_rate": 0.7159904534606205,
+        "verbal_rate": 1.133651551312649,
+        "score": 4,
+        "sample_instances": [
+          "dain",
+          "dain",
+          "ydain",
+          "ytain",
+          "shodain",
+          "oldain",
+          "dain",
+          "chodain",
+          "chekain",
+          "ain",
+          "dain",
+          "dain",
+          "dain",
+          "kydainy",
+          "dain",
+          "kydain",
+          "dain",
+          "ychain",
+          "odain",
+          "chodainchcthy"
+        ]
+      }
+    },
+    {
+      "root": "eey",
+      "score": 4,
+      "evidence": {
+        "root": "eey",
+        "total_instances": 1923,
+        "frequency_pct": 5.10066045993475,
+        "cooccurrence": {
+          "total": 6700,
+          "detail": {
+            "ot": 1100,
+            "cho": 515,
+            "she": 849,
+            "ok": 2134,
+            "qok": 1158,
+            "qot": 324,
+            "cheo": 392,
+            "shee": 202,
+            "dor": 26
+          }
+        },
+        "enrichment": {
+          "max": 1.0,
+          "by_section": {}
+        },
+        "case_rate": 0.31201248049922,
+        "verbal_rate": 0.8320332813312533,
+        "score": 4,
+        "sample_instances": [
+          "oteey",
+          "shokcheey",
+          "pydeey",
+          "ycheey",
+          "okeey",
+          "keey",
+          "keey",
+          "yteey",
+          "shydksheey",
+          "olsheey",
+          "sheey",
+          "sheey",
+          "ykeey",
+          "qoteeey",
+          "qokeey",
+          "okeey",
+          "qokeey",
+          "cheeykam",
+          "eey",
+          "sheey"
+        ]
+      }
+    },
+    {
+      "root": "chey",
+      "score": 4,
+      "evidence": {
+        "root": "chey",
+        "total_instances": 902,
+        "frequency_pct": 2.392509482507095,
+        "cooccurrence": {
+          "total": 3000,
+          "detail": {
+            "cho": 369,
+            "she": 361,
+            "ok": 887,
+            "ot": 478,
+            "qot": 169,
+            "qok": 510,
+            "cheo": 152,
+            "shee": 64,
+            "dor": 10
+          }
+        },
+        "enrichment": {
+          "max": 1.0,
+          "by_section": {}
+        },
+        "case_rate": 0.4434589800443459,
+        "verbal_rate": 0.4434589800443459,
+        "score": 4,
+        "sample_instances": [
+          "tchey",
+          "chey",
+          "chey",
+          "okchey",
+          "chey",
+          "tchey",
+          "damsochey",
+          "chey",
+          "okaldolchey",
+          "chotchey",
+          "chey",
+          "chotchey",
+          "schey",
+          "chey",
+          "ochey",
+          "chey",
+          "chey",
+          "ytchey",
+          "kchey",
+          "okchey"
+        ]
+      }
+    },
+    {
+      "root": "chy",
+      "score": 4,
+      "evidence": {
+        "root": "chy",
+        "total_instances": 997,
+        "frequency_pct": 2.644492188536113,
+        "cooccurrence": {
+          "total": 3246,
+          "detail": {
+            "ot": 626,
+            "cho": 789,
+            "ok": 759,
+            "cheo": 139,
+            "qot": 227,
+            "shee": 49,
+            "she": 275,
+            "dor": 31,
+            "qok": 351
+          }
+        },
+        "enrichment": {
+          "max": 1.9684875003441522,
+          "by_section": {
+            "herbal": 1.9684875003441522
+          }
+        },
+        "case_rate": 1.3039117352056169,
+        "verbal_rate": 2.708124373119358,
+        "score": 4,
+        "sample_instances": [
+          "fachys",
+          "chy",
+          "kchy",
+          "chy",
+          "dchy",
+          "chydaiin",
+          "ochydcho",
+          "chy",
+          "kechy",
+          "chy",
+          "dchy",
+          "chy",
+          "chy",
+          "chyky",
+          "kchy",
+          "otchy",
+          "chy",
+          "ykchy",
+          "ytchy",
+          "qokchy"
+        ]
+      }
+    },
+    {
+      "root": "ey",
+      "score": 4,
+      "evidence": {
+        "root": "ey",
+        "total_instances": 4073,
+        "frequency_pct": 10.803426964801995,
+        "cooccurrence": {
+          "total": 14105,
+          "detail": {
+            "ot": 2228,
+            "ok": 4380,
+            "cho": 1274,
+            "she": 1923,
+            "cheo": 762,
+            "dor": 51,
+            "qok": 2401,
+            "shee": 414,
+            "qot": 672
+          }
+        },
+        "enrichment": {
+          "max": 1.0,
+          "by_section": {}
+        },
+        "case_rate": 0.3682789098944267,
+        "verbal_rate": 0.859317456420329,
+        "score": 4,
+        "sample_instances": [
+          "oteey",
+          "yshey",
+          "cphey",
+          "sckhey",
+          "ckhey",
+          "cthey",
+          "shckhey",
+          "shey",
+          "tchey",
+          "kodshey",
+          "chey",
+          "chey",
+          "ckhey",
+          "shokcheey",
+          "shey",
+          "pydeey",
+          "shey",
+          "ycheey",
+          "okeey",
+          "okchey"
+        ]
+      }
+    },
+    {
+      "root": "am",
+      "score": 4,
+      "evidence": {
+        "root": "am",
+        "total_instances": 782,
+        "frequency_pct": 2.0742155380493883,
+        "cooccurrence": {
+          "total": 2465,
+          "detail": {
+            "cho": 318,
+            "ok": 712,
+            "ot": 484,
+            "cheo": 145,
+            "qot": 88,
+            "qok": 327,
+            "she": 312,
+            "shee": 65,
+            "dor": 14
+          }
+        },
+        "enrichment": {
+          "max": 1.5117822290275074,
+          "by_section": {
+            "astronomical": 1.5117822290275074
+          }
+        },
+        "case_rate": 0.639386189258312,
+        "verbal_rate": 1.4066496163682864,
+        "score": 4,
+        "sample_instances": [
+          "koeam",
+          "am",
+          "damsochey",
+          "dam",
+          "qotcham",
+          "cham",
+          "cham",
+          "cham",
+          "otaldam",
+          "damo",
+          "sheoldam",
+          "schodam",
+          "sam",
+          "am",
+          "cheeykam",
+          "otcham",
+          "cfham",
+          "kcham",
+          "sheam",
+          "keam"
+        ]
+      }
+    },
+    {
+      "root": "cheey",
+      "score": 4,
+      "evidence": {
+        "root": "cheey",
+        "total_instances": 325,
+        "frequency_pct": 0.8620460995729556,
+        "cooccurrence": {
+          "total": 1027,
+          "detail": {
+            "cho": 127,
+            "she": 112,
+            "ok": 301,
+            "ot": 167,
+            "qot": 53,
+            "shee": 21,
+            "cheo": 68,
+            "qok": 170,
+            "dor": 8
+          }
+        },
+        "enrichment": {
+          "max": 1.0,
+          "by_section": {}
+        },
+        "case_rate": 0.3076923076923077,
+        "verbal_rate": 0.9230769230769231,
+        "score": 4,
+        "sample_instances": [
+          "shokcheey",
+          "ycheey",
+          "cheeykam",
+          "dytcheey",
+          "dcheey",
+          "sheeyytcheey",
+          "cheey",
+          "cheey",
+          "tcheey",
+          "cheey",
+          "pcheey",
+          "cheey",
+          "ypcheey",
+          "pcheey",
+          "ycheey",
+          "dolcheey",
+          "cheey",
+          "cheey",
+          "cheey",
+          "cheey"
+        ]
+      }
+    },
+    {
+      "root": "ky",
+      "score": 4,
+      "evidence": {
+        "root": "ky",
+        "total_instances": 752,
+        "frequency_pct": 1.994642051934962,
+        "cooccurrence": {
+          "total": 2629,
+          "detail": {
+            "ok": 854,
+            "ot": 461,
+            "cho": 337,
+            "qok": 416,
+            "she": 279,
+            "cheo": 99,
+            "dor": 24,
+            "qot": 119,
+            "shee": 40
+          }
+        },
+        "enrichment": {
+          "max": 1.0,
+          "by_section": {}
+        },
+        "case_rate": 1.5957446808510638,
+        "verbal_rate": 2.6595744680851063,
+        "score": 4,
+        "sample_instances": [
+          "sheky",
+          "oky",
+          "choky",
+          "kychol",
+          "ky",
+          "kydainy",
+          "kydain",
+          "yky",
+          "ky",
+          "sheky",
+          "chyky",
+          "oky",
+          "chky",
+          "qoky",
+          "shoky",
+          "choky",
+          "qoky",
+          "ky",
+          "kyscho",
+          "chky"
+        ]
+      }
+    }
+  ]
+}
