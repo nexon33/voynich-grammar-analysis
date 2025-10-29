@@ -1,0 +1,139 @@
+{
+  "persian_particles": {
+    "ra": {
+      "expected": "very high",
+      "meaning": "object marker",
+      "standalone_count": 0,
+      "in_compounds": 318,
+      "found": false
+    },
+    "az": {
+      "expected": "high",
+      "meaning": "from",
+      "standalone_count": 0,
+      "in_compounds": 0,
+      "found": false
+    },
+    "ba": {
+      "expected": "high",
+      "meaning": "with",
+      "standalone_count": 0,
+      "in_compounds": 0,
+      "found": false
+    },
+    "ta": {
+      "expected": "medium",
+      "meaning": "until",
+      "standalone_count": 0,
+      "in_compounds": 357,
+      "found": false
+    },
+    "be": {
+      "expected": "medium",
+      "meaning": "to",
+      "standalone_count": 0,
+      "in_compounds": 0,
+      "found": false
+    },
+    "ke": {
+      "expected": "very high",
+      "meaning": "that/which",
+      "standalone_count": 1,
+      "in_compounds": 992,
+      "found": true
+    },
+    "va": {
+      "expected": "very high",
+      "meaning": "and",
+      "standalone_count": 0,
+      "in_compounds": 0,
+      "found": false
+    }
+  },
+  "turkic_particles": {
+    "de": {
+      "language": "Turkish",
+      "meaning": "also/too",
+      "standalone_count": 0,
+      "found": false
+    },
+    "da": {
+      "language": "Turkish",
+      "meaning": "also/too",
+      "standalone_count": 7,
+      "found": true
+    },
+    "ki": {
+      "language": "Turkish",
+      "meaning": "that/which",
+      "standalone_count": 0,
+      "found": false
+    },
+    "mi": {
+      "language": "Turkish",
+      "meaning": "question marker",
+      "standalone_count": 0,
+      "found": false
+    },
+    "ile": {
+      "language": "Turkish",
+      "meaning": "with",
+      "standalone_count": 0,
+      "found": false
+    },
+    "le": {
+      "language": "Turkish",
+      "meaning": "with (shortened)",
+      "standalone_count": 1,
+      "found": true
+    },
+    "is": {
+      "language": "Hungarian",
+      "meaning": "also/too",
+      "standalone_count": 0,
+      "found": false
+    },
+    "vagy": {
+      "language": "Hungarian",
+      "meaning": "or",
+      "standalone_count": 0,
+      "found": false
+    }
+  },
+  "cooccurrence_stats": {
+    "dar_count": 293,
+    "oak_oat_count": 9846,
+    "observed_cooccurrence": 227,
+    "expected_cooccurrence": 465.4655659235754,
+    "enrichment": 0.48768376571441385,
+    "z_score": -12.89051509193059,
+    "significant": false,
+    "p_value_estimate": "not significant"
+  },
+  "dar_functions": {
+    "contexts": {
+      "before_plant": 58,
+      "after_plant": 76,
+      "between_plants": 0,
+      "sentence_initial": 7,
+      "after_verb": 18,
+      "other": 134
+    },
+    "proportions": {
+      "before_plant": 0.19795221843003413,
+      "after_plant": 0.2593856655290102,
+      "between_plants": 0.0,
+      "sentence_initial": 0.023890784982935155,
+      "after_verb": 0.06143344709897611,
+      "other": 0.45733788395904434
+    },
+    "interpretation": "versatile_native"
+  },
+  "verdict": {
+    "evidence_score": 1,
+    "max_score": 8,
+    "hypothesis_supported": false,
+    "persian_found": 1,
+    "turkic_found": 2
+  }
+}

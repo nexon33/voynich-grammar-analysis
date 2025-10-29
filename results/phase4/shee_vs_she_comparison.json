@@ -1,0 +1,59 @@
+{
+  "root1": "shee",
+  "root2": "she",
+  "enrichment": {
+    "root1": {
+      "f84v_count": 20,
+      "all_count": 468,
+      "enrichment": 2.8642735042735046
+    },
+    "root2": {
+      "f84v_count": 72,
+      "all_count": 2377,
+      "enrichment": 2.0301758519141773
+    },
+    "similar": true
+  },
+  "cooccurrence": {
+    "root1": 431,
+    "root2": 2185,
+    "similar": true
+  },
+  "verbal": {
+    "root1": {
+      "has_verbal": true,
+      "verbal_count": 107,
+      "verbal_forms": [
+        "sheedyqokaldy",
+        "olsheedy",
+        "osheedy",
+        "rsheedy",
+        "ysheedy",
+        "lsheedy",
+        "sheedy",
+        "qolsheedy",
+        "dsheedy",
+        "psheedy"
+      ]
+    },
+    "root2": {
+      "has_verbal": true,
+      "verbal_count": 735,
+      "verbal_forms": [
+        "shefhedy",
+        "shedykeyl",
+        "osheedy",
+        "pshedy",
+        "lkshedy",
+        "ykshedy",
+        "lsheedy",
+        "qolsheedy",
+        "olpshedy",
+        "shefeeedy"
+      ]
+    },
+    "similar": true
+  },
+  "similarity_score": 4,
+  "verdict": "SAME"
+}

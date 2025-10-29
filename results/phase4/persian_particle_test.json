@@ -1,0 +1,230 @@
+{
+  "separate_vs_bound": {
+    "dar": {
+      "standalone": 293,
+      "as_suffix": 376,
+      "standalone_ratio": 0.43796711509715996
+    },
+    "ar": {
+      "standalone": 340,
+      "as_suffix": 2243,
+      "standalone_ratio": 0.1316298877274487
+    },
+    "al": {
+      "standalone": 250,
+      "as_suffix": 1745,
+      "standalone_ratio": 0.12531328320802004
+    },
+    "ol": {
+      "standalone": 522,
+      "as_suffix": 2997,
+      "standalone_ratio": 0.1483375959079284
+    },
+    "or": {
+      "standalone": 347,
+      "as_suffix": 1856,
+      "standalone_ratio": 0.1575124829777576
+    }
+  },
+  "word_order": {
+    "ar": {
+      "before_content": 57,
+      "after_content": 105,
+      "total": 340
+    },
+    "or": {
+      "before_content": 29,
+      "after_content": 73,
+      "total": 347
+    },
+    "ol": {
+      "before_content": 58,
+      "after_content": 128,
+      "total": 522
+    },
+    "dar": {
+      "before_content": 58,
+      "after_content": 102,
+      "total": 293
+    },
+    "al": {
+      "before_content": 35,
+      "after_content": 58,
+      "total": 250
+    }
+  },
+  "dar_oak_combinations": 170,
+  "dar_oak_examples": [
+    [
+      "otcho",
+      "DAR",
+      "shody",
+      "taor"
+    ],
+    [
+      "dol",
+      "DAR",
+      "okom",
+      "chol"
+    ],
+    [
+      "qokchol",
+      "DAR",
+      "dala",
+      "qotolo"
+    ],
+    [
+      "shey",
+      "DAR",
+      "qotyykeey",
+      "ky"
+    ],
+    [
+      "qokeee",
+      "DAR",
+      "chey",
+      "keeor"
+    ],
+    [
+      "chykald",
+      "DAR",
+      "shor",
+      "qokchol"
+    ],
+    [
+      "okal",
+      "DAR",
+      "ychekchy",
+      "kchaiin"
+    ],
+    [
+      "qokol",
+      "DAR",
+      "dy",
+      "tolol"
+    ],
+    [
+      "qotol",
+      "DAR",
+      "okchor",
+      "daiin"
+    ],
+    [
+      "qokchy",
+      "DAR",
+      "daiin",
+      "chor"
+    ],
+    [
+      "yky",
+      "DAR",
+      "okol",
+      "dchey"
+    ],
+    [
+      "qokchol",
+      "DAR",
+      "qokchol",
+      "dairo"
+    ],
+    [
+      "qokedy",
+      "DAR",
+      "sheo",
+      "ypchseds"
+    ],
+    [
+      "dain",
+      "DAR",
+      "shokyddchol",
+      "cthey"
+    ],
+    [
+      "dol",
+      "DAR",
+      "oschotshl",
+      "daiin"
+    ],
+    [
+      "qokeedy",
+      "DAR",
+      "shed!shey",
+      "olsheol"
+    ],
+    [
+      "okear",
+      "DAR",
+      "seoar",
+      "al"
+    ],
+    [
+      "okaiin",
+      "DAR",
+      "cheedy",
+      "chkeey"
+    ],
+    [
+      "okal",
+      "DAR",
+      "chos",
+      "aiin"
+    ],
+    [
+      "sheor",
+      "DAR",
+      "yk!chody",
+      "qotchy"
+    ]
+  ],
+  "section_distribution": {
+    "herbal": {
+      "total_words": 20000,
+      "particle_counts": {
+        "dar": 180,
+        "ar": 156,
+        "al": 89,
+        "ol": 289,
+        "or": 172
+      },
+      "particle_density": 0.0443
+    },
+    "biological": {
+      "total_words": 5000,
+      "particle_counts": {
+        "dar": 65,
+        "ar": 41,
+        "al": 18,
+        "ol": 97,
+        "or": 84
+      },
+      "particle_density": 0.061
+    },
+    "pharmaceutical": {
+      "total_words": 7000,
+      "particle_counts": {
+        "dar": 29,
+        "ar": 63,
+        "al": 72,
+        "ol": 89,
+        "or": 63
+      },
+      "particle_density": 0.045142857142857144
+    },
+    "recipes": {
+      "total_words": 5187,
+      "particle_counts": {
+        "dar": 19,
+        "ar": 80,
+        "al": 71,
+        "ol": 47,
+        "or": 28
+      },
+      "particle_density": 0.04723346828609987
+    }
+  },
+  "verdict": {
+    "tests_passed": 3,
+    "total_tests": 4,
+    "hypothesis_supported": true
+  }
+}

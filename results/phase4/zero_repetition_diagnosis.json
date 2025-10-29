@@ -1,0 +1,64 @@
+{
+  "hypothesis_a": {
+    "avg_words_per_line": 10.0,
+    "repetition_rate": 0.0,
+    "initial_word_freq": {
+      "qokai!n": 2,
+      "y": 2,
+      "shol": 2,
+      "ol": 2,
+      "qokedy": 2,
+      "qokeedy": 2,
+      "okol": 1,
+      "shek": 1,
+      "p!shorol": 1,
+      "shey": 1
+    },
+    "initial_bigram_freq": {
+      "okol sheeol": 1,
+      "shek chcthy": 1,
+      "p!shorol shckhy": 1,
+      "qokai!n checkhy": 1,
+      "shey qokal": 1,
+      "shckhy qoly": 1,
+      "lsheey ls": 1,
+      "olshey qokaiin": 1,
+      "cheey chol": 1,
+      "y shal": 1,
+      "pchey otshey": 1,
+      "efchedy otai!n": 1,
+      "qotaiin ol": 1,
+      "qol!keedy qokedy": 1,
+      "qokar shedy": 1
+    }
+  },
+  "hypothesis_b": {
+    "total_sequences": 172,
+    "repeated_sequences": 9,
+    "repetition_rate": 5.232558139534884,
+    "top_repeated": {
+      "sheey qokai!n": 2,
+      "shey qokai!n": 2,
+      "dol sheey": 2,
+      "ol ol": 2,
+      "ol sheey": 2,
+      "ol okaiin": 2,
+      "qotai!n oteedy": 2,
+      "qokeedy qokai!n": 2,
+      "qokedy qokedy": 2
+    }
+  },
+  "hypothesis_c": {
+    "total_patterns": 50,
+    "unique_patterns": 50,
+    "repeated_patterns": 0,
+    "full_repetition_rate": 0.0,
+    "sub_repetition_rate": 23.6
+  },
+  "conclusion": "C (structural patterns)",
+  "scores": {
+    "A (line boundaries)": 0.0,
+    "B (surface forms)": 5.232558139534884,
+    "C (structural patterns)": 23.6
+  }
+}

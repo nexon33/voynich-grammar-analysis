@@ -1,0 +1,612 @@
+[
+  {
+    "sentence": "okol sheeol qoteesy choty otechys shoikhy chedy tshey dshdy otchar",
+    "decompositions": [
+      {
+        "original": "okol",
+        "prefix": null,
+        "root": "ok",
+        "suffixes": [
+          "ol"
+        ],
+        "known_elements": [
+          "CASE:ol",
+          "ROOT:oak"
+        ]
+      },
+      {
+        "original": "sheeol",
+        "prefix": null,
+        "root": "shee",
+        "suffixes": [
+          "ol"
+        ],
+        "known_elements": [
+          "CASE:ol"
+        ]
+      },
+      {
+        "original": "qoteesy",
+        "prefix": null,
+        "root": "qoteesy",
+        "suffixes": [],
+        "known_elements": [
+          "ROOT:oat"
+        ]
+      },
+      {
+        "original": "choty",
+        "prefix": null,
+        "root": "choty",
+        "suffixes": [],
+        "known_elements": [
+          "ROOT:oat"
+        ]
+      },
+      {
+        "original": "otechys",
+        "prefix": null,
+        "root": "otechys",
+        "suffixes": [],
+        "known_elements": [
+          "ROOT:oat"
+        ]
+      },
+      {
+        "original": "shoikhy",
+        "prefix": null,
+        "root": "shoikhy",
+        "suffixes": [],
+        "known_elements": []
+      },
+      {
+        "original": "chedy",
+        "prefix": null,
+        "root": "ch",
+        "suffixes": [
+          "edy"
+        ],
+        "known_elements": [
+          "VERBAL"
+        ]
+      },
+      {
+        "original": "tshey",
+        "prefix": null,
+        "root": "tshey",
+        "suffixes": [],
+        "known_elements": []
+      },
+      {
+        "original": "dshdy",
+        "prefix": null,
+        "root": "dshdy",
+        "suffixes": [],
+        "known_elements": []
+      },
+      {
+        "original": "otchar",
+        "prefix": null,
+        "root": "otch",
+        "suffixes": [
+          "ar"
+        ],
+        "known_elements": [
+          "CASE:ar",
+          "ROOT:oat"
+        ]
+      }
+    ],
+    "translations": [
+      "oak-OL",
+      "???(shee)-OL",
+      "oat",
+      "oat",
+      "oat",
+      "???(shoikhy)",
+      "???(ch)-VERB",
+      "???(tshey)",
+      "???(dshdy)",
+      "oat-AR"
+    ],
+    "coverage": 70.0,
+    "coherent_attempt": {
+      "translation": "[Prepare] with oak-OL and oat and oat and oat and oat-AR",
+      "confidence": "VERY LOW - missing subject and verb",
+      "has_pronoun": false,
+      "has_verb": true,
+      "has_content": true
+    },
+    "blockers": [
+      "Unknown roots: 3 distinct (tshey, shoikhy, dshdy...)",
+      "Unknown verb meanings: {'ch'} (we know they're verbs, but not what they mean)"
+    ]
+  },
+  {
+    "sentence": "shek chcthy otal ory qokchy qotchey ldaiin shedy qotaiin sal",
+    "decompositions": [
+      {
+        "original": "shek",
+        "prefix": null,
+        "root": "shek",
+        "suffixes": [],
+        "known_elements": []
+      },
+      {
+        "original": "chcthy",
+        "prefix": null,
+        "root": "chcthy",
+        "suffixes": [],
+        "known_elements": []
+      },
+      {
+        "original": "otal",
+        "prefix": null,
+        "root": "ot",
+        "suffixes": [
+          "al"
+        ],
+        "known_elements": [
+          "CASE:al",
+          "ROOT:oat"
+        ]
+      },
+      {
+        "original": "ory",
+        "prefix": null,
+        "root": "ory",
+        "suffixes": [],
+        "known_elements": []
+      },
+      {
+        "original": "qokchy",
+        "prefix": "qok",
+        "root": "chy",
+        "suffixes": [],
+        "known_elements": [
+          "GENITIVE"
+        ]
+      },
+      {
+        "original": "qotchey",
+        "prefix": null,
+        "root": "qotchey",
+        "suffixes": [],
+        "known_elements": [
+          "ROOT:oat"
+        ]
+      },
+      {
+        "original": "ldaiin",
+        "prefix": null,
+        "root": "ldaiin",
+        "suffixes": [],
+        "known_elements": []
+      },
+      {
+        "original": "shedy",
+        "prefix": null,
+        "root": "sh",
+        "suffixes": [
+          "edy"
+        ],
+        "known_elements": [
+          "VERBAL"
+        ]
+      },
+      {
+        "original": "qotaiin",
+        "prefix": null,
+        "root": "qotaiin",
+        "suffixes": [],
+        "known_elements": [
+          "ROOT:oat"
+        ]
+      },
+      {
+        "original": "sal",
+        "prefix": null,
+        "root": "s",
+        "suffixes": [
+          "al"
+        ],
+        "known_elements": [
+          "CASE:al"
+        ]
+      }
+    ],
+    "translations": [
+      "???(shek)",
+      "???(chcthy)",
+      "oat-AL",
+      "???(ory)",
+      "[of-???(chy)'s]",
+      "oat",
+      "???(ldaiin)",
+      "???(sh)-VERB",
+      "oat",
+      "???(s)-AL"
+    ],
+    "coverage": 60.0,
+    "coherent_attempt": {
+      "translation": "[Prepare] with oat-AL and oat and oat",
+      "confidence": "VERY LOW - missing subject and verb",
+      "has_pronoun": false,
+      "has_verb": true,
+      "has_content": true
+    },
+    "blockers": [
+      "Unknown roots: 4 distinct (ldaiin, shek, chcthy, ory...)",
+      "Unknown verb meanings: {'sh'} (we know they're verbs, but not what they mean)"
+    ]
+  },
+  {
+    "sentence": "p!shorol shckhy qotshdy qokaldy opchedy qotar or aiin ol saral",
+    "decompositions": [
+      {
+        "original": "p!shorol",
+        "prefix": null,
+        "root": "p!sh",
+        "suffixes": [
+          "or",
+          "ol"
+        ],
+        "known_elements": [
+          "CASE:ol",
+          "CASE:or"
+        ]
+      },
+      {
+        "original": "shckhy",
+        "prefix": null,
+        "root": "shckhy",
+        "suffixes": [],
+        "known_elements": []
+      },
+      {
+        "original": "qotshdy",
+        "prefix": null,
+        "root": "qotshdy",
+        "suffixes": [],
+        "known_elements": [
+          "ROOT:oat"
+        ]
+      },
+      {
+        "original": "qokaldy",
+        "prefix": "qok",
+        "root": "aldy",
+        "suffixes": [],
+        "known_elements": [
+          "GENITIVE"
+        ]
+      },
+      {
+        "original": "opchedy",
+        "prefix": null,
+        "root": "opch",
+        "suffixes": [
+          "edy"
+        ],
+        "known_elements": [
+          "VERBAL"
+        ]
+      },
+      {
+        "original": "qotar",
+        "prefix": null,
+        "root": "qot",
+        "suffixes": [
+          "ar"
+        ],
+        "known_elements": [
+          "CASE:ar",
+          "ROOT:oat"
+        ]
+      },
+      {
+        "original": "or",
+        "prefix": null,
+        "root": "or",
+        "suffixes": [],
+        "known_elements": [
+          "PARTICLE?"
+        ]
+      },
+      {
+        "original": "aiin",
+        "prefix": null,
+        "root": "aiin",
+        "suffixes": [],
+        "known_elements": [
+          "PRONOUN"
+        ]
+      },
+      {
+        "original": "ol",
+        "prefix": null,
+        "root": "ol",
+        "suffixes": [],
+        "known_elements": [
+          "PARTICLE?"
+        ]
+      },
+      {
+        "original": "saral",
+        "prefix": null,
+        "root": "s",
+        "suffixes": [
+          "ar",
+          "al"
+        ],
+        "known_elements": [
+          "CASE:al",
+          "CASE:ar"
+        ]
+      }
+    ],
+    "translations": [
+      "???(p!sh)-OR-OL",
+      "???(shckhy)",
+      "oat",
+      "[of-???(aldy)'s]",
+      "???(opch)-VERB",
+      "oat-AR",
+      "[or]",
+      "this/that",
+      "[ol]",
+      "???(s)-AR-AL"
+    ],
+    "coverage": 90.0,
+    "coherent_attempt": {
+      "translation": "[Prepare] with oat and oat-AR",
+      "confidence": "VERY LOW - missing subject and verb",
+      "has_pronoun": false,
+      "has_verb": true,
+      "has_content": true
+    },
+    "blockers": [
+      "Unknown roots: 1 distinct (shckhy...)",
+      "Unknown function of particles: {'or', 'ol'}",
+      "Unknown verb meanings: {'opch'} (we know they're verbs, but not what they mean)"
+    ]
+  },
+  {
+    "sentence": "qokai!n checkhy qotal qol cheey chey dai!n chedy qol qokl",
+    "decompositions": [
+      {
+        "original": "qokai!n",
+        "prefix": "qok",
+        "root": "ai!n",
+        "suffixes": [],
+        "known_elements": [
+          "GENITIVE"
+        ]
+      },
+      {
+        "original": "checkhy",
+        "prefix": null,
+        "root": "checkhy",
+        "suffixes": [],
+        "known_elements": []
+      },
+      {
+        "original": "qotal",
+        "prefix": null,
+        "root": "qot",
+        "suffixes": [
+          "al"
+        ],
+        "known_elements": [
+          "CASE:al",
+          "ROOT:oat"
+        ]
+      },
+      {
+        "original": "qol",
+        "prefix": null,
+        "root": "q",
+        "suffixes": [
+          "ol"
+        ],
+        "known_elements": [
+          "CASE:ol"
+        ]
+      },
+      {
+        "original": "cheey",
+        "prefix": null,
+        "root": "cheey",
+        "suffixes": [],
+        "known_elements": []
+      },
+      {
+        "original": "chey",
+        "prefix": null,
+        "root": "chey",
+        "suffixes": [],
+        "known_elements": []
+      },
+      {
+        "original": "dai!n",
+        "prefix": null,
+        "root": "dai!n",
+        "suffixes": [],
+        "known_elements": []
+      },
+      {
+        "original": "chedy",
+        "prefix": null,
+        "root": "ch",
+        "suffixes": [
+          "edy"
+        ],
+        "known_elements": [
+          "VERBAL"
+        ]
+      },
+      {
+        "original": "qol",
+        "prefix": null,
+        "root": "q",
+        "suffixes": [
+          "ol"
+        ],
+        "known_elements": [
+          "CASE:ol"
+        ]
+      },
+      {
+        "original": "qokl",
+        "prefix": "qok",
+        "root": "l",
+        "suffixes": [],
+        "known_elements": [
+          "GENITIVE"
+        ]
+      }
+    ],
+    "translations": [
+      "[of-???(ai!n)'s]",
+      "???(checkhy)",
+      "oat-AL",
+      "???(q)-OL",
+      "???(cheey)",
+      "???(chey)",
+      "???(dai!n)",
+      "???(ch)-VERB",
+      "???(q)-OL",
+      "[of-???(l)'s]"
+    ],
+    "coverage": 60.0,
+    "coherent_attempt": {
+      "translation": "[Prepare] with oat-AL",
+      "confidence": "VERY LOW - missing subject and verb",
+      "has_pronoun": false,
+      "has_verb": true,
+      "has_content": true
+    },
+    "blockers": [
+      "Unknown roots: 4 distinct (checkhy, cheey, dai!n, chey...)",
+      "Unknown verb meanings: {'ch'} (we know they're verbs, but not what they mean)"
+    ]
+  },
+  {
+    "sentence": "shey qokal chedy okol dyty s!aiin ol sheol lchey shai!n",
+    "decompositions": [
+      {
+        "original": "shey",
+        "prefix": null,
+        "root": "shey",
+        "suffixes": [],
+        "known_elements": []
+      },
+      {
+        "original": "qokal",
+        "prefix": "qok",
+        "root": "al",
+        "suffixes": [],
+        "known_elements": [
+          "GENITIVE",
+          "PARTICLE?"
+        ]
+      },
+      {
+        "original": "chedy",
+        "prefix": null,
+        "root": "ch",
+        "suffixes": [
+          "edy"
+        ],
+        "known_elements": [
+          "VERBAL"
+        ]
+      },
+      {
+        "original": "okol",
+        "prefix": null,
+        "root": "ok",
+        "suffixes": [
+          "ol"
+        ],
+        "known_elements": [
+          "CASE:ol",
+          "ROOT:oak"
+        ]
+      },
+      {
+        "original": "dyty",
+        "prefix": null,
+        "root": "dyty",
+        "suffixes": [],
+        "known_elements": []
+      },
+      {
+        "original": "s!aiin",
+        "prefix": null,
+        "root": "s!aiin",
+        "suffixes": [],
+        "known_elements": []
+      },
+      {
+        "original": "ol",
+        "prefix": null,
+        "root": "ol",
+        "suffixes": [],
+        "known_elements": [
+          "PARTICLE?"
+        ]
+      },
+      {
+        "original": "sheol",
+        "prefix": null,
+        "root": "she",
+        "suffixes": [
+          "ol"
+        ],
+        "known_elements": [
+          "CASE:ol"
+        ]
+      },
+      {
+        "original": "lchey",
+        "prefix": null,
+        "root": "lchey",
+        "suffixes": [],
+        "known_elements": []
+      },
+      {
+        "original": "shai!n",
+        "prefix": null,
+        "root": "shai!n",
+        "suffixes": [],
+        "known_elements": []
+      }
+    ],
+    "translations": [
+      "???(shey)",
+      "[of-[al]'s]",
+      "???(ch)-VERB",
+      "oak-OL",
+      "???(dyty)",
+      "???(s!aiin)",
+      "[ol]",
+      "???(she)-OL",
+      "???(lchey)",
+      "???(shai!n)"
+    ],
+    "coverage": 50.0,
+    "coherent_attempt": {
+      "translation": "[Prepare] with oak-OL",
+      "confidence": "VERY LOW - missing subject and verb",
+      "has_pronoun": false,
+      "has_verb": true,
+      "has_content": true
+    },
+    "blockers": [
+      "Unknown roots: 5 distinct (dyty, shey, s!aiin, shai!n, lchey...)",
+      "Unknown function of particles: {'al', 'ol'}",
+      "Unknown verb meanings: {'ch'} (we know they're verbs, but not what they mean)"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+{
+  "water_candidates": [
+    {
+      "word": "sheeol",
+      "root": "shee",
+      "f84v_count": 2,
+      "ms_count": 13,
+      "enrichment": 10.311384615384615,
+      "bound_count": 455,
+      "free_count": 13,
+      "bound_ratio": 0.9722222222222222
+    },
+    {
+      "word": "sheedy",
+      "root": "she",
+      "f84v_count": 5,
+      "ms_count": 83,
+      "enrichment": 4.037590361445783,
+      "bound_count": 2352,
+      "free_count": 25,
+      "bound_ratio": 0.9894825410180901
+    },
+    {
+      "word": "qol",
+      "root": "q",
+      "f84v_count": 8,
+      "ms_count": 147,
+      "enrichment": 3.64756462585034,
+      "bound_count": 4899,
+      "free_count": 3,
+      "bound_ratio": 0.9993880048959608
+    },
+    {
+      "word": "cheedy",
+      "root": "che",
+      "f84v_count": 3,
+      "ms_count": 59,
+      "enrichment": 3.408,
+      "bound_count": 4528,
+      "free_count": 2,
+      "bound_ratio": 0.9995584988962473
+    },
+    {
+      "word": "sheol",
+      "root": "she",
+      "f84v_count": 5,
+      "ms_count": 111,
+      "enrichment": 3.0190990990990993,
+      "bound_count": 2352,
+      "free_count": 25,
+      "bound_ratio": 0.9894825410180901
+    }
+  ],
+  "top_candidate": {
+    "word": "sheeol",
+    "root": "shee",
+    "f84v_count": 2,
+    "ms_count": 13,
+    "enrichment": 10.311384615384615,
+    "bound_count": 455,
+    "free_count": 13,
+    "bound_ratio": 0.9722222222222222
+  }
+}

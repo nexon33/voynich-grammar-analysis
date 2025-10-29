@@ -1,0 +1,166 @@
+[
+  {
+    "sentence": "okol sheeol qoteesy choty otechys shoikhy chedy tshey dshdy otchar",
+    "translations": [
+      "oak-in/at",
+      "WATER-in/at",
+      "oat",
+      "oat",
+      "oat",
+      "???(shoikhy)",
+      "???(ch)-VERB",
+      "???(tshey)",
+      "???(dshdy)",
+      "oat-to/toward"
+    ],
+    "interpretation": {
+      "interpretations": [
+        "Prepare oak [bark] in water with oat"
+      ],
+      "confidence": "MODERATE",
+      "has_water": true,
+      "has_oak": true,
+      "has_oat": true,
+      "has_pronoun": false,
+      "has_verb": true
+    },
+    "coherence": {
+      "coherent": true,
+      "reasoning": [
+        "✓ Multiple ingredients with liquid medium (water)",
+        "✓ Makes sense as bath/preparation recipe",
+        "✓ Locative structure: ingredients IN water",
+        "✓ Multiple recipe components identified"
+      ]
+    }
+  },
+  {
+    "sentence": "shek chcthy otal ory qokchy qotchey ldaiin shedy qotaiin sal",
+    "translations": [
+      "???(shek)",
+      "???(chcthy)",
+      "???(ot)-from/of",
+      "???(ory)",
+      "[of ???(chy)'s]",
+      "oat",
+      "???(ldaiin)",
+      "???(sh)-VERB",
+      "oat",
+      "???(s)-from/of"
+    ],
+    "interpretation": {
+      "interpretations": [
+        "[Using] oat"
+      ],
+      "confidence": "LOW",
+      "has_water": false,
+      "has_oak": false,
+      "has_oat": true,
+      "has_pronoun": false,
+      "has_verb": true
+    },
+    "coherence": {
+      "coherent": false,
+      "reasoning": [
+        "✓ Multiple recipe components identified",
+        "⚠ Many unknowns still present"
+      ]
+    }
+  },
+  {
+    "sentence": "p!shorol shckhy qotshdy qokaldy opchedy qotar or aiin ol saral",
+    "translations": [
+      "???(p!sh)-with-in/at",
+      "???(shckhy)",
+      "oat",
+      "[of ???(aldy)'s]",
+      "???(opch)-VERB",
+      "oat-to/toward",
+      "[or]",
+      "that",
+      "[ol]",
+      "???(s)-to/toward-from/of"
+    ],
+    "interpretation": {
+      "interpretations": [
+        "[Using] oat"
+      ],
+      "confidence": "LOW",
+      "has_water": false,
+      "has_oak": false,
+      "has_oat": true,
+      "has_pronoun": false,
+      "has_verb": true
+    },
+    "coherence": {
+      "coherent": false,
+      "reasoning": [
+        "✓ Multiple recipe components identified"
+      ]
+    }
+  },
+  {
+    "sentence": "qokai!n checkhy qotal qol cheey chey dai!n chedy qol qokl",
+    "translations": [
+      "[of ???(ai!n)'s]",
+      "???(checkhy)",
+      "oat-from/of",
+      "???(q)-in/at",
+      "???(cheey)",
+      "???(chey)",
+      "???(dai!n)",
+      "???(ch)-VERB",
+      "???(q)-in/at",
+      "[of ???(l)'s]"
+    ],
+    "interpretation": {
+      "interpretations": [
+        "[Using] oat"
+      ],
+      "confidence": "LOW",
+      "has_water": false,
+      "has_oak": false,
+      "has_oat": true,
+      "has_pronoun": false,
+      "has_verb": true
+    },
+    "coherence": {
+      "coherent": false,
+      "reasoning": [
+        "⚠ Many unknowns still present"
+      ]
+    }
+  },
+  {
+    "sentence": "shey qokal chedy okol dyty s!aiin ol sheol lchey shai!n",
+    "translations": [
+      "???(shey)",
+      "[of [al]'s]",
+      "???(ch)-VERB",
+      "oak-in/at",
+      "???(dyty)",
+      "???(s!aiin)",
+      "[ol]",
+      "???(she)-in/at",
+      "???(lchey)",
+      "???(shai!n)"
+    ],
+    "interpretation": {
+      "interpretations": [
+        "[Using] oak"
+      ],
+      "confidence": "LOW",
+      "has_water": false,
+      "has_oak": true,
+      "has_oat": false,
+      "has_pronoun": false,
+      "has_verb": true
+    },
+    "coherence": {
+      "coherent": false,
+      "reasoning": [
+        "⚠ Many unknowns still present"
+      ]
+    }
+  }
+]

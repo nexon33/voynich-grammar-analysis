@@ -1,0 +1,117 @@
+{
+  "hypothesis": "dor = red (color adjective)",
+  "score": 8,
+  "max_score": 8,
+  "evidence": [
+    "✓✓ Strong co-occurrence with nouns",
+    "✓✓ Strong section clustering (3.6x)",
+    "✓✓ Very high case-marking (88%)",
+    "✓✓ Zero verbal use (0%)"
+  ],
+  "adjacent_words": {
+    "daiin": 19,
+    "chol": 15,
+    "aiin": 14,
+    "or": 12,
+    "ol": 8,
+    "dy": 7,
+    "ar": 7,
+    "y": 6,
+    "shedy": 6,
+    "chedy": 6,
+    "okeol": 6,
+    "shey": 5,
+    "chor": 5,
+    "chy": 5,
+    "cheey": 5,
+    "sheey": 5,
+    "okol": 5,
+    "sho": 4,
+    "dar": 4,
+    "qokol": 4
+  },
+  "cooccurrence": {
+    "ot": 78,
+    "qot": 26,
+    "she": 46,
+    "ok": 124,
+    "qok": 57,
+    "shee": 8
+  },
+  "section_distribution": {
+    "45": {
+      "count": 8,
+      "enrichment": 3.5733333333333337
+    },
+    "47": {
+      "count": 8,
+      "enrichment": 3.5733333333333337
+    },
+    "6": {
+      "count": 7,
+      "enrichment": 3.126666666666667
+    },
+    "3": {
+      "count": 6,
+      "enrichment": 2.68
+    },
+    "38": {
+      "count": 6,
+      "enrichment": 2.68
+    },
+    "46": {
+      "count": 6,
+      "enrichment": 2.68
+    },
+    "2": {
+      "count": 5,
+      "enrichment": 2.2333333333333334
+    },
+    "4": {
+      "count": 5,
+      "enrichment": 2.2333333333333334
+    },
+    "5": {
+      "count": 5,
+      "enrichment": 2.2333333333333334
+    },
+    "9": {
+      "count": 5,
+      "enrichment": 2.2333333333333334
+    }
+  },
+  "case_distribution": {
+    "counts": {
+      "or": 128,
+      "ar": 2,
+      "ol": 1,
+      "other": 18,
+      "al": 1
+    },
+    "percentages": {
+      "or": 85.33333333333333,
+      "ar": 1.3333333333333333,
+      "ol": 0.6666666666666666,
+      "other": 12.0,
+      "al": 0.6666666666666666
+    },
+    "total": 150
+  },
+  "examples": [
+    "chol kshy kchy **DOR** chodaiin sho kchom",
+    "daiin otchalypchaiin ckholsy **DORCHORYCHKAR** sshor cthy qotaiincthey",
+    "daiiin chckhoys shey **DOR** chol daiin **DOR**",
+    "**DOR** chol daiin **DOR** chol chor chol",
+    "ocholy kchos chy **DOR** dchor choldar okol",
+    "kshy ky ty **DOR** cheey ol cheol",
+    "odaiin shotchodol dol **DOR** aiin qoteeeo cheeody",
+    "keeo daiir chokchy **DOR** deol dydol daiin",
+    "shor shaiin otar **DORYTOL** dayty daiin chor",
+    "qochol chol ctchy **DAIINOTALDORDAIM** soiin daiin qokcho",
+    "shey shoyty socthody **QODOR** y kshy daiin",
+    "qoty chol cthy **DOR** ykychy choty dain",
+    "arg ycheor ksho **DOR** cthey torshor opchy",
+    "cfhol dy tchor **DOR** daiin qotchol okchy",
+    "kol shy daiin **DORODY** qokchol dar dala"
+  ]
+}
