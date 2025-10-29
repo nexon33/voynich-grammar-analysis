@@ -1,0 +1,65 @@
+MEDICAL TERMS FOUND IN VOYNICH MANUSCRIPT
+======================================================================
+
+Total matches: 244
+
+
+BODY PARTS (171 matches):
+----------------------------------------------------------------------
+ched                 → ched                 (appears   29x)
+shed                 → shed                 (appears   26x)
+oar                  → ear                  (appears   17x)
+orol                 → erel                 (appears   16x)
+shod                 → shed                 (appears   13x)
+chod                 → ched                 (appears   11x)
+oro                  → ere                  (appears    8x)
+oror                 → erer                 (appears    6x)
+orom                 → erem                 (appears    5x)
+yched                → yched                (appears    3x)
+chodo                → chede                (appears    2x)
+foar                 → fear                 (appears    2x)
+toror                → terer                (appears    2x)
+toar                 → tear                 (appears    2x)
+tear                 → tear                 (appears    2x)
+poar                 → pear                 (appears    2x)
+poror                → perer                (appears    1x)
+ychod                → yched                (appears    1x)
+yoar                 → year                 (appears    1x)
+seoar                → seear                (appears    1x)
+seear                → seear                (appears    1x)
+choro                → chere                (appears    1x)
+shedo                → shede                (appears    1x)
+sear                 → sear                 (appears    1x)
+doaro                → deare                (appears    1x)
+doar                 → dear                 (appears    1x)
+soear                → seear                (appears    1x)
+sheds                → sheds                (appears    1x)
+oroly                → erely                (appears    1x)
+shoro                → shere                (appears    1x)
+oaro                 → eare                 (appears    1x)
+doror                → derer                (appears    1x)
+orey                 → erey                 (appears    1x)
+ear                  → ear                  (appears    1x)
+chedo                → chede                (appears    1x)
+porol                → perel                (appears    1x)
+soar                 → sear                 (appears    1x)
+cheyor               → cheyer               (appears    1x)
+loar                 → lear                 (appears    1x)
+aroro                → arere                (appears    1x)
+polched              → polched              (appears    1x)
+
+CONDITIONS (68 matches):
+----------------------------------------------------------------------
+sor                  → sor                  (appears   51x)
+chotol               → chetel               (appears    7x)
+sory                 → sory                 (appears    3x)
+choto                → chete                (appears    3x)
+shoto                → shete                (appears    1x)
+chete                → chete                (appears    1x)
+sorol                → sorel                (appears    1x)
+sokoly               → sekely               (appears    1x)
+
+TREATMENTS (4 matches):
+----------------------------------------------------------------------
+cholo                → chele                (appears    3x)
+schoal               → scheal               (appears    1x)

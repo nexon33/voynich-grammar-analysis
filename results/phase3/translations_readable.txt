@@ -1,0 +1,637 @@
+HIGH-DENSITY SECTION TRANSLATIONS
+======================================================================
+
+
+======================================================================
+SECTION #4 (Rank 1, Density: 1.60%)
+======================================================================
+
+Line 1:
+  V: ol chy kchey kchor dal pcho daiin chopol shoiin daiin
+  T: ol chy kchoy kchor dal pcho ??? chepol shoiin ???
+
+Line 2:
+  V: dain o ykeey soiiin chok qokchy da okol ydaiin ol
+  T: ??? o ??? ??? chok qekchy da ??? ??? ol
+
+Line 3:
+  V: chy kchor daiin olol ochkchar kol shy daiin dorody qokchol
+  T: chy kchor ??? ??? ochkchar kel shy ??? ??? qekchel
+
+Line 4:
+  V: dar dala qotolo ychol oir okor choor ockhy otcho dain
+  T: dar ??? ??? ychol eir eker cheer ??? etche ???
+
+Line 5:
+  V: chckhy soshy fchol shor cheor ykaiin s sody chody otchody
+  T: chckhy seshy fchol sher cheer ??? s ??? chody otchedy
+
+Line 6:
+  V: qotchy koiin sysho ty dy qotchor chod shoty chody dol
+  T: qetchy ??? sysho ty dy qetchor ched shety chody del
+  M: chod→ched
+
+Line 7:
+  V: dy dyokchy d y dcho kchy schol dy shey dar
+  T: dy dyekchy d y dche kchy schol dy shey dar
+
+Line 8:
+  V: qotyykeey ky oeeen chey teor chey tchy kychodalg sodaiin chy
+  T: ??? ky ??? choy teor choy tchy kychodalg ??? chy
+
+Line 9:
+  V: kchy kchy ykeody pdychoiin yfodain oty shy dy ypchor daiin
+  T: kchy kchy ??? pdychoiin ??? ety shy dy ypchor ???
+
+Line 10:
+  V: kol ydain okchor d chy tshy oky chy cthy otchy
+  T: kel ??? ekcher d chy tshy oky chy ??? otchy
+
+Line 11:
+  V: ty chol daiin ychy dy daiin chcthy yky kaiin dytchy
+  T: ty chel ??? ychy dy ??? chcthy yky ??? dytchy
+
+Line 12:
+  V: ykchy ky dy ytychy ksho ykshy shok shor yty darody
+  T: ykchy ky dy ytychy kshe ykshy shek sher yty ???
+
+Line 13:
+  V: dy otyds okshy daiin okchor chky qotchy daiin cthor oty
+  T: dy ??? okshy ??? ekcher chky qetchy ??? cthor ety
+
+Line 14:
+  V: qoty choky cthy chokchy dy dy dy chckhy dchyd n
+  T: ??? cheky ??? chokchy dy dy dy chckhy dchyd n
+
+Line 15:
+  V: oykshy choty dy dy odyd otchy o kchy dshy dardy
+  T: eykshy chety dy dy ??? otchy o kchy dshy ???
+
+Line 16:
+  V: chokshor daiinokshody daiindol dair dam dykchy ctholdgdchckhy tshor shey tchalyshy
+  T: chekshor daiinokshody ??? ??? dam dykchy ctholdgdchckhy tsher shey tchalyshy
+
+Line 17:
+  V: chtols sheydaiin otchor qokchor olyokor shy koly qokaiin qotchy tydydaiin
+  T: chtols sheydaiin etcher qokchor olyokor shy kely ??? qetchy ???
+
+Line 18:
+  V: chol cthy scheaiin chodaiin chlsol ckhaiin sal qotchy r shor
+  T: chel ??? scheaiin chedaiin chlsel ??? sal qetchy r sher
+
+Line 19:
+  V: cthydaiin cthy dy dchy ko kaiin chdysaiin okear daiin shkaiin
+  T: ??? ??? dy dchy ko ??? chdysaiin ??? ??? shkaiin
+
+Line 20:
+  V: cthysho keocthy shocthy tol kaiin sdain ctholy octhain qokaiin chosodaiin
+  T: cthyshe ??? shocthy tel ??? ??? cthely ??? ??? chesedaiin
+
+Line 21:
+  V: cthl s y ychain chckhhy okshysaiiin dol chds okaiin otaiin
+  T: ??? s y ychain chckhhy ekshysaiiin del chds ??? ???
+
+Line 22:
+  V: chl s ychor choross qotor shor tcheor chycthaiinshan ykshol dor
+  T: chl s ycher cheross qoter sher tcheer chycthaiinshan ykshol der
+
+Line 23:
+  V: sheey cthy dainskyshor shoty otcho kchy chol daiin ctharytol dor
+  T: sheey ??? dainskyshor shety etche kchy chel ??? ??? der
+
+Line 24:
+  V: dom qotchor chaiin chy kol daky poror orshy choiin dtchan
+  T: dom qetchor chaiin chy kel ??? perer ershy choiin dtchan
+  M: poror→perer
+
+Line 25:
+  V: opchor dy chor or oro r aiin cthy k ain
+  T: epcher dy chor or ere r ??? ??? k ain
+  M: oro→ere
+
+Line 26:
+  V: dar cthor daiin qokor okeor okaiin doiin choky shol qoky
+  T: dar cthor ??? qeker ekoor ??? ??? cheky shel ???
+
+Line 27:
+  V: qotchod otchor chor chor ytchor cthy s qotchey choty kaiin
+  T: qotchod etcher chor chor ytcher ??? s qotchoy chety ???
+
+Line 28:
+  V: otchy r aiin c oy choiin sho s chy s
+  T: otchy r ??? c oy choiin she s chy s
+
+Line 29:
+  V: chy tor ols ytchor chor ol oiin oty shol daiin
+  T: chy tor ols ytcher chor ol ??? ety shel ???
+
+Line 30:
+  V: otchol o cthol chol chol chody kan sor chor cthoiin
+  T: otchel o ??? chel chel chody kan sor chor ???
+  M: sor→sor
+
+Line 31:
+  V: cthy qokaiin soloiin cheor chol daiin cthy daiin cthor chol
+  T: ??? ??? ??? cheer chel ??? ??? ??? cthor chel
+
+Line 32:
+  V: chor pocheody qopchey sykaiin opchy dor ychy daiin dychor orom
+  T: chor pocheedy qopchey ??? opchy der ychy ??? dycher erem
+  M: orom→erem
+
+Line 33:
+  V: ychykchy otly kol shor ody otody qoyoeesordy ydor sheal okchy
+  T: ychykchy otly kel sher ody ??? ??? ydor sheal okchy
+
+Line 34:
+  V: qoy koiin choky ykair dainod ychealod tchor chor chs ykch
+  T: qoy ??? cheky ??? ??? ychoaled tchor chor chs ykch
+
+Line 35:
+  V: shocthy opchy ty ky oshaiin dyky oeees deeeod aiin d
+  T: shocthy opchy ty ky oshaiin ??? ??? ??? ??? d
+
+Line 36:
+  V: toaiin daiin dalchy dy ky s chy s aiin doal
+  T: ??? ??? dalchy dy ky s chy s ??? ???
+
+Line 37:
+  V: qoky shotchy ydain yky shody otol daiin saiin ytaiin toror
+  T: ??? shotchy ??? yky shedy ??? ??? ??? ??? terer
+  M: toror→terer
+
+Line 38:
+  V: daly dal opchy fchol ypchocf y okal sokchy qokol choty
+  T: daly dal opchy fchol ypchocf y ??? sokchy ??? chety
+
+Line 39:
+  V: okchy cthy chy kchy dy cho kchy shcthy shtshy sho
+  T: okchy ??? chy kchy dy che kchy shcthy shtshy she
+
+Line 40:
+  V: tchokyd qokchor dl dy shey pchraiin otchor chpchol chpchey s
+  T: tchokyd qokchor dl dy shey pchraiin etcher chpchel chpchey s
+
+Line 41:
+  V: pchoct y ytchor y ky chokchy qokcho cthor shory ykchy
+  T: pchect y ytcher y ky chokchy qokcho cthor shory ykchy
+
+Line 42:
+  V: dy choy qoty chy kchy koshet dchol chcthody cphod chotol
+  T: dy choy ??? chy kchy koshot dchel chcthedy ??? chetel
+  M: chotol→chetel
+
+Line 43:
+  V: dal ytchy chyty chor chol ytchy dan sor chkar oty
+  T: dal ytchy chyty chor chel ytchy dan sor chkar ety
+  M: sor→sor
+
+Line 44:
+  V: chkar chol dairin pchocthy chypchy qotchy chcfhhy sy daiin chol
+  T: chkar chel ??? pchecthy chypchy qetchy chcfhhy sy ??? chel
+
+Line 45:
+  V: y daiin chcthy qot char chor sholo dshy okaiin okaiin
+  T: y ??? chcthy qot char chor shole dshy ??? ???
+
+Line 46:
+  V: chol chor cthor ty chody qokchy chy dy ykchy chckhy
+  T: chel chor cthor ty chody qekchy chy dy ykchy chckhy
+
+Line 47:
+  V: otain cthor cthy okytaiin chkchy saiin daiin yky otor chody
+  T: ??? cthor ??? ??? chkchy ??? ??? yky oter chody
+
+Line 48:
+  V: sokar oaorar fshody daram ydar chom opydy ypod chop otchy
+  T: ??? ??? fshody ??? ??? chem ??? ??? chop otchy
+
+Line 49:
+  V: dody oldckhy ydair sho ky okshy qodar ckhody dor otchol
+  T: ??? ??? ??? she ky okshy ??? ??? der otchel
+
+Line 50:
+  V: qodcthy ods chol or chy qodam okor chor okchom tcho
+  T: ??? ods chel or chy ??? eker chor ekchom tcho
+
+
+======================================================================
+SECTION #24 (Rank 2, Density: 1.20%)
+======================================================================
+
+Line 1:
+  V: ypcheg oty opcheey chso cheey chedaly ykeeey qokeey chokeear osheey
+  T: ypcheg ety epchoey chse cheoy chodaly ??? ??? chekooar oshooy
+
+Line 2:
+  V: keeody che dals okor shey qokcheor doii r oeees otechy
+  T: ??? che ??? eker shey qokchoer ??? r ??? otochy
+
+Line 3:
+  V: o keey okeeodaiin siiin dairal oksheeoda or aral olar aroka
+  T: o ??? ??? ??? ??? ekshoooda or ??? ??? ???
+
+Line 4:
+  V: otorkeol or cheey dary okechey cheody eoky otechodor o dreeey
+  T: ??? or cheoy ??? ekechoy choody ??? etechedor o ???
+
+Line 5:
+  V: chockhdy cheockhy ytchoy kchochy dair oekey kchcsey chy koldy shokchy
+  T: chockhdy choockhy ytchoy kchochy ??? ??? kchcsey chy ??? shekchy
+
+Line 6:
+  V: chteey choteey cphol cheor opcheeol otor choctheeey okchoal tochso otchl
+  T: chteey choteoy ??? cheer epcheoel oter chectheooy ekcheal tochso otchl
+
+Line 7:
+  V: qokeeedy cheey cheeteey yteody chpor cheo korchey chod ykor shey
+  T: ??? cheoy chootoey ??? chper choo korchey ched ykor shey
+  M: chod→ched
+
+Line 8:
+  V: qocheey chokalokeey ror cckheor daram dchor okaii n yky dary
+  T: qocheey chokalokooy rer cckhoor ??? dchor ??? n yky ???
+
+Line 9:
+  V: chkchykoly chocphy cphocthy dolchedy ockhy ocphy octhey otcheody odchecthy ofcheor
+  T: chkchykoly checphy ??? dolchody ??? ??? ??? otchoody odchecthy ofchoor
+
+Line 10:
+  V: oiin ar okeor okeeodal okoaly okoldy okshor olor or daiin
+  T: ??? ar ekoor ??? okealy ??? okshor olor or ???
+
+Line 11:
+  V: ytchody otochedy okodaly otol otor otcsey otydy otykchs otys toeeodcthy
+  T: ytchody otechody okedaly ??? oter ??? ??? etykchs ??? ???
+
+Line 12:
+  V: ykchdy otcs do oky oka dy okardy q aear oldy
+  T: ykchdy ??? de oky oka dy ??? q ??? ???
+
+Line 13:
+  V: tsheeor chor sheal dar opchey oeecthy sheol dokechy otcheoly dchy
+  T: tshoeor chor sheal dar epchey ??? sheel dokechy etcheely dchy
+
+Line 14:
+  V: ykeechy dchyky okeeoda rcheodal chokeey cheor oram tcheos otchoky okchol
+  T: ykoochy dchyky ??? rchoodal chokooy cheer ??? tchoos etcheky okchol
+
+Line 15:
+  V: okol sheeor chodchy qokchdar chor chesy oriid qoeeckhy qockheol qokeol
+  T: ??? sheoor chodchy qokchdar chor chosy ??? ??? ??? ???
+
+Line 16:
+  V: cheoal dchol al kcheoey cheodysai n ykeody chykchy okeo okor
+  T: cheoal dchel al kcheeey cheedysai n ??? chykchy ??? eker
+
+Line 17:
+  V: oko okemy oka isy qokool cheo qo ol otolchcthy cheo
+  T: eko ??? oka isy ??? choo qe ol otelchcthy choo
+
+Line 18:
+  V: rol odaiin ochory shdar dchol todaraiil y olcheesey okchor oteool
+  T: rel ??? echory shdar dchel ??? y olchoosey ekcher ???
+
+Line 19:
+  V: oydchy cholar okcheody dcheoldy oteeeo r etocho ofchsody otcheodar odai
+  T: oydchy chelar ekchoedy dcheoldy ??? r etecho ofchsedy otchoodar ???
+
+Line 20:
+  V: r chol opocphor otoshol chodar shchy okeechor okeo okoaiin okol
+  T: r chel opocphor eteshol chedar shchy ekeochor ??? ??? ???
+
+Line 21:
+  V: oky oeeeo r ekey okcho l cheo o koiin odchd
+  T: oky ??? r ??? okcho l choo o ??? odchd
+
+Line 22:
+  V: otchdy cheoteeo oshchey chokol cheody chedy ote odaiin otchodal s
+  T: etchdy chooteee eshchoy chekel choody chody oto ??? etchedal s
+
+Line 23:
+  V: ol cheor oteo oteey oetchdy opcheody dchedy daiin oteeody da
+  T: ol cheer ??? ??? ootchdy epcheedy dchody ??? ??? da
+
+Line 24:
+  V: cheedy oteeody qochecth m dchreo okeodly do ls os chaiin
+  T: choody ??? qochecth m dchroo okeodly de ls os chaiin
+
+Line 25:
+  V: cheockhedchy chodal cheody chol al oteo dched okedy qokeey choky
+  T: choockhedchy chodal choody chel al ??? dched ??? ??? cheky
+
+Line 26:
+  V: dol daleesd okinaiir dchey qokeey dcheey daiir otchal toees ykeoshe
+  T: del ??? ??? dchey ??? dchooy ??? etchal ??? ykeesho
+
+Line 27:
+  V: qokol chey qokchdy toees ch cphy qokchdy dol okyld dchy
+  T: ??? choy qokchdy ??? ch ??? qokchdy del ??? dchy
+
+Line 28:
+  V: kchy daiir chok o ckho dar qokol chdchol qoteey ch
+  T: kchy ??? chok o ??? dar ??? chdchol ??? ch
+
+Line 29:
+  V: etechy okchdy dchokchr shhy okey oteos okolshy pchody qokchy dshol
+  T: otochy okchdy dchokchr shhy ??? ??? okelshy pchedy qekchy dshol
+
+Line 30:
+  V: ds y otgoldl kchoty oteey daiin dcheeody oteey doaro oalcheol
+  T: ds y ??? kchoty ??? ??? dchoeedy ??? deare oalchoel
+  M: doaro→deare
+
+Line 31:
+  V: dchol dal otory okos okolchy a cphy chdy yky darall
+  T: dchel dal ??? ??? ekolchy a ??? chdy yky ???
+
+Line 32:
+  V: o cthyd okchoda oty dm otchody chokchy okol cheol dar
+  T: o ??? okchoda ety dm otchedy chokchy ??? choel dar
+
+Line 33:
+  V: cho keol dolaiin okeol oly tchedy chepchy daiidy shol kcheoly
+  T: che ??? ??? ??? oly tchody chopchy ??? shel kcheely
+
+Line 34:
+  V: choteol shol s chey shodaiin chetshedy otsho qooto seeey scsey
+  T: cheteol shel s choy shodaiin chotshody etshe ??? ??? ???
+
+Line 35:
+  V: kcheol shchy qety sheey otchol chal sheey daiin sheody qokol
+  T: kcheol shchy ??? sheey otchel chal sheey ??? shoedy ???
+
+Line 36:
+  V: aiir chor cheoty oty sho chokar sor chor cheky daiin
+  T: ??? chor choety ety she chekar sor chor cheky ???
+  M: sor→sor
+
+Line 37:
+  V: das aiinytey tol cheeetchol s am dcheey qockhhy chydy oko
+  T: das ??? tel chooetchel s am dchooy ??? chydy eko
+
+Line 38:
+  V: otol ees choty chedas otchdy s or oekaiin oteol dar
+  T: ??? ees chety chodas etchdy s or ??? ??? dar
+
+Line 39:
+  V: cheo dais qoeeokaiin otchey dal cheky ykes qokeol s ol
+  T: choo ??? ??? etchoy dal cheky ??? ??? s ol
+
+Line 40:
+  V: oy ykeoees yty dy dy chody otol olees oty sar
+  T: oy ??? yty dy dy chody ??? ??? ety sar
+
+Line 41:
+  V: qoteey otey chey kodar dar sheody shees daiin oteeoaly oteeosol
+  T: ??? ??? choy ??? dar shoedy sheos ??? otooealy ???
+
+Line 42:
+  V: ol okol olsey tol cheol okeey choekchchy okchy qokchshy dchol
+  T: ol ??? ??? tel choel ??? cheekchchy okchy qekchshy dchel
+
+Line 43:
+  V: chshek ycheeo ke y qokal okeeg qokeody okeey chekchy chckhy
+  T: chshok ychooo ko y ??? ??? ??? ??? chokchy chckhy
+
+Line 44:
+  V: okalody chedy shoekea l sheky okolchey okoldam okeol cheoda qolkeey
+  T: ??? chody sheekea l shoky okolchey ??? ??? choeda ???
+
+Line 45:
+  V: ocheky eeody okchdy oko okos r al chdail schekol okeody
+  T: ochoky ??? okchdy eko ??? r al chdail schokol ???
+
+Line 46:
+  V: ocheol qoeey keody cheoky okchy chodo dy oteem ydaiil ol
+  T: echoel ??? ??? cheeky okchy chede dy ??? ??? ol
+  M: chodo→chede
+
+Line 47:
+  V: chok okchyd ochey chekchy dkeeeg cheekey te olkechey saiir okosy
+  T: chok okchyd ochoy chokchy ??? choekey to olkechoy ??? ???
+
+Line 48:
+  V: okchy okol choekey okeoeeey ol yko r otair or orol
+  T: okchy ??? choekey ??? ol yko r ??? or erel
+  M: orol→erel
+
+Line 49:
+  V: orkeeey olkeeoly ykeeol otodol opcholdg doar ykeol darol daly solaiin
+  T: ??? elkeooly ??? ??? epcholdg dear ??? ??? daly ???
+  M: doar→dear
+
+Line 50:
+  V: ckhhy olekeey dy ykeol ctheepchy dar teeody shcthey psheody shocthy
+  T: ??? ??? dy ??? ctheepchy dar ??? shcthoy pshoody shocthy
+
+
+======================================================================
+SECTION #51 (Rank 3, Density: 1.20%)
+======================================================================
+
+Line 1:
+  V: n qokeeol qokeody chol cheol ykeo qo qol cheo loiiin
+  T: n ??? ??? chel choel ??? qe qol choo ???
+
+Line 2:
+  V: daimom s cheor sy sor cheey dol cheor cheea keeo
+  T: ??? s cheer sy sor cheoy del cheer choea ???
+  M: sor→sor
+
+Line 3:
+  V: qokeey daiin ycheas y okeey keeokechy cthey daiin dy qokol
+  T: ??? ??? ychoas y ??? koeekechy ??? ??? dy ???
+
+Line 4:
+  V: cheor okoiin okeoy qoeey cheo r cheey qokeol cheal s
+  T: cheer ??? ??? ??? choo r cheoy ??? choal s
+
+Line 5:
+  V: aiin o cheol soiiin dair chey daiin o r ai
+  T: ??? o choel ??? ??? choy ??? o r ai
+
+Line 6:
+  V: n or ai n ol daiin qoaiin ol chkaiin daiin
+  T: n or ai n ol ??? ??? ol chkaiin ???
+
+Line 7:
+  V: okar s air yl dairl okain yorain ofakal otalsy ytarem
+  T: ??? s air yl ??? ??? ??? ??? ??? ???
+
+Line 8:
+  V: otolarol choeesy oka m darcheos chokaro sheol chokam kosar sheol
+  T: ??? choeesy oka m darchoos chekaro sheel chekam ??? sheel
+
+Line 9:
+  V: s aiin koiin chtodaiin pd an choto qofoiin dy qopdol
+  T: s ??? ??? chtedaiin pd an chete ??? dy ???
+  M: choto→chete
+
+Line 10:
+  V: doiir ofaiin ol cfheol dam daiin ykodai r okor chearoteee
+  T: ??? ??? ol ??? dam ??? ??? r eker choarotooe
+
+Line 11:
+  V: eeckhy s aiin ckhey otaiin okar dai n okol al
+  T: ??? s ??? ??? ??? ??? dai n ??? al
+
+Line 12:
+  V: chor dar yched okeey qoeol daiinchor ch or cheos qol
+  T: chor dar yched ??? ??? daiincher ch or cheos qol
+  M: yched→yched
+
+Line 13:
+  V: eeeey dal chody cheor chey qoaiin chody dair or cheol
+  T: ??? dal chody cheer choy ??? chody ??? or choel
+
+Line 14:
+  V: chomqol cheo lch eo lor cheo daiin chkam okory otair
+  T: chomqol choo lch eo ler choo ??? chkam ??? ???
+
+Line 15:
+  V: chody dyda riin opcheedoy sor oairar sheety chod s kory
+  T: chody ??? ??? opchoedoy sor ??? shooty ched s ???
+  M: sor→sor, chod→ched
+
+Line 16:
+  V: ochar eair sheo tai n ytodaiin octhos okaiir okeosdar s
+  T: echar ??? shee tai n ??? ??? ??? ??? s
+
+Line 17:
+  V: a in ykeody dar okal dal doral dar am y
+  T: a in ??? dar ??? dal ??? dar am y
+
+Line 18:
+  V: eo qokeeol chey sairdam y for opodaiin dam sary qodam
+  T: eo ??? choy ??? y for ??? dam ??? ???
+
+Line 19:
+  V: yteos aiin qokor chor cth y daiinchos eey dar aiin
+  T: ??? ??? qeker chor cth y daiinches oey dar ???
+
+Line 20:
+  V: choeees okar chcthy daram s toar qokeeody doef sheydairy sheos
+  T: choeoes ??? chcthy ??? s tear ??? ??? sheydairy sheos
+  M: toar→tear
+
+Line 21:
+  V: psheoep oain dai n qekor ykeor otol sheey dal daiin
+  T: pshooop ??? dai n qeker ykoor ??? sheey dal ???
+
+Line 22:
+  V: dol dair chey okaiin shydaiir o dor sheos aiin daikeody
+  T: del ??? choy ??? shydaiir o der sheos ??? ???
+
+Line 23:
+  V: qokorar sheody qoko ltcheody otal dar qockhy qokal okeoycho daiin
+  T: ??? shoedy ??? ltchoody ??? dar ??? ??? okoeycho ???
+
+Line 24:
+  V: odaiin ykeoda okol s sheey keeody daiin qokos okeom ockhody
+  T: ??? ??? ??? s sheey ??? ??? ??? ??? ???
+
+Line 25:
+  V: daiin y kam sch t y ch y cthey dair
+  T: ??? y kam sch t y ch y ??? ???
+
+Line 26:
+  V: air cho ol loy dair cheo daiin opaloiiry otar am
+  T: air che ol loy ??? choo ??? ??? ??? am
+
+Line 27:
+  V: chtody ds o rad y da reky okoraldy otoikhy otchar
+  T: chtedy ds o rad y da ??? ??? ??? otchar
+
+Line 28:
+  V: darshody kol dal sfal cfhoy ofcheol opolsy daiin qopol oldaiin
+  T: darshody kel dal ??? ??? efcheol ??? ??? ??? ???
+
+Line 29:
+  V: octhody dor sheey qokol cheol cthody qockhy dai n yteey
+  T: ??? der sheey ??? choel ??? ??? dai n ???
+
+Line 30:
+  V: otar cthol qokey daiin cheey cthody qoor sheor sol chor
+  T: ??? ??? ??? ??? cheoy ??? qoor sheer sel chor
+
+Line 31:
+  V: cheor ory shockhey orarol cheoky qoy chodair choky daiin otar
+  T: cheer ory sheckhey ??? cheeky qoy chodair cheky ??? ???
+
+Line 32:
+  V: okar tocheo cthor okol chekaiin os aiin ol cheo kchey
+  T: ??? techee cthor ??? chokaiin os ??? ol choo kchoy
+
+Line 33:
+  V: qokoiiin dan tor sheor cheor cthey qokol daiin chekal dal
+  T: ??? dan tor sheer cheer ??? ??? ??? chokal dal
+
+Line 34:
+  V: s chear qotam osheo kaiin s ai n ol shodai
+  T: s choar ??? eshoo ??? s ai n ol shodai
+
+Line 35:
+  V: n qokar ai n chekal daiin dar qokar odaiin tosheo
+  T: n ??? ai n chokal ??? dar ??? ??? toshoe
+
+Line 36:
+  V: fcheody shekey or shos oiir cphey qokeody cheody dal dy
+  T: fchoedy shokey or shes ??? ??? ??? choody dal dy
+
+Line 37:
+  V: ykeey ykeey odal shoky okol chody okoaiin dal chdy dal
+  T: ??? ??? ??? shoky ??? chody ??? dal chdy dal
+
+Line 38:
+  V: daldy dcheocy daiin cthol daiin daldy okeor ytey keor chey
+  T: ??? dcheecy ??? ??? ??? ??? ekoor ??? koer choy
+
+Line 39:
+  V: ty ochy qokaiin ykchol qockhy okalda otal dal chodar okaiin
+  T: ty echy ??? ykchol ??? ??? ??? dal chedar ???
+
+Line 40:
+  V: dalg sal shol ykol dar am shol ckhy dolchoy dalshdy
+  T: ??? sal shel ??? dar am shel ??? dolchey dalshdy
+
+Line 41:
+  V: okeol dyd chy qokol cheol qokol dal chol dam qoeey
+  T: ??? dyd chy ??? choel ??? dal chel dam ???
+
+Line 42:
+  V: saiin ols chokaiin sar a daiin ckhey qotchy okol ycheo
+  T: ??? ols chokaiin sar a ??? ??? qetchy ??? ychoo
+
+Line 43:
+  V: cthody okol olkeeycthy sol chey okchol sair daiin okal choldy
+  T: ??? ??? ??? sel choy okchol ??? ??? ??? cheldy
+
+Line 44:
+  V: koeeorain otor chos opol olaiin opal daiin poleeol qokeol qokchod
+  T: ??? oter chos ??? ??? ??? ??? ??? ??? qokched
+
+Line 45:
+  V: chody cthom yshol tor sheor qotchor qoky darala dair shkeeo
+  T: chody ??? yshol tor sheer qetchor ??? ??? ??? shkoee
+
+Line 46:
+  V: s sary okor ykarshy lkaldy tol chor chodaiin chocfhor qokchor
+  T: s ??? eker ykarshy ??? tel chor chedaiin chocfhor qokchor
+
+Line 47:
+  V: chockhyokchod qofchol ytor ckhy lpychol sho ol okachey s sheom
+  T: chockhyekched qefchel ytor ??? lpychel she ol okachoy s shoom
+
+Line 48:
+  V: ke ol dchy dasady tol otchol shory dar qokeos okeos
+  T: ko ol dchy ??? tel otchel shory dar ??? ???
+
+Line 49:
+  V: chso chol ytod qokeor dolshy dol chos qocthy qokcho shko
+  T: chse chel ??? qekoer delshy del chos ??? qokcho shko
+
+Line 50:
+  V: qokol oteey chofy ykeody qokod kor sheol qodar oko ykeey
+  T: ??? ??? chofy ??? ??? kor sheel ??? eko ???
+

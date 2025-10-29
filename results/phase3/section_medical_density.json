@@ -1,0 +1,2485 @@
+[
+  {
+    "section_id": 4,
+    "word_count": 500,
+    "medical_term_count": 8,
+    "density_percent": 1.6,
+    "category_counts": {
+      "body_parts": 5,
+      "conditions": 3
+    },
+    "medical_matches": [
+      {
+        "voynich": "chod",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      },
+      {
+        "voynich": "poror",
+        "medical_term": "perer",
+        "category": "body_parts",
+        "me_frequency": 1
+      },
+      {
+        "voynich": "oro",
+        "medical_term": "ere",
+        "category": "body_parts",
+        "me_frequency": 21928
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "orom",
+        "medical_term": "erem",
+        "category": "body_parts",
+        "me_frequency": 3
+      },
+      {
+        "voynich": "toror",
+        "medical_term": "terer",
+        "category": "body_parts",
+        "me_frequency": 18
+      },
+      {
+        "voynich": "chotol",
+        "medical_term": "chetel",
+        "category": "conditions",
+        "me_frequency": 4
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      }
+    ],
+    "first_words": "ol chy kchey kchor dal pcho daiin chopol shoiin daiin"
+  },
+  {
+    "section_id": 24,
+    "word_count": 500,
+    "medical_term_count": 6,
+    "density_percent": 1.2,
+    "category_counts": {
+      "body_parts": 5,
+      "conditions": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "chod",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      },
+      {
+        "voynich": "doaro",
+        "medical_term": "deare",
+        "category": "body_parts",
+        "me_frequency": 1
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "chodo",
+        "medical_term": "chede",
+        "category": "body_parts",
+        "me_frequency": 9
+      },
+      {
+        "voynich": "orol",
+        "medical_term": "erel",
+        "category": "body_parts",
+        "me_frequency": 3
+      },
+      {
+        "voynich": "doar",
+        "medical_term": "dear",
+        "category": "body_parts",
+        "me_frequency": 19
+      }
+    ],
+    "first_words": "ypcheg oty opcheey chso cheey chedaly ykeeey qokeey chokeear osheey"
+  },
+  {
+    "section_id": 51,
+    "word_count": 500,
+    "medical_term_count": 6,
+    "density_percent": 1.2,
+    "category_counts": {
+      "conditions": 3,
+      "body_parts": 3
+    },
+    "medical_matches": [
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "choto",
+        "medical_term": "chete",
+        "category": "conditions",
+        "me_frequency": 11
+      },
+      {
+        "voynich": "yched",
+        "medical_term": "yched",
+        "category": "body_parts",
+        "me_frequency": 2
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "chod",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      },
+      {
+        "voynich": "toar",
+        "medical_term": "tear",
+        "category": "body_parts",
+        "me_frequency": 10
+      }
+    ],
+    "first_words": "n qokeeol qokeody chol cheol ykeo qo qol cheo loiiin"
+  },
+  {
+    "section_id": 55,
+    "word_count": 500,
+    "medical_term_count": 6,
+    "density_percent": 1.2,
+    "category_counts": {
+      "conditions": 3,
+      "body_parts": 3
+    },
+    "medical_matches": [
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "orol",
+        "medical_term": "erel",
+        "category": "body_parts",
+        "me_frequency": 3
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "chod",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "orey",
+        "medical_term": "erey",
+        "category": "body_parts",
+        "me_frequency": 6
+      }
+    ],
+    "first_words": "okolaiin okolaiin cheol dy yoiin ol ol olaiin qockhey qokol"
+  },
+  {
+    "section_id": 60,
+    "word_count": 500,
+    "medical_term_count": 6,
+    "density_percent": 1.2,
+    "category_counts": {
+      "conditions": 2,
+      "body_parts": 4
+    },
+    "medical_matches": [
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "shed",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "ear",
+        "medical_term": "ear",
+        "category": "body_parts",
+        "me_frequency": 107
+      },
+      {
+        "voynich": "shod",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      },
+      {
+        "voynich": "ched",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      }
+    ],
+    "first_words": "ycheeoy qokecho qokol cheeo dam tol chedal cheock ay otyd"
+  },
+  {
+    "section_id": 72,
+    "word_count": 500,
+    "medical_term_count": 6,
+    "density_percent": 1.2,
+    "category_counts": {
+      "body_parts": 4,
+      "conditions": 2
+    },
+    "medical_matches": [
+      {
+        "voynich": "oar",
+        "medical_term": "ear",
+        "category": "body_parts",
+        "me_frequency": 107
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "soar",
+        "medical_term": "sear",
+        "category": "body_parts",
+        "me_frequency": 4
+      },
+      {
+        "voynich": "poar",
+        "medical_term": "pear",
+        "category": "body_parts",
+        "me_frequency": 2
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "ched",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      }
+    ],
+    "first_words": "n olr ar olor polchey lkar shar okai n qokai"
+  },
+  {
+    "section_id": 5,
+    "word_count": 500,
+    "medical_term_count": 5,
+    "density_percent": 1.0,
+    "category_counts": {
+      "body_parts": 3,
+      "conditions": 2
+    },
+    "medical_matches": [
+      {
+        "voynich": "ychod",
+        "medical_term": "yched",
+        "category": "body_parts",
+        "me_frequency": 2
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "yoar",
+        "medical_term": "year",
+        "category": "body_parts",
+        "me_frequency": 513
+      },
+      {
+        "voynich": "chod",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      }
+    ],
+    "first_words": "shol qokol qor olaiin opydgsom ypchy ypaim ychekchy cthy chor"
+  },
+  {
+    "section_id": 7,
+    "word_count": 500,
+    "medical_term_count": 5,
+    "density_percent": 1.0,
+    "category_counts": {
+      "conditions": 1,
+      "body_parts": 4
+    },
+    "medical_matches": [
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "oro",
+        "medical_term": "ere",
+        "category": "body_parts",
+        "me_frequency": 21928
+      },
+      {
+        "voynich": "shod",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      },
+      {
+        "voynich": "oro",
+        "medical_term": "ere",
+        "category": "body_parts",
+        "me_frequency": 21928
+      },
+      {
+        "voynich": "foar",
+        "medical_term": "fear",
+        "category": "body_parts",
+        "me_frequency": 33
+      }
+    ],
+    "first_words": "daiin sor ytal sokaiin oty dy ychky daiin cthy okchain"
+  },
+  {
+    "section_id": 23,
+    "word_count": 500,
+    "medical_term_count": 5,
+    "density_percent": 1.0,
+    "category_counts": {
+      "body_parts": 3,
+      "conditions": 2
+    },
+    "medical_matches": [
+      {
+        "voynich": "oar",
+        "medical_term": "ear",
+        "category": "body_parts",
+        "me_frequency": 107
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "oar",
+        "medical_term": "ear",
+        "category": "body_parts",
+        "me_frequency": 107
+      },
+      {
+        "voynich": "oar",
+        "medical_term": "ear",
+        "category": "body_parts",
+        "me_frequency": 107
+      }
+    ],
+    "first_words": "eesey kchy qofchal dshol keedy qokyr okaiin dol kal daiin"
+  },
+  {
+    "section_id": 26,
+    "word_count": 500,
+    "medical_term_count": 5,
+    "density_percent": 1.0,
+    "category_counts": {
+      "body_parts": 4,
+      "conditions": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "oar",
+        "medical_term": "ear",
+        "category": "body_parts",
+        "me_frequency": 107
+      },
+      {
+        "voynich": "ched",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      },
+      {
+        "voynich": "shed",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      },
+      {
+        "voynich": "oar",
+        "medical_term": "ear",
+        "category": "body_parts",
+        "me_frequency": 107
+      },
+      {
+        "voynich": "chotol",
+        "medical_term": "chetel",
+        "category": "conditions",
+        "me_frequency": 4
+      }
+    ],
+    "first_words": "ykeey ytary oeesa ytody okody otody okeol okeod oteeys oteol"
+  },
+  {
+    "section_id": 30,
+    "word_count": 500,
+    "medical_term_count": 5,
+    "density_percent": 1.0,
+    "category_counts": {
+      "conditions": 2,
+      "body_parts": 3
+    },
+    "medical_matches": [
+      {
+        "voynich": "sorol",
+        "medical_term": "sorel",
+        "category": "conditions",
+        "me_frequency": 1
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "ched",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      },
+      {
+        "voynich": "shed",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      },
+      {
+        "voynich": "shed",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      }
+    ],
+    "first_words": "qokedyqokedy qokedy qokedy qokain olshedy sai n ol keeshy qokai"
+  },
+  {
+    "section_id": 36,
+    "word_count": 500,
+    "medical_term_count": 5,
+    "density_percent": 1.0,
+    "category_counts": {
+      "conditions": 1,
+      "body_parts": 3,
+      "treatments": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "sheds",
+        "medical_term": "sheds",
+        "category": "body_parts",
+        "me_frequency": 2
+      },
+      {
+        "voynich": "shed",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      },
+      {
+        "voynich": "cholo",
+        "medical_term": "chele",
+        "category": "treatments",
+        "me_frequency": 112
+      },
+      {
+        "voynich": "ched",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      }
+    ],
+    "first_words": "chedy qokain dal cheey qol chedy qokey or cheef chckhey"
+  },
+  {
+    "section_id": 38,
+    "word_count": 500,
+    "medical_term_count": 5,
+    "density_percent": 1.0,
+    "category_counts": {
+      "general_medical": 1,
+      "body_parts": 2,
+      "conditions": 2
+    },
+    "medical_matches": [
+      {
+        "voynich": "day",
+        "medical_term": "day",
+        "category": "general_medical",
+        "me_frequency": 19561
+      },
+      {
+        "voynich": "ched",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      },
+      {
+        "voynich": "orol",
+        "medical_term": "erel",
+        "category": "body_parts",
+        "me_frequency": 3
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      }
+    ],
+    "first_words": "qokeey okeedy shedy qokeey okai n sheckhdy dag qokeedy ykeey"
+  },
+  {
+    "section_id": 42,
+    "word_count": 500,
+    "medical_term_count": 5,
+    "density_percent": 1.0,
+    "category_counts": {
+      "body_parts": 3,
+      "conditions": 2
+    },
+    "medical_matches": [
+      {
+        "voynich": "shed",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      },
+      {
+        "voynich": "shed",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "ched",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      }
+    ],
+    "first_words": "dolchedy lchey r ol rol cheey s ai n sh"
+  },
+  {
+    "section_id": 48,
+    "word_count": 500,
+    "medical_term_count": 5,
+    "density_percent": 1.0,
+    "category_counts": {
+      "body_parts": 5
+    },
+    "medical_matches": [
+      {
+        "voynich": "ched",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      },
+      {
+        "voynich": "oar",
+        "medical_term": "ear",
+        "category": "body_parts",
+        "me_frequency": 107
+      },
+      {
+        "voynich": "chod",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      },
+      {
+        "voynich": "oar",
+        "medical_term": "ear",
+        "category": "body_parts",
+        "me_frequency": 107
+      },
+      {
+        "voynich": "shod",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      }
+    ],
+    "first_words": "chepy ltedy dar olkar am daiin or otol otshey otal"
+  },
+  {
+    "section_id": 52,
+    "word_count": 500,
+    "medical_term_count": 5,
+    "density_percent": 1.0,
+    "category_counts": {
+      "body_parts": 3,
+      "conditions": 2
+    },
+    "medical_matches": [
+      {
+        "voynich": "oar",
+        "medical_term": "ear",
+        "category": "body_parts",
+        "me_frequency": 107
+      },
+      {
+        "voynich": "chotol",
+        "medical_term": "chetel",
+        "category": "conditions",
+        "me_frequency": 4
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "oar",
+        "medical_term": "ear",
+        "category": "body_parts",
+        "me_frequency": 107
+      },
+      {
+        "voynich": "ched",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      }
+    ],
+    "first_words": "qokeey qodar qokeed s choky ykodar qoekchy seokol okom toealchs"
+  },
+  {
+    "section_id": 54,
+    "word_count": 500,
+    "medical_term_count": 5,
+    "density_percent": 1.0,
+    "category_counts": {
+      "conditions": 2,
+      "body_parts": 3
+    },
+    "medical_matches": [
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "oro",
+        "medical_term": "ere",
+        "category": "body_parts",
+        "me_frequency": 21928
+      },
+      {
+        "voynich": "oaro",
+        "medical_term": "eare",
+        "category": "body_parts",
+        "me_frequency": 23
+      },
+      {
+        "voynich": "sory",
+        "medical_term": "sory",
+        "category": "conditions",
+        "me_frequency": 943
+      },
+      {
+        "voynich": "doror",
+        "medical_term": "derer",
+        "category": "body_parts",
+        "me_frequency": 5
+      }
+    ],
+    "first_words": "sai n sheyk chody k chedaiin chedaiin otai n daiin"
+  },
+  {
+    "section_id": 68,
+    "word_count": 500,
+    "medical_term_count": 5,
+    "density_percent": 1.0,
+    "category_counts": {
+      "body_parts": 5
+    },
+    "medical_matches": [
+      {
+        "voynich": "porol",
+        "medical_term": "perel",
+        "category": "body_parts",
+        "me_frequency": 267
+      },
+      {
+        "voynich": "ched",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      },
+      {
+        "voynich": "yched",
+        "medical_term": "yched",
+        "category": "body_parts",
+        "me_frequency": 2
+      },
+      {
+        "voynich": "ched",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      },
+      {
+        "voynich": "ched",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      }
+    ],
+    "first_words": "chlar ycheol chckhy qokedy okai n pychory opchey lkeol chdar"
+  },
+  {
+    "section_id": 77,
+    "word_count": 500,
+    "medical_term_count": 5,
+    "density_percent": 1.0,
+    "category_counts": {
+      "body_parts": 4,
+      "conditions": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "oar",
+        "medical_term": "ear",
+        "category": "body_parts",
+        "me_frequency": 107
+      },
+      {
+        "voynich": "ched",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      },
+      {
+        "voynich": "shod",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      },
+      {
+        "voynich": "shod",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      }
+    ],
+    "first_words": "oeedaiin qoaiin ykedy okair olkeedy qoai n ai n okeey"
+  },
+  {
+    "section_id": 0,
+    "word_count": 500,
+    "medical_term_count": 4,
+    "density_percent": 0.8,
+    "category_counts": {
+      "conditions": 1,
+      "body_parts": 2,
+      "treatments": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "sory",
+        "medical_term": "sory",
+        "category": "conditions",
+        "me_frequency": 943
+      },
+      {
+        "voynich": "shod",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      },
+      {
+        "voynich": "chodo",
+        "medical_term": "chede",
+        "category": "body_parts",
+        "me_frequency": 9
+      },
+      {
+        "voynich": "cholo",
+        "medical_term": "chele",
+        "category": "treatments",
+        "me_frequency": 112
+      }
+    ],
+    "first_words": "fachys ykal ar ataiin shol shory cth res y kor"
+  },
+  {
+    "section_id": 16,
+    "word_count": 500,
+    "medical_term_count": 4,
+    "density_percent": 0.8,
+    "category_counts": {
+      "body_parts": 3,
+      "conditions": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "ched",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      },
+      {
+        "voynich": "chete",
+        "medical_term": "chete",
+        "category": "conditions",
+        "me_frequency": 11
+      },
+      {
+        "voynich": "ched",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      },
+      {
+        "voynich": "shed",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      }
+    ],
+    "first_words": "ched l chedy chedyokeedchs y qokeedy chete dar or aick"
+  },
+  {
+    "section_id": 19,
+    "word_count": 500,
+    "medical_term_count": 4,
+    "density_percent": 0.8,
+    "category_counts": {
+      "body_parts": 3,
+      "conditions": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "orol",
+        "medical_term": "erel",
+        "category": "body_parts",
+        "me_frequency": 3
+      },
+      {
+        "voynich": "oror",
+        "medical_term": "erer",
+        "category": "body_parts",
+        "me_frequency": 9
+      },
+      {
+        "voynich": "chotol",
+        "medical_term": "chetel",
+        "category": "conditions",
+        "me_frequency": 4
+      },
+      {
+        "voynich": "shod",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      }
+    ],
+    "first_words": "s am tol cheol shocthy qodaiin kchody daiin sheody qoctheol"
+  },
+  {
+    "section_id": 32,
+    "word_count": 500,
+    "medical_term_count": 4,
+    "density_percent": 0.8,
+    "category_counts": {
+      "conditions": 3,
+      "body_parts": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "shed",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      }
+    ],
+    "first_words": "chedy qokey dalshedy qol sheedy qokaldy chepy dai n al"
+  },
+  {
+    "section_id": 44,
+    "word_count": 500,
+    "medical_term_count": 4,
+    "density_percent": 0.8,
+    "category_counts": {
+      "body_parts": 3,
+      "conditions": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "oroly",
+        "medical_term": "erely",
+        "category": "body_parts",
+        "me_frequency": 93
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "oro",
+        "medical_term": "ere",
+        "category": "body_parts",
+        "me_frequency": 21928
+      },
+      {
+        "voynich": "orol",
+        "medical_term": "erel",
+        "category": "body_parts",
+        "me_frequency": 3
+      }
+    ],
+    "first_words": "qokedy qokeedy qokedy chedy okai n chey qokedy dar olar"
+  },
+  {
+    "section_id": 47,
+    "word_count": 500,
+    "medical_term_count": 4,
+    "density_percent": 0.8,
+    "category_counts": {
+      "body_parts": 3,
+      "conditions": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "orom",
+        "medical_term": "erem",
+        "category": "body_parts",
+        "me_frequency": 3
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "oro",
+        "medical_term": "ere",
+        "category": "body_parts",
+        "me_frequency": 21928
+      },
+      {
+        "voynich": "toror",
+        "medical_term": "terer",
+        "category": "body_parts",
+        "me_frequency": 18
+      }
+    ],
+    "first_words": "dalam tar lol chol olkar daiin chear or otshey qokar"
+  },
+  {
+    "section_id": 64,
+    "word_count": 500,
+    "medical_term_count": 4,
+    "density_percent": 0.8,
+    "category_counts": {
+      "body_parts": 4
+    },
+    "medical_matches": [
+      {
+        "voynich": "shed",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      },
+      {
+        "voynich": "shod",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      },
+      {
+        "voynich": "chedo",
+        "medical_term": "chede",
+        "category": "body_parts",
+        "me_frequency": 9
+      },
+      {
+        "voynich": "chod",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      }
+    ],
+    "first_words": "yteey sholfaiin opchdy lchdy dol ycheool cheeey ol aiin cheody"
+  },
+  {
+    "section_id": 69,
+    "word_count": 500,
+    "medical_term_count": 4,
+    "density_percent": 0.8,
+    "category_counts": {
+      "body_parts": 4
+    },
+    "medical_matches": [
+      {
+        "voynich": "shed",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      },
+      {
+        "voynich": "shed",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      },
+      {
+        "voynich": "ched",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      },
+      {
+        "voynich": "shed",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      }
+    ],
+    "first_words": "lal lkeeedy otai n sheey chol kan al dar chey"
+  },
+  {
+    "section_id": 75,
+    "word_count": 500,
+    "medical_term_count": 4,
+    "density_percent": 0.8,
+    "category_counts": {
+      "body_parts": 4
+    },
+    "medical_matches": [
+      {
+        "voynich": "cheyor",
+        "medical_term": "cheyer",
+        "category": "body_parts",
+        "me_frequency": 4
+      },
+      {
+        "voynich": "oror",
+        "medical_term": "erer",
+        "category": "body_parts",
+        "me_frequency": 9
+      },
+      {
+        "voynich": "ched",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      },
+      {
+        "voynich": "loar",
+        "medical_term": "lear",
+        "category": "body_parts",
+        "me_frequency": 8
+      }
+    ],
+    "first_words": "rchedy qosai n dcheey sheody shedai n tshedy qokaiin shedar"
+  },
+  {
+    "section_id": 78,
+    "word_count": 500,
+    "medical_term_count": 4,
+    "density_percent": 0.8,
+    "category_counts": {
+      "body_parts": 3,
+      "conditions": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "oro",
+        "medical_term": "ere",
+        "category": "body_parts",
+        "me_frequency": 21928
+      },
+      {
+        "voynich": "aroro",
+        "medical_term": "arere",
+        "category": "body_parts",
+        "me_frequency": 196
+      },
+      {
+        "voynich": "shod",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      }
+    ],
+    "first_words": "qoteey qokeeedy cheoctheey qokeeo lkealy olkeechy ol oaiin aiin chocthey"
+  },
+  {
+    "section_id": 8,
+    "word_count": 500,
+    "medical_term_count": 3,
+    "density_percent": 0.6,
+    "category_counts": {
+      "body_parts": 2,
+      "conditions": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "chod",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      },
+      {
+        "voynich": "shod",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      }
+    ],
+    "first_words": "qokcho shol daiin ckhear ckhol daiin chkear dar chakeey dshor"
+  },
+  {
+    "section_id": 13,
+    "word_count": 500,
+    "medical_term_count": 3,
+    "density_percent": 0.6,
+    "category_counts": {
+      "body_parts": 2,
+      "conditions": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "toar",
+        "medical_term": "tear",
+        "category": "body_parts",
+        "me_frequency": 10
+      },
+      {
+        "voynich": "choro",
+        "medical_term": "chere",
+        "category": "body_parts",
+        "me_frequency": 1817
+      },
+      {
+        "voynich": "chotol",
+        "medical_term": "chetel",
+        "category": "conditions",
+        "me_frequency": 4
+      }
+    ],
+    "first_words": "okar oky okoldy ol lokar qokar okarokol ol chedy qokchd"
+  },
+  {
+    "section_id": 27,
+    "word_count": 500,
+    "medical_term_count": 3,
+    "density_percent": 0.6,
+    "category_counts": {
+      "conditions": 1,
+      "body_parts": 1,
+      "treatments": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "chotol",
+        "medical_term": "chetel",
+        "category": "conditions",
+        "me_frequency": 4
+      },
+      {
+        "voynich": "orom",
+        "medical_term": "erem",
+        "category": "body_parts",
+        "me_frequency": 3
+      },
+      {
+        "voynich": "cholo",
+        "medical_term": "chele",
+        "category": "treatments",
+        "me_frequency": 112
+      }
+    ],
+    "first_words": "otalalg okasy otar chedaiin otchy dair shchey daiin chalaly oteody"
+  },
+  {
+    "section_id": 29,
+    "word_count": 500,
+    "medical_term_count": 3,
+    "density_percent": 0.6,
+    "category_counts": {
+      "body_parts": 3
+    },
+    "medical_matches": [
+      {
+        "voynich": "tear",
+        "medical_term": "tear",
+        "category": "body_parts",
+        "me_frequency": 10
+      },
+      {
+        "voynich": "orom",
+        "medical_term": "erem",
+        "category": "body_parts",
+        "me_frequency": 3
+      },
+      {
+        "voynich": "ched",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      }
+    ],
+    "first_words": "okches air am shey qokeodal oteotey oteoldy oteal chedy chotal"
+  },
+  {
+    "section_id": 31,
+    "word_count": 500,
+    "medical_term_count": 3,
+    "density_percent": 0.6,
+    "category_counts": {
+      "body_parts": 3
+    },
+    "medical_matches": [
+      {
+        "voynich": "orol",
+        "medical_term": "erel",
+        "category": "body_parts",
+        "me_frequency": 3
+      },
+      {
+        "voynich": "orol",
+        "medical_term": "erel",
+        "category": "body_parts",
+        "me_frequency": 3
+      },
+      {
+        "voynich": "shed",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      }
+    ],
+    "first_words": "ol sheor qokal dar olked orol kchey otai n olchey"
+  },
+  {
+    "section_id": 40,
+    "word_count": 500,
+    "medical_term_count": 3,
+    "density_percent": 0.6,
+    "category_counts": {
+      "conditions": 2,
+      "body_parts": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "orol",
+        "medical_term": "erel",
+        "category": "body_parts",
+        "me_frequency": 3
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      }
+    ],
+    "first_words": "al qokai n ol cheeor olar chey tchar ol chedy"
+  },
+  {
+    "section_id": 41,
+    "word_count": 500,
+    "medical_term_count": 3,
+    "density_percent": 0.6,
+    "category_counts": {
+      "conditions": 2,
+      "body_parts": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "orol",
+        "medical_term": "erel",
+        "category": "body_parts",
+        "me_frequency": 3
+      },
+      {
+        "voynich": "sokoly",
+        "medical_term": "sekely",
+        "category": "conditions",
+        "me_frequency": 2
+      }
+    ],
+    "first_words": "dol chy qocthey chek al chody qokedy l shety qoldy"
+  },
+  {
+    "section_id": 43,
+    "word_count": 500,
+    "medical_term_count": 3,
+    "density_percent": 0.6,
+    "category_counts": {
+      "body_parts": 2,
+      "conditions": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "shed",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "ched",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      }
+    ],
+    "first_words": "chckhdy sar schedair otchedy qokeedy chedai n chedy qotedaiin otaiin"
+  },
+  {
+    "section_id": 45,
+    "word_count": 500,
+    "medical_term_count": 3,
+    "density_percent": 0.6,
+    "category_counts": {
+      "body_parts": 2,
+      "conditions": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "oror",
+        "medical_term": "erer",
+        "category": "body_parts",
+        "me_frequency": 9
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "shoro",
+        "medical_term": "shere",
+        "category": "body_parts",
+        "me_frequency": 50
+      }
+    ],
+    "first_words": "daiin dol sheedy chedy okedy rkchdy kol kaldy dsheey qokeedy"
+  },
+  {
+    "section_id": 56,
+    "word_count": 500,
+    "medical_term_count": 3,
+    "density_percent": 0.6,
+    "category_counts": {
+      "body_parts": 1,
+      "conditions": 2
+    },
+    "medical_matches": [
+      {
+        "voynich": "orol",
+        "medical_term": "erel",
+        "category": "body_parts",
+        "me_frequency": 3
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      }
+    ],
+    "first_words": "sho olcheeol kal shey okeoly oiin aiioly sairaly otaldy otal"
+  },
+  {
+    "section_id": 57,
+    "word_count": 500,
+    "medical_term_count": 3,
+    "density_percent": 0.6,
+    "category_counts": {
+      "body_parts": 2,
+      "conditions": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "oror",
+        "medical_term": "erer",
+        "category": "body_parts",
+        "me_frequency": 9
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "orol",
+        "medical_term": "erel",
+        "category": "body_parts",
+        "me_frequency": 3
+      }
+    ],
+    "first_words": "odalydary porshols soe dy otolky oror eeor sachy okeos otol"
+  },
+  {
+    "section_id": 63,
+    "word_count": 500,
+    "medical_term_count": 3,
+    "density_percent": 0.6,
+    "category_counts": {
+      "body_parts": 3
+    },
+    "medical_matches": [
+      {
+        "voynich": "poar",
+        "medical_term": "pear",
+        "category": "body_parts",
+        "me_frequency": 2
+      },
+      {
+        "voynich": "ched",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      },
+      {
+        "voynich": "oror",
+        "medical_term": "erer",
+        "category": "body_parts",
+        "me_frequency": 9
+      }
+    ],
+    "first_words": "fchedy qotor oeeeodr qopar aifhhy dl lkl sheeodees otaiin otar"
+  },
+  {
+    "section_id": 71,
+    "word_count": 500,
+    "medical_term_count": 3,
+    "density_percent": 0.6,
+    "category_counts": {
+      "body_parts": 3
+    },
+    "medical_matches": [
+      {
+        "voynich": "shed",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      },
+      {
+        "voynich": "ched",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      },
+      {
+        "voynich": "shed",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      }
+    ],
+    "first_words": "sheokai n cheok okeal shedy ralchy sheekeey cheol keedy qokair"
+  },
+  {
+    "section_id": 74,
+    "word_count": 500,
+    "medical_term_count": 3,
+    "density_percent": 0.6,
+    "category_counts": {
+      "body_parts": 2,
+      "conditions": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "oar",
+        "medical_term": "ear",
+        "category": "body_parts",
+        "me_frequency": 107
+      },
+      {
+        "voynich": "ched",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      }
+    ],
+    "first_words": "n cheo dai n teodarody opcheed okaiin chaiin otam oteedy"
+  },
+  {
+    "section_id": 79,
+    "word_count": 500,
+    "medical_term_count": 3,
+    "density_percent": 0.6,
+    "category_counts": {
+      "body_parts": 2,
+      "conditions": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "shed",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      },
+      {
+        "voynich": "polched",
+        "medical_term": "polched",
+        "category": "body_parts",
+        "me_frequency": 1
+      },
+      {
+        "voynich": "choto",
+        "medical_term": "chete",
+        "category": "conditions",
+        "me_frequency": 11
+      }
+    ],
+    "first_words": "lkshey qokcho raiin chkshy qos aiin okchey pchar dor cheol"
+  },
+  {
+    "section_id": 81,
+    "word_count": 179,
+    "medical_term_count": 1,
+    "density_percent": 0.5586592178770949,
+    "category_counts": {
+      "body_parts": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "ched",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      }
+    ],
+    "first_words": "n shey okeey lkai n l dai n chey sheckhy"
+  },
+  {
+    "section_id": 1,
+    "word_count": 500,
+    "medical_term_count": 2,
+    "density_percent": 0.4,
+    "category_counts": {
+      "body_parts": 2
+    },
+    "medical_matches": [
+      {
+        "voynich": "oar",
+        "medical_term": "ear",
+        "category": "body_parts",
+        "me_frequency": 107
+      },
+      {
+        "voynich": "foar",
+        "medical_term": "fear",
+        "category": "body_parts",
+        "me_frequency": 33
+      }
+    ],
+    "first_words": "sols sheol shey okadaiin qokchor qoschodam octhy qokeey qot shey"
+  },
+  {
+    "section_id": 2,
+    "word_count": 500,
+    "medical_term_count": 2,
+    "density_percent": 0.4,
+    "category_counts": {
+      "conditions": 2
+    },
+    "medical_matches": [
+      {
+        "voynich": "choto",
+        "medical_term": "chete",
+        "category": "conditions",
+        "me_frequency": 11
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      }
+    ],
+    "first_words": "oochockhy chekchoy ckhy okolrychos y shckhy ytchoy s os y"
+  },
+  {
+    "section_id": 3,
+    "word_count": 500,
+    "medical_term_count": 2,
+    "density_percent": 0.4,
+    "category_counts": {
+      "conditions": 1,
+      "treatments": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "schoal",
+        "medical_term": "scheal",
+        "category": "treatments",
+        "me_frequency": 1
+      }
+    ],
+    "first_words": "cthy chokoiin shol dsholdyotchol ot dy pshoain cthyaiin okaiir cfhodo"
+  },
+  {
+    "section_id": 6,
+    "word_count": 500,
+    "medical_term_count": 2,
+    "density_percent": 0.4,
+    "category_counts": {
+      "conditions": 1,
+      "body_parts": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "chotol",
+        "medical_term": "chetel",
+        "category": "conditions",
+        "me_frequency": 4
+      },
+      {
+        "voynich": "shod",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      }
+    ],
+    "first_words": "ytchor ytaiin otchol cheaiin cthol kdchody chopy cheey qotchol qotoeey"
+  },
+  {
+    "section_id": 9,
+    "word_count": 500,
+    "medical_term_count": 2,
+    "density_percent": 0.4,
+    "category_counts": {
+      "body_parts": 2
+    },
+    "medical_matches": [
+      {
+        "voynich": "shed",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      },
+      {
+        "voynich": "seoar",
+        "medical_term": "seear",
+        "category": "body_parts",
+        "me_frequency": 3
+      }
+    ],
+    "first_words": "shear cthordchor choly chocthy qoos chos kcheol cheor sheos sheey"
+  },
+  {
+    "section_id": 11,
+    "word_count": 500,
+    "medical_term_count": 2,
+    "density_percent": 0.4,
+    "category_counts": {
+      "body_parts": 1,
+      "conditions": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "seear",
+        "medical_term": "seear",
+        "category": "body_parts",
+        "me_frequency": 3
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      }
+    ],
+    "first_words": "tchdaiin chekal shedy qokedar chdaiin oldar qoldar chedy daiin otam"
+  },
+  {
+    "section_id": 12,
+    "word_count": 500,
+    "medical_term_count": 2,
+    "density_percent": 0.4,
+    "category_counts": {
+      "body_parts": 1,
+      "conditions": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "shed",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      },
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      }
+    ],
+    "first_words": "daiin qotor choiin chetchy daiin dor chor sho daiiin daiin"
+  },
+  {
+    "section_id": 15,
+    "word_count": 500,
+    "medical_term_count": 2,
+    "density_percent": 0.4,
+    "category_counts": {
+      "conditions": 1,
+      "body_parts": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "shoto",
+        "medical_term": "shete",
+        "category": "conditions",
+        "me_frequency": 88
+      },
+      {
+        "voynich": "shedo",
+        "medical_term": "shede",
+        "category": "body_parts",
+        "me_frequency": 58
+      }
+    ],
+    "first_words": "cthy yokalod shaiin shor shorody shky sho y tchy opchod"
+  },
+  {
+    "section_id": 17,
+    "word_count": 500,
+    "medical_term_count": 2,
+    "density_percent": 0.4,
+    "category_counts": {
+      "conditions": 1,
+      "body_parts": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "sear",
+        "medical_term": "sear",
+        "category": "body_parts",
+        "me_frequency": 4
+      }
+    ],
+    "first_words": "dchodaiin daiin q ocho cheey dchey qotchody olol ol chey"
+  },
+  {
+    "section_id": 18,
+    "word_count": 500,
+    "medical_term_count": 2,
+    "density_percent": 0.4,
+    "category_counts": {
+      "body_parts": 2
+    },
+    "medical_matches": [
+      {
+        "voynich": "orol",
+        "medical_term": "erel",
+        "category": "body_parts",
+        "me_frequency": 3
+      },
+      {
+        "voynich": "chod",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      }
+    ],
+    "first_words": "seodaiin qotaldscheey saiin dy dshody ckhody qokol dy kaiin chyqokey"
+  },
+  {
+    "section_id": 28,
+    "word_count": 500,
+    "medical_term_count": 2,
+    "density_percent": 0.4,
+    "category_counts": {
+      "body_parts": 2
+    },
+    "medical_matches": [
+      {
+        "voynich": "oro",
+        "medical_term": "ere",
+        "category": "body_parts",
+        "me_frequency": 21928
+      },
+      {
+        "voynich": "soear",
+        "medical_term": "seear",
+        "category": "body_parts",
+        "me_frequency": 3
+      }
+    ],
+    "first_words": "otees oteos aiin okeo daiin okeey cheo keodal cheol okeol"
+  },
+  {
+    "section_id": 34,
+    "word_count": 500,
+    "medical_term_count": 2,
+    "density_percent": 0.4,
+    "category_counts": {
+      "conditions": 1,
+      "body_parts": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "shed",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      }
+    ],
+    "first_words": "qokeedy qotedy olchey qotey qokain olcheedy sar lom saiin cheeol"
+  },
+  {
+    "section_id": 35,
+    "word_count": 500,
+    "medical_term_count": 2,
+    "density_percent": 0.4,
+    "category_counts": {
+      "body_parts": 2
+    },
+    "medical_matches": [
+      {
+        "voynich": "ched",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      },
+      {
+        "voynich": "yched",
+        "medical_term": "yched",
+        "category": "body_parts",
+        "me_frequency": 2
+      }
+    ],
+    "first_words": "shedy sholdy qokal dar qokeey r ol chdor cheey qokaiin"
+  },
+  {
+    "section_id": 37,
+    "word_count": 500,
+    "medical_term_count": 2,
+    "density_percent": 0.4,
+    "category_counts": {
+      "conditions": 1,
+      "body_parts": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      },
+      {
+        "voynich": "orol",
+        "medical_term": "erel",
+        "category": "body_parts",
+        "me_frequency": 3
+      }
+    ],
+    "first_words": "oltshedy sheol ykeey okeey cheor sheedy ol s ol cheedy"
+  },
+  {
+    "section_id": 39,
+    "word_count": 500,
+    "medical_term_count": 2,
+    "density_percent": 0.4,
+    "category_counts": {
+      "body_parts": 2
+    },
+    "medical_matches": [
+      {
+        "voynich": "orol",
+        "medical_term": "erel",
+        "category": "body_parts",
+        "me_frequency": 3
+      },
+      {
+        "voynich": "ched",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      }
+    ],
+    "first_words": "olkai n shedy qokai n orol s p olchy ef"
+  },
+  {
+    "section_id": 46,
+    "word_count": 500,
+    "medical_term_count": 2,
+    "density_percent": 0.4,
+    "category_counts": {
+      "body_parts": 2
+    },
+    "medical_matches": [
+      {
+        "voynich": "chod",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      },
+      {
+        "voynich": "shed",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      }
+    ],
+    "first_words": "saiin ol karar odeeed kchedar yteol okchdy qekedy otor odor"
+  },
+  {
+    "section_id": 59,
+    "word_count": 500,
+    "medical_term_count": 2,
+    "density_percent": 0.4,
+    "category_counts": {
+      "body_parts": 2
+    },
+    "medical_matches": [
+      {
+        "voynich": "shed",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      },
+      {
+        "voynich": "oar",
+        "medical_term": "ear",
+        "category": "body_parts",
+        "me_frequency": 107
+      }
+    ],
+    "first_words": "pchal shal shorchdy okeor okai n shedy pchedy qotchedy qotar"
+  },
+  {
+    "section_id": 61,
+    "word_count": 500,
+    "medical_term_count": 2,
+    "density_percent": 0.4,
+    "category_counts": {
+      "body_parts": 2
+    },
+    "medical_matches": [
+      {
+        "voynich": "ched",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      },
+      {
+        "voynich": "orom",
+        "medical_term": "erem",
+        "category": "body_parts",
+        "me_frequency": 3
+      }
+    ],
+    "first_words": "oteeey oteedy qoty ched l cheol par oltedy chedam ycheol"
+  },
+  {
+    "section_id": 62,
+    "word_count": 500,
+    "medical_term_count": 2,
+    "density_percent": 0.4,
+    "category_counts": {
+      "body_parts": 2
+    },
+    "medical_matches": [
+      {
+        "voynich": "shod",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      },
+      {
+        "voynich": "orol",
+        "medical_term": "erel",
+        "category": "body_parts",
+        "me_frequency": 3
+      }
+    ],
+    "first_words": "okeedy olkeeody lkaiin okeeol oteeol shod daiin aral yteody oteeeos"
+  },
+  {
+    "section_id": 65,
+    "word_count": 500,
+    "medical_term_count": 2,
+    "density_percent": 0.4,
+    "category_counts": {
+      "body_parts": 2
+    },
+    "medical_matches": [
+      {
+        "voynich": "chod",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      },
+      {
+        "voynich": "orol",
+        "medical_term": "erel",
+        "category": "body_parts",
+        "me_frequency": 3
+      }
+    ],
+    "first_words": "fchedy odr okcheody qokeey otchey qokeey qokeedal qokchkeey qol rody"
+  },
+  {
+    "section_id": 73,
+    "word_count": 500,
+    "medical_term_count": 2,
+    "density_percent": 0.4,
+    "category_counts": {
+      "body_parts": 2
+    },
+    "medical_matches": [
+      {
+        "voynich": "oar",
+        "medical_term": "ear",
+        "category": "body_parts",
+        "me_frequency": 107
+      },
+      {
+        "voynich": "oror",
+        "medical_term": "erer",
+        "category": "body_parts",
+        "me_frequency": 9
+      }
+    ],
+    "first_words": "l shdar okechedy qokar ar am qotedy araiin qokchdy opary"
+  },
+  {
+    "section_id": 76,
+    "word_count": 500,
+    "medical_term_count": 2,
+    "density_percent": 0.4,
+    "category_counts": {
+      "body_parts": 2
+    },
+    "medical_matches": [
+      {
+        "voynich": "oar",
+        "medical_term": "ear",
+        "category": "body_parts",
+        "me_frequency": 107
+      },
+      {
+        "voynich": "ched",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      }
+    ],
+    "first_words": "okaiiin aiin shody otcham daiiin cheol teeoar shek lchedy okaiin"
+  },
+  {
+    "section_id": 10,
+    "word_count": 500,
+    "medical_term_count": 1,
+    "density_percent": 0.2,
+    "category_counts": {
+      "body_parts": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "shod",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      }
+    ],
+    "first_words": "okeey qoear oraiin cheom fchoiin shykeody daiiody dainsho tchy oty"
+  },
+  {
+    "section_id": 14,
+    "word_count": 500,
+    "medical_term_count": 1,
+    "density_percent": 0.2,
+    "category_counts": {
+      "body_parts": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "shed",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      }
+    ],
+    "first_words": "cthar dam chok sheo key keeey dcheke esshy sodal saiin"
+  },
+  {
+    "section_id": 20,
+    "word_count": 500,
+    "medical_term_count": 1,
+    "density_percent": 0.2,
+    "category_counts": {
+      "body_parts": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "oar",
+        "medical_term": "ear",
+        "category": "body_parts",
+        "me_frequency": 107
+      }
+    ],
+    "first_words": "cheooky qokeody sheey okeody cheody cheeody chee keody dchos cheocthy"
+  },
+  {
+    "section_id": 22,
+    "word_count": 500,
+    "medical_term_count": 1,
+    "density_percent": 0.2,
+    "category_counts": {
+      "body_parts": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "shed",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      }
+    ],
+    "first_words": "chokey cheeky dalar ykeeody qokar qoky keey qokol okol okor"
+  },
+  {
+    "section_id": 25,
+    "word_count": 500,
+    "medical_term_count": 1,
+    "density_percent": 0.2,
+    "category_counts": {
+      "conditions": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "sory",
+        "medical_term": "sory",
+        "category": "conditions",
+        "me_frequency": 943
+      }
+    ],
+    "first_words": "ykeody shdy shot y tchy dchaiin shey dcheedy qokeey shekeey"
+  },
+  {
+    "section_id": 33,
+    "word_count": 500,
+    "medical_term_count": 1,
+    "density_percent": 0.2,
+    "category_counts": {
+      "body_parts": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "ched",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      }
+    ],
+    "first_words": "cheor sheedy daiin oekeedy qokeey qokedy oteedy shedy qokedy shedam"
+  },
+  {
+    "section_id": 49,
+    "word_count": 500,
+    "medical_term_count": 1,
+    "density_percent": 0.2,
+    "category_counts": {
+      "conditions": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      }
+    ],
+    "first_words": "cheody ytchey otaiin kshd qotar chear or am yteeo dy"
+  },
+  {
+    "section_id": 50,
+    "word_count": 500,
+    "medical_term_count": 1,
+    "density_percent": 0.2,
+    "category_counts": {
+      "conditions": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "sor",
+        "medical_term": "sor",
+        "category": "conditions",
+        "me_frequency": 232
+      }
+    ],
+    "first_words": "cheom okolyd cheocthy cpheor otar a rody otokol teodal lkeo"
+  },
+  {
+    "section_id": 67,
+    "word_count": 500,
+    "medical_term_count": 1,
+    "density_percent": 0.2,
+    "category_counts": {
+      "body_parts": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "ched",
+        "medical_term": "ched",
+        "category": "body_parts",
+        "me_frequency": 29
+      }
+    ],
+    "first_words": "shedy qokaiin chedy qokeedy lol tol chey lcheor sheol qokaiin"
+  },
+  {
+    "section_id": 70,
+    "word_count": 500,
+    "medical_term_count": 1,
+    "density_percent": 0.2,
+    "category_counts": {
+      "body_parts": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "tear",
+        "medical_term": "tear",
+        "category": "body_parts",
+        "me_frequency": 10
+      }
+    ],
+    "first_words": "qokeedy okeodai n she t sheota m oteal tey lkeey"
+  },
+  {
+    "section_id": 80,
+    "word_count": 500,
+    "medical_term_count": 1,
+    "density_percent": 0.2,
+    "category_counts": {
+      "body_parts": 1
+    },
+    "medical_matches": [
+      {
+        "voynich": "shed",
+        "medical_term": "shed",
+        "category": "body_parts",
+        "me_frequency": 82
+      }
+    ],
+    "first_words": "kol chey fchedol shedy qotoee tchy choiphy qopchyr yair al"
+  },
+  {
+    "section_id": 21,
+    "word_count": 500,
+    "medical_term_count": 0,
+    "density_percent": 0.0,
+    "category_counts": {},
+    "medical_matches": [],
+    "first_words": "chal tar ar sheeetchy tal al chear chear char ar"
+  },
+  {
+    "section_id": 53,
+    "word_count": 500,
+    "medical_term_count": 0,
+    "density_percent": 0.0,
+    "category_counts": {},
+    "medical_matches": [],
+    "first_words": "daiin chekar olkaiin olkeody ykaiin otai n dar okeedy ykaro"
+  },
+  {
+    "section_id": 58,
+    "word_count": 500,
+    "medical_term_count": 0,
+    "density_percent": 0.0,
+    "category_counts": {},
+    "medical_matches": [],
+    "first_words": "okeey qokar checkhy qokai n chedy pchdy tshdy dal kasol"
+  },
+  {
+    "section_id": 66,
+    "word_count": 500,
+    "medical_term_count": 0,
+    "density_percent": 0.0,
+    "category_counts": {},
+    "medical_matches": [],
+    "first_words": "kchekai n cheear ol oiin cho lkai n al oeedy"
+  }
+]

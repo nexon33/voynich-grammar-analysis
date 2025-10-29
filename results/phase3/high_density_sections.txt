@@ -1,0 +1,42 @@
+HIGH MEDICAL TERM DENSITY SECTIONS
+======================================================================
+
+These sections likely contain medical recipes/treatments
+Threshold: > 1.20% (2x average)
+
+
+Section #4:
+  Density: 1.60%
+  Medical terms: 8
+  Preview: ol chy kchey kchor dal pcho daiin chopol shoiin daiin
+  Categories: {'body_parts': 5, 'conditions': 3}
+
+Section #24:
+  Density: 1.20%
+  Medical terms: 6
+  Preview: ypcheg oty opcheey chso cheey chedaly ykeeey qokeey chokeear osheey
+  Categories: {'body_parts': 5, 'conditions': 1}
+
+Section #51:
+  Density: 1.20%
+  Medical terms: 6
+  Preview: n qokeeol qokeody chol cheol ykeo qo qol cheo loiiin
+  Categories: {'conditions': 3, 'body_parts': 3}
+
+Section #55:
+  Density: 1.20%
+  Medical terms: 6
+  Preview: okolaiin okolaiin cheol dy yoiin ol ol olaiin qockhey qokol
+  Categories: {'conditions': 3, 'body_parts': 3}
+
+Section #60:
+  Density: 1.20%
+  Medical terms: 6
+  Preview: ycheeoy qokecho qokol cheeo dam tol chedal cheock ay otyd
+  Categories: {'conditions': 2, 'body_parts': 4}
+
+Section #72:
+  Density: 1.20%
+  Medical terms: 6
+  Preview: n olr ar olor polchey lkar shar okai n qokai
+  Categories: {'body_parts': 4, 'conditions': 2}
