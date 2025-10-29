@@ -383,7 +383,7 @@ def main():
 
     # Test 3 sections: astronomical, pharmaceutical, biological
     test_folios = [
-        ("f67r1", "Astronomical (moon and circles)", "Astronomical"),
+        ("f67r2", "Astronomical (circular diagram with sectors)", "Astronomical"),
         ("f88r", "Pharmaceutical (labeled roots)", "Pharmaceutical"),
         ("f78r", "Biological (bath scene, different from f84v)", "Biological"),
     ]
