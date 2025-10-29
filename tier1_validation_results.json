@@ -1,0 +1,214 @@
+{
+  "qol": {
+    "description": "High frequency, appears in sentences 2 & 4",
+    "score": 5,
+    "evidence": {
+      "cooccurrence": {
+        "total": 996,
+        "detail": {
+          "cho": 28,
+          "ot": 108,
+          "qot": 47,
+          "ok": 302,
+          "qok": 222,
+          "she": 213,
+          "cheo": 27,
+          "shee": 48,
+          "dor": 1
+        }
+      },
+      "enrichment": {
+        "max": 1.0,
+        "by_section": {}
+      },
+      "morphology": {
+        "case_rate": 64.91935483870968,
+        "verbal_rate": 12.5,
+        "total_instances": 248,
+        "sample_instances": [
+          "qol",
+          "qolody",
+          "qoldar",
+          "qol",
+          "qolain",
+          "qolkain",
+          "qolkeey",
+          "qolsor",
+          "qolotar!cho",
+          "qolaiin",
+          "qolsa",
+          "qolkeey",
+          "qol!chedy",
+          "qol",
+          "qol",
+          "qolotain",
+          "qol",
+          "qol",
+          "qolkar!ysai!n",
+          "qolydar"
+        ]
+      },
+      "score": 5,
+      "assessment": "AMBIGUOUS"
+    }
+  },
+  "ory": {
+    "description": "Sentence 2 blocker, previously 15.8x enriched",
+    "score": 4,
+    "evidence": {
+      "cooccurrence": {
+        "total": 320,
+        "detail": {
+          "ot": 64,
+          "cho": 66,
+          "she": 41,
+          "ok": 78,
+          "cheo": 20,
+          "shee": 6,
+          "qok": 28,
+          "qot": 15,
+          "dor": 2
+        }
+      },
+      "enrichment": {
+        "max": 1.0,
+        "by_section": {}
+      },
+      "morphology": {
+        "case_rate": 6.0606060606060606,
+        "verbal_rate": 1.0101010101010102,
+        "total_instances": 99,
+        "sample_instances": [
+          "shory",
+          "sory",
+          "dorchorychkar",
+          "sorytoldydchol",
+          "cheorycholdy",
+          "cthory",
+          "chory",
+          "sychorychear",
+          "dorytol",
+          "okorory",
+          "qokchorydchy",
+          "shory",
+          "tchory",
+          "tol!chory",
+          "chory",
+          "dory",
+          "dalory",
+          "ory",
+          "ofchory",
+          "shory"
+        ]
+      },
+      "score": 4,
+      "assessment": "AMBIGUOUS"
+    }
+  },
+  "sal": {
+    "description": "Sentence 2 blocker",
+    "score": 5,
+    "evidence": {
+      "cooccurrence": {
+        "total": 347,
+        "detail": {
+          "cho": 39,
+          "ot": 56,
+          "qot": 14,
+          "ok": 111,
+          "qok": 48,
+          "dor": 3,
+          "cheo": 15,
+          "shee": 8,
+          "she": 53
+        }
+      },
+      "enrichment": {
+        "max": 1.0,
+        "by_section": {}
+      },
+      "morphology": {
+        "case_rate": 70.47619047619048,
+        "verbal_rate": 6.666666666666667,
+        "total_instances": 105,
+        "sample_instances": [
+          "sal",
+          "sal",
+          "saldy",
+          "sal",
+          "salsary",
+          "sal",
+          "sal",
+          "sal",
+          "sal",
+          "osal",
+          "salol",
+          "salf!",
+          "sal",
+          "salsoiin",
+          "ysaldal",
+          "osalal",
+          "salar",
+          "oteoysorasaly",
+          "sal",
+          "sal"
+        ]
+      },
+      "score": 5,
+      "assessment": "AMBIGUOUS"
+    }
+  },
+  "dain": {
+    "description": "Sentence 4 blocker, possible pronoun (dai!n without punctuation)",
+    "score": 4,
+    "evidence": {
+      "cooccurrence": {
+        "total": 477,
+        "detail": {
+          "ot": 104,
+          "cho": 136,
+          "ok": 101,
+          "she": 48,
+          "qok": 43,
+          "qot": 19,
+          "dor": 5,
+          "shee": 6,
+          "cheo": 15
+        }
+      },
+      "enrichment": {
+        "max": 1.0,
+        "by_section": {}
+      },
+      "morphology": {
+        "case_rate": 3.1645569620253164,
+        "verbal_rate": 1.2658227848101267,
+        "total_instances": 158,
+        "sample_instances": [
+          "dain",
+          "dain",
+          "ydain",
+          "shodain",
+          "oldain",
+          "dain",
+          "chodain",
+          "dain",
+          "dain",
+          "dain",
+          "kydainy",
+          "daindd!kol",
+          "kydain",
+          "dain",
+          "dain",
+          "chodainchcthy",
+          "dain",
+          "qotchoiinchodain",
+          "dain",
+          "dainshody"
+        ]
+      },
+      "score": 4,
+      "assessment": "AMBIGUOUS"
+    }
+  }
+}
