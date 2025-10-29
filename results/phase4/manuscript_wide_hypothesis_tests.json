@@ -1,0 +1,145 @@
+{
+  "manuscript_stats": {
+    "total_words": 37187,
+    "plant_mentions": 2833,
+    "plant_coverage": 7.618253690805926
+  },
+  "conjunction_test": {
+    "chedy": {
+      "total_occurrences": 494,
+      "total_contexts": 494,
+      "between_plants": 11,
+      "before_plant": 59,
+      "after_plant": 69,
+      "between_plants_rate": 0.022267206477732792,
+      "before_plant_rate": 0.1194331983805668,
+      "after_plant_rate": 0.1396761133603239
+    },
+    "shedy": {
+      "total_occurrences": 423,
+      "total_contexts": 423,
+      "between_plants": 10,
+      "before_plant": 52,
+      "after_plant": 67,
+      "between_plants_rate": 0.02364066193853428,
+      "before_plant_rate": 0.12293144208037825,
+      "after_plant_rate": 0.15839243498817968
+    },
+    "qokeedy": {
+      "total_occurrences": 299,
+      "total_contexts": 299,
+      "between_plants": 9,
+      "before_plant": 47,
+      "after_plant": 53,
+      "between_plants_rate": 0.030100334448160536,
+      "before_plant_rate": 0.15719063545150502,
+      "after_plant_rate": 0.17725752508361203
+    },
+    "qokedy": {
+      "total_occurrences": 263,
+      "total_contexts": 263,
+      "between_plants": 9,
+      "before_plant": 41,
+      "after_plant": 45,
+      "between_plants_rate": 0.034220532319391636,
+      "before_plant_rate": 0.155893536121673,
+      "after_plant_rate": 0.17110266159695817
+    },
+    "qokeey": {
+      "total_occurrences": 307,
+      "total_contexts": 307,
+      "between_plants": 7,
+      "before_plant": 32,
+      "after_plant": 50,
+      "between_plants_rate": 0.02280130293159609,
+      "before_plant_rate": 0.10423452768729642,
+      "after_plant_rate": 0.16286644951140064
+    }
+  },
+  "pronoun_test": {
+    "daiin": {
+      "total_occurrences": 794,
+      "between_plants": 3,
+      "between_plants_rate": 0.003778337531486146,
+      "sentence_like_start": 118,
+      "sentence_like_rate": 0.1486146095717884,
+      "hypothesis_support": "SUPPORTED"
+    },
+    "aiin": {
+      "total_occurrences": 454,
+      "between_plants": 1,
+      "between_plants_rate": 0.0022026431718061676,
+      "sentence_like_start": 219,
+      "sentence_like_rate": 0.48237885462555063,
+      "hypothesis_support": "SUPPORTED"
+    },
+    "saiin": {
+      "total_occurrences": 115,
+      "between_plants": 1,
+      "between_plants_rate": 0.008695652173913044,
+      "sentence_like_start": 22,
+      "sentence_like_rate": 0.19130434782608696,
+      "hypothesis_support": "SUPPORTED"
+    }
+  },
+  "article_test": {
+    "ol": {
+      "total_occurrences": 522,
+      "before_plant": 26,
+      "before_plant_rate": 0.04980842911877394,
+      "hypothesis_support": "WEAK"
+    },
+    "al": {
+      "total_occurrences": 250,
+      "before_plant": 13,
+      "before_plant_rate": 0.052,
+      "hypothesis_support": "WEAK"
+    },
+    "dar": {
+      "total_occurrences": 293,
+      "before_plant": 19,
+      "before_plant_rate": 0.06484641638225255,
+      "hypothesis_support": "WEAK"
+    },
+    "dal": {
+      "total_occurrences": 239,
+      "before_plant": 8,
+      "before_plant_rate": 0.03347280334728033,
+      "hypothesis_support": "WEAK"
+    },
+    "or": {
+      "total_occurrences": 347,
+      "before_plant": 11,
+      "before_plant_rate": 0.03170028818443804,
+      "hypothesis_support": "WEAK"
+    },
+    "ar": {
+      "total_occurrences": 340,
+      "before_plant": 16,
+      "before_plant_rate": 0.047058823529411764,
+      "hypothesis_support": "WEAK"
+    },
+    "s": {
+      "total_occurrences": 203,
+      "before_plant": 6,
+      "before_plant_rate": 0.029556650246305417,
+      "hypothesis_support": "WEAK"
+    }
+  },
+  "genitive_test": {
+    "qok_prefix_count": 0,
+    "plain_count": 0,
+    "qok_top_contexts": {},
+    "plain_top_contexts": {},
+    "interpretation": "qok- forms appear in different contexts, suggesting grammatical function"
+  },
+  "validated_words": {
+    "conjunctions": [],
+    "pronouns": [
+      "daiin",
+      "aiin",
+      "saiin"
+    ],
+    "articles_prepositions": []
+  }
+}

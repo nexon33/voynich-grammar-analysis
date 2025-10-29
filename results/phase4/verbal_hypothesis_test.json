@@ -1,0 +1,364 @@
+{
+  "verb_candidates": [
+    "shedy",
+    "qokedy",
+    "chedy",
+    "qokeey",
+    "qokeedy"
+  ],
+  "patterns": {
+    "pronoun_verb_plant": {
+      "qokeey": {
+        "total": 1,
+        "examples": [
+          "daiin qokeey chotey"
+        ]
+      },
+      "shedy": {
+        "total": 1,
+        "examples": [
+          "aiin shedy oteed"
+        ]
+      },
+      "qokedy": {
+        "total": 0,
+        "examples": []
+      },
+      "chedy": {
+        "total": 0,
+        "examples": []
+      },
+      "qokeedy": {
+        "total": 0,
+        "examples": []
+      }
+    },
+    "verb_plant_imperative": {
+      "qokedy": {
+        "total": 25,
+        "examples": [
+          "tshokeody | qokedy qotedy",
+          "cthedy | qokedy okeody",
+          "dy | qokedy okey",
+          "otedy | qokedy okedar",
+          "qokeey | qokedy oteedy",
+          "dail | qokedy qotedy",
+          "y!chedy | qokedy qoked",
+          "qokchdy | qokedy okedy",
+          "chedy | qokedy qokey",
+          "d | qokedy okey"
+        ],
+        "after_period_like": 0
+      },
+      "chedy": {
+        "total": 52,
+        "examples": [
+          "tchey | chedy otol",
+          "ykeedl | chedy otey",
+          "dykeedai!n | chedy okeedy",
+          "dykalydaiin | chedy okeedy",
+          "air | chedy oko",
+          "olai!n | chedy qokey",
+          "qoteedy | chedy qotedy",
+          "qokeedy | chedy qokol",
+          "qokal | chedy qokey",
+          "qokai!n | chedy qotedy"
+        ],
+        "after_period_like": 0
+      },
+      "shedy": {
+        "total": 48,
+        "examples": [
+          "chekal | shedy qokedar",
+          "qokol | shedy qotedy",
+          "qokedol | shedy okedal",
+          "okeey | shedy otey",
+          "dai!n | shedy otol",
+          "rddl | shedy qoteedy",
+          "o!cthey | shedy otol",
+          "s!ar | shedy qokeor",
+          "chor | shedy qoked",
+          "qokaiin | shedy okedy"
+        ],
+        "after_period_like": 1
+      },
+      "qokeey": {
+        "total": 37,
+        "examples": [
+          "daiin | qokeey chotey",
+          "keey | qokeey chokeey",
+          "dcheedy | qokeey shekeey",
+          "shey | qokeey qotedy",
+          "qokeey | qokeey otey",
+          "yshey | qokeey qokey",
+          "chckhy | qokeey qotedy",
+          "tcheey | qokeey qokol",
+          "sheekeey | qokeey okey",
+          "sheedy | qokeey qoteedy"
+        ],
+        "after_period_like": 1
+      },
+      "qokeedy": {
+        "total": 39,
+        "examples": [
+          "am | qokeedy okedy",
+          "keedy | qokeedy qokey",
+          "!s!okeedy | qokeedy oteedy",
+          "s!ol!kedy | qokeedy qokol",
+          "checkhy | qokeedy qotey",
+          "dchedy | qokeedy oteedy",
+          "sheedy | qokeedy okeedy",
+          "dchedy | qokeedy qoteey",
+          "shcthey | qokeedy oteedy",
+          "shedy | qokeedy qotedy"
+        ],
+        "after_period_like": 0
+      }
+    },
+    "plant_verb": {
+      "qokedy": {
+        "total": 27,
+        "examples": [
+          "okedy qokedy | qokeedy",
+          "okeody qokedy | chody",
+          "otor qokedy | ykchol",
+          "qoked qokedy | daldy",
+          "okedy qokedy | otedy",
+          "qokey qokedy | sheol",
+          "otey qokedy | lkedy",
+          "qoteedy qokedy | sheed",
+          "qotedy qokedy | dal",
+          "okedy qokedy | qol"
+        ]
+      },
+      "shedy": {
+        "total": 36,
+        "examples": [
+          "qoteedy shedy | shedy",
+          "qokol shedy | qotedy",
+          "okedal shedy | pchdol",
+          "oteody shedy | otesal!od",
+          "qokeor shedy | qol",
+          "okor shedy | chedy",
+          "oteedy shedy | qokedy",
+          "qokol shedy | shedy",
+          "qotol shedy | qokaiin",
+          "qokor shedy | qokal"
+        ]
+      },
+      "qokeey": {
+        "total": 31,
+        "examples": [
+          "okom qokeey | keor",
+          "okedy qokeey | choky",
+          "qokeed qokeey | qokeey",
+          "qoteedy qokeey | ly",
+          "qoked qokeey | shedy",
+          "qokey qokeey | tchcthy",
+          "qoteedy qokeey | qokedy",
+          "oteey qokeey | okey",
+          "okedy qokeey | okey",
+          "qotedy qokeey | shol"
+        ]
+      },
+      "chedy": {
+        "total": 45,
+        "examples": [
+          "okos chedy | okar",
+          "qokol chedy | s",
+          "qokol chedy | dalor",
+          "oteody chedy | chody",
+          "chotol chedy | oteatey",
+          "otol chedy | olor",
+          "qokeed chedy | ky",
+          "qokeor chedy | shckhy",
+          "oteedy chedy | ol",
+          "okedy chedy | otedy"
+        ]
+      },
+      "qokeedy": {
+        "total": 28,
+        "examples": [
+          "okedy qokeedy | qokal",
+          "okeedy qokeedy | checthy",
+          "qotedy qokeedy | shedy",
+          "qoteedy qokeedy | qokaiin",
+          "qotedy qokeedy | qokeedy",
+          "okeedy qokeedy | kedy",
+          "oteedy qokeedy | dar",
+          "okeedy qokeedy | ror",
+          "qotedy qokeedy | chcphey",
+          "qoteedy qokeedy | lochedy"
+        ]
+      }
+    }
+  },
+  "section_distribution": {
+    "herbal": {
+      "total_words": 20000,
+      "verb_words": 904,
+      "density": 4.52
+    },
+    "biological": {
+      "total_words": 5000,
+      "verb_words": 213,
+      "density": 4.26
+    },
+    "pharmaceutical": {
+      "total_words": 7000,
+      "verb_words": 387,
+      "density": 5.5285714285714285
+    },
+    "recipes": {
+      "total_words": 5187,
+      "verb_words": 282,
+      "density": 5.436668594563331
+    }
+  },
+  "object_analysis": {
+    "shedy": {
+      "total_contexts": 423,
+      "plant_objects": 48,
+      "plant_rate": 11.347517730496454,
+      "top_following_words": [
+        {
+          "word": "qokedy",
+          "count": 21
+        },
+        {
+          "word": "qokeedy",
+          "count": 18
+        },
+        {
+          "word": "qokaiin",
+          "count": 18
+        },
+        {
+          "word": "qokeey",
+          "count": 12
+        },
+        {
+          "word": "qoky",
+          "count": 9
+        }
+      ]
+    },
+    "qokedy": {
+      "total_contexts": 263,
+      "plant_objects": 25,
+      "plant_rate": 9.505703422053232,
+      "top_following_words": [
+        {
+          "word": "qokeedy",
+          "count": 12
+        },
+        {
+          "word": "chedy",
+          "count": 11
+        },
+        {
+          "word": "qokedy",
+          "count": 11
+        },
+        {
+          "word": "shedy",
+          "count": 9
+        },
+        {
+          "word": "otedy",
+          "count": 7
+        }
+      ]
+    },
+    "chedy": {
+      "total_contexts": 494,
+      "plant_objects": 52,
+      "plant_rate": 10.526315789473683,
+      "top_following_words": [
+        {
+          "word": "qokeey",
+          "count": 18
+        },
+        {
+          "word": "qokedy",
+          "count": 14
+        },
+        {
+          "word": "qol",
+          "count": 14
+        },
+        {
+          "word": "qokaiin",
+          "count": 12
+        },
+        {
+          "word": "qokai!n",
+          "count": 11
+        }
+      ]
+    },
+    "qokeey": {
+      "total_contexts": 307,
+      "plant_objects": 37,
+      "plant_rate": 12.052117263843648,
+      "top_following_words": [
+        {
+          "word": "qokeey",
+          "count": 12
+        },
+        {
+          "word": "daiin",
+          "count": 11
+        },
+        {
+          "word": "qokedy",
+          "count": 9
+        },
+        {
+          "word": "okeey",
+          "count": 8
+        },
+        {
+          "word": "qokeedy",
+          "count": 8
+        }
+      ]
+    },
+    "qokeedy": {
+      "total_contexts": 299,
+      "plant_objects": 39,
+      "plant_rate": 13.043478260869565,
+      "top_following_words": [
+        {
+          "word": "qokeedy",
+          "count": 19
+        },
+        {
+          "word": "qokedy",
+          "count": 10
+        },
+        {
+          "word": "qokeey",
+          "count": 9
+        },
+        {
+          "word": "chedy",
+          "count": 7
+        },
+        {
+          "word": "qokar",
+          "count": 7
+        }
+      ]
+    }
+  },
+  "verdict": "SUPPORTED",
+  "interpretation": "These words likely function as verbs",
+  "statistics": {
+    "total_pronoun_verb_plant": 2,
+    "total_verb_plant": 201,
+    "total_plant_verb": 167,
+    "avg_plant_object_rate": 11.295026493347317,
+    "recipe_enrichment": 1.2028027864078168
+  }
+}

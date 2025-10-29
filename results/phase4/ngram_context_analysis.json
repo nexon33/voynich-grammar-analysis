@@ -1,0 +1,3658 @@
+{
+  "oak_analysis": {
+    "total_instances": 1375,
+    "before_counts": {
+      "chedy": 43,
+      "shedy": 39,
+      "qokeey": 32,
+      "qokeedy": 30,
+      "daiin": 28,
+      "qokedy": 23,
+      "shey": 20,
+      "aiin": 20,
+      "okedy": 16,
+      "otedy": 15,
+      "sheey": 13,
+      "chey": 12,
+      "dy": 10,
+      "cheey": 10,
+      "okar": 9,
+      "ar": 9,
+      "okeey": 9,
+      "ol": 9,
+      "qokey": 9,
+      "oteedy": 9,
+      "okeol": 9,
+      "chckhy": 8,
+      "lchedy": 8,
+      "dar": 7,
+      "qoteedy": 7,
+      "sheol": 7,
+      "qokaiin": 7,
+      "okey": 7,
+      "sheedy": 7,
+      "qokeol": 7,
+      "qokar": 7,
+      "cheol": 7,
+      "shol": 6,
+      "al": 6,
+      "qokal": 6,
+      "ykeey": 5,
+      "cheody": 5,
+      "okeody": 5,
+      "qokol": 5,
+      "dshedy": 5,
+      "sheody": 5,
+      "sheckhy": 5,
+      "dal": 5,
+      "qokai!n": 5,
+      "okeedy": 5,
+      "oteey": 5,
+      "shor": 4,
+      "chol": 4,
+      "dam": 4,
+      "or": 4
+    },
+    "after_counts": {
+      "chedy": 34,
+      "shedy": 30,
+      "daiin": 29,
+      "qokeedy": 28,
+      "qokedy": 24,
+      "chol": 22,
+      "qokeey": 20,
+      "otedy": 17,
+      "dal": 16,
+      "okeey": 16,
+      "dar": 15,
+      "qoky": 13,
+      "lchedy": 12,
+      "okedy": 11,
+      "okey": 11,
+      "or": 10,
+      "cheol": 10,
+      "ol": 10,
+      "shey": 10,
+      "okeol": 10,
+      "okaiin": 9,
+      "chdy": 9,
+      "chey": 9,
+      "qokey": 9,
+      "qokaiin": 8,
+      "sheey": 8,
+      "dy": 8,
+      "cheody": 8,
+      "qol": 8,
+      "qokal": 8,
+      "qokol": 7,
+      "okar": 7,
+      "cheor": 7,
+      "okal": 7,
+      "s": 6,
+      "chor": 6,
+      "okai!n": 6,
+      "qokar": 6,
+      "qokai!n": 6,
+      "lkedy": 6,
+      "okeedy": 6,
+      "lshedy": 6,
+      "lkeedy": 6,
+      "qotedy": 5,
+      "ar": 5,
+      "chody": 5,
+      "qokeody": 5,
+      "oky": 5,
+      "otar": 5,
+      "okol": 5
+    },
+    "top_bigrams_before": [
+      [
+        [
+          "shedy",
+          "qokedy"
+        ],
+        21
+      ],
+      [
+        [
+          "chedy",
+          "qokedy"
+        ],
+        14
+      ],
+      [
+        [
+          "qokedy",
+          "qokedy"
+        ],
+        11
+      ],
+      [
+        [
+          "qokeedy",
+          "qokedy"
+        ],
+        10
+      ],
+      [
+        [
+          "qokeey",
+          "qokedy"
+        ],
+        9
+      ],
+      [
+        [
+          "qokeey",
+          "okeey"
+        ],
+        8
+      ],
+      [
+        [
+          "shey",
+          "qokey"
+        ],
+        7
+      ],
+      [
+        [
+          "otedy",
+          "qokedy"
+        ],
+        7
+      ],
+      [
+        [
+          "okedy",
+          "qokedy"
+        ],
+        6
+      ],
+      [
+        [
+          "chedy",
+          "qokey"
+        ],
+        6
+      ],
+      [
+        [
+          "shedy",
+          "qokey"
+        ],
+        6
+      ],
+      [
+        [
+          "qokeedy",
+          "okeey"
+        ],
+        5
+      ],
+      [
+        [
+          "sheedy",
+          "qokedy"
+        ],
+        5
+      ],
+      [
+        [
+          "aiin",
+          "okeey"
+        ],
+        5
+      ],
+      [
+        [
+          "ykeey",
+          "okeey"
+        ],
+        4
+      ],
+      [
+        [
+          "okedy",
+          "okedy"
+        ],
+        4
+      ],
+      [
+        [
+          "chedy",
+          "okeey"
+        ],
+        4
+      ],
+      [
+        [
+          "okar",
+          "okedy"
+        ],
+        4
+      ],
+      [
+        [
+          "chedy",
+          "okeedy"
+        ],
+        4
+      ],
+      [
+        [
+          "ar",
+          "okol"
+        ],
+        4
+      ],
+      [
+        [
+          "daiin",
+          "okeey"
+        ],
+        4
+      ],
+      [
+        [
+          "qokeedy",
+          "qokey"
+        ],
+        4
+      ],
+      [
+        [
+          "qokey",
+          "qokedy"
+        ],
+        4
+      ],
+      [
+        [
+          "chey",
+          "qokey"
+        ],
+        4
+      ],
+      [
+        [
+          "otedy",
+          "okedy"
+        ],
+        4
+      ],
+      [
+        [
+          "dal",
+          "qokedy"
+        ],
+        4
+      ],
+      [
+        [
+          "qokedy",
+          "okedy"
+        ],
+        4
+      ],
+      [
+        [
+          "shey",
+          "qokedy"
+        ],
+        4
+      ],
+      [
+        [
+          "chedy",
+          "okedy"
+        ],
+        4
+      ],
+      [
+        [
+          "okeey",
+          "okeey"
+        ],
+        4
+      ]
+    ],
+    "top_bigrams_after": [
+      [
+        [
+          "qokedy",
+          "qokeedy"
+        ],
+        12
+      ],
+      [
+        [
+          "qokedy",
+          "chedy"
+        ],
+        11
+      ],
+      [
+        [
+          "qokedy",
+          "qokedy"
+        ],
+        11
+      ],
+      [
+        [
+          "okeey",
+          "qokeey"
+        ],
+        9
+      ],
+      [
+        [
+          "qokedy",
+          "shedy"
+        ],
+        9
+      ],
+      [
+        [
+          "okeedy",
+          "qokeedy"
+        ],
+        8
+      ],
+      [
+        [
+          "qokol",
+          "daiin"
+        ],
+        7
+      ],
+      [
+        [
+          "qokedy",
+          "otedy"
+        ],
+        7
+      ],
+      [
+        [
+          "okeey",
+          "daiin"
+        ],
+        7
+      ],
+      [
+        [
+          "qokol",
+          "chedy"
+        ],
+        7
+      ],
+      [
+        [
+          "okedy",
+          "qokedy"
+        ],
+        6
+      ],
+      [
+        [
+          "qokedy",
+          "dal"
+        ],
+        6
+      ],
+      [
+        [
+          "qokol",
+          "shedy"
+        ],
+        5
+      ],
+      [
+        [
+          "okol",
+          "okaiin"
+        ],
+        4
+      ],
+      [
+        [
+          "okedy",
+          "okedy"
+        ],
+        4
+      ],
+      [
+        [
+          "qokedy",
+          "okai!n"
+        ],
+        4
+      ],
+      [
+        [
+          "qokey",
+          "qokedy"
+        ],
+        4
+      ],
+      [
+        [
+          "qokedy",
+          "qoky"
+        ],
+        4
+      ],
+      [
+        [
+          "qokedy",
+          "lkedy"
+        ],
+        4
+      ],
+      [
+        [
+          "okedy",
+          "otedy"
+        ],
+        4
+      ],
+      [
+        [
+          "okedy",
+          "chedy"
+        ],
+        4
+      ],
+      [
+        [
+          "qokedy",
+          "ol"
+        ],
+        4
+      ],
+      [
+        [
+          "okedy",
+          "qoky"
+        ],
+        4
+      ],
+      [
+        [
+          "qokedy",
+          "qokal"
+        ],
+        4
+      ],
+      [
+        [
+          "qokedy",
+          "okedy"
+        ],
+        4
+      ],
+      [
+        [
+          "qokey",
+          "qokeey"
+        ],
+        4
+      ],
+      [
+        [
+          "qokol",
+          "chol"
+        ],
+        4
+      ],
+      [
+        [
+          "qokol",
+          "cheol"
+        ],
+        4
+      ],
+      [
+        [
+          "okeey",
+          "okeey"
+        ],
+        4
+      ],
+      [
+        [
+          "okeey",
+          "qokeedy"
+        ],
+        4
+      ]
+    ]
+  },
+  "oat_analysis": {
+    "total_instances": 1292,
+    "before_counts": {
+      "shedy": 27,
+      "daiin": 26,
+      "chedy": 23,
+      "qokeedy": 23,
+      "qokedy": 21,
+      "aiin": 20,
+      "qokeey": 17,
+      "otaiin": 16,
+      "otedy": 14,
+      "okaiin": 13,
+      "qotedy": 12,
+      "chdy": 12,
+      "dar": 11,
+      "qokaiin": 10,
+      "ol": 10,
+      "chey": 9,
+      "oteedy": 9,
+      "qoteedy": 9,
+      "qotaiin": 8,
+      "oteey": 7,
+      "sheey": 7,
+      "chor": 6,
+      "qoty": 6,
+      "dai!n": 6,
+      "qoteey": 6,
+      "ar": 6,
+      "oteody": 6,
+      "otar": 6,
+      "okeedy": 6,
+      "shcthy": 6,
+      "qotai!n": 6,
+      "qokai!n": 6,
+      "okeey": 6,
+      "chcthy": 5,
+      "sheedy": 5,
+      "qokar": 5,
+      "sheol": 5,
+      "al": 5,
+      "oty": 5,
+      "okedy": 5,
+      "otai!n": 5,
+      "otal": 5,
+      "shol": 4,
+      "cthy": 4,
+      "or": 4,
+      "chy": 4,
+      "dshedy": 4,
+      "olaiin": 4,
+      "sheor": 4,
+      "shdy": 4
+    },
+    "after_counts": {
+      "daiin": 26,
+      "chedy": 23,
+      "shedy": 21,
+      "ol": 19,
+      "qokeedy": 19,
+      "dar": 18,
+      "qokedy": 17,
+      "otal": 15,
+      "otaiin": 14,
+      "al": 13,
+      "qokeey": 12,
+      "qokai!n": 12,
+      "chol": 11,
+      "aiin": 11,
+      "oteey": 10,
+      "otedy": 10,
+      "otar": 9,
+      "okedy": 9,
+      "ar": 9,
+      "oty": 8,
+      "qotedy": 8,
+      "oteedy": 8,
+      "qoty": 8,
+      "qotaiin": 8,
+      "shol": 7,
+      "sheey": 7,
+      "okeey": 7,
+      "qokal": 7,
+      "qoteedy": 7,
+      "qol": 7,
+      "qotar": 7,
+      "okeedy": 7,
+      "otai!n": 7,
+      "or": 6,
+      "okaiin": 6,
+      "qoky": 6,
+      "dy": 6,
+      "qokaiin": 6,
+      "dai!n": 6,
+      "chor": 5,
+      "chy": 5,
+      "oky": 5,
+      "chdy": 5,
+      "chedaiin": 5,
+      "otol": 5,
+      "qotai!n": 5,
+      "chcthy": 5,
+      "lchedy": 5,
+      "dam": 4,
+      "sheo": 4
+    }
+  },
+  "shared_context": {
+    "before": [
+      [
+        "yteody",
+        2,
+        1
+      ],
+      [
+        "chees",
+        1,
+        2
+      ],
+      [
+        "shocthy",
+        1,
+        1
+      ],
+      [
+        "okchd",
+        1,
+        1
+      ],
+      [
+        "olchedy",
+        1,
+        3
+      ],
+      [
+        "lchedy",
+        8,
+        1
+      ],
+      [
+        "chedal",
+        1,
+        2
+      ],
+      [
+        "aiin",
+        20,
+        20
+      ],
+      [
+        "aly",
+        1,
+        1
+      ],
+      [
+        "oty",
+        4,
+        5
+      ],
+      [
+        "keedy",
+        2,
+        2
+      ],
+      [
+        "dain",
+        2,
+        3
+      ],
+      [
+        "tedam",
+        1,
+        1
+      ],
+      [
+        "lkeol",
+        1,
+        1
+      ],
+      [
+        "cthedy",
+        1,
+        2
+      ],
+      [
+        "qokey",
+        9,
+        2
+      ],
+      [
+        "qokair",
+        2,
+        2
+      ],
+      [
+        "oldy",
+        2,
+        1
+      ],
+      [
+        "rar",
+        2,
+        1
+      ],
+      [
+        "ykeey",
+        5,
+        1
+      ],
+      [
+        "checthy",
+        1,
+        3
+      ],
+      [
+        "okey",
+        7,
+        1
+      ],
+      [
+        "qotar",
+        2,
+        3
+      ],
+      [
+        "tchedy",
+        2,
+        4
+      ],
+      [
+        "dy",
+        10,
+        3
+      ],
+      [
+        "otal",
+        3,
+        5
+      ],
+      [
+        "or!aiin",
+        1,
+        1
+      ],
+      [
+        "shckhy",
+        3,
+        2
+      ],
+      [
+        "ckhey",
+        1,
+        3
+      ],
+      [
+        "chol",
+        4,
+        3
+      ],
+      [
+        "kedar",
+        1,
+        1
+      ],
+      [
+        "air",
+        1,
+        2
+      ],
+      [
+        "chcthhy",
+        1,
+        1
+      ],
+      [
+        "sheeol",
+        3,
+        1
+      ],
+      [
+        "okeedy",
+        5,
+        6
+      ],
+      [
+        "shedy",
+        39,
+        27
+      ],
+      [
+        "oteey",
+        5,
+        7
+      ],
+      [
+        "lchdy",
+        1,
+        1
+      ],
+      [
+        "qoteedy",
+        7,
+        9
+      ],
+      [
+        "sheky",
+        2,
+        1
+      ],
+      [
+        "shey",
+        20,
+        4
+      ],
+      [
+        "oko",
+        1,
+        1
+      ],
+      [
+        "sho",
+        2,
+        3
+      ],
+      [
+        "otchey",
+        1,
+        1
+      ],
+      [
+        "yteey",
+        1,
+        3
+      ],
+      [
+        "ctheey",
+        1,
+        1
+      ],
+      [
+        "okar",
+        9,
+        4
+      ],
+      [
+        "dol",
+        1,
+        1
+      ],
+      [
+        "dar",
+        7,
+        11
+      ],
+      [
+        "okchor",
+        1,
+        2
+      ],
+      [
+        "keey",
+        1,
+        1
+      ],
+      [
+        "s",
+        3,
+        1
+      ],
+      [
+        "shaiin",
+        1,
+        1
+      ],
+      [
+        "okeol",
+        9,
+        1
+      ],
+      [
+        "otai!n",
+        1,
+        5
+      ],
+      [
+        "ofchdy",
+        1,
+        2
+      ],
+      [
+        "dam",
+        4,
+        1
+      ],
+      [
+        "otedy",
+        15,
+        14
+      ],
+      [
+        "dshedy",
+        5,
+        4
+      ],
+      [
+        "ches",
+        2,
+        1
+      ],
+      [
+        "teedy",
+        1,
+        1
+      ],
+      [
+        "qokchdy",
+        4,
+        3
+      ],
+      [
+        "qokeedy",
+        30,
+        23
+      ],
+      [
+        "chcthy",
+        2,
+        5
+      ],
+      [
+        "lkedy",
+        1,
+        4
+      ],
+      [
+        "cheedy",
+        3,
+        4
+      ],
+      [
+        "qoeedy",
+        1,
+        1
+      ],
+      [
+        "qoky",
+        4,
+        2
+      ],
+      [
+        "kaiin",
+        3,
+        2
+      ],
+      [
+        "qotol",
+        3,
+        3
+      ],
+      [
+        "olaiin",
+        1,
+        4
+      ],
+      [
+        "ykeody",
+        2,
+        2
+      ],
+      [
+        "qodaiin",
+        1,
+        1
+      ],
+      [
+        "otshedy",
+        1,
+        1
+      ],
+      [
+        "ychey",
+        1,
+        1
+      ],
+      [
+        "olor",
+        2,
+        1
+      ],
+      [
+        "chedar",
+        2,
+        2
+      ],
+      [
+        "cheol",
+        7,
+        3
+      ],
+      [
+        "olkedy",
+        3,
+        2
+      ],
+      [
+        "aror",
+        1,
+        1
+      ],
+      [
+        "otey",
+        2,
+        1
+      ],
+      [
+        "okchy",
+        2,
+        1
+      ],
+      [
+        "sheedy",
+        7,
+        5
+      ],
+      [
+        "qokol",
+        5,
+        3
+      ],
+      [
+        "qotai!n",
+        3,
+        6
+      ],
+      [
+        "chty",
+        1,
+        1
+      ],
+      [
+        "olchey",
+        2,
+        1
+      ],
+      [
+        "qokedy",
+        23,
+        21
+      ],
+      [
+        "qoteol",
+        1,
+        1
+      ],
+      [
+        "qokar",
+        7,
+        5
+      ],
+      [
+        "oteedy",
+        9,
+        9
+      ],
+      [
+        "shedal",
+        3,
+        1
+      ],
+      [
+        "okal",
+        3,
+        3
+      ],
+      [
+        "opaiin",
+        1,
+        2
+      ],
+      [
+        "qotey",
+        1,
+        1
+      ],
+      [
+        "!",
+        1,
+        1
+      ],
+      [
+        "sy",
+        2,
+        1
+      ],
+      [
+        "okody",
+        1,
+        1
+      ],
+      [
+        "qokchy",
+        1,
+        3
+      ],
+      [
+        "qokal",
+        6,
+        4
+      ],
+      [
+        "qol",
+        2,
+        3
+      ],
+      [
+        "ol",
+        9,
+        10
+      ],
+      [
+        "shol",
+        6,
+        4
+      ],
+      [
+        "sheey",
+        13,
+        7
+      ],
+      [
+        "cho",
+        1,
+        1
+      ],
+      [
+        "oteodal",
+        1,
+        1
+      ],
+      [
+        "saiin",
+        4,
+        4
+      ],
+      [
+        "chey",
+        12,
+        9
+      ],
+      [
+        "olkeedy",
+        3,
+        3
+      ],
+      [
+        "sheol",
+        7,
+        5
+      ],
+      [
+        "qokai!n",
+        5,
+        6
+      ],
+      [
+        "okshedy",
+        1,
+        1
+      ],
+      [
+        "olkeeody",
+        1,
+        1
+      ],
+      [
+        "daiin",
+        28,
+        26
+      ],
+      [
+        "cthy",
+        3,
+        4
+      ],
+      [
+        "otody",
+        2,
+        1
+      ],
+      [
+        "chckhy",
+        8,
+        2
+      ],
+      [
+        "cheal",
+        2,
+        2
+      ],
+      [
+        "ched",
+        1,
+        1
+      ],
+      [
+        "rshedy",
+        1,
+        1
+      ],
+      [
+        "oteol",
+        1,
+        1
+      ],
+      [
+        "lshedy",
+        1,
+        3
+      ],
+      [
+        "okedy",
+        16,
+        5
+      ],
+      [
+        "olkeey",
+        4,
+        2
+      ],
+      [
+        "tedy",
+        1,
+        3
+      ],
+      [
+        "qolchey",
+        1,
+        1
+      ],
+      [
+        "otor",
+        1,
+        2
+      ],
+      [
+        "chdaiin",
+        2,
+        2
+      ],
+      [
+        "oteo",
+        1,
+        1
+      ],
+      [
+        "ockhedy",
+        1,
+        1
+      ],
+      [
+        "otaiin",
+        4,
+        16
+      ],
+      [
+        "okechy",
+        1,
+        1
+      ],
+      [
+        "qoteey",
+        3,
+        6
+      ],
+      [
+        "chody",
+        3,
+        2
+      ],
+      [
+        "okchey",
+        3,
+        1
+      ],
+      [
+        "qoked",
+        1,
+        1
+      ],
+      [
+        "ykedy",
+        2,
+        1
+      ],
+      [
+        "ytaiin",
+        1,
+        1
+      ],
+      [
+        "teol",
+        1,
+        1
+      ],
+      [
+        "shy",
+        2,
+        3
+      ],
+      [
+        "otaly",
+        2,
+        1
+      ],
+      [
+        "chear",
+        1,
+        1
+      ],
+      [
+        "qokeor",
+        3,
+        1
+      ],
+      [
+        "cheey",
+        10,
+        2
+      ],
+      [
+        "dalkar",
+        1,
+        1
+      ],
+      [
+        "okeey",
+        9,
+        6
+      ],
+      [
+        "sheor",
+        4,
+        4
+      ],
+      [
+        "shdy",
+        1,
+        4
+      ],
+      [
+        "chkeey",
+        1,
+        1
+      ],
+      [
+        "qodar",
+        1,
+        1
+      ],
+      [
+        "qoiiin",
+        1,
+        1
+      ],
+      [
+        "qokaiin",
+        7,
+        10
+      ],
+      [
+        "okes",
+        1,
+        1
+      ],
+      [
+        "or",
+        4,
+        4
+      ],
+      [
+        "shcthy",
+        2,
+        6
+      ],
+      [
+        "qokor",
+        1,
+        1
+      ],
+      [
+        "kor",
+        1,
+        2
+      ],
+      [
+        "chodaiin",
+        1,
+        1
+      ],
+      [
+        "qopchedy",
+        1,
+        2
+      ],
+      [
+        "am",
+        1,
+        3
+      ],
+      [
+        "chy",
+        1,
+        4
+      ],
+      [
+        "checkhy",
+        1,
+        3
+      ],
+      [
+        "olshedy",
+        4,
+        1
+      ],
+      [
+        "pcheody",
+        1,
+        1
+      ],
+      [
+        "otair",
+        2,
+        1
+      ],
+      [
+        "ytody",
+        2,
+        1
+      ],
+      [
+        "shody",
+        2,
+        1
+      ],
+      [
+        "al",
+        6,
+        5
+      ],
+      [
+        "sal",
+        3,
+        1
+      ],
+      [
+        "ytar",
+        1,
+        1
+      ],
+      [
+        "solkeedy",
+        1,
+        1
+      ],
+      [
+        "qotoiin",
+        1,
+        1
+      ],
+      [
+        "oteeey",
+        1,
+        1
+      ],
+      [
+        "cthey",
+        2,
+        1
+      ],
+      [
+        "keeol",
+        1,
+        1
+      ],
+      [
+        "lkeedy",
+        1,
+        4
+      ],
+      [
+        "sheckhy",
+        5,
+        1
+      ],
+      [
+        "qokain",
+        1,
+        3
+      ],
+      [
+        "aiiin",
+        3,
+        2
+      ],
+      [
+        "okeos",
+        1,
+        2
+      ],
+      [
+        "okeeody",
+        2,
+        1
+      ],
+      [
+        "chedy",
+        43,
+        23
+      ],
+      [
+        "otol",
+        2,
+        4
+      ],
+      [
+        "okaiin",
+        2,
+        13
+      ],
+      [
+        "shed",
+        1,
+        3
+      ],
+      [
+        "y",
+        4,
+        1
+      ],
+      [
+        "ykar",
+        1,
+        1
+      ],
+      [
+        "otchdy",
+        1,
+        4
+      ],
+      [
+        "cthor",
+        2,
+        3
+      ],
+      [
+        "cthody",
+        1,
+        1
+      ],
+      [
+        "dal",
+        5,
+        3
+      ],
+      [
+        "chdy",
+        4,
+        12
+      ],
+      [
+        "lkeey",
+        2,
+        1
+      ],
+      [
+        "ychedy",
+        2,
+        1
+      ],
+      [
+        "kedy",
+        4,
+        2
+      ],
+      [
+        "chockhy",
+        1,
+        3
+      ],
+      [
+        "ar",
+        9,
+        6
+      ],
+      [
+        "sheody",
+        5,
+        1
+      ],
+      [
+        "qokeey",
+        32,
+        17
+      ],
+      [
+        "dai!n",
+        1,
+        6
+      ],
+      [
+        "cheky",
+        3,
+        1
+      ],
+      [
+        "opchedy",
+        2,
+        1
+      ],
+      [
+        "keody",
+        2,
+        3
+      ],
+      [
+        "cheody",
+        5,
+        3
+      ],
+      [
+        "oky",
+        2,
+        1
+      ],
+      [
+        "okol",
+        4,
+        1
+      ],
+      [
+        "chckhedy",
+        1,
+        2
+      ],
+      [
+        "qokchedy",
+        1,
+        1
+      ],
+      [
+        "qotchdy",
+        1,
+        1
+      ],
+      [
+        "oiin",
+        4,
+        1
+      ],
+      [
+        "shecthy",
+        1,
+        2
+      ],
+      [
+        "sheety",
+        1,
+        2
+      ],
+      [
+        "olkain",
+        1,
+        1
+      ],
+      [
+        "qotchy",
+        1,
+        1
+      ],
+      [
+        "qotedy",
+        4,
+        12
+      ],
+      [
+        "shear",
+        1,
+        1
+      ],
+      [
+        "qokeed",
+        2,
+        1
+      ]
+    ],
+    "after": [
+      [
+        "sol",
+        3,
+        2
+      ],
+      [
+        "olchedy",
+        3,
+        1
+      ],
+      [
+        "ldaiin",
+        1,
+        1
+      ],
+      [
+        "chedal",
+        3,
+        2
+      ],
+      [
+        "cheor",
+        7,
+        2
+      ],
+      [
+        "lchedy",
+        12,
+        5
+      ],
+      [
+        "aiin",
+        3,
+        11
+      ],
+      [
+        "oty",
+        3,
+        8
+      ],
+      [
+        "lkar",
+        1,
+        1
+      ],
+      [
+        "dain",
+        1,
+        4
+      ],
+      [
+        "tedam",
+        1,
+        1
+      ],
+      [
+        "okeody",
+        1,
+        1
+      ],
+      [
+        "qokeol",
+        3,
+        1
+      ],
+      [
+        "okos",
+        1,
+        1
+      ],
+      [
+        "qokey",
+        9,
+        4
+      ],
+      [
+        "lkai!n",
+        3,
+        1
+      ],
+      [
+        "cthol",
+        2,
+        2
+      ],
+      [
+        "dshey",
+        1,
+        1
+      ],
+      [
+        "cheeor",
+        1,
+        2
+      ],
+      [
+        "ykeey",
+        3,
+        4
+      ],
+      [
+        "qotar",
+        1,
+        7
+      ],
+      [
+        "qokam",
+        1,
+        1
+      ],
+      [
+        "otal",
+        3,
+        15
+      ],
+      [
+        "dy",
+        8,
+        6
+      ],
+      [
+        "shckhy",
+        3,
+        1
+      ],
+      [
+        "chol",
+        22,
+        11
+      ],
+      [
+        "air",
+        1,
+        1
+      ],
+      [
+        "sheeol",
+        1,
+        1
+      ],
+      [
+        "okeedy",
+        6,
+        7
+      ],
+      [
+        "qokeody",
+        5,
+        3
+      ],
+      [
+        "shedy",
+        30,
+        21
+      ],
+      [
+        "yteeody",
+        1,
+        1
+      ],
+      [
+        "oteey",
+        4,
+        10
+      ],
+      [
+        "qoteedy",
+        4,
+        7
+      ],
+      [
+        "qoaiin",
+        1,
+        1
+      ],
+      [
+        "sho",
+        3,
+        3
+      ],
+      [
+        "otain",
+        1,
+        1
+      ],
+      [
+        "shey",
+        10,
+        3
+      ],
+      [
+        "okar",
+        7,
+        2
+      ],
+      [
+        "dol",
+        5,
+        4
+      ],
+      [
+        "olol",
+        1,
+        1
+      ],
+      [
+        "oly",
+        2,
+        2
+      ],
+      [
+        "dar",
+        15,
+        18
+      ],
+      [
+        "sheo",
+        1,
+        4
+      ],
+      [
+        "okchor",
+        1,
+        1
+      ],
+      [
+        "keey",
+        4,
+        2
+      ],
+      [
+        "s",
+        6,
+        2
+      ],
+      [
+        "kai!n",
+        2,
+        1
+      ],
+      [
+        "okeol",
+        10,
+        1
+      ],
+      [
+        "ry",
+        1,
+        1
+      ],
+      [
+        "otai!n",
+        1,
+        7
+      ],
+      [
+        "odaiin",
+        2,
+        1
+      ],
+      [
+        "oteos",
+        1,
+        1
+      ],
+      [
+        "dam",
+        2,
+        4
+      ],
+      [
+        "otedy",
+        17,
+        10
+      ],
+      [
+        "ches",
+        1,
+        4
+      ],
+      [
+        "qokchdy",
+        3,
+        1
+      ],
+      [
+        "qokeedy",
+        28,
+        19
+      ],
+      [
+        "lkaiin",
+        4,
+        1
+      ],
+      [
+        "olkeol",
+        1,
+        1
+      ],
+      [
+        "cheedy",
+        3,
+        1
+      ],
+      [
+        "lkedy",
+        6,
+        1
+      ],
+      [
+        "qoky",
+        13,
+        6
+      ],
+      [
+        "kaiin",
+        2,
+        1
+      ],
+      [
+        "qotol",
+        2,
+        4
+      ],
+      [
+        "olaiin",
+        2,
+        1
+      ],
+      [
+        "otas",
+        1,
+        1
+      ],
+      [
+        "ldy",
+        2,
+        2
+      ],
+      [
+        "qodaiin",
+        1,
+        3
+      ],
+      [
+        "okai!n",
+        6,
+        1
+      ],
+      [
+        "chos",
+        3,
+        2
+      ],
+      [
+        "olor",
+        1,
+        1
+      ],
+      [
+        "chedar",
+        1,
+        3
+      ],
+      [
+        "cheol",
+        10,
+        3
+      ],
+      [
+        "olkedy",
+        1,
+        1
+      ],
+      [
+        "okam",
+        3,
+        1
+      ],
+      [
+        "otey",
+        1,
+        3
+      ],
+      [
+        "sheedy",
+        3,
+        4
+      ],
+      [
+        "qokol",
+        7,
+        4
+      ],
+      [
+        "qotai!n",
+        1,
+        5
+      ],
+      [
+        "sai!n",
+        2,
+        1
+      ],
+      [
+        "teey",
+        2,
+        1
+      ],
+      [
+        "d",
+        1,
+        2
+      ],
+      [
+        "olchey",
+        2,
+        1
+      ],
+      [
+        "qokedy",
+        24,
+        17
+      ],
+      [
+        "qoteol",
+        1,
+        1
+      ],
+      [
+        "qokar",
+        6,
+        4
+      ],
+      [
+        "oteedy",
+        5,
+        8
+      ],
+      [
+        "ykeeody",
+        1,
+        1
+      ],
+      [
+        "okal",
+        7,
+        4
+      ],
+      [
+        "qokchey",
+        2,
+        2
+      ],
+      [
+        "qotey",
+        1,
+        1
+      ],
+      [
+        "l",
+        3,
+        1
+      ],
+      [
+        "sy",
+        1,
+        1
+      ],
+      [
+        "qokchy",
+        1,
+        1
+      ],
+      [
+        "qokal",
+        8,
+        7
+      ],
+      [
+        "qol",
+        8,
+        7
+      ],
+      [
+        "ol",
+        10,
+        19
+      ],
+      [
+        "shol",
+        4,
+        7
+      ],
+      [
+        "sheey",
+        8,
+        7
+      ],
+      [
+        "o!koiin",
+        1,
+        1
+      ],
+      [
+        "l!shedy",
+        1,
+        1
+      ],
+      [
+        "cho",
+        1,
+        4
+      ],
+      [
+        "chey",
+        9,
+        4
+      ],
+      [
+        "o",
+        1,
+        2
+      ],
+      [
+        "sheol",
+        4,
+        4
+      ],
+      [
+        "qokai!n",
+        6,
+        12
+      ],
+      [
+        "qoty",
+        2,
+        8
+      ],
+      [
+        "shor",
+        1,
+        3
+      ],
+      [
+        "daiin",
+        29,
+        26
+      ],
+      [
+        "otody",
+        3,
+        1
+      ],
+      [
+        "qotal",
+        5,
+        2
+      ],
+      [
+        "chckhy",
+        3,
+        2
+      ],
+      [
+        "cheal",
+        1,
+        2
+      ],
+      [
+        "tol",
+        1,
+        1
+      ],
+      [
+        "oteol",
+        2,
+        2
+      ],
+      [
+        "dor",
+        4,
+        3
+      ],
+      [
+        "opcheey",
+        1,
+        2
+      ],
+      [
+        "lshedy",
+        6,
+        2
+      ],
+      [
+        "qotaiin",
+        2,
+        8
+      ],
+      [
+        "okedy",
+        11,
+        9
+      ],
+      [
+        "tedy",
+        1,
+        4
+      ],
+      [
+        "otaiin",
+        3,
+        14
+      ],
+      [
+        "lsheey",
+        1,
+        1
+      ],
+      [
+        "sheos",
+        3,
+        1
+      ],
+      [
+        "doiir",
+        1,
+        1
+      ],
+      [
+        "por",
+        1,
+        1
+      ],
+      [
+        "chody",
+        5,
+        2
+      ],
+      [
+        "lol",
+        2,
+        3
+      ],
+      [
+        "qoked",
+        1,
+        1
+      ],
+      [
+        "chear",
+        1,
+        1
+      ],
+      [
+        "shy",
+        2,
+        3
+      ],
+      [
+        "otaly",
+        2,
+        1
+      ],
+      [
+        "lkey",
+        1,
+        1
+      ],
+      [
+        "chedaiin",
+        1,
+        5
+      ],
+      [
+        "ch",
+        1,
+        1
+      ],
+      [
+        "qokeor",
+        2,
+        1
+      ],
+      [
+        "cheey",
+        4,
+        3
+      ],
+      [
+        "chor",
+        6,
+        5
+      ],
+      [
+        "okeey",
+        16,
+        7
+      ],
+      [
+        "olkam",
+        1,
+        1
+      ],
+      [
+        "qoeey",
+        1,
+        1
+      ],
+      [
+        "ckhdy",
+        1,
+        1
+      ],
+      [
+        "cheockhy",
+        1,
+        1
+      ],
+      [
+        "ytedy",
+        1,
+        1
+      ],
+      [
+        "lkechedy",
+        1,
+        1
+      ],
+      [
+        "cheedar",
+        1,
+        1
+      ],
+      [
+        "qokaiin",
+        8,
+        6
+      ],
+      [
+        "lor",
+        2,
+        1
+      ],
+      [
+        "or",
+        10,
+        6
+      ],
+      [
+        "qopchedy",
+        3,
+        2
+      ],
+      [
+        "chy",
+        1,
+        5
+      ],
+      [
+        "checkhy",
+        2,
+        1
+      ],
+      [
+        "ykaiin",
+        2,
+        3
+      ],
+      [
+        "olshedy",
+        2,
+        1
+      ],
+      [
+        "oteody",
+        1,
+        2
+      ],
+      [
+        "al",
+        4,
+        13
+      ],
+      [
+        "shody",
+        1,
+        1
+      ],
+      [
+        "choky",
+        1,
+        3
+      ],
+      [
+        "qotchedy",
+        1,
+        1
+      ],
+      [
+        "s!ol",
+        3,
+        2
+      ],
+      [
+        "chckhdy",
+        1,
+        1
+      ],
+      [
+        "qokain",
+        5,
+        4
+      ],
+      [
+        "aiiin",
+        1,
+        1
+      ],
+      [
+        "ykeedy",
+        2,
+        2
+      ],
+      [
+        "chedy",
+        34,
+        23
+      ],
+      [
+        "otol",
+        3,
+        5
+      ],
+      [
+        "chety",
+        1,
+        1
+      ],
+      [
+        "okaiin",
+        9,
+        6
+      ],
+      [
+        "y",
+        1,
+        1
+      ],
+      [
+        "chsdy",
+        1,
+        1
+      ],
+      [
+        "dal",
+        16,
+        4
+      ],
+      [
+        "chdy",
+        9,
+        5
+      ],
+      [
+        "lkeey",
+        4,
+        2
+      ],
+      [
+        "taiin",
+        1,
+        2
+      ],
+      [
+        "lchey",
+        2,
+        2
+      ],
+      [
+        "otar",
+        5,
+        9
+      ],
+      [
+        "kedy",
+        3,
+        3
+      ],
+      [
+        "chockhy",
+        1,
+        1
+      ],
+      [
+        "ar",
+        5,
+        9
+      ],
+      [
+        "cheo",
+        4,
+        1
+      ],
+      [
+        "okeeol",
+        1,
+        1
+      ],
+      [
+        "qokeey",
+        20,
+        12
+      ],
+      [
+        "qor",
+        1,
+        2
+      ],
+      [
+        "dai!n",
+        3,
+        6
+      ],
+      [
+        "opchedy",
+        2,
+        3
+      ],
+      [
+        "ydaiin",
+        1,
+        1
+      ],
+      [
+        "sar",
+        2,
+        4
+      ],
+      [
+        "cheody",
+        8,
+        3
+      ],
+      [
+        "olkai!n",
+        2,
+        1
+      ],
+      [
+        "oky",
+        5,
+        5
+      ],
+      [
+        "okol",
+        5,
+        1
+      ],
+      [
+        "raiin",
+        4,
+        4
+      ],
+      [
+        "oiin",
+        2,
+        1
+      ],
+      [
+        "lshey",
+        1,
+        1
+      ],
+      [
+        "lo",
+        1,
+        2
+      ],
+      [
+        "rol",
+        1,
+        1
+      ],
+      [
+        "qotedy",
+        5,
+        8
+      ],
+      [
+        "dair",
+        3,
+        3
+      ],
+      [
+        "ram",
+        1,
+        1
+      ]
+    ]
+  },
+  "classifications": {
+    "shor": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 8
+    },
+    "sheey": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 35
+    },
+    "cho": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 7
+    },
+    "shey": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 37
+    },
+    "okchor": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    },
+    "chol": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 40
+    },
+    "sheo": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 7
+    },
+    "sho": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 11
+    },
+    "dam": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 11
+    },
+    "or": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 24
+    },
+    "cthy": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 9
+    },
+    "daiin": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 109
+    },
+    "shol": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 21
+    },
+    "okar": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 22
+    },
+    "ykeey": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 13
+    },
+    "cthor": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 7
+    },
+    "kol": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    },
+    "chey": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 34
+    },
+    "dar": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 51
+    },
+    "okchy": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    },
+    "shy": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 10
+    },
+    "okaiin": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 30
+    },
+    "dain": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 10
+    },
+    "s": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 12
+    },
+    "qokchdy": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 11
+    },
+    "qoteedy": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 27
+    },
+    "sheol": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 20
+    },
+    "shedy": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 117
+    },
+    "okedy": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 41
+    },
+    "cheody": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 19
+    },
+    "cthedy": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    },
+    "qokedy": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 85
+    },
+    "checkhy": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 7
+    },
+    "chedy": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 123
+    },
+    "cheky": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 6
+    },
+    "ar": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 29
+    },
+    "aiin": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 54
+    },
+    "qotol": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 12
+    },
+    "dy": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 27
+    },
+    "cthol": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 6
+    },
+    "sy": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    },
+    "oteol": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 6
+    },
+    "y": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 7
+    },
+    "shody": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    },
+    "qokaiin": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 31
+    },
+    "chckhy": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 15
+    },
+    "qokeedy": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 100
+    },
+    "al": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 28
+    },
+    "qokeody": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 12
+    },
+    "okey": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 19
+    },
+    "okeey": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 38
+    },
+    "qotar": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 13
+    },
+    "chdy": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 30
+    },
+    "kal": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    },
+    "qoky": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 25
+    },
+    "ched": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 6
+    },
+    "sheedy": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 19
+    },
+    "okeody": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 7
+    },
+    "opchedy": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 8
+    },
+    "ol": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 48
+    },
+    "chody": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 12
+    },
+    "okchey": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 6
+    },
+    "otor": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    },
+    "oty": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 20
+    },
+    "sal": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 7
+    },
+    "kedy": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 12
+    },
+    "odaiin": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    },
+    "saiin": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 11
+    },
+    "qokeol": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 11
+    },
+    "cheal": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 7
+    },
+    "qokar": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 22
+    },
+    "keey": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 8
+    },
+    "qokol": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 19
+    },
+    "okol": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 11
+    },
+    "dshedy": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 12
+    },
+    "okal": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 17
+    },
+    "qokal": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 25
+    },
+    "otchdy": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 7
+    },
+    "chedar": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 8
+    },
+    "cheor": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 13
+    },
+    "okor": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    },
+    "sheody": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 8
+    },
+    "cheol": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 23
+    },
+    "otol": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 14
+    },
+    "otaly": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 6
+    },
+    "otedy": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 56
+    },
+    "otody": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 7
+    },
+    "oiin": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 8
+    },
+    "okam": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    },
+    "cheey": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 19
+    },
+    "chockhy": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 6
+    },
+    "lshedy": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 12
+    },
+    "shckhy": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 9
+    },
+    "qokey": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 24
+    },
+    "sheckhy": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 7
+    },
+    "oldy": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    },
+    "qokeey": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 81
+    },
+    "qokeed": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 7
+    },
+    "otey": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 7
+    },
+    "lkeedy": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 11
+    },
+    "qokeor": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 7
+    },
+    "lchedy": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 26
+    },
+    "olkeey": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 8
+    },
+    "olor": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    },
+    "lchey": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    },
+    "qoteey": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 11
+    },
+    "qotedy": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 29
+    },
+    "sheor": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 10
+    },
+    "kaiin": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 8
+    },
+    "qopchedy": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 8
+    },
+    "dal": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 28
+    },
+    "keedy": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 7
+    },
+    "qokain": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 13
+    },
+    "olshedy": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 8
+    },
+    "qokai!n": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 29
+    },
+    "qol": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 20
+    },
+    "olkedy": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 7
+    },
+    "tedy": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 9
+    },
+    "otaiin": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 37
+    },
+    "kai!n": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 6
+    },
+    "qotai!n": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 15
+    },
+    "otal": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 26
+    },
+    "olchey": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 6
+    },
+    "shcthy": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 9
+    },
+    "okeedy": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 24
+    },
+    "olkeedy": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 7
+    },
+    "oteedy": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 31
+    },
+    "oky": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 13
+    },
+    "ches": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 8
+    },
+    "otchey": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    },
+    "cheedy": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 11
+    },
+    "chcthy": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 12
+    },
+    "qodaiin": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 6
+    },
+    "cheeor": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    },
+    "dai!n": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 16
+    },
+    "dol": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 11
+    },
+    "oteey": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 26
+    },
+    "ctheol": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    },
+    "okeol": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 21
+    },
+    "keody": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 6
+    },
+    "okeor": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    },
+    "sheeol": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 6
+    },
+    "olaiin": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 8
+    },
+    "dor": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 8
+    },
+    "chy": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 11
+    },
+    "chedal": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 8
+    },
+    "qokchy": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 6
+    },
+    "shdy": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 6
+    },
+    "olchedy": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 8
+    },
+    "qokair": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    },
+    "tchedy": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 6
+    },
+    "lkeey": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 9
+    },
+    "shed": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    },
+    "am": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 7
+    },
+    "lkedy": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 12
+    },
+    "aiiin": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 7
+    },
+    "air": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    },
+    "ytaiin": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    },
+    "dair": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 7
+    },
+    "chdaiin": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 7
+    },
+    "ykeedy": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    },
+    "otai!n": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 14
+    },
+    "qokchey": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    },
+    "chor": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 17
+    },
+    "sar": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 7
+    },
+    "ykaiin": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 6
+    },
+    "otar": {
+      "category": "high_frequency_grammatical",
+      "hypothesis": "Article, preposition, conjunction, or auxiliary",
+      "frequency": 20
+    },
+    "okai!n": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 9
+    },
+    "s!ol": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    },
+    "okchedy": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 6
+    },
+    "oteody": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 9
+    },
+    "lol": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 6
+    },
+    "qoty": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 16
+    },
+    "qotal": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 7
+    },
+    "sol": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    },
+    "lkai!n": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    },
+    "cheo": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 6
+    },
+    "chos": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    },
+    "qotaiin": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 18
+    },
+    "taiin": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    },
+    "raiin": {
+      "category": "medium_frequency",
+      "hypothesis": "Common verb, adjective, or noun",
+      "frequency": 11
+    },
+    "lkaiin": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 7
+    },
+    "teey": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    },
+    "chedaiin": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 8
+    },
+    "otam": {
+      "category": "low_frequency_content",
+      "hypothesis": "Specific action, quality, or noun",
+      "frequency": 5
+    }
+  }
+}
