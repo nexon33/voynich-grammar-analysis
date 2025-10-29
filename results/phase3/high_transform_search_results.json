@@ -1,0 +1,70 @@
+{
+  "total_words": 40679,
+  "total_terms_found": 4,
+  "total_instances": 31,
+  "by_category": {
+    "INSTRUCTIONS": {
+      "terms": 1,
+      "instances": 27
+    },
+    "PLANT_PARTS": {
+      "terms": 0,
+      "instances": 0
+    },
+    "BODY_PARTS": {
+      "terms": 0,
+      "instances": 0
+    },
+    "TREATMENTS": {
+      "terms": 1,
+      "instances": 1
+    },
+    "MEASUREMENTS": {
+      "terms": 2,
+      "instances": 3
+    }
+  },
+  "detailed_results": {
+    "cool": {
+      "category": "INSTRUCTIONS",
+      "count": 27,
+      "sample_voynich": [
+        "keol"
+      ]
+    },
+    "hel": {
+      "category": "TREATMENTS",
+      "count": 1,
+      "sample_voynich": [
+        "hol"
+      ]
+    },
+    "dele": {
+      "category": "MEASUREMENTS",
+      "count": 1,
+      "sample_voynich": [
+        "dolo"
+      ]
+    },
+    "deal": {
+      "category": "MEASUREMENTS",
+      "count": 2,
+      "sample_voynich": [
+        "toal",
+        "doal"
+      ]
+    }
+  },
+  "recognition_stats": {
+    "previous_transformed": 861,
+    "previous_rate": 2.1165712038152362,
+    "new_instances": 31,
+    "new_rate": 0.07620639642075765,
+    "updated_transformed": 892,
+    "updated_rate": 2.192777600235994,
+    "improvement": 0.076206396420758,
+    "target_rate": 10.0,
+    "progress_percent": 21.92777600235994,
+    "remaining": 7.807222399764006
+  }
+}

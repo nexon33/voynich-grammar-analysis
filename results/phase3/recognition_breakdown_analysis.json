@@ -1,0 +1,75 @@
+{
+  "total_words": 40679,
+  "total_recognized": 1404,
+  "overall_rate": 3.451412276604636,
+  "breakdown": {
+    "preserved": {
+      "count": 543,
+      "rate": 1.3348410727894,
+      "description": "No transformation applied"
+    },
+    "transformed": {
+      "count": 861,
+      "rate": 2.1165712038152362,
+      "description": "Actual decipherment"
+    }
+  },
+  "by_complexity": {
+    "LEVEL 0: Preserved (no transform)": {
+      "count": 543,
+      "rate": 1.3348410727894,
+      "percent_of_recognized": 38.675213675213676,
+      "examples": []
+    },
+    "LEVEL 1: e\u2194o only": {
+      "count": 362,
+      "rate": 0.8898940485262666,
+      "percent_of_recognized": 25.783475783475783,
+      "examples": []
+    },
+    "LEVEL 2: Reversal + e\u2194o": {
+      "count": 218,
+      "rate": 0.535903045797586,
+      "percent_of_recognized": 15.527065527065528,
+      "examples": [
+        "make\u2192kam",
+        "eye\u2192oy",
+        "at\u2192da"
+      ]
+    },
+    "LEVEL 3: Consonant + e\u2194o": {
+      "count": 119,
+      "rate": 0.29253423142161805,
+      "percent_of_recognized": 8.475783475783476,
+      "examples": [
+        "she\u2192cho (ch\u2194sh)",
+        "day\u2192tai (t\u2194d)"
+      ]
+    },
+    "LEVEL 4: Multi-transform": {
+      "count": 42,
+      "rate": 0.1032473757958652,
+      "percent_of_recognized": 2.9914529914529915,
+      "examples": [
+        "root\u2192odor (reverse+t\u2194d+e\u2194o)",
+        "seed\u2192otos (reverse+t\u2194d+e\u2194o)"
+      ]
+    },
+    "LEVEL 5: Predicted complex": {
+      "count": 119,
+      "rate": 0.29253423142161805,
+      "percent_of_recognized": 8.475783475783476,
+      "examples": [
+        "root\u2192otor (51\u00d7)",
+        "leaf\u2192fol (6\u00d7)"
+      ]
+    }
+  },
+  "targets": {
+    "current_transformed_rate": 2.1165712038152362,
+    "target_transformed_rate": 10.0,
+    "current_vocab": 11,
+    "target_vocab": 51,
+    "additional_vocab_needed": 40
+  }
+}
