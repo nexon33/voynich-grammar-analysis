@@ -1,0 +1,1442 @@
+{
+  "sample_size": 5000,
+  "recognition": {
+    "direct": 131,
+    "reversed": 41,
+    "consonant": 26,
+    "multi_transform": 5,
+    "total": 203
+  },
+  "rate": 4.06,
+  "matches": {
+    "direct_matches": [
+      {
+        "position": 11,
+        "voynich": "sory",
+        "english": "painful/sore",
+        "category": "conditions",
+        "transform": "none"
+      },
+      {
+        "position": 25,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 41,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 103,
+        "voynich": "she",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 127,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 135,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 147,
+        "voynich": "she",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 162,
+        "voynich": "a",
+        "english": "a",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 238,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 283,
+        "voynich": "do",
+        "english": "do",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 384,
+        "voynich": "an",
+        "english": "an",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 389,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 404,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 417,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 490,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 491,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 519,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 559,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 588,
+        "voynich": "do",
+        "english": "do",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 597,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 623,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 718,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 719,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 751,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 765,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 772,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 793,
+        "voynich": "oar",
+        "english": "ear",
+        "category": "body_parts",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 801,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 806,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 828,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 832,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 874,
+        "voynich": "do",
+        "english": "do",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 930,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 958,
+        "voynich": "she",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 964,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 1057,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 1068,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 1183,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 1195,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 1217,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 1238,
+        "voynich": "do",
+        "english": "do",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 1257,
+        "voynich": "do",
+        "english": "do",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 1281,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 1353,
+        "voynich": "dai",
+        "english": "day",
+        "category": "time",
+        "transform": "none"
+      },
+      {
+        "position": 1355,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 1401,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 1444,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 1499,
+        "voynich": "sor",
+        "english": "sore/pain",
+        "category": "conditions",
+        "transform": "none"
+      },
+      {
+        "position": 1513,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 1638,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 1642,
+        "voynich": "sor",
+        "english": "sore/pain",
+        "category": "conditions",
+        "transform": "none"
+      },
+      {
+        "position": 1647,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 1734,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 2243,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 2244,
+        "voynich": "oro",
+        "english": "ear",
+        "category": "body_parts",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 2276,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 2297,
+        "voynich": "sor",
+        "english": "sore/pain",
+        "category": "conditions",
+        "transform": "none"
+      },
+      {
+        "position": 2389,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 2427,
+        "voynich": "sor",
+        "english": "sore/pain",
+        "category": "conditions",
+        "transform": "none"
+      },
+      {
+        "position": 2483,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 2493,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 2579,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 2581,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 2584,
+        "voynich": "sor",
+        "english": "sore/pain",
+        "category": "conditions",
+        "transform": "none"
+      },
+      {
+        "position": 2646,
+        "voynich": "she",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 2656,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 2668,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 2673,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 2708,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 2762,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 2779,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 2787,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 2892,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 2932,
+        "voynich": "sor",
+        "english": "sore/pain",
+        "category": "conditions",
+        "transform": "none"
+      },
+      {
+        "position": 2992,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 3022,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 3120,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 3129,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 3130,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 3153,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 3161,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 3259,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 3316,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 3328,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 3333,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 3501,
+        "voynich": "sor",
+        "english": "sore/pain",
+        "category": "conditions",
+        "transform": "none"
+      },
+      {
+        "position": 3516,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 3536,
+        "voynich": "to",
+        "english": "to",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 3631,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 3677,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 3716,
+        "voynich": "oro",
+        "english": "ear",
+        "category": "body_parts",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 3719,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 3723,
+        "voynich": "she",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 3726,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 3739,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 3776,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 3870,
+        "voynich": "oro",
+        "english": "ear",
+        "category": "body_parts",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 3887,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 3902,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 3910,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 3911,
+        "voynich": "do",
+        "english": "do",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 3916,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 3917,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 3941,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 4126,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 4147,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 4168,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 4261,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 4288,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 4327,
+        "voynich": "do",
+        "english": "do",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 4342,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 4343,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 4385,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 4395,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 4471,
+        "voynich": "sor",
+        "english": "sore/pain",
+        "category": "conditions",
+        "transform": "none"
+      },
+      {
+        "position": 4479,
+        "voynich": "she",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 4529,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 4569,
+        "voynich": "she",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 4580,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 4599,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 4605,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 4641,
+        "voynich": "she",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 4667,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 4723,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 4729,
+        "voynich": "she",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 4763,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 4777,
+        "voynich": "sho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "e\u2194o"
+      },
+      {
+        "position": 4798,
+        "voynich": "a",
+        "english": "a",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 4882,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 4944,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      },
+      {
+        "position": 4968,
+        "voynich": "or",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "none"
+      }
+    ],
+    "reversed_matches": [
+      {
+        "position": 7,
+        "voynich": "res",
+        "english": "sore/pain",
+        "category": "conditions",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 31,
+        "voynich": "sa",
+        "english": "as",
+        "category": "COMMON",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 68,
+        "voynich": "os",
+        "english": "so",
+        "category": "COMMON",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 78,
+        "voynich": "os",
+        "english": "so",
+        "category": "COMMON",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 88,
+        "voynich": "es",
+        "english": "so",
+        "category": "COMMON",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 178,
+        "voynich": "ro",
+        "english": "or",
+        "category": "COMMON",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 752,
+        "voynich": "otor",
+        "english": "root",
+        "category": "herbs",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 913,
+        "voynich": "os",
+        "english": "so",
+        "category": "COMMON",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 957,
+        "voynich": "od",
+        "english": "do",
+        "category": "COMMON",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 959,
+        "voynich": "od",
+        "english": "do",
+        "category": "COMMON",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 1008,
+        "voynich": "os",
+        "english": "so",
+        "category": "COMMON",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 1064,
+        "voynich": "os",
+        "english": "so",
+        "category": "COMMON",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 1354,
+        "voynich": "kam",
+        "english": "make",
+        "category": "instruction",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 1504,
+        "voynich": "ot",
+        "english": "to",
+        "category": "COMMON",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 1533,
+        "voynich": "oy",
+        "english": "eye",
+        "category": "body_parts",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 1625,
+        "voynich": "os",
+        "english": "so",
+        "category": "COMMON",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 1686,
+        "voynich": "otor",
+        "english": "root",
+        "category": "herbs",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 1971,
+        "voynich": "fol",
+        "english": "leaf",
+        "category": "herbs",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 2074,
+        "voynich": "teor",
+        "english": "root",
+        "category": "herbs",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 2274,
+        "voynich": "oy",
+        "english": "eye",
+        "category": "body_parts",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 2468,
+        "voynich": "otor",
+        "english": "root",
+        "category": "herbs",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 2588,
+        "voynich": "os",
+        "english": "so",
+        "category": "COMMON",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 2615,
+        "voynich": "oy",
+        "english": "eye",
+        "category": "body_parts",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 2637,
+        "voynich": "otor",
+        "english": "root",
+        "category": "herbs",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 2650,
+        "voynich": "otor",
+        "english": "root",
+        "category": "herbs",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 2920,
+        "voynich": "os",
+        "english": "so",
+        "category": "COMMON",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 3135,
+        "voynich": "fol",
+        "english": "leaf",
+        "category": "herbs",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 3137,
+        "voynich": "otor",
+        "english": "root",
+        "category": "herbs",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 3250,
+        "voynich": "otor",
+        "english": "root",
+        "category": "herbs",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 3675,
+        "voynich": "otor",
+        "english": "root",
+        "category": "herbs",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 3753,
+        "voynich": "eteor",
+        "english": "root",
+        "category": "herbs",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 3858,
+        "voynich": "okam",
+        "english": "make",
+        "category": "instruction",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 3912,
+        "voynich": "ot",
+        "english": "to",
+        "category": "COMMON",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 3935,
+        "voynich": "otor",
+        "english": "root",
+        "category": "herbs",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 4025,
+        "voynich": "os",
+        "english": "so",
+        "category": "COMMON",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 4382,
+        "voynich": "otor",
+        "english": "root",
+        "category": "herbs",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 4394,
+        "voynich": "okam",
+        "english": "make",
+        "category": "instruction",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 4396,
+        "voynich": "otor",
+        "english": "root",
+        "category": "herbs",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 4578,
+        "voynich": "os",
+        "english": "so",
+        "category": "COMMON",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 4890,
+        "voynich": "oteor",
+        "english": "root",
+        "category": "herbs",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "position": 4973,
+        "voynich": "okam",
+        "english": "make",
+        "category": "instruction",
+        "transform": "reversed + e\u2194o"
+      }
+    ],
+    "consonant_matches": [
+      {
+        "position": 191,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 469,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 813,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 919,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 938,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 1113,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 1212,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 1424,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 1458,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 1489,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 1996,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 2385,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 2517,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 2886,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 3020,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 3169,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 3245,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 3346,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 3746,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 3796,
+        "voynich": "che",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh)"
+      },
+      {
+        "position": 3847,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 4013,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 4021,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 4287,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 4315,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 4669,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      }
+    ],
+    "multi_transform_matches": [
+      {
+        "position": 2016,
+        "voynich": "da",
+        "english": "at",
+        "category": "COMMON",
+        "transform": "reversed + consonant (t_d)"
+      },
+      {
+        "position": 3744,
+        "voynich": "da",
+        "english": "at",
+        "category": "COMMON",
+        "transform": "reversed + consonant (t_d)"
+      },
+      {
+        "position": 3909,
+        "voynich": "odor",
+        "english": "root",
+        "category": "herbs",
+        "transform": "reversed + consonant (t_d) + e\u2194o"
+      },
+      {
+        "position": 4306,
+        "voynich": "da",
+        "english": "at",
+        "category": "COMMON",
+        "transform": "reversed + consonant (t_d)"
+      },
+      {
+        "position": 4809,
+        "voynich": "da",
+        "english": "at",
+        "category": "COMMON",
+        "transform": "reversed + consonant (t_d)"
+      }
+    ]
+  }
+}

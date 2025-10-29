@@ -1,0 +1,665 @@
+{
+  "total_words": 40679,
+  "recognition": {
+    "direct": 906,
+    "reversed": 218,
+    "consonant": 119,
+    "multi_transform": 42,
+    "total": 1285
+  },
+  "rates": {
+    "baseline": 2.763096437965535,
+    "with_consonants": 3.1588780451830183,
+    "improvement": 0.39578160721748334
+  },
+  "sample_matches": {
+    "consonant": [
+      {
+        "position": 191,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 469,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 813,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 919,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 938,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 1113,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 1212,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 1424,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 1458,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 1489,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 1996,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 2385,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 2517,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 2886,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 3020,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 3169,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 3245,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 3346,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 3746,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 3796,
+        "voynich": "che",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh)"
+      },
+      {
+        "position": 3847,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 4013,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 4021,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 4287,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 4315,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 4669,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 5085,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 5547,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 5711,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 5716,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 5865,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 6394,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 6873,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 8176,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 8183,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 8184,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 8321,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 8517,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 8530,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 8640,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 8668,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 8679,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 9044,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 9230,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 9445,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 9742,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 9818,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 9857,
+        "voynich": "cho",
+        "english": "she",
+        "category": "COMMON",
+        "transform": "consonant (ch_sh) + e\u2194o"
+      },
+      {
+        "position": 9954,
+        "voynich": "tai",
+        "english": "day",
+        "category": "time",
+        "transform": "consonant (t_d)"
+      },
+      {
+        "position": 10038,
+        "voynich": "tai",
+        "english": "day",
+        "category": "time",
+        "transform": "consonant (t_d)"
+      }
+    ],
+    "multi_transform": [
+      {
+        "position": 2016,
+        "voynich": "da",
+        "english": "at",
+        "category": "COMMON",
+        "transform": "reversed + consonant (t_d)"
+      },
+      {
+        "position": 3744,
+        "voynich": "da",
+        "english": "at",
+        "category": "COMMON",
+        "transform": "reversed + consonant (t_d)"
+      },
+      {
+        "position": 3909,
+        "voynich": "odor",
+        "english": "root",
+        "category": "herbs",
+        "transform": "reversed + consonant (t_d) + e\u2194o"
+      },
+      {
+        "position": 4306,
+        "voynich": "da",
+        "english": "at",
+        "category": "COMMON",
+        "transform": "reversed + consonant (t_d)"
+      },
+      {
+        "position": 4809,
+        "voynich": "da",
+        "english": "at",
+        "category": "COMMON",
+        "transform": "reversed + consonant (t_d)"
+      },
+      {
+        "position": 5078,
+        "voynich": "da",
+        "english": "at",
+        "category": "COMMON",
+        "transform": "reversed + consonant (t_d)"
+      },
+      {
+        "position": 5265,
+        "voynich": "da",
+        "english": "at",
+        "category": "COMMON",
+        "transform": "reversed + consonant (t_d)"
+      },
+      {
+        "position": 7230,
+        "voynich": "da",
+        "english": "at",
+        "category": "COMMON",
+        "transform": "reversed + consonant (t_d)"
+      },
+      {
+        "position": 7816,
+        "voynich": "odor",
+        "english": "root",
+        "category": "herbs",
+        "transform": "reversed + consonant (t_d) + e\u2194o"
+      },
+      {
+        "position": 8785,
+        "voynich": "da",
+        "english": "at",
+        "category": "COMMON",
+        "transform": "reversed + consonant (t_d)"
+      },
+      {
+        "position": 9252,
+        "voynich": "odor",
+        "english": "root",
+        "category": "herbs",
+        "transform": "reversed + consonant (t_d) + e\u2194o"
+      },
+      {
+        "position": 9259,
+        "voynich": "otos",
+        "english": "seed",
+        "category": "herbs",
+        "transform": "reversed + consonant (t_d) + e\u2194o"
+      },
+      {
+        "position": 9662,
+        "voynich": "okad",
+        "english": "take",
+        "category": "instruction",
+        "transform": "reversed + consonant (t_d) + e\u2194o"
+      },
+      {
+        "position": 12229,
+        "voynich": "da",
+        "english": "at",
+        "category": "COMMON",
+        "transform": "reversed + consonant (t_d)"
+      },
+      {
+        "position": 13125,
+        "voynich": "da",
+        "english": "at",
+        "category": "COMMON",
+        "transform": "reversed + consonant (t_d)"
+      },
+      {
+        "position": 13260,
+        "voynich": "otes",
+        "english": "seed",
+        "category": "herbs",
+        "transform": "reversed + consonant (t_d) + e\u2194o"
+      },
+      {
+        "position": 13737,
+        "voynich": "teos",
+        "english": "seed",
+        "category": "herbs",
+        "transform": "reversed + consonant (t_d) + e\u2194o"
+      },
+      {
+        "position": 13830,
+        "voynich": "da",
+        "english": "at",
+        "category": "COMMON",
+        "transform": "reversed + consonant (t_d)"
+      },
+      {
+        "position": 13910,
+        "voynich": "otos",
+        "english": "seed",
+        "category": "herbs",
+        "transform": "reversed + consonant (t_d) + e\u2194o"
+      },
+      {
+        "position": 13988,
+        "voynich": "teos",
+        "english": "seed",
+        "category": "herbs",
+        "transform": "reversed + consonant (t_d) + e\u2194o"
+      },
+      {
+        "position": 14135,
+        "voynich": "otes",
+        "english": "seed",
+        "category": "herbs",
+        "transform": "reversed + consonant (t_d) + e\u2194o"
+      },
+      {
+        "position": 14168,
+        "voynich": "otos",
+        "english": "seed",
+        "category": "herbs",
+        "transform": "reversed + consonant (t_d) + e\u2194o"
+      },
+      {
+        "position": 14543,
+        "voynich": "otes",
+        "english": "seed",
+        "category": "herbs",
+        "transform": "reversed + consonant (t_d) + e\u2194o"
+      },
+      {
+        "position": 15263,
+        "voynich": "da",
+        "english": "at",
+        "category": "COMMON",
+        "transform": "reversed + consonant (t_d)"
+      },
+      {
+        "position": 16470,
+        "voynich": "da",
+        "english": "at",
+        "category": "COMMON",
+        "transform": "reversed + consonant (t_d)"
+      },
+      {
+        "position": 17796,
+        "voynich": "tees",
+        "english": "seed",
+        "category": "herbs",
+        "transform": "reversed + consonant (t_d)"
+      },
+      {
+        "position": 18029,
+        "voynich": "da",
+        "english": "at",
+        "category": "COMMON",
+        "transform": "reversed + consonant (t_d)"
+      },
+      {
+        "position": 22718,
+        "voynich": "otes",
+        "english": "seed",
+        "category": "herbs",
+        "transform": "reversed + consonant (t_d) + e\u2194o"
+      },
+      {
+        "position": 23009,
+        "voynich": "odor",
+        "english": "root",
+        "category": "herbs",
+        "transform": "reversed + consonant (t_d) + e\u2194o"
+      },
+      {
+        "position": 25765,
+        "voynich": "da",
+        "english": "at",
+        "category": "COMMON",
+        "transform": "reversed + consonant (t_d)"
+      },
+      {
+        "position": 26471,
+        "voynich": "odor",
+        "english": "root",
+        "category": "herbs",
+        "transform": "reversed + consonant (t_d) + e\u2194o"
+      },
+      {
+        "position": 27425,
+        "voynich": "da",
+        "english": "at",
+        "category": "COMMON",
+        "transform": "reversed + consonant (t_d)"
+      },
+      {
+        "position": 27656,
+        "voynich": "odeor",
+        "english": "root",
+        "category": "herbs",
+        "transform": "reversed + consonant (t_d) + e\u2194o"
+      },
+      {
+        "position": 28024,
+        "voynich": "odor",
+        "english": "root",
+        "category": "herbs",
+        "transform": "reversed + consonant (t_d) + e\u2194o"
+      },
+      {
+        "position": 28152,
+        "voynich": "da",
+        "english": "at",
+        "category": "COMMON",
+        "transform": "reversed + consonant (t_d)"
+      },
+      {
+        "position": 31365,
+        "voynich": "otos",
+        "english": "seed",
+        "category": "herbs",
+        "transform": "reversed + consonant (t_d) + e\u2194o"
+      },
+      {
+        "position": 31533,
+        "voynich": "odor",
+        "english": "root",
+        "category": "herbs",
+        "transform": "reversed + consonant (t_d) + e\u2194o"
+      },
+      {
+        "position": 32188,
+        "voynich": "da",
+        "english": "at",
+        "category": "COMMON",
+        "transform": "reversed + consonant (t_d)"
+      },
+      {
+        "position": 32468,
+        "voynich": "otos",
+        "english": "seed",
+        "category": "herbs",
+        "transform": "reversed + consonant (t_d) + e\u2194o"
+      },
+      {
+        "position": 34305,
+        "voynich": "da",
+        "english": "at",
+        "category": "COMMON",
+        "transform": "reversed + consonant (t_d)"
+      },
+      {
+        "position": 35013,
+        "voynich": "otes",
+        "english": "seed",
+        "category": "herbs",
+        "transform": "reversed + consonant (t_d) + e\u2194o"
+      },
+      {
+        "position": 38300,
+        "voynich": "teos",
+        "english": "seed",
+        "category": "herbs",
+        "transform": "reversed + consonant (t_d) + e\u2194o"
+      }
+    ]
+  }
+}
