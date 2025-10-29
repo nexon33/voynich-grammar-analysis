@@ -1,0 +1,63 @@
+{
+  "baseline": {
+    "unique_words": [
+      "ere",
+      "sor",
+      "she",
+      "or"
+    ],
+    "unique_meanings": [
+      "sore/pain",
+      "ear",
+      "she",
+      "or"
+    ],
+    "count": 4,
+    "rate": 1.6
+  },
+  "reversal": {
+    "new_words": [
+      "rote",
+      "ye",
+      "root"
+    ],
+    "new_meanings": [
+      "eye",
+      "root"
+    ],
+    "count": 3,
+    "rate": 0.6,
+    "matches": [
+      {
+        "original": "teor",
+        "reversed": "roet",
+        "variant": "root",
+        "meaning": "root",
+        "category": "herbs",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "original": "oy",
+        "reversed": "yo",
+        "variant": "ye",
+        "meaning": "eye",
+        "category": "body_parts",
+        "transform": "reversed + e\u2194o"
+      },
+      {
+        "original": "otor",
+        "reversed": "roto",
+        "variant": "rote",
+        "meaning": "root",
+        "category": "herbs",
+        "transform": "reversed + e\u2194o"
+      }
+    ]
+  },
+  "combined": {
+    "total_words": 7,
+    "total_rate": 1.4000000000000001,
+    "relative_improvement": 37.49999999999999
+  },
+  "evidence_strength": "MODERATE"
+}

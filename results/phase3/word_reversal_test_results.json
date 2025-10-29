@@ -1,0 +1,154 @@
+{
+  "section_id": 4,
+  "total_words": 500,
+  "strategies": {
+    "direct": {
+      "count": 8,
+      "rate": 1.6,
+      "matches": [
+        {
+          "original": "or",
+          "variant": "or",
+          "meaning": "or",
+          "category": "COMMON",
+          "transform": "e\u2194o only"
+        },
+        {
+          "original": "oro",
+          "variant": "ere",
+          "meaning": "ear",
+          "category": "body_parts",
+          "transform": "e\u2194o only"
+        },
+        {
+          "original": "sho",
+          "variant": "she",
+          "meaning": "she",
+          "category": "COMMON",
+          "transform": "e\u2194o only"
+        },
+        {
+          "original": "sor",
+          "variant": "sor",
+          "meaning": "sore/pain",
+          "category": "conditions",
+          "transform": "e\u2194o only"
+        },
+        {
+          "original": "sho",
+          "variant": "she",
+          "meaning": "she",
+          "category": "COMMON",
+          "transform": "e\u2194o only"
+        },
+        {
+          "original": "sor",
+          "variant": "sor",
+          "meaning": "sore/pain",
+          "category": "conditions",
+          "transform": "e\u2194o only"
+        },
+        {
+          "original": "sho",
+          "variant": "she",
+          "meaning": "she",
+          "category": "COMMON",
+          "transform": "e\u2194o only"
+        },
+        {
+          "original": "or",
+          "variant": "or",
+          "meaning": "or",
+          "category": "COMMON",
+          "transform": "e\u2194o only"
+        }
+      ]
+    },
+    "reversed": {
+      "count": 0,
+      "rate": 0.0,
+      "matches": []
+    },
+    "reversed_then_eo": {
+      "count": 4,
+      "rate": 0.8,
+      "matches": [
+        {
+          "original": "teor",
+          "reversed": "roet",
+          "variant": "root",
+          "meaning": "root",
+          "category": "herbs",
+          "transform": "reversed + e\u2194o"
+        },
+        {
+          "original": "oro",
+          "reversed": "oro",
+          "variant": "ere",
+          "meaning": "ear",
+          "category": "body_parts",
+          "transform": "reversed + e\u2194o"
+        },
+        {
+          "original": "oy",
+          "reversed": "yo",
+          "variant": "ye",
+          "meaning": "eye",
+          "category": "body_parts",
+          "transform": "reversed + e\u2194o"
+        },
+        {
+          "original": "otor",
+          "reversed": "roto",
+          "variant": "rote",
+          "meaning": "root",
+          "category": "herbs",
+          "transform": "reversed + e\u2194o"
+        }
+      ]
+    },
+    "eo_then_reversed": {
+      "count": 4,
+      "rate": 0.8,
+      "matches": [
+        {
+          "original": "teor",
+          "eo_variant": "toor",
+          "variant": "root",
+          "meaning": "root",
+          "category": "herbs",
+          "transform": "e\u2194o + reversed"
+        },
+        {
+          "original": "oro",
+          "eo_variant": "ere",
+          "variant": "ere",
+          "meaning": "ear",
+          "category": "body_parts",
+          "transform": "e\u2194o + reversed"
+        },
+        {
+          "original": "oy",
+          "eo_variant": "ey",
+          "variant": "ye",
+          "meaning": "eye",
+          "category": "body_parts",
+          "transform": "e\u2194o + reversed"
+        },
+        {
+          "original": "otor",
+          "eo_variant": "etor",
+          "variant": "rote",
+          "meaning": "root",
+          "category": "herbs",
+          "transform": "e\u2194o + reversed"
+        }
+      ]
+    }
+  },
+  "summary": {
+    "total_unique_matches": 7,
+    "total_rate": 1.4,
+    "improvement": -0.20000000000000018
+  }
+}
