@@ -1,0 +1,581 @@
+================================================================================
+STATISTICAL PATTERN ANALYSIS - OPTION 3
+================================================================================
+
+Strategy: Since vocabulary expansion failed, analyze structural
+patterns to identify grammatical function of unknown high-freq words
+
+================================================================================
+MORPHOLOGICAL PATTERN ANALYSIS
+================================================================================
+
+--------------------------------------------------------------------------------
+HIGH-FREQUENCY SUFFIX PATTERNS (min 3 words)
+--------------------------------------------------------------------------------
+
+Suffix '-dy' (17 words, 2,728 instances):
+  chedy            494x
+  shedy            423x
+  qokeedy          299x
+  qokedy           263x
+  otedy            152x
+  chdy             141x
+  okedy            115x
+  lchedy           108x
+  okeedy           103x
+  oteedy            97x
+
+Suffix '-edy' (13 words, 2,358 instances):
+  chedy            494x
+  shedy            423x
+  qokeedy          299x
+  qokedy           263x
+  otedy            152x
+  okedy            115x
+  lchedy           108x
+  okeedy           103x
+  oteedy            97x
+  qotedy            88x
+
+Suffix '-in' (11 words, 2,323 instances):
+  daiin            794x
+  aiin             454x
+  qokaiin          262x
+  okaiin           203x
+  otaiin           149x
+  saiin            115x
+  qotaiin           75x
+  dain              74x
+  qokain            72x
+  kaiin             65x
+
+Suffix '-iin' (9 words, 2,177 instances):
+  daiin            794x
+  aiin             454x
+  qokaiin          262x
+  okaiin           203x
+  otaiin           149x
+  saiin            115x
+  qotaiin           75x
+  kaiin             65x
+  raiin             60x
+
+Suffix '-ey' (10 words, 1,747 instances):
+  chey             336x
+  qokeey           307x
+  shey             270x
+  cheey            173x
+  okeey            171x
+  sheey            139x
+  oteey            134x
+  qokey            104x
+  okey              59x
+  otey              54x
+
+Suffix '-ol' (12 words, 1,518 instances):
+  chol             377x
+  shol             173x
+  cheol            165x
+  qol              147x
+  sheol            111x
+  dol              110x
+  qokol            102x
+  otol              81x
+  okol              77x
+  okeol             64x
+
+Suffix '-eey' (5 words, 924 instances):
+  qokeey           307x
+  cheey            173x
+  okeey            171x
+  sheey            139x
+  oteey            134x
+
+Suffix '-ar' (7 words, 899 instances):
+  dar              293x
+  qokar            147x
+  otar             135x
+  okar             120x
+  sar               74x
+  char              70x
+  qotar             60x
+
+Suffix '-al' (5 words, 746 instances):
+  dal              239x
+  qokal            186x
+  otal             133x
+  okal             131x
+  qotal             57x
+
+Suffix '-hy' (8 words, 719 instances):
+  chy              133x
+  chckhy           129x
+  cthy             101x
+  shy               94x
+  chcthy            78x
+  qokchy            68x
+  qotchy            62x
+  shckhy            54x
+
+Suffix '-hol' (3 words, 606 instances):
+  chol             377x
+  shol             173x
+  cthol             56x
+
+Suffix '-!n' (5 words, 544 instances):
+  qokai!n          201x
+  dai!n            111x
+  okai!n            99x
+  otai!n            76x
+  ai!n              57x
+
+Suffix '-i!n' (5 words, 544 instances):
+  qokai!n          201x
+  dai!n            111x
+  okai!n            99x
+  otai!n            76x
+  ai!n              57x
+
+Suffix '-or' (4 words, 462 instances):
+  chor             204x
+  cheor             96x
+  shor              92x
+  dor               70x
+
+Suffix '-eol' (3 words, 340 instances):
+  cheol            165x
+  sheol            111x
+  okeol             64x
+
+Suffix '-ky' (3 words, 284 instances):
+  qoky             139x
+  oky               88x
+  cheky             57x
+
+--------------------------------------------------------------------------------
+HIGH-FREQUENCY PREFIX PATTERNS (min 3 words)
+--------------------------------------------------------------------------------
+
+Prefix 'qo-' (21 words, 2,848 instances):
+  qokeey           307x
+  qokeedy          299x
+  qokedy           263x
+  qokaiin          262x
+  qokai!n          201x
+  qokal            186x
+  qokar            147x
+  qol              147x
+  qoky             139x
+  qokey            104x
+
+Prefix 'ch-' (18 words, 2,811 instances):
+  chedy            494x
+  chol             377x
+  chey             336x
+  chor             204x
+  cheey            173x
+  cheol            165x
+  chdy             141x
+  chy              133x
+  chckhy           129x
+  cheor             96x
+
+Prefix 'qok-' (13 words, 2,205 instances):
+  qokeey           307x
+  qokeedy          299x
+  qokedy           263x
+  qokaiin          262x
+  qokai!n          201x
+  qokal            186x
+  qokar            147x
+  qoky             139x
+  qokey            104x
+  qokol            102x
+
+Prefix 'da-' (7 words, 1,697 instances):
+  daiin            794x
+  dar              293x
+  dal              239x
+  dai!n            111x
+  dair              98x
+  dam               88x
+  dain              74x
+
+Prefix 'sh-' (10 words, 1,558 instances):
+  shedy            423x
+  shey             270x
+  shol             173x
+  sheey            139x
+  sho              119x
+  sheol            111x
+  shy               94x
+  shor              92x
+  sheedy            83x
+  shckhy            54x
+
+Prefix 'che-' (9 words, 1,530 instances):
+  chedy            494x
+  chey             336x
+  cheey            173x
+  cheol            165x
+  cheor             96x
+  cheody            86x
+  cheo              64x
+  cheedy            59x
+  cheky             57x
+
+Prefix 'ok-' (11 words, 1,230 instances):
+  okaiin           203x
+  okeey            171x
+  okal             131x
+  okar             120x
+  okedy            115x
+  okeedy           103x
+  okai!n            99x
+  oky               88x
+  okol              77x
+  okeol             64x
+
+Prefix 'ot-' (10 words, 1,121 instances):
+  otedy            152x
+  otaiin           149x
+  otar             135x
+  oteey            134x
+  otal             133x
+  oty              110x
+  oteedy            97x
+  otol              81x
+  otai!n            76x
+  otey              54x
+
+Prefix 'dai-' (4 words, 1,077 instances):
+  daiin            794x
+  dai!n            111x
+  dair              98x
+  dain              74x
+
+Prefix 'she-' (5 words, 1,026 instances):
+  shedy            423x
+  shey             270x
+  sheey            139x
+  sheol            111x
+  sheedy            83x
+
+Prefix 'cho-' (3 words, 669 instances):
+  chol             377x
+  chor             204x
+  chody             88x
+
+Prefix 'ai-' (3 words, 584 instances):
+  aiin             454x
+  air               73x
+  ai!n              57x
+
+Prefix 'oka-' (4 words, 553 instances):
+  okaiin           203x
+  okal             131x
+  okar             120x
+  okai!n            99x
+
+Prefix 'oke-' (5 words, 512 instances):
+  okeey            171x
+  okedy            115x
+  okeedy           103x
+  okeol             64x
+  okey              59x
+
+Prefix 'qot-' (7 words, 496 instances):
+  qotedy            88x
+  qoty              80x
+  qotaiin           75x
+  qoteedy           74x
+  qotchy            62x
+  qotar             60x
+  qotal             57x
+
+Prefix 'ota-' (4 words, 493 instances):
+  otaiin           149x
+  otar             135x
+  otal             133x
+  otai!n            76x
+
+Prefix 'ote-' (4 words, 437 instances):
+  otedy            152x
+  oteey            134x
+  oteedy            97x
+  otey              54x
+
+================================================================================
+CHARACTER SEQUENCE ANALYSIS
+================================================================================
+
+--------------------------------------------------------------------------------
+TOP 20 BIGRAMS (weighted by word frequency)
+--------------------------------------------------------------------------------
+  'ok': 2,544 instances
+  'ai': 2,289 instances
+  'ch': 2,260 instances
+  'dy': 2,220 instances
+  'he': 2,219 instances
+  'ii': 1,977 instances
+  'in': 1,977 instances
+  'qo': 1,951 instances
+  'ed': 1,854 instances
+  'ol': 1,605 instances
+  'ey': 1,530 instances
+  'da': 1,437 instances
+  'ka': 1,250 instances
+  'sh': 1,235 instances
+  'ee': 1,223 instances
+  'ke': 1,155 instances
+  'ar': 1,035 instances
+  'al': 939 instances
+  'ho': 873 instances
+  'ot': 813 instances
+
+--------------------------------------------------------------------------------
+TOP 20 TRIGRAMS (weighted by word frequency)
+--------------------------------------------------------------------------------
+  'aii': 1,977 instances
+  'iin': 1,977 instances
+  'edy': 1,854 instances
+  'qok': 1,804 instances
+  'che': 1,276 instances
+  'oka': 1,250 instances
+  'oke': 1,155 instances
+  'hed': 1,025 instances
+  'she': 943 instances
+  'eey': 924 instances
+  'dai': 905 instances
+  'kee': 777 instances
+  'kai': 666 instances
+  'hey': 606 instances
+  'cho': 581 instances
+  'hol': 550 instances
+  'ota': 417 instances
+  'ked': 378 instances
+  'kal': 317 instances
+  'ai!': 312 instances
+
+================================================================================
+FUNCTIONAL WORD HYPOTHESIS
+================================================================================
+
+In natural language, highest frequency words are often:
+  - Articles (the, a, an)
+  - Pronouns (it, he, she, this, that)
+  - Prepositions (of, in, on, at, to, for)
+  - Conjunctions (and, or, but)
+  - Auxiliary verbs (is, are, was, were, have)
+
+--------------------------------------------------------------------------------
+TOP 30 VOYNICH WORDS - Likely Grammatical Function
+--------------------------------------------------------------------------------
+
+Very short (1-3 chars) - likely articles/prepositions:
+  ol          522x
+  or          347x
+  ar          340x
+  dar         293x
+  al          250x
+  dal         239x
+  dy          225x
+  s           203x
+  y           150x
+
+Medium (4+ chars) - likely pronouns/conjunctions:
+  daiin       794x
+  chedy       494x
+  aiin        454x
+  shedy       423x
+  chol        377x
+  chey        336x
+  qokeey      307x
+  qokeedy     299x
+  shey        270x
+  qokedy      263x
+  qokaiin     262x
+  chor        204x
+  okaiin      203x
+  qokai!n     201x
+  qokal       186x
+  shol        173x
+  cheey       173x
+  okeey       171x
+  cheol       165x
+  otedy       152x
+  otaiin      149x
+
+Frequency distribution:
+  Short words: 2,569 (29.8%)
+  Medium words: 6,056 (70.2%)
+
+================================================================================
+'QOK-' PREFIX FAMILY ANALYSIS
+================================================================================
+
+Found 296 words with 'qok-' prefix
+Total frequency: 3,076 instances
+
+Top 'qok-' words:
+  qok-eey        (qokeey         )  307x
+  qok-eedy       (qokeedy        )  299x
+  qok-edy        (qokedy         )  263x
+  qok-aiin       (qokaiin        )  262x
+  qok-ai!n       (qokai!n        )  201x
+  qok-al         (qokal          )  186x
+  qok-ar         (qokar          )  147x
+  qok-y          (qoky           )  139x
+  qok-ey         (qokey          )  104x
+  qok-ol         (qokol          )  102x
+  qok-ain        (qokain         )   72x
+  qok-chy        (qokchy         )   68x
+  qok-chdy       (qokchdy        )   55x
+  qok-eol        (qokeol         )   50x
+  qok-chedy      (qokchedy       )   39x
+  qok-or         (qokor          )   35x
+  qok-eody       (qokeody        )   31x
+  qok-chey       (qokchey        )   30x
+  qok-eeey       (qokeeey        )   26x
+  qok-am         (qokam          )   24x
+
+--------------------------------------------------------------------------------
+HYPOTHESIS: 'qok-' as grammatical prefix
+--------------------------------------------------------------------------------
+
+Possibilities:
+  1. Preposition marker (like 'of', 'with', 'by')
+  2. Case marker (genitive, dative)
+  3. Verb prefix (modal or aspect marker)
+
+Note: Many root forms appear independently:
+
+  Word with qok- | Root alone | qok- freq | Root freq
+  ------------------------------------------------------------
+  qokeey          | eey        |  307x     |    5x
+  qokeedy         | eedy       |  299x     |    5x
+  qokaiin         | aiin       |  262x     |  454x
+  qokai!n         | ai!n       |  201x     |   57x
+  qokal           | al         |  186x     |  250x
+  qokar           | ar         |  147x     |  340x
+  qoky            | y          |  139x     |  150x
+  qokey           | ey         |  104x     |    1x
+  qokol           | ol         |  102x     |  522x
+  qokain          | ain        |   72x     |   30x
+  qokchy          | chy        |   68x     |  133x
+  qokchdy         | chdy       |   55x     |  141x
+  qokchedy        | chedy      |   39x     |  494x
+  qokor           | or         |   35x     |  347x
+  qokchey         | chey       |   30x     |  336x
+  qokeeey         | eeey       |   26x     |    1x
+  qokam           | am         |   24x     |   82x
+
+================================================================================
+'-AIIN' SUFFIX PATTERN ANALYSIS
+================================================================================
+
+Found 687 words containing 'aiin'
+Total frequency: 3,832 instances
+
+Words ending in '-aiin': 591
+  d         -aiin (daiin          )  794x
+            -aiin (aiin           )  454x
+  qok       -aiin (qokaiin        )  262x
+  ok        -aiin (okaiin         )  203x
+  ot        -aiin (otaiin         )  149x
+  s         -aiin (saiin          )  115x
+  qot       -aiin (qotaiin        )   75x
+  k         -aiin (kaiin          )   65x
+  r         -aiin (raiin          )   60x
+  od        -aiin (odaiin         )   53x
+  ol        -aiin (olaiin         )   48x
+  lk        -aiin (lkaiin         )   46x
+  yk        -aiin (ykaiin         )   43x
+  ch        -aiin (chaiin         )   41x
+  t         -aiin (taiin          )   41x
+
+Words with internal 'aiin': 96
+  daiin=             7x
+  aiin!y             4x
+  daiinychey         2x
+  daiinol            2x
+  daiinshol          2x
+  dchaiin=kchsy      1x
+  qotaiincthey       1x
+  alshodaiinchol     1x
+  daiinychol         1x
+  daiincthey         1x
+
+================================================================================
+CHEDY vs SHEDY ANALYSIS
+================================================================================
+
+These two words differ only in ch- vs sh-:
+  'chedy': 494x
+  'shedy': 423x
+  Combined: 917x
+
+--------------------------------------------------------------------------------
+ALL CH-/SH- MINIMAL PAIRS in top 100
+--------------------------------------------------------------------------------
+
+  CH- word   | Freq  | SH- word   | Freq  | Combined
+  ------------------------------------------------------------
+  chedy      |   494 | shedy      |   423 |   917
+  chey       |   336 | shey       |   270 |   606
+  chol       |   377 | shol       |   173 |   550
+  cheey      |   173 | sheey      |   139 |   312
+  chor       |   204 | shor       |    92 |   296
+  cheol      |   165 | sheol      |   111 |   276
+  chy        |   133 | shy        |    94 |   227
+  chdy       |   141 | shdy       |    42 |   183
+  chckhy     |   129 | shckhy     |    54 |   183
+  cho        |    61 | sho        |   119 |   180
+  cheor      |    96 | sheor      |    50 |   146
+  cheedy     |    59 | sheedy     |    83 |   142
+  chody      |    88 | shody      |    51 |   139
+  cheody     |    86 | sheody     |    48 |   134
+  cheo       |    64 | sheo       |    46 |   110
+  chcthy     |    78 | shcthy     |    29 |   107
+  char       |    70 | shar       |    31 |   101
+  cheky      |    57 | sheky      |    35 |    92
+
+--------------------------------------------------------------------------------
+HYPOTHESIS: ch-/sh- alternation as grammatical marker
+--------------------------------------------------------------------------------
+
+Possibilities:
+  1. Tense or aspect distinction (present vs past)
+  2. Number distinction (singular vs plural)
+  3. Case distinction (nominative vs accusative)
+  4. Person distinction (1st/2nd vs 3rd person)
+
+================================================================================
+CONCLUSIONS
+================================================================================
+
+1. HIGH-FREQUENCY UNKNOWNS ARE LIKELY GRAMMATICAL:
+   - Short particles (ol, al, ar, dy) - probably articles/prepositions
+   - Medium words (daiin, chedy, shedy) - probably pronouns/conjunctions
+   - These won't match ME vocabulary (they're structural, not lexical)
+
+2. SYSTEMATIC PREFIX/SUFFIX PATTERNS:
+   - 'qok-' prefix appears to be grammatical marker
+   - '-aiin' suffix is highly productive
+   - '-edy/-dy' suffix family suggests inflection
+
+3. CH-/SH- ALTERNATION:
+   - Multiple minimal pairs suggest grammatical distinction
+   - Could be tense, number, case, or person marker
+
+4. IMPLICATIONS FOR DECIPHERMENT:
+   - Current 2.12% transformed = lexical words (nouns, verbs)
+   - Top unknown words = grammatical particles
+   - May not be directly translatable to English equivalents
+   - Need to infer function from distribution patterns
+
+5. PATH FORWARD:
+   - Focus on deciphering more lexical words (increase content vocabulary)
+   - Infer grammatical word functions from context
+   - Analyze word co-occurrence patterns
+   - Statistical NLP methods (n-grams, distributional semantics)
