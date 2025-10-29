@@ -1,0 +1,1961 @@
+{
+  "suffix_analysis": {
+    "ey": {
+      "total_instances": 214,
+      "unique_roots": [
+        "ote",
+        "oke",
+        "cheke",
+        "cheek"
+      ],
+      "classification": {
+        "category": "productive_grammatical",
+        "hypothesis": "Grammatical marker (possibly tense/aspect)",
+        "productivity": 4,
+        "frequency": 214
+      },
+      "top_examples": [
+        {
+          "voynich": "oteey",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 134
+        },
+        {
+          "voynich": "qoteey",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 41
+        },
+        {
+          "voynich": "chokeey",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 9
+        },
+        {
+          "voynich": "choteey",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 7
+        },
+        {
+          "voynich": "shekeey",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 6
+        },
+        {
+          "voynich": "cheekey",
+          "root": "cheek",
+          "meaning": "cheek",
+          "freq": 6
+        },
+        {
+          "voynich": "chekeey",
+          "root": "cheke",
+          "meaning": "cheek",
+          "freq": 6
+        },
+        {
+          "voynich": "cheokeey",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 5
+        }
+      ]
+    },
+    "dy": {
+      "total_instances": 255,
+      "unique_roots": [
+        "oke",
+        "ote",
+        "ale"
+      ],
+      "classification": {
+        "category": "productive_grammatical",
+        "hypothesis": "Grammatical marker (possibly tense/aspect)",
+        "productivity": 3,
+        "frequency": 255
+      },
+      "top_examples": [
+        {
+          "voynich": "okedy",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 115
+        },
+        {
+          "voynich": "qotedy",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 88
+        },
+        {
+          "voynich": "okody",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 15
+        },
+        {
+          "voynich": "otody",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 11
+        },
+        {
+          "voynich": "qotody",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 11
+        },
+        {
+          "voynich": "qokody",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 9
+        },
+        {
+          "voynich": "alody",
+          "root": "ale",
+          "meaning": "ale",
+          "freq": 6
+        }
+      ]
+    },
+    "y": {
+      "total_instances": 426,
+      "unique_roots": [
+        "old",
+        "cheek",
+        "red",
+        "hot",
+        "oke",
+        "chop",
+        "cheke",
+        "ote"
+      ],
+      "classification": {
+        "category": "highly_productive_grammatical",
+        "hypothesis": "Case marker, number, or agreement",
+        "productivity": 8,
+        "frequency": 426
+      },
+      "top_examples": [
+        {
+          "voynich": "qokey",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 104
+        },
+        {
+          "voynich": "okey",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 59
+        },
+        {
+          "voynich": "otey",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 54
+        },
+        {
+          "voynich": "choty",
+          "root": "hot",
+          "meaning": "hot",
+          "freq": 35
+        },
+        {
+          "voynich": "chety",
+          "root": "hot",
+          "meaning": "hot",
+          "freq": 24
+        },
+        {
+          "voynich": "oldy",
+          "root": "old",
+          "meaning": "old",
+          "freq": 24
+        },
+        {
+          "voynich": "qotey",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 23
+        },
+        {
+          "voynich": "cheeky",
+          "root": "cheek",
+          "meaning": "cheek",
+          "freq": 21
+        },
+        {
+          "voynich": "arody",
+          "root": "red",
+          "meaning": "red",
+          "freq": 10
+        },
+        {
+          "voynich": "shety",
+          "root": "hot",
+          "meaning": "hot",
+          "freq": 9
+        }
+      ]
+    },
+    "edy": {
+      "total_instances": 274,
+      "unique_roots": [
+        "oke",
+        "ote"
+      ],
+      "classification": {
+        "category": "lexicalized",
+        "hypothesis": "Part of specific words, not productive affix",
+        "productivity": 2,
+        "frequency": 274
+      },
+      "top_examples": [
+        {
+          "voynich": "okeedy",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 103
+        },
+        {
+          "voynich": "oteedy",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 97
+        },
+        {
+          "voynich": "qoteedy",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 74
+        }
+      ]
+    },
+    "l": {
+      "total_instances": 350,
+      "unique_roots": [
+        "oke",
+        "ote",
+        "ale",
+        "ere"
+      ],
+      "classification": {
+        "category": "productive_grammatical",
+        "hypothesis": "Grammatical marker (possibly tense/aspect)",
+        "productivity": 4,
+        "frequency": 350
+      },
+      "top_examples": [
+        {
+          "voynich": "qokol",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 102
+        },
+        {
+          "voynich": "otol",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 81
+        },
+        {
+          "voynich": "okol",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 77
+        },
+        {
+          "voynich": "qotol",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 47
+        },
+        {
+          "voynich": "orol",
+          "root": "ere",
+          "meaning": "ear",
+          "freq": 15
+        },
+        {
+          "voynich": "alol",
+          "root": "ale",
+          "meaning": "ale",
+          "freq": 8
+        },
+        {
+          "voynich": "dalol",
+          "root": "ale",
+          "meaning": "ale",
+          "freq": 7
+        },
+        {
+          "voynich": "olal",
+          "root": "ale",
+          "meaning": "ale",
+          "freq": 7
+        },
+        {
+          "voynich": "chotol",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 6
+        }
+      ]
+    },
+    "ol": {
+      "total_instances": 166,
+      "unique_roots": [
+        "oke",
+        "ote"
+      ],
+      "classification": {
+        "category": "lexicalized",
+        "hypothesis": "Part of specific words, not productive affix",
+        "productivity": 2,
+        "frequency": 166
+      },
+      "top_examples": [
+        {
+          "voynich": "okeol",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 64
+        },
+        {
+          "voynich": "qokeol",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 50
+        },
+        {
+          "voynich": "oteol",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 41
+        },
+        {
+          "voynich": "qoteol",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 11
+        }
+      ]
+    },
+    "iin": {
+      "total_instances": 67,
+      "unique_roots": [
+        "oke",
+        "ale"
+      ],
+      "classification": {
+        "category": "lexicalized",
+        "hypothesis": "Part of specific words, not productive affix",
+        "productivity": 2,
+        "frequency": 67
+      },
+      "top_examples": [
+        {
+          "voynich": "olaiin",
+          "root": "ale",
+          "meaning": "ale",
+          "freq": 48
+        },
+        {
+          "voynich": "polaiin",
+          "root": "ale",
+          "meaning": "ale",
+          "freq": 7
+        },
+        {
+          "voynich": "okoiin",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 6
+        },
+        {
+          "voynich": "qokoiin",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 6
+        }
+      ]
+    },
+    "r": {
+      "total_instances": 174,
+      "unique_roots": [
+        "ere",
+        "ale",
+        "oke",
+        "cheke",
+        "ote"
+      ],
+      "classification": {
+        "category": "highly_productive_grammatical",
+        "hypothesis": "Case marker, number, or agreement",
+        "productivity": 5,
+        "frequency": 174
+      },
+      "top_examples": [
+        {
+          "voynich": "otor",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 42
+        },
+        {
+          "voynich": "qokor",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 35
+        },
+        {
+          "voynich": "okor",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 33
+        },
+        {
+          "voynich": "qotor",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 27
+        },
+        {
+          "voynich": "olar",
+          "root": "ale",
+          "meaning": "ale",
+          "freq": 11
+        },
+        {
+          "voynich": "dalor",
+          "root": "ale",
+          "meaning": "ale",
+          "freq": 8
+        },
+        {
+          "voynich": "alor",
+          "root": "ale",
+          "meaning": "ale",
+          "freq": 7
+        },
+        {
+          "voynich": "oror",
+          "root": "ere",
+          "meaning": "ear",
+          "freq": 6
+        },
+        {
+          "voynich": "chokor",
+          "root": "cheke",
+          "meaning": "cheek",
+          "freq": 5
+        }
+      ]
+    },
+    "ody": {
+      "total_instances": 120,
+      "unique_roots": [
+        "ote",
+        "oke"
+      ],
+      "classification": {
+        "category": "lexicalized",
+        "hypothesis": "Part of specific words, not productive affix",
+        "productivity": 2,
+        "frequency": 120
+      },
+      "top_examples": [
+        {
+          "voynich": "oteody",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 37
+        },
+        {
+          "voynich": "okeody",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 35
+        },
+        {
+          "voynich": "qokeody",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 31
+        },
+        {
+          "voynich": "qoteody",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 12
+        },
+        {
+          "voynich": "chokeody",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 5
+        }
+      ]
+    },
+    "eey": {
+      "total_instances": 61,
+      "unique_roots": [
+        "oke",
+        "ote"
+      ],
+      "classification": {
+        "category": "lexicalized",
+        "hypothesis": "Part of specific words, not productive affix",
+        "productivity": 2,
+        "frequency": 61
+      },
+      "top_examples": [
+        {
+          "voynich": "okeeey",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 27
+        },
+        {
+          "voynich": "qokeeey",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 26
+        },
+        {
+          "voynich": "oteeey",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 8
+        }
+      ]
+    },
+    "os": {
+      "total_instances": 39,
+      "unique_roots": [
+        "ote",
+        "oke"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 2,
+        "frequency": 39
+      },
+      "top_examples": [
+        {
+          "voynich": "oteos",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 24
+        },
+        {
+          "voynich": "okeos",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 10
+        },
+        {
+          "voynich": "qokeos",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 5
+        }
+      ]
+    },
+    "eo": {
+      "total_instances": 49,
+      "unique_roots": [
+        "oke",
+        "ote"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 2,
+        "frequency": 49
+      },
+      "top_examples": [
+        {
+          "voynich": "qokeeo",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 23
+        },
+        {
+          "voynich": "okeeo",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 15
+        },
+        {
+          "voynich": "oteeo",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 11
+        }
+      ]
+    },
+    "or": {
+      "total_instances": 59,
+      "unique_roots": [
+        "oke",
+        "ote"
+      ],
+      "classification": {
+        "category": "lexicalized",
+        "hypothesis": "Part of specific words, not productive affix",
+        "productivity": 2,
+        "frequency": 59
+      },
+      "top_examples": [
+        {
+          "voynich": "okeor",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 21
+        },
+        {
+          "voynich": "qokeor",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 21
+        },
+        {
+          "voynich": "oteor",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 12
+        },
+        {
+          "voynich": "qoteor",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 5
+        }
+      ]
+    },
+    "eol": {
+      "total_instances": 41,
+      "unique_roots": [
+        "oke",
+        "ote"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 2,
+        "frequency": 41
+      },
+      "top_examples": [
+        {
+          "voynich": "okeeol",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 16
+        },
+        {
+          "voynich": "qokeeol",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 11
+        },
+        {
+          "voynich": "oteeol",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 9
+        },
+        {
+          "voynich": "qoteeol",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 5
+        }
+      ]
+    },
+    "ed": {
+      "total_instances": 23,
+      "unique_roots": [
+        "oke",
+        "ote"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 2,
+        "frequency": 23
+      },
+      "top_examples": [
+        {
+          "voynich": "qokeed",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 15
+        },
+        {
+          "voynich": "oteed",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 8
+        }
+      ]
+    },
+    "o": {
+      "total_instances": 33,
+      "unique_roots": [
+        "oke",
+        "ote"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 2,
+        "frequency": 33
+      },
+      "top_examples": [
+        {
+          "voynich": "okeo",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 14
+        },
+        {
+          "voynich": "oteo",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 12
+        },
+        {
+          "voynich": "qokeo",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 7
+        }
+      ]
+    },
+    "es": {
+      "total_instances": 31,
+      "unique_roots": [
+        "oke",
+        "ote"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 2,
+        "frequency": 31
+      },
+      "top_examples": [
+        {
+          "voynich": "okees",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 14
+        },
+        {
+          "voynich": "otees",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 10
+        },
+        {
+          "voynich": "qokees",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 7
+        }
+      ]
+    },
+    "eody": {
+      "total_instances": 42,
+      "unique_roots": [
+        "oke",
+        "ote"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 2,
+        "frequency": 42
+      },
+      "top_examples": [
+        {
+          "voynich": "okeeody",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 14
+        },
+        {
+          "voynich": "qokeeody",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 12
+        },
+        {
+          "voynich": "oteeody",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 10
+        },
+        {
+          "voynich": "qoteeody",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 6
+        }
+      ]
+    },
+    "chy": {
+      "total_instances": 33,
+      "unique_roots": [
+        "oke",
+        "chop",
+        "hot"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 3,
+        "frequency": 33
+      },
+      "top_examples": [
+        {
+          "voynich": "qokechy",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 13
+        },
+        {
+          "voynich": "chotchy",
+          "root": "hot",
+          "meaning": "hot",
+          "freq": 9
+        },
+        {
+          "voynich": "okechy",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 6
+        },
+        {
+          "voynich": "chopchy",
+          "root": "chop",
+          "meaning": "chop",
+          "freq": 5
+        }
+      ]
+    },
+    "al": {
+      "total_instances": 26,
+      "unique_roots": [
+        "oke",
+        "ote",
+        "hot"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 3,
+        "frequency": 26
+      },
+      "top_examples": [
+        {
+          "voynich": "okeal",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 11
+        },
+        {
+          "voynich": "chotal",
+          "root": "hot",
+          "meaning": "hot",
+          "freq": 9
+        },
+        {
+          "voynich": "oteal",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 6
+        }
+      ]
+    },
+    "ar": {
+      "total_instances": 22,
+      "unique_roots": [
+        "old",
+        "hot"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 2,
+        "frequency": 22
+      },
+      "top_examples": [
+        {
+          "voynich": "chotar",
+          "root": "hot",
+          "meaning": "hot",
+          "freq": 11
+        },
+        {
+          "voynich": "chetar",
+          "root": "hot",
+          "meaning": "hot",
+          "freq": 6
+        },
+        {
+          "voynich": "oldar",
+          "root": "old",
+          "meaning": "old",
+          "freq": 5
+        }
+      ]
+    },
+    "dar": {
+      "total_instances": 25,
+      "unique_roots": [
+        "ote",
+        "oke"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 2,
+        "frequency": 25
+      },
+      "top_examples": [
+        {
+          "voynich": "otedar",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 11
+        },
+        {
+          "voynich": "qokedar",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 8
+        },
+        {
+          "voynich": "okedar",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 6
+        }
+      ]
+    },
+    "ldy": {
+      "total_instances": 16,
+      "unique_roots": [
+        "ote",
+        "oke"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 2,
+        "frequency": 16
+      },
+      "top_examples": [
+        {
+          "voynich": "otoldy",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 10
+        },
+        {
+          "voynich": "okoldy",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 6
+        }
+      ]
+    },
+    "eor": {
+      "total_instances": 20,
+      "unique_roots": [
+        "oke"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 1,
+        "frequency": 20
+      },
+      "top_examples": [
+        {
+          "voynich": "qokeeor",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 10
+        },
+        {
+          "voynich": "okeeor",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 10
+        }
+      ]
+    },
+    "ly": {
+      "total_instances": 10,
+      "unique_roots": [
+        "ote"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 1,
+        "frequency": 10
+      },
+      "top_examples": [
+        {
+          "voynich": "otoly",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 10
+        }
+      ]
+    },
+    "i!n": {
+      "total_instances": 9,
+      "unique_roots": [
+        "ale"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 1,
+        "frequency": 9
+      },
+      "top_examples": [
+        {
+          "voynich": "olai!n",
+          "root": "ale",
+          "meaning": "ale",
+          "freq": 9
+        }
+      ]
+    },
+    "eedy": {
+      "total_instances": 14,
+      "unique_roots": [
+        "oke"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 1,
+        "frequency": 14
+      },
+      "top_examples": [
+        {
+          "voynich": "okeeedy",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 9
+        },
+        {
+          "voynich": "qokeeedy",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 5
+        }
+      ]
+    },
+    "aiin": {
+      "total_instances": 14,
+      "unique_roots": [
+        "old",
+        "hot"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 2,
+        "frequency": 14
+      },
+      "top_examples": [
+        {
+          "voynich": "chotaiin",
+          "root": "hot",
+          "meaning": "hot",
+          "freq": 8
+        },
+        {
+          "voynich": "oldaiin",
+          "root": "old",
+          "meaning": "old",
+          "freq": 6
+        }
+      ]
+    },
+    "s": {
+      "total_instances": 12,
+      "unique_roots": [
+        "oke",
+        "ote"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 2,
+        "frequency": 12
+      },
+      "top_examples": [
+        {
+          "voynich": "okos",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 7
+        },
+        {
+          "voynich": "otes",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 5
+        }
+      ]
+    },
+    "odar": {
+      "total_instances": 7,
+      "unique_roots": [
+        "ote"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 1,
+        "frequency": 7
+      },
+      "top_examples": [
+        {
+          "voynich": "oteodar",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 7
+        }
+      ]
+    },
+    "dal": {
+      "total_instances": 7,
+      "unique_roots": [
+        "oke"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 1,
+        "frequency": 7
+      },
+      "top_examples": [
+        {
+          "voynich": "okedal",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 7
+        }
+      ]
+    },
+    "eos": {
+      "total_instances": 12,
+      "unique_roots": [
+        "ote",
+        "oke"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 2,
+        "frequency": 12
+      },
+      "top_examples": [
+        {
+          "voynich": "oteeos",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 7
+        },
+        {
+          "voynich": "okeeos",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 5
+        }
+      ]
+    },
+    "d": {
+      "total_instances": 12,
+      "unique_roots": [
+        "oke"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 1,
+        "frequency": 12
+      },
+      "top_examples": [
+        {
+          "voynich": "qoked",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 7
+        },
+        {
+          "voynich": "qokod",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 5
+        }
+      ]
+    },
+    "od": {
+      "total_instances": 12,
+      "unique_roots": [
+        "oke"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 1,
+        "frequency": 12
+      },
+      "top_examples": [
+        {
+          "voynich": "qokeod",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 7
+        },
+        {
+          "voynich": "okeod",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 5
+        }
+      ]
+    },
+    "edar": {
+      "total_instances": 6,
+      "unique_roots": [
+        "oke"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 1,
+        "frequency": 6
+      },
+      "top_examples": [
+        {
+          "voynich": "qokeedar",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 6
+        }
+      ]
+    },
+    "odaiin": {
+      "total_instances": 6,
+      "unique_roots": [
+        "ote"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 1,
+        "frequency": 6
+      },
+      "top_examples": [
+        {
+          "voynich": "oteodaiin",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 6
+        }
+      ]
+    },
+    "m": {
+      "total_instances": 16,
+      "unique_roots": [
+        "oke",
+        "ale",
+        "ere"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 3,
+        "frequency": 16
+      },
+      "top_examples": [
+        {
+          "voynich": "alom",
+          "root": "ale",
+          "meaning": "ale",
+          "freq": 6
+        },
+        {
+          "voynich": "okom",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 5
+        },
+        {
+          "voynich": "orom",
+          "root": "ere",
+          "meaning": "ear",
+          "freq": 5
+        }
+      ]
+    },
+    "oly": {
+      "total_instances": 6,
+      "unique_roots": [
+        "oke"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 1,
+        "frequency": 6
+      },
+      "top_examples": [
+        {
+          "voynich": "okeoly",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 6
+        }
+      ]
+    },
+    "echy": {
+      "total_instances": 6,
+      "unique_roots": [
+        "oke"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 1,
+        "frequency": 6
+      },
+      "top_examples": [
+        {
+          "voynich": "qokeechy",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 6
+        }
+      ]
+    },
+    "om": {
+      "total_instances": 5,
+      "unique_roots": [
+        "oke"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 1,
+        "frequency": 5
+      },
+      "top_examples": [
+        {
+          "voynich": "okeom",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 5
+        }
+      ]
+    },
+    "am": {
+      "total_instances": 10,
+      "unique_roots": [
+        "old",
+        "hot"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 2,
+        "frequency": 10
+      },
+      "top_examples": [
+        {
+          "voynich": "oldam",
+          "root": "old",
+          "meaning": "old",
+          "freq": 5
+        },
+        {
+          "voynich": "chotam",
+          "root": "hot",
+          "meaning": "hot",
+          "freq": 5
+        }
+      ]
+    },
+    "odal": {
+      "total_instances": 5,
+      "unique_roots": [
+        "ote"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 1,
+        "frequency": 5
+      },
+      "top_examples": [
+        {
+          "voynich": "oteodal",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 5
+        }
+      ]
+    },
+    "chdy": {
+      "total_instances": 5,
+      "unique_roots": [
+        "ote"
+      ],
+      "classification": {
+        "category": "low_frequency",
+        "hypothesis": "Uncertain - need more data",
+        "productivity": 1,
+        "frequency": 5
+      },
+      "top_examples": [
+        {
+          "voynich": "otechdy",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 5
+        }
+      ]
+    }
+  },
+  "prefix_analysis": {
+    "q": {
+      "total_instances": 902,
+      "unique_roots": [
+        "oke",
+        "ote",
+        "ear"
+      ],
+      "top_examples": [
+        {
+          "voynich": "qokey",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 104
+        },
+        {
+          "voynich": "qokol",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 102
+        },
+        {
+          "voynich": "qotedy",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 88
+        },
+        {
+          "voynich": "qoteedy",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 74
+        },
+        {
+          "voynich": "qokeol",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 50
+        },
+        {
+          "voynich": "qotol",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 47
+        },
+        {
+          "voynich": "qoteey",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 41
+        },
+        {
+          "voynich": "qokor",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 35
+        },
+        {
+          "voynich": "qokeody",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 31
+        },
+        {
+          "voynich": "qotor",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 27
+        }
+      ]
+    },
+    "d": {
+      "total_instances": 113,
+      "unique_roots": [
+        "air",
+        "ale"
+      ],
+      "top_examples": [
+        {
+          "voynich": "dair",
+          "root": "air",
+          "meaning": "air",
+          "freq": 98
+        },
+        {
+          "voynich": "dalor",
+          "root": "ale",
+          "meaning": "ale",
+          "freq": 8
+        },
+        {
+          "voynich": "dalol",
+          "root": "ale",
+          "meaning": "ale",
+          "freq": 7
+        }
+      ]
+    },
+    "ch": {
+      "total_instances": 109,
+      "unique_roots": [
+        "old",
+        "red",
+        "ear",
+        "oke",
+        "ote"
+      ],
+      "top_examples": [
+        {
+          "voynich": "chear",
+          "root": "ear",
+          "meaning": "ear",
+          "freq": 47
+        },
+        {
+          "voynich": "chokeey",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 9
+        },
+        {
+          "voynich": "chotey",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 8
+        },
+        {
+          "voynich": "choldy",
+          "root": "old",
+          "meaning": "old",
+          "freq": 8
+        },
+        {
+          "voynich": "chdor",
+          "root": "red",
+          "meaning": "red",
+          "freq": 8
+        },
+        {
+          "voynich": "choteey",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 7
+        },
+        {
+          "voynich": "chotol",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 6
+        },
+        {
+          "voynich": "chokey",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 6
+        },
+        {
+          "voynich": "chokeody",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 5
+        },
+        {
+          "voynich": "chetey",
+          "root": "ote",
+          "meaning": "oat",
+          "freq": 5
+        }
+      ]
+    },
+    "c": {
+      "total_instances": 137,
+      "unique_roots": [
+        "heal",
+        "hot"
+      ],
+      "top_examples": [
+        {
+          "voynich": "choty",
+          "root": "hot",
+          "meaning": "hot",
+          "freq": 35
+        },
+        {
+          "voynich": "cheal",
+          "root": "heal",
+          "meaning": "heal",
+          "freq": 30
+        },
+        {
+          "voynich": "chety",
+          "root": "hot",
+          "meaning": "hot",
+          "freq": 24
+        },
+        {
+          "voynich": "chotar",
+          "root": "hot",
+          "meaning": "hot",
+          "freq": 11
+        },
+        {
+          "voynich": "chotchy",
+          "root": "hot",
+          "meaning": "hot",
+          "freq": 9
+        },
+        {
+          "voynich": "chotal",
+          "root": "hot",
+          "meaning": "hot",
+          "freq": 9
+        },
+        {
+          "voynich": "chotaiin",
+          "root": "hot",
+          "meaning": "hot",
+          "freq": 8
+        },
+        {
+          "voynich": "chetar",
+          "root": "hot",
+          "meaning": "hot",
+          "freq": 6
+        },
+        {
+          "voynich": "chotam",
+          "root": "hot",
+          "meaning": "hot",
+          "freq": 5
+        }
+      ]
+    },
+    "s": {
+      "total_instances": 57,
+      "unique_roots": [
+        "heal",
+        "air",
+        "hot"
+      ],
+      "top_examples": [
+        {
+          "voynich": "sair",
+          "root": "air",
+          "meaning": "air",
+          "freq": 23
+        },
+        {
+          "voynich": "sheal",
+          "root": "heal",
+          "meaning": "heal",
+          "freq": 19
+        },
+        {
+          "voynich": "shety",
+          "root": "hot",
+          "meaning": "hot",
+          "freq": 9
+        },
+        {
+          "voynich": "shoty",
+          "root": "hot",
+          "meaning": "hot",
+          "freq": 6
+        }
+      ]
+    },
+    "ok": {
+      "total_instances": 28,
+      "unique_roots": [
+        "air",
+        "ear"
+      ],
+      "top_examples": [
+        {
+          "voynich": "okair",
+          "root": "air",
+          "meaning": "air",
+          "freq": 21
+        },
+        {
+          "voynich": "okear",
+          "root": "ear",
+          "meaning": "ear",
+          "freq": 7
+        }
+      ]
+    },
+    "sh": {
+      "total_instances": 38,
+      "unique_roots": [
+        "oke",
+        "old",
+        "ear"
+      ],
+      "top_examples": [
+        {
+          "voynich": "shear",
+          "root": "ear",
+          "meaning": "ear",
+          "freq": 20
+        },
+        {
+          "voynich": "sholdy",
+          "root": "old",
+          "meaning": "old",
+          "freq": 7
+        },
+        {
+          "voynich": "shekeey",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 6
+        },
+        {
+          "voynich": "shekey",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 5
+        }
+      ]
+    },
+    "ot": {
+      "total_instances": 20,
+      "unique_roots": [
+        "air"
+      ],
+      "top_examples": [
+        {
+          "voynich": "otair",
+          "root": "air",
+          "meaning": "air",
+          "freq": 20
+        }
+      ]
+    },
+    "qok": {
+      "total_instances": 23,
+      "unique_roots": [
+        "air",
+        "ear"
+      ],
+      "top_examples": [
+        {
+          "voynich": "qokair",
+          "root": "air",
+          "meaning": "air",
+          "freq": 17
+        },
+        {
+          "voynich": "qokear",
+          "root": "ear",
+          "meaning": "ear",
+          "freq": 6
+        }
+      ]
+    },
+    "k": {
+      "total_instances": 19,
+      "unique_roots": [
+        "air",
+        "old"
+      ],
+      "top_examples": [
+        {
+          "voynich": "kair",
+          "root": "air",
+          "meaning": "air",
+          "freq": 14
+        },
+        {
+          "voynich": "koldy",
+          "root": "old",
+          "meaning": "old",
+          "freq": 5
+        }
+      ]
+    },
+    "t": {
+      "total_instances": 12,
+      "unique_roots": [
+        "air"
+      ],
+      "top_examples": [
+        {
+          "voynich": "tair",
+          "root": "air",
+          "meaning": "air",
+          "freq": 12
+        }
+      ]
+    },
+    "a": {
+      "total_instances": 10,
+      "unique_roots": [
+        "red"
+      ],
+      "top_examples": [
+        {
+          "voynich": "arody",
+          "root": "red",
+          "meaning": "red",
+          "freq": 10
+        }
+      ]
+    },
+    "o": {
+      "total_instances": 7,
+      "unique_roots": [
+        "red"
+      ],
+      "top_examples": [
+        {
+          "voynich": "odor",
+          "root": "red",
+          "meaning": "red",
+          "freq": 7
+        }
+      ]
+    },
+    "p": {
+      "total_instances": 7,
+      "unique_roots": [
+        "ale"
+      ],
+      "top_examples": [
+        {
+          "voynich": "polaiin",
+          "root": "ale",
+          "meaning": "ale",
+          "freq": 7
+        }
+      ]
+    },
+    "yk": {
+      "total_instances": 6,
+      "unique_roots": [
+        "air"
+      ],
+      "top_examples": [
+        {
+          "voynich": "ykair",
+          "root": "air",
+          "meaning": "air",
+          "freq": 6
+        }
+      ]
+    },
+    "qot": {
+      "total_instances": 6,
+      "unique_roots": [
+        "air"
+      ],
+      "top_examples": [
+        {
+          "voynich": "qotair",
+          "root": "air",
+          "meaning": "air",
+          "freq": 6
+        }
+      ]
+    },
+    "che": {
+      "total_instances": 10,
+      "unique_roots": [
+        "oke",
+        "ear"
+      ],
+      "top_examples": [
+        {
+          "voynich": "cheokeey",
+          "root": "oke",
+          "meaning": "oak",
+          "freq": 5
+        },
+        {
+          "voynich": "cheoar",
+          "root": "ear",
+          "meaning": "ear",
+          "freq": 5
+        }
+      ]
+    },
+    "r": {
+      "total_instances": 5,
+      "unique_roots": [
+        "air"
+      ],
+      "top_examples": [
+        {
+          "voynich": "rair",
+          "root": "air",
+          "meaning": "air",
+          "freq": 5
+        }
+      ]
+    },
+    "or": {
+      "total_instances": 5,
+      "unique_roots": [
+        "air"
+      ],
+      "top_examples": [
+        {
+          "voynich": "orair",
+          "root": "air",
+          "meaning": "air",
+          "freq": 5
+        }
+      ]
+    }
+  }
+}

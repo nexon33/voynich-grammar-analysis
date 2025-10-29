@@ -1,0 +1,162 @@
+FOLIO f84v - THE OAK/OAT BATH FOLIO
+================================================================================
+
+Recognition rate: 6.4%
+Total words: 500
+Oak instances: 8
+Oat instances: 14
+Other recognized: 10
+
+CONTEXT: This folio shows circular pools with naked figures (bathing scenes).
+HYPOTHESIS: Bath recipes using oak bark and oat as medicinal ingredients.
+================================================================================
+
+Voynich: okol sheeol qoteesy choty otechys shoikhy chedy tshey dshdy otchar
+Meaning: leek [sheeol] [qoteesy] [c-]hot[-y] [otechys] [shoikhy] [chedy] [tshey] [dshdy] [otchar]
+
+Voynich: shek chcthy otal ory qokchy qotchey ldaiin shedy qotaiin sal
+Meaning: [shek] [chcthy] [otal] [ory] [qokchy] [qotchey] [ldaiin] [shedy] [qotaiin] [sal]
+
+Voynich: p!shorol shckhy qotshdy qokaldy opchedy qotar or aiin ol saral
+Meaning: [p!shorol] [shckhy] [qotshdy] [qokaldy] [opchedy] [qotar] [or] [aiin] [ol] [saral]
+
+Voynich: qokai!n checkhy qotal qol cheey chey dai!n chedy qol qokl
+Meaning: [qokai!n] [checkhy] [qotal] [qol] [cheey] [chey] [dai!n] [chedy] [qol] [qokl]
+
+Voynich: shey qokal chedy okol dyty s!aiin ol sheol lchey shai!n
+Meaning: [shey] [qokal] [chedy] leek [dyty] [s!aiin] [ol] [sheol] [lchey] [shai!n]
+
+Voynich: shckhy qoly kshedy otal sheey qokai!n shey qokam qokaiin shy
+Meaning: [shckhy] [qoly] [kshedy] [otal] [sheey] [qokai!n] [shey] [qokam] [qokaiin] [shy]
+
+Voynich: lsheey ls air or aror otaiin ches olol ol solor
+Meaning: [lsheey] [ls] [air] [or] [aror] [otaiin] [ches] [olol] [ol] [solor]
+
+Voynich: olshey qokaiin chey qokai!n otai!n otai!n otal ol dam sol
+Meaning: [olshey] [qokaiin] [chey] [qokai!n] [otai!n] [otai!n] [otal] [ol] [dam] [sol]
+
+Voynich: cheey chol sai!n or al shey qokai!n sheyky shoky oly
+Meaning: [cheey] [chol] [sai!n] [or] [al] [shey] [qokai!n] [sheyky] [shoky] [oly]
+
+Voynich: y shal y!chedar oikhy scthey tal chear p!ol shar sha!r
+Meaning: [y] [shal] [y!chedar] [oikhy] [scthey] [tal] [ch-]ear [p!ol] [shar] [sha!r]
+
+Voynich: pchey otshey okaos aiin okshey dalkeeey ry lchey dal sheedy
+Meaning: [pchey] [otshey] [okaos] [aiin] [okshey] [dalkeeey] [ry] [lchey] [dal] [sheedy]
+
+Voynich: efchedy otai!n shey qofchey ol dor ched chey dar shear
+Meaning: [efchedy] [otai!n] [shey] [qofchey] [ol] red [ched] [chey] [dar] [sh-]ear
+
+Voynich: qotaiin ol lkain otchedy or olkl o!tshedy otory qokshedy qolkeey
+Meaning: [qotaiin] [ol] [lkain] [otchedy] [or] [olkl] [o!tshedy] [otory] [qokshedy] [qolkeey]
+
+Voynich: qol!keedy qokedy otai!n otchey okai!n y cholchey qotshy qol shey
+Meaning: [qol!keedy] [qokedy] [otai!n] [otchey] [okai!n] [y] [cholchey] [qotshy] [qol] [shey]
+
+Voynich: qokar shedy oteey chcthy p!olaiin olteedy qotchey dykeedy qokchdy opchedy
+Meaning: [qokar] [shedy] oat[-ey] [chcthy] [p!olaiin] [olteedy] [qotchey] [dykeedy] [qokchdy] [opchedy]
+
+Voynich: shol ory qokeedy sheey kas cheey olkaiin ol ory chol!or
+Meaning: [shol] [ory] [qokeedy] [sheey] [kas] [cheey] [olkaiin] [ol] [ory] [chol!or]
+
+Voynich: oty oky y dol sheey qokai!n odai!n yteey chyteey otoldy
+Meaning: [oty] [oky] [y] [dol] [sheey] [qokai!n] [odai!n] [yteey] [chyteey] oat[-ldy]
+
+Voynich: l!chey lcheey qochey qody qokal olor okchd dchol dchy oly
+Meaning: [l!chey] [lcheey] [qochey] [qody] [qokal] [olor] [okchd] [dchol] [dchy] [oly]
+
+Voynich: y!shedy qotal y!sheey olor p!ol shey oltshedy sheol ykeey okeey
+Meaning: [y!shedy] [qotal] [y!sheey] [olor] [p!ol] [shey] [oltshedy] [sheol] [ykeey] [okeey]
+
+Voynich: cheor sheedy ol s!ol cheedy qoteedy okaiin ol olaiin shey
+Meaning: [cheor] [sheedy] [ol] [s!ol] [cheedy] [q-]oat[-edy] [okaiin] [ol] ale[-iin] [shey]
+
+Voynich: daiin chey! ol daiin shedy qotshedy oteeedy oteedy chey qokaiin
+Meaning: [daiin] [chey!] [ol] [daiin] [shedy] [qotshedy] [oteeedy] oat[-edy] [chey] [qokaiin]
+
+Voynich: ol lcheol kchedy qotas sheey teol oteedy p!ol chedy shedy
+Meaning: [ol] [lcheol] [kchedy] [qotas] [sheey] [teol] oat[-edy] [p!ol] [chedy] [shedy]
+
+Voynich: qoteedy qotain o!dy chek!es otal s!ol sheeol ol cheey os
+Meaning: [q-]oat[-edy] [qotain] [o!dy] [chek!es] [otal] [s!ol] [sheeol] [ol] [cheey] [os]
+
+Voynich: sheky sheol or shear oly l!cheol ol ol sheey olsheey
+Meaning: [sheky] [sheol] [or] [sh-]ear [oly] [l!cheol] [ol] [ol] [sheey] [olsheey]
+
+Voynich: shol keey okchey dai!n pol olkeeey sheol qokeey p!olkeey qokol
+Meaning: [shol] [keey] [okchey] [dai!n] [pol] [olkeeey] [sheol] [qokeey] [p!olkeey] [q-]oak[-l]
+
+Voynich: otshdy olky orkar shecphh!dy olkal y shedy qokched oltshey otchotor
+Meaning: [otshdy] [olky] [orkar] [shecphh!dy] [olkal] [y] [shedy] [qokched] [oltshey] [otchotor]
+
+Voynich: ol okaiin chckhy qokai!n shedy qotai!n oteedy chkai!n ol ol
+Meaning: [ol] [okaiin] [chckhy] [qokai!n] [shedy] [qotai!n] oat[-edy] [chkai!n] [ol] [ol]
+
+Voynich: chedy oly sai!n okai!n chedy lkchedy aiin okai!n oly cheedy
+Meaning: [chedy] [oly] [sai!n] [okai!n] [chedy] [lkchedy] [aiin] [okai!n] [oly] [cheedy]
+
+Voynich: y shey qokai!n cheol qoky daiin chkam ar cheedy ldy
+Meaning: [y] [shey] [qokai!n] [cheol] [qoky] [daiin] [chkam] [ar] [cheedy] [ldy]
+
+Voynich: ody oaan okeey dar cheory p!oldshedy olkory qotolol otaldy otedol
+Meaning: [ody] [oaan] [okeey] [dar] [cheory] [p!oldshedy] [olkory] [qotolol] [otaldy] [otedol]
+
+Voynich: or olorol qoteedy qokchey qoty lshey qokai!n !shey qor!chedy dol
+Meaning: [or] [olorol] [q-]oat[-edy] [qokchey] [qoty] [lshey] [qokai!n] [!shey] [qor!chedy] [dol]
+
+Voynich: sheol okchy qokai!n cseedy qokshedy qoke!dy otaram qokeedy qokeedy qotai!n
+Meaning: [sheol] [okchy] [qokai!n] [cseedy] [qokshedy] [qoke!dy] [otaram] [qokeedy] [qokeedy] [qotai!n]
+
+Voynich: sol chedy r!chey qoky lchedy qolkeedy qokedy qotol saiin ory
+Meaning: [sol] [chedy] [r!chey] [qoky] [lchedy] [qolkeedy] [qokedy] [q-]oat[-l] [saiin] [ory]
+
+Voynich: qokedy oteedy lcheam ycheckhey r ai!n chedy qokai!n chedy olshedy
+Meaning: [qokedy] oat[-edy] [lcheam] [ycheckhey] [r] [ai!n] [chedy] [qokai!n] [chedy] [olshedy]
+
+Voynich: dar y!tam qokshey qokeedy qol kedy qokeedy qokai!n s!ol!chedy ychedy
+Meaning: [dar] [y!tam] [qokshey] [qokeedy] [qol] [kedy] [qokeedy] [qokai!n] [s!ol!chedy] [ychedy]
+
+Voynich: qotey okedy tedyol sheedy qokeey qoteedy lol sor ol sheey
+Meaning: [q-]oat[-y] oak[-dy] [tedyol] [sheedy] [qokeey] [q-]oat[-edy] [lol] [sor] [ol] [sheey]
+
+Voynich: qokeedy qokechey qol p!chedy lsheckhedy qokeey qokaiin olky opchedy pchedy
+Meaning: [qokeedy] [qokechey] [qol] [p!chedy] [lsheckhedy] [qokeey] [qokaiin] [olky] [opchedy] [pchedy]
+
+Voynich: olcheey lchedy qol!keedy qokai!n chckhy otar ol kam p!shdy ofchdy
+Meaning: [olcheey] [lchedy] [qol!keedy] [qokai!n] [chckhy] [otar] [ol] [kam] [p!shdy] [ofchdy]
+
+Voynich: qokedy qoteedy qokedy qol!tedy qotedy oky dain ar olshey dytai!n
+Meaning: [qokedy] [q-]oat[-edy] [qokedy] [qol!tedy] [q-]oat[-dy] [oky] [dain] [ar] [olshey] [dytai!n]
+
+Voynich: qokai!n checthy okeedy qokeedy ror qokeey qokedy okeey qokol sheedy
+Meaning: [qokai!n] [checthy] oak[-edy] [qokeedy] [ror] [qokeey] [qokedy] [okeey] [q-]oak[-l] [sheedy]
+
+Voynich: qokeedy r!ol chey qokeedy yteedy qokeedy qokai!n olkeey cheokain dy
+Meaning: [qokeedy] [r!ol] [chey] [qokeedy] [yteedy] [qokeedy] [qokai!n] [olkeey] [cheokain] [dy]
+
+Voynich: teey qokai!n dol sheey qol olkshey qokeedy olkeedy qol okaiin
+Meaning: [teey] [qokai!n] [dol] [sheey] [qol] [olkshey] [qokeedy] [olkeedy] [qol] [okaiin]
+
+Voynich: oly qol sheey chol ol dar qokaiin cheekey qoky otai!n
+Meaning: [oly] [qol] [sheey] [chol] [ol] [dar] [qokaiin] cheek[-ey] [qoky] [otai!n]
+
+Voynich: oram qokai!n sheey qokeey teey oteey lsheey qokeey olkeedy r!chey
+Meaning: [oram] [qokai!n] [sheey] [qokeey] [teey] oat[-ey] [lsheey] [qokeey] [olkeedy] [r!chey]
+
+Voynich: ykail shy qol!ar shey qokedy qokedy qokedy dar olkai!n cham
+Meaning: [ykail] [shy] [qol!ar] [shey] [qokedy] [qokedy] [qokedy] [dar] [olkai!n] [cham]
+
+Voynich: dchedy lchey qety shedy okai!n ykees olkey oty shey qoly
+Meaning: [dchedy] [lchey] [qety] [shedy] [okai!n] [ykees] [olkey] [oty] [shey] [qoly]
+
+Voynich: d!shey qokal sheedy sheky or!ai!n otshdy dain cther ar!or tshey
+Meaning: [d!shey] [qokal] [sheedy] [sheky] [or!ai!n] [otshdy] [dain] [cther] [ar!or] [tshey]
+
+Voynich: ykeey r!a*kai!n oroiiin tolkey okar ol okaiin okylor qokol okeedy
+Meaning: [ykeey] [r!a*kai!n] [oroiiin] [tolkey] [okar] [ol] [okaiin] [okylor] [q-]oak[-l] oak[-edy]
+
+Voynich: dalary y!cheear o oiin oeedy qotai!n chedy qokeey oteey qokchy
+Meaning: [dalary] [y!cheear] [o] [oiin] [oeedy] [qotai!n] [chedy] [qokeey] oat[-ey] [qokchy]
+
+Voynich: lol qokeey ol olshdy qotai!n oteedy olkai!n otshey sai!n ol
+Meaning: [lol] [qokeey] [ol] [olshdy] [qotai!n] oat[-edy] [olkai!n] [otshey] [sai!n] [ol]

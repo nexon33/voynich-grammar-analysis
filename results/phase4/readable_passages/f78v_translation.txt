@@ -1,0 +1,155 @@
+FOLIO f78v - PARTIAL TRANSLATION
+Recognition rate: 15.2%
+Total words: 500
+Recognized: 76
+================================================================================
+
+Voynich: !shos otchy !*eody cheokey okeoekol oteos aiin yal eeedy okeos
+Meaning: [?] [?] [?] [?] [?] oat[-os] [?] lay/place [?] oak[-os]
+
+Voynich: aly shy oka!y okeeey okeedal!y cholairy oke! chees!y okeeol chey
+Meaning: [?] [?] [?] oak[-eey] [?] [?] [?] [?] oak[-eol] [?]
+
+Voynich: otey aldy chdy del ok*eoloky oty aiin cheis otoly ok*
+Meaning: oat[-y] [?] [?] [?] [?] [?] [?] [?] oat[-ly] [?]
+
+Voynich: etoteear otoly yty sholeey oky chcthhy loly oeemy odair an
+Meaning: [?] oat[-ly] [?] [?] [?] [?] [?] [?] [?] [?]
+
+Voynich: okary oecs aiin oteesod epal otaly okes!err or cskesol okeol
+Meaning: [?] [?] [?] [?] [?] [?] [?] [?] [?] oak[-ol]
+
+Voynich: yiin cholal ykeso!darar oleeo dy shedy soear aldy oteor cheor
+Meaning: [?] [?] [?] [?] [?] [?] [?] [?] oat[-or] [?]
+
+Voynich: ataseos oty oteos oty chotey dchy chopchy otycoyl ctheol shey
+Meaning: [?] [?] oat[-os] [?] [ch-]oat[-y] [?] chop[-chy] [?] [?] [?]
+
+Voynich: tchols choraiin chekaiphy !oteeos yly oksedy cseo cthey *eck*y* ge*eem
+Meaning: [?] [?] [?] [?] [?] [?] [?] [?] [?] [?]
+
+Voynich: cth*s okeeel oke!dy cheos okeeor cheey okeey tchy cheeey ekeolol
+Meaning: [?] [?] [?] [?] oak[-eor] [?] [?] [?] [?] [?]
+
+Voynich: sheeoeky oekeeor aiin olal olal kair okolraiin oeedey oeeo daiin
+Meaning: [?] [?] [?] ale[-l] ale[-l] [k-]air [?] [?] [?] [?]
+
+Voynich: okeoram air!olm oshesy okeory cheoekcy eeoeety sheoeky oteodar ofchdy!sd o!eeod
+Meaning: [?] [?] [?] [?] [?] [?] [?] oat[-odar] [?] [?]
+
+Voynich: yteody okeody okeoldy ykeeol opaiin!ar eeeoloy otees ody otey otchos
+Meaning: [?] oak[-ody] [?] [?] [?] [?] oat[-es] [?] oat[-y] [?]
+
+Voynich: sheot* yteed dchsaiin shol okches air am shey qokeodal oteotey
+Meaning: [?] [?] [?] [?] [?] [?] [?] [?] [?] [?]
+
+Voynich: oteoldy oteal!chedy chotal al okal cheol sar!aiin cheokaidy sa!ndy otol
+Meaning: [?] [?] [c-]hot[-al] [?] [?] [?] [?] [?] [?] oat[-l]
+
+Voynich: chskar alteol oltar or okaiin oekeol oeedy opalg okeeom olkar
+Meaning: [?] [?] [?] [?] [?] [?] [?] [?] [?] [?]
+
+Voynich: oeedaly cheos sh*s ofc!hea!y yteedy oraiin okeo rar otaiin otshedy
+Meaning: [?] [?] [?] [?] [?] [?] oak[-o] [?] [?] [?]
+
+Voynich: chokeedy otes al al ar chetolain sheodaly sheokey okealy s!any
+Meaning: [?] oat[-s] [?] [?] [?] [?] [?] [?] [?] [?]
+
+Voynich: !otar air chpaly oteody okchesal otear alshey oleealy sh*etey oteos
+Meaning: [?] [?] [?] oat[-ody] [?] [?] [?] [?] [?] oat[-os]
+
+Voynich: alal dals alchol ytolaiin ydaiin chotar ytal oto shoty otey
+Meaning: [?] [?] [?] [?] [?] [c-]hot[-ar] [?] oat [s-]hot[-y] oat[-y]
+
+Voynich: okchedyly shdary sar ote!dy oto r!ar shedy !opshey!tey opairaly choshydy
+Meaning: [?] [?] [?] [?] oat [?] [?] [?] [?] [?]
+
+Voynich: otar cheedy otalaiin cheeky okalar ysr*y s ok*s*t* oteos alar
+Meaning: [?] [?] [?] cheek[-y] [?] [?] [?] [?] oat[-os] [?]
+
+Voynich: oeeoty octhy oteoly okeoly oeees ocf shy oees okeeoly odal
+Meaning: [?] [?] [?] oak[-oly] [?] [?] [?] [?] [?] [?]
+
+Voynich: aiinod odody oteod yteod okchedy okyl ytaly ocheos oteofy cheoepy
+Meaning: [?] [?] [?] [?] [?] [?] [?] [?] [?] [?]
+
+Voynich: ykee!dy otar!iir otol!topar oteol aiin ofas al otshedy ofalar alshdy
+Meaning: [?] [?] [?] oat[-ol] [?] [?] [?] [?] [?] [?]
+
+Voynich: chpar aiin okaly okaryaly opcheolfy op!ar cheoekey otol!opaiin shaldy chepchy
+Meaning: [?] [?] [?] [?] [?] [?] [?] [?] [?] [?]
+
+Voynich: atey tear oeeoly okady okeey oiiny oeey okedy ypain okalair
+Meaning: [?] [?] [?] [?] [?] [?] [?] oak[-dy] [?] [?]
+
+Voynich: oeeody okeol otal!al dalal ykeols oteo!s aiin y!otoam oteey saiin
+Meaning: [?] oak[-ol] [?] [?] [?] [?] [?] [?] oat[-ey] [?]
+
+Voynich: oteoos am otoly chockhy okedy yteeody ypolcheey salchedal chepchey daraly
+Meaning: [?] [?] oat[-ly] [?] oak[-dy] [?] [?] [?] [?] [?]
+
+Voynich: oteos air ar oteosdal chotchy soteees alshey ches al chees
+Meaning: oat[-os] [?] [?] [?] [c-]hot[-chy] [?] [?] [?] [?] [?]
+
+Voynich: cheoly leiir* choteey cheteey cheteeeos!aiin chetchody chedar ar cheteey oteor
+Meaning: [?] [?] [ch-]oat[-ey] [?] [?] [?] [?] [?] [?] oat[-or]
+
+Voynich: ar air alor shetch ytchy cheody ykeydom oteos alar alcheky
+Meaning: [?] [?] ale[-r] [?] [?] [?] [?] oat[-os] [?] [?]
+
+Voynich: otey otaly okeody oteedyl okesdy okery oksedy ykeeory oteeosy shekal
+Meaning: oat[-y] [?] oak[-ody] [?] [?] [?] [?] [?] [?] [?]
+
+Voynich: oteedyg! okedal chdy dalshey opaiin okeos oteey dar al opaiin
+Meaning: [?] oak[-dal] [?] [?] [?] oak[-os] oat[-ey] [?] [?] [?]
+
+Voynich: olalaiin sair ar chopchedy chdar orom otor!eees olteey okees otar
+Meaning: [?] [s-]air [?] [?] [?] more [?] [?] oak[-es] [?]
+
+Voynich: chey oteas oho!r op!ar chey daiin qoiheey s!cheey dal cheesy
+Meaning: [?] [?] [?] [?] [?] [?] [?] [?] [?] [?]
+
+Voynich: okeos okary ot*!ad! oota!dy oky chefy otal shek ar kar
+Meaning: oak[-os] [?] [?] [?] [?] [?] [?] [?] [?] [?]
+
+Voynich: osaiin chedain oteey chedaly okechs chepchees aly oteodal okol oteody
+Meaning: [?] [?] oat[-ey] [?] [?] [?] [?] oat[-odal] leek oat[-ody]
+
+Voynich: oteody cheody otoar ykeody okodeey qopchey opaiin qoteedy dpy otedy
+Meaning: oat[-ody] [?] [?] [?] [?] [?] [?] [q-]oat[-edy] [?] [?]
+
+Voynich: csedy qokeody cheor!al okedal oteody shedy otesal!od air chy ykchs
+Meaning: [?] [q-]oak[-ody] [?] oak[-dal] oat[-ody] [?] [?] [?] [?] [?]
+
+Voynich: aly y!keol y!dys opchey dy toly chfaikch! ytedar echy qokeey
+Meaning: [?] [?] [?] [?] [?] [?] [?] [?] [?] [?]
+
+Voynich: oty yteedy choldy qokalaiin ykaipy orary okeody sheol odees ecsy
+Meaning: [?] [?] [ch-]old[-y] [?] [?] [?] oak[-ody] [?] [?] [?]
+
+Voynich: ykeor opals ykeody okeody ypaiin yfaiin y ofcheesy oraiiny ykeeody
+Meaning: [?] [?] [?] oak[-ody] [?] [?] [?] [?] [?] [?]
+
+Voynich: okeos ykeear qokeoly oteotor alshy oteolain chokeedam otody qoty shedy
+Meaning: oak[-os] [?] [?] [?] [?] [?] [?] oat[-dy] [?] [?]
+
+Voynich: chdy tchol oteody cheytey choty okey dy okecholy otey chodaiin
+Meaning: [?] [?] oat[-ody] [?] [c-]hot[-y] oak[-y] [?] [?] oat[-y] [?]
+
+Voynich: chey okchdy saly ar daly ched oky oi!air okal ykey
+Meaning: [?] [?] [?] [?] [?] [?] [?] [?] [?] [?]
+
+Voynich: ykeeo okeod! ykey ypal otedy otedchor alar olkcho oto lam
+Meaning: [?] [?] [?] [?] [?] [?] [?] [?] oat [?]
+
+Voynich: okees chory ytaly ylaly otasam k!chedy karyokeey qokar shy k!chedy
+Meaning: oak[-es] [?] [?] [?] [?] [?] [?] [?] [?] [?]
+
+Voynich: qotar shedy dain shey lysshe!ol qol!chedy chedykar chekeedy ror qokain
+Meaning: [?] [?] [?] [?] [?] [?] [?] [?] [?] [?]
+
+Voynich: chalor!chey qey kai!n sheeky ltai!n olkar or dackhy lkamoykeey lshey
+Meaning: [?] [?] [?] [?] [?] [?] [?] [?] [?] [?]
+
+Voynich: kal dy shey or shey qokeedy shey kar cheyckhey r
+Meaning: [?] [?] [?] [?] [?] [?] [?] [?] [?] [?]
