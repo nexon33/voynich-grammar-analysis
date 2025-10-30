@@ -6,9 +6,11 @@
 
 ## Abstract
 
-The Voynich Manuscript, a 15th-century codex written in an undeciphered script, has resisted centuries of cryptanalytic and linguistic analysis. We present systematic morphological analysis demonstrating that the manuscript exhibits natural language structure rather than random text or simple cipher. Through quantitative validation of 49 morphological elements using objective statistical criteria, we achieve 73.8% structural recognition enabling morphological parsing of sentences. The manuscript displays agglutinative grammar with productive PREFIX-STEM-SUFFIX patterns, systematic allomorphy, and distributional properties characteristic of natural language morphology. Statistical testing (chi-square, p < 0.05) validates morpheme productivity, co-occurrence patterns, and sectional distribution. Our 10-point validation framework provides replicable methodology for morpheme identification, with all analysis scripts and data available for independent verification. While morphological structure is validated through quantitative methods, semantic interpretation remains tentative pending expert consultation and inter-rater reliability testing. These findings establish that the Voynich Manuscript contains a real linguistic system with systematic grammar, providing a structural foundation for future semantic research.
+The Voynich Manuscript, a 15th-century codex written in an undeciphered script, has resisted centuries of analysis. We present systematic morphological analysis demonstrating that the manuscript exhibits natural language structure through quantitative validation of 49 morphological elements. Using objective 10-point validation criteria and statistical testing (chi-square, p < 0.05), we achieve 73.8% **morpheme recognition** enabling structural parsing of word forms. The manuscript displays agglutinative grammar with productive PREFIX-STEM-SUFFIX patterns, systematic allomorphy, and distributional properties characteristic of natural language morphology. Statistical testing validates morpheme productivity, co-occurrence patterns, and sectional distribution, with productivity metrics 15.2× higher than random baselines (p < 0.001). 
 
-**Keywords:** Voynich Manuscript, morphological analysis, agglutinative grammar, computational linguistics, undeciphered writing systems
+**We emphasize critical distinctions:** (1) morphological structure is validated through quantitative methods; (2) morpheme recognition ≠ semantic comprehension; (3) functional labels (locative, verbal, etc.) are distributional hypotheses requiring independent validation. While our findings establish that the manuscript contains real linguistic structure, semantic interpretation of identified morphemes remains uncertain. Complete methodology, analysis scripts, and validation data are provided for independent replication.
+
+**Keywords:** Voynich Manuscript, morphological analysis, agglutinative grammar, computational linguistics, undeciphered writing systems, quantitative validation
 
 ---
 
@@ -43,21 +45,40 @@ Limited morphological analysis has been attempted. Stolfi (1997) suggested poten
 - Replicable methodology
 - Clear separation of structural findings from semantic claims
 
-Bax (2014) proposed direct semantic interpretations of specific words but provided insufficient validation, leading to widespread scholarly rejection of his claims (Zandbergen, 2014; Pelling, 2014). This history demonstrates the importance of rigorous validation and honest acknowledgment of limitations.
+Bax (2014) proposed direct semantic interpretations of specific words, claiming to have identified plant names and constellation names based on phonetic similarity to known languages. However, his work lacked quantitative validation and was unable to generate predictive power—proposed interpretations could not reliably decode new passages. The scholarly community rejected these claims due to insufficient evidence and methodological weaknesses (Zandbergen, 2014; Pelling, 2014). **This history demonstrates the critical importance of:** (1) distinguishing validated structure from speculative semantics, (2) providing quantitative validation criteria, and (3) acknowledging limitations explicitly. We adopt these principles throughout our analysis.
 
 ### 1.4 Our Approach
 
-We adopt a **structure-first methodology** focusing exclusively on morphological patterns that can be validated through quantitative analysis, explicitly separating structural findings from semantic interpretation.
+We adopt a **structure-first methodology** focusing exclusively on morphological patterns that can be validated through quantitative analysis. **We make no claims about semantic meanings** beyond what can be demonstrated through distributional evidence.
 
-**Key principles:**
+**Core methodological principles:**
 
-1. **Quantitative validation:** All morphemes validated through objective 10-point statistical framework
-2. **Replicability:** Complete methodology and analysis scripts provided for independent verification
-3. **Conservative claims:** Distinguish validated structure from tentative semantic hypotheses
-4. **Statistical rigor:** Chi-square testing (p < 0.05), productivity metrics, co-occurrence analysis
-5. **Honest limitations:** Explicit acknowledgment of what remains unknown
+1. **Quantitative validation:** Every morpheme validated through objective 10-point statistical framework with chi-square testing (p < 0.05)
 
-We analyze the manuscript as a potential agglutinative language with PREFIX-STEM-SUFFIX morphology, similar to Turkish, Finnish, Hungarian, or Basque. This approach allows structural validation without requiring semantic interpretation.
+2. **Replicability:** Complete methodology, analysis scripts, and raw data provided for independent verification
+
+3. **Conservative claims:** We distinguish three confidence levels:
+   - **HIGH:** Morphological structure (validated quantitatively)
+   - **MODERATE:** Functional categories (distributional hypotheses)
+   - **LOW:** Semantic meanings (largely unknown, require expert validation)
+
+4. **Statistical rigor:** Productivity metrics, co-occurrence analysis, comparison with random baselines
+
+5. **Explicit limitations:** We state clearly what remains unknown rather than speculating beyond our evidence
+
+**What we claim:**
+- ✓ The manuscript exhibits systematic morphological structure (validated)
+- ✓ This structure is characteristic of agglutinative grammar (demonstrated)
+- ✓ 49 morphemes can be identified and validated quantitatively (proven)
+- ✓ 73.8% of word forms can be parsed structurally (measured)
+
+**What we do NOT claim:**
+- ✗ We have "decoded" or "translated" the manuscript
+- ✗ We know what most morphemes mean semantically
+- ✗ We can determine language family affiliation
+- ✗ We understand manuscript content or purpose
+
+We analyze the manuscript as a potential agglutinative language with PREFIX-STEM-SUFFIX morphology, similar typologically (though not necessarily genetically) to Turkish, Finnish, Hungarian, or Basque. This approach allows structural validation without requiring semantic knowledge, similar to how morphological structure can be identified in fieldwork on undocumented languages before semantics are fully understood (Comrie, 1981; Aikhenvald, 2007).
 
 ### 1.5 Research Questions
 
@@ -83,6 +104,13 @@ This study addresses three primary questions:
 - Language family identification (insufficient evidence)
 - Historical context or authorship (outside scope)
 - Complete "translation" or "decipherment" (premature)
+
+**Importantly, this study does NOT attempt to answer:**
+- RQ4 (excluded): What do validated morphemes mean? → **Beyond scope; requires semantic validation**
+- RQ5 (excluded): What language family is this? → **Insufficient evidence**
+- RQ6 (excluded): What does the manuscript say? → **Premature; structure ≠ meaning**
+
+These are critical research questions for future work, but answering them requires methodologies beyond the scope of this morphological study (expert consultation, inter-rater reliability testing, predictive validation, cross-linguistic comparison).
 
 ### 1.6 Paper Organization
 
@@ -217,6 +245,38 @@ All materials for independent replication are provided:
 - Morpheme inventory with evidence
 
 **Repository:** [URL to be provided upon publication]
+
+#### 2.6.1 Independent Verification Protocol
+
+To facilitate independent verification of our findings, we provide:
+
+**1. Complete morpheme inventory:**
+- Each morpheme with validation scores (0-10 points)
+- Statistical test results (chi-square values, p-values)
+- Frequency counts and distributional data
+
+**2. Validation scripts:**
+- Python 3.8+ implementations
+- Documented with inline comments
+- Runnable on provided data
+- Output matches reported results
+
+**3. Raw data:**
+- EVA transcription (Takahashi, 2018)
+- Word segmentation results
+- Morphological parses (JSON format)
+
+**4. Expected verification outcomes:**
+- If our analysis is correct: Replication should yield same 49 morphemes with similar scores (±1 point variation acceptable due to minor transcription differences)
+- If our analysis is incorrect: Replication should reveal systematic errors or morphemes scoring <8/10
+
+We encourage independent researchers to:
+- Test alternative morphological analyses
+- Propose competing segmentations
+- Challenge our validation criteria
+- Identify errors or oversights
+
+**All issues and corrections will be documented publicly and incorporated into revised analyses.**
 
 ---
 
@@ -450,6 +510,29 @@ Any claims about manuscript content (pharmaceutical, botanical, astronomical, et
 
 **We do not claim to have "decoded" or "translated" the manuscript.** We have validated morphological structure. Semantic work is a separate research program.
 
+#### 4.3.4 What Would Constitute Validation Failure?
+
+We specify **falsification criteria**—conditions under which our analysis should be rejected:
+
+**Our analysis fails if:**
+
+1. **Random text hypothesis:** If random character sequences from unrelated texts score 8-10/10 on our validation framework at similar rates → framework is not selective enough
+
+2. **Non-replicability:** If independent researchers using our scripts cannot reproduce our 49 validated morphemes → results are artifacts of our specific implementation
+
+3. **No predictive power:** If validated morphology cannot successfully parse previously unseen passages at >60% rate → "validation" doesn't generalize
+
+4. **Alternative explanation superior:** If simpler explanations (e.g., simple substitution cipher) better account for observed patterns with fewer assumptions → Occam's razor favors alternative
+
+5. **Zero semantic progress:** If after expert consultation and extensive analysis, no semantic interpretations can be validated for ANY of our 49 morphemes → structural patterns may be coincidental
+
+**We commit to:**
+- Revising or withdrawing claims if falsification criteria are met
+- Transparently reporting any replication failures
+- Updating analysis based on community feedback
+
+This is science, not advocacy. Our goal is understanding, not defending a particular interpretation.
+
 ### 4.4 Comparison with Previous Work
 
 **Bax (2014):** Proposed direct semantic interpretations without adequate validation. Our approach differs by:
@@ -538,7 +621,11 @@ We present systematic morphological analysis of the Voynich Manuscript demonstra
 - Morphological approach viable for undeciphered texts
 - Structural foundation established for semantic research
 
-This work demonstrates that rigorous morphological analysis, grounded in quantitative validation and honest acknowledgment of limitations, can make verifiable progress on historically intractable problems. The Voynich Manuscript is not "decoded," but its grammatical structure is now substantially understood, providing a foundation for the semantic research necessary to determine what the manuscript actually says.
+This work demonstrates that rigorous morphological analysis, grounded in quantitative validation and honest acknowledgment of limitations, can make verifiable progress on historically intractable problems. **We have not "decoded" the Voynich Manuscript.** We have not discovered what it "says." We have not identified its language or historical context. 
+
+**What we have accomplished:** We have validated that the manuscript contains systematic morphological structure characteristic of natural language, identified 49 morphological elements through quantitative criteria, and established that 73.8% of word forms can be parsed structurally. This provides a foundation—but only a foundation—for the semantic research necessary to determine what the manuscript actually means.
+
+The distance between recognizing morphemes and understanding meanings is substantial. That distance can only be bridged through semantic validation work involving expert consultation, inter-rater reliability testing, predictive validation, and cross-linguistic comparison. We provide the tools and framework for that work, but the work itself remains to be done.
 
 ---
 
