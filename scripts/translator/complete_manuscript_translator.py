@@ -70,6 +70,7 @@ PREFIXES = {
     "qot": "oat-GEN",
     "ol": "AT",
     "ot": "AT",  # Allomorph of ol-
+    "t": "T",  # Phase 16: New prefix (10/10 validated, 463 uses)
 }
 
 # Suffixes
@@ -83,6 +84,7 @@ SUFFIXES = {
     "ain": "DEF",
     "iin": "DEF",
     "aiin": "DEF",
+    "d": "D",  # Phase 16: New suffix (10/10 validated, 166 uses)
 }
 
 # Reversal hypothesis dictionary (Middle English words that may be reversed)

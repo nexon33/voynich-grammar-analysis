@@ -1,0 +1,136 @@
+{
+  "t_prefix": {
+    "validation": {
+      "morpheme": "t-",
+      "type": "prefix",
+      "criteria": {
+        "productivity": {
+          "score": 2,
+          "data": {
+            "unique_roots": 21,
+            "total_roots": 30
+          },
+          "note": "High productivity: 21 different roots"
+        },
+        "frequency": {
+          "score": 2,
+          "data": {
+            "total_instances": 463
+          },
+          "note": "High frequency: 463 instances"
+        },
+        "diversity": {
+          "score": 2,
+          "data": {
+            "unique_forms": 152
+          },
+          "note": "High diversity: 152 unique forms"
+        },
+        "productivity_ratio": {
+          "score": 2,
+          "data": {
+            "ratio": 0.3282937365010799
+          },
+          "note": "High ratio: 0.328 (productive affix)"
+        },
+        "root_diversity": {
+          "score": 2,
+          "data": {
+            "c_initial": true,
+            "v_initial": true,
+            "function_words": true,
+            "diversity_count": 3
+          },
+          "note": "Combines with diverse root types (3/3)"
+        }
+      },
+      "total_score": 10,
+      "max_score": 10,
+      "status": "VALIDATED",
+      "result": "✓ VALIDATED: t- scores 10/10"
+    },
+    "data": {
+      "total_instances": 463,
+      "unique_forms": 152,
+      "top_combinations": {
+        "t-ol": 84,
+        "t-cho": 63,
+        "t-ar": 57,
+        "t-she": 35,
+        "t-or": 33,
+        "t-cheo": 32,
+        "t-sho": 28,
+        "t-chy": 24,
+        "t-chey": 22,
+        "t-chol": 21
+      }
+    }
+  },
+  "d_suffix": {
+    "validation": {
+      "morpheme": "-d",
+      "type": "suffix",
+      "criteria": {
+        "productivity": {
+          "score": 2,
+          "data": {
+            "unique_roots": 20,
+            "total_roots": 30
+          },
+          "note": "High productivity: 20 different roots"
+        },
+        "frequency": {
+          "score": 2,
+          "data": {
+            "total_instances": 166
+          },
+          "note": "High frequency: 166 instances"
+        },
+        "diversity": {
+          "score": 2,
+          "data": {
+            "unique_forms": 89
+          },
+          "note": "High diversity: 89 unique forms"
+        },
+        "productivity_ratio": {
+          "score": 2,
+          "data": {
+            "ratio": 0.536144578313253
+          },
+          "note": "High ratio: 0.536 (productive affix)"
+        },
+        "root_diversity": {
+          "score": 2,
+          "data": {
+            "c_initial": true,
+            "v_initial": true,
+            "function_words": true,
+            "diversity_count": 3
+          },
+          "note": "Combines with diverse root types (3/3)"
+        }
+      },
+      "total_score": 10,
+      "max_score": 10,
+      "status": "VALIDATED",
+      "result": "✓ VALIDATED: -d scores 10/10"
+    },
+    "data": {
+      "total_instances": 166,
+      "unique_forms": 89,
+      "top_combinations": {
+        "she-d": 35,
+        "cho-d": 28,
+        "keo-d": 19,
+        "ke-d": 17,
+        "sho-d": 15,
+        "cheo-d": 14,
+        "ol-d": 10,
+        "shee-d": 9,
+        "teo-d": 5,
+        "chy-d": 2
+      }
+    }
+  }
+}

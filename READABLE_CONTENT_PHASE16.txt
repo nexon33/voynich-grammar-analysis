@@ -1,0 +1,707 @@
+================================================================================
+VOYNICH MANUSCRIPT - READABLE CONTENT
+================================================================================
+Extracted: Highest-confidence translations
+Purpose: To see what the manuscript actually says!
+================================================================================
+
+
+================================================================================
+PERFECT TRANSLATIONS (100% recognized) - 1158 sentences
+================================================================================
+
+1. [line21]
+   Original:    otol daiiin
+   Translation: AT-OL [?dai]-DEF
+
+2. [line40]
+   Original:    qotaiincthey ychor chy ydychaiin
+   Translation: oat-GEN-[?aiincthey] [?ych]-INST [PARTICLE] [?ydych]-DEF
+
+3. [line61]
+   Original:    ochor qocheor chol daiin cthy
+   Translation: [?och]-INST [?qoche]-INST botanical-term THIS/THAT [PARTICLE]
+
+4. [line73]
+   Original:    tsheoarom shor or chor olchsy chom otchomoporar
+   Translation: T-[?sheoarom] [?sh]-INST OR [?ch]-INST AT-[?chsy] [PARTICLE] AT-[?chomop]-DIR-INST
+
+5. [line77]
+   Original:    otchor ol cheor qoeor dair qoteol qosaiinchor cthy
+   Translation: AT-[?ch]-INST OL [?che]-INST [?qoe]-INST THERE oat-GEN-[?e]-LOC [?qosaiinch]-INST [PARTICLE]
+
+6. [line80]
+   Original:    daiidy qoteeol okchor okor olytol dol dar
+   Translation: [?daii]-VERB oat-GEN-[?ee]-LOC [?okch]-INST oak-INST AT-[?yt]-LOC DOL DAR
+
+7. [line95]
+   Original:    otchol chol chy chaiin qotaiindaiin shain
+   Translation: oat-vessel botanical-term [PARTICLE] [?ch]-DEF oat-GEN-[?a]-DEF-D-DEF [?sh]-DEF
+
+8. [line100]
+   Original:    shor shol shol cthy cpholdy
+   Translation: [?sh]-INST [?sh]-LOC [?sh]-LOC [PARTICLE] [?cph]-VERB-LOC
+
+9. [line102]
+   Original:    odal shor shyshol cphaiin
+   Translation: [?o]-LOC-D [?sh]-INST [?shysh]-LOC [?cph]-DEF
+
+10. [line104]
+   Original:    soiin chaiin chaiin
+   Translation: [?so]-DEF [?ch]-DEF [?ch]-DEF
+
+11. [line116]
+   Original:    sho kcheor shody shtaiin qotol daiin
+   Translation: botanical-term [?kche]-INST botanical-term-VERB [?sht]-DEF oat-GEN-OL THIS/THAT
+
+12. [line131]
+   Original:    shokeeol chor cheotol otchol daiin dal chol chotaiin
+   Translation: [?shokee]-LOC [?ch]-INST [?cheot]-LOC oat-vessel THIS/THAT [?d]-LOC botanical-term [?chot]-DEF
+
+13. [line143]
+   Original:    ychar olchad ol chokaiin
+   Translation: [?ych]-DIR AT-[?cha]-D OL [?chok]-DEF
+
+14. [line145]
+   Original:    qocthol qodaiin cthy
+   Translation: [?qocth]-LOC [?qo]-DEF-D [PARTICLE]
+
+15. [line156]
+   Original:    qokche ychear kchdy
+   Translation: oak-GEN-[?che] [?yche]-DIR [?kch]-VERB
+
+16. [line160]
+   Original:    qokor chol cthol tchalody
+   Translation: oak-GEN-OR botanical-term [?cth]-LOC T-[?chalo]-VERB
+
+17. [line166]
+   Original:    dchor choldar okol daiin
+   Translation: [?dch]-INST [?ch]-DIR-D-LOC oak-LOC THIS/THAT
+
+18. [line172]
+   Original:    oaiirotaiin
+   Translation: [?oaiirot]-DEF
+
+19. [line182]
+   Original:    dchodaiin qotchy cheey tcheey
+   Translation: [?dcho]-DEF-D oat-GEN-[PARTICLE] [PARTICLE] T-[PARTICLE]
+
+20. [line187]
+   Original:    pshol chor otshal chopycphol chody shy cfhodar shor
+   Translation: [?psh]-LOC [?ch]-INST AT-[?sh]-LOC [?chopycph]-LOC vessel-VERB [PARTICLE] [?cfho]-DIR-D [?sh]-INST
+
+21. [line198]
+   Original:    qochodaiin shotokodychotol
+   Translation: [?qocho]-DEF-D [?shotokodychot]-LOC
+
+22. [line208]
+   Original:    cthod soocthsol shol otol chol opcheaiin opydaiin saiin
+   Translation: [?ctho]-D [?soocths]-LOC [?sh]-LOC AT-OL botanical-term [?opche]-DEF [?opy]-DEF-D [?s]-DEF
+
+23. [line210]
+   Original:    qody cheal sychorychear shol chaiin shaiin dolar
+   Translation: [?qo]-VERB [?che]-LOC [?sychoryche]-DIR [?sh]-LOC [?ch]-DEF [?sh]-DEF [?d]-DIR-LOC
+
+24. [line212]
+   Original:    chol chol darotchar etaiin cthol dar
+   Translation: botanical-term botanical-term [?darotch]-DIR [?et]-DEF [?cth]-LOC DAR
+
+25. [line215]
+   Original:    okchol kshchol chol chol cthaiin dain
+   Translation: [?okch]-LOC [?kshch]-LOC botanical-term botanical-term [?cth]-DEF THIS/THAT
+
+26. [line218]
+   Original:    sorain
+   Translation: [?s]-DEF-INST
+
+27. [line219]
+   Original:    pchar cho rol dalshear cheeotaiin chal daiin
+   Translation: [?pch]-DIR vessel [?r]-LOC [?dalshe]-DIR [?cheeot]-DEF [?ch]-LOC THIS/THAT
+
+28. [line224]
+   Original:    dain chear daiin
+   Translation: THIS/THAT [?che]-DIR THIS/THAT
+
+29. [line251]
+   Original:    qokchy qotchol chol cthy
+   Translation: oak-GEN-[PARTICLE] oat-GEN-[?ch]-LOC botanical-term [PARTICLE]
+
+30. [line254]
+   Original:    qotchor chor otol chol cholorchol daiin dar
+   Translation: oat-GEN-[?ch]-INST [?ch]-INST AT-OL botanical-term [?cholorch]-LOC THIS/THAT DAR
+
+31. [line255]
+   Original:    oykchor shor chor chy kaiiin dychodaiin
+   Translation: [?oykch]-INST [?sh]-INST [?ch]-INST [PARTICLE] [?kai]-DEF [?dycho]-DEF-D
+
+32. [line258]
+   Original:    rodaiin daiin qotchy qotor
+   Translation: [?ro]-DEF-D THIS/THAT oat-GEN-[PARTICLE] oat-GEN-OR
+
+33. [line291]
+   Original:    qokchy qokod chy otchy cthody
+   Translation: oak-GEN-[PARTICLE] oak-GEN-[?o]-D [PARTICLE] AT-[PARTICLE] [?ctho]-VERB
+
+34. [line293]
+   Original:    qoky daiin
+   Translation: oak-GEN-[?y] THIS/THAT
+
+35. [line299]
+   Original:    pchodaiin chopol shoiin daiin dain
+   Translation: [?pcho]-DEF-D [?chop]-LOC botanical-term-DEF THIS/THAT THIS/THAT
+
+36. [line301]
+   Original:    ydaiin olchy kchor daiin olol
+   Translation: [?y]-DEF-D AT-[PARTICLE] [?kch]-INST THIS/THAT AT-OL
+
+37. [line302]
+   Original:    ochkchar kol shy daiin dorody
+   Translation: [?ochkch]-DIR [?k]-LOC [PARTICLE] THIS/THAT [?doro]-VERB
+
+38. [line319]
+   Original:    chokshor daiinokshody daiindol dair dam
+   Translation: [?choksh]-INST [?daiinoksho]-VERB [?d]-LOC-D-DEF THERE [MODAL]
+
+39. [line323]
+   Original:    qokaiin qotchy tydydaiin chol cthy
+   Translation: oak-GEN-[?a]-DEF oat-GEN-[PARTICLE] T-[?y]-DEF-D-VERB botanical-term [PARTICLE]
+
+40. [line324]
+   Original:    scheaiin chodaiin chlsol ckhaiin sal
+   Translation: [?sche]-DEF vessel-DEF-D [?chls]-LOC [?ckh]-DEF AND
+
+41. [line338]
+   Original:    cthor daiin qokor okeor okaiin
+   Translation: [?cth]-INST THIS/THAT oak-GEN-OR [?oke]-INST oak-DEF
+
+42. [line343]
+   Original:    ytchor chor ol oiin oty shol daiin
+   Translation: [?ytch]-INST [?ch]-INST OL [?o]-DEF AT-[?y] [?sh]-LOC THIS/THAT
+
+43. [line345]
+   Original:    sor chor cthoiin cthy qokaiin
+   Translation: [?s]-INST [?ch]-INST [?ctho]-DEF [PARTICLE] oak-GEN-[?a]-DEF
+
+44. [line346]
+   Original:    soloiin cheor chol daiin cthy
+   Translation: [?solo]-DEF [?che]-INST botanical-term THIS/THAT [PARTICLE]
+
+45. [line347]
+   Original:    daiin cthor chol chor
+   Translation: THIS/THAT [?cth]-INST botanical-term [?ch]-INST
+
+46. [line351]
+   Original:    dainod ychealod
+   Translation: [?daino]-D [?ychealo]-D
+
+47. [line356]
+   Original:    saiin ytaiin
+   Translation: [?s]-DEF [?yt]-DEF
+
+48. [line364]
+   Original:    dchol chcthody cphod chotol dal
+   Translation: [?dch]-LOC [?chctho]-VERB [?cpho]-D [?chot]-LOC [?d]-LOC
+
+49. [line373]
+   Original:    sokar oaorar
+   Translation: [?sok]-DIR [?oa]-DIR-INST
+
+50. [line384]
+   Original:    otchol cthar okaiin chol daiiin
+   Translation: oat-vessel [?cth]-DIR oak-DEF botanical-term [?dai]-DEF
+
+
+================================================================================
+EXCELLENT TRANSLATIONS (90-99% recognized) - 300 sentences
+================================================================================
+
+1. [line3349] (93%)
+   Original:    okees ochar otedar ochedy otody olchedy otchdo ar or air ol otees ar ar am
+   Translation: [?okees] [?och]-DIR AT-[?e]-DIR-D [?och]-VERB AT-[?o]-VERB at-CHEDY AT-[?chdo] AT/IN OR SKY OL AT-[?ees] AT/IN AT/IN [MODAL]
+
+2. [line770] (92%)
+   Original:    pair or aiin otaiin ol kor aiin okal otal chdal shekal qakar otam
+   Translation: [?pair] OR [?a]-DEF AT-[?a]-DEF OL [?k]-INST [?a]-DEF OKAL AT-[?al] [?ch]-LOC-D [?shek]-LOC [?qak]-DIR AT-[MODAL]
+
+3. [line934] (92%)
+   Original:    sor shy kor chol qoty kchdy olky dor chdy ykar olkedaiin ody dy
+   Translation: [?s]-INST [PARTICLE] [?k]-INST botanical-term oat-GEN-[?y] [?kch]-VERB AT-[?ky] red [?ch]-VERB [?yk]-DIR AT-[?ke]-DEF-D [?o]-VERB [?dy]
+
+4. [line2402] (92%)
+   Original:    tchedy pchedy qokeey sol ol dair shecthy qol l sheedy qokeedy lol chedy
+   Translation: T-[?ch]-VERB [?pch]-VERB oak-GEN-[?eey] [?s]-LOC OL THERE water-[COMPOUND] THEN [?l] water-VERB oak-GEN-[?e]-VERB [?l]-LOC [?ch]-VERB
+
+5. [line2466] (92%)
+   Original:    dlshedy qokain dal qol qol ol sheedy cheey dal ol sheey qokain olol
+   Translation: [?dlsh]-VERB oak-GEN-AIN [?d]-LOC THEN THEN OL water-VERB [PARTICLE] [?d]-LOC OL [?sheey] oak-GEN-AIN AT-OL
+
+6. [line3207] (92%)
+   Original:    qokeey dar shedy qokedy qokeedy qokedy chedy okain chey qokedy dar olar dy
+   Translation: oak-GEN-[?eey] DAR [?sh]-VERB oak-GEN-[?e]-VERB oak-GEN-[?e]-VERB oak-GEN-[?e]-VERB [?ch]-VERB oak-DEF [PARTICLE] oak-GEN-[?e]-VERB DAR AT-AT/IN [?dy]
+
+7. [line3253] (92%)
+   Original:    dshey olkchy dol ol otedy okedy okedy qokedy dol dar ol chedy sain
+   Translation: [?dshey] AT-[?kchy] DOL OL AT-[?e]-VERB oak-VERB oak-VERB oak-GEN-[?e]-VERB DOL DAR OL [?ch]-VERB [?s]-DEF
+
+8. [line3375] (92%)
+   Original:    par or aiin dar aiiin qckhear shoifhy qotedy opchdy olain ar alkar am
+   Translation: [?p]-DIR OR [?a]-DEF DAR [?ai]-DEF [?qckhe]-DIR [?shoifhy] oat-GEN-[?e]-VERB [?opch]-VERB AT-AIN AT/IN [?alk]-DIR [MODAL]
+
+9. [line4538] (92%)
+   Original:    daiin dckhy ol daiin chkal qokedy otal chedy oteos aiin otar alkain ol
+   Translation: THIS/THAT [?dckhy] OL THIS/THAT [?chk]-LOC oak-GEN-[?e]-VERB AT-[?al] [?ch]-VERB AT-[?eos] [?a]-DEF AT-AT/IN [?alk]-DEF OL
+
+10. [line4539] (92%)
+   Original:    sain ain aiiin qokaiin shol kal qokar al ochedy lkaiin otal olkiir alody
+   Translation: [?s]-DEF AIN [?ai]-DEF oak-GEN-[?a]-DEF [?sh]-LOC [?k]-LOC oak-GEN-AT/IN [?al] [?och]-VERB [?lk]-DEF AT-[?al] AT-[?kiir] [?alo]-VERB
+
+11. [line4557] (92%)
+   Original:    taiin ol kaiin chol kchedy qokol ain air kaiin okal otar otal al
+   Translation: T-[?a]-DEF OL [?k]-DEF botanical-term [?kch]-VERB oak-GEN-OL AIN SKY [?k]-DEF OKAL AT-AT/IN AT-[?al] [?al]
+
+12. [line4694] (92%)
+   Original:    dain shedy qoky chedy qok shed olchedy qokeedy teedy chdy keedy qotchedy dary
+   Translation: THIS/THAT [?sh]-VERB oak-GEN-[?y] [?ch]-VERB oak water-D at-CHEDY oak-GEN-[?e]-VERB T-[?e]-VERB [?ch]-VERB [?ke]-VERB oat-GEN-[?ch]-VERB [?dary]
+
+13. [line618] (92%)
+   Original:    pchdar opar dar cheeol ofchdy otedy ckhdy odar chedy ytedy okchdy g
+   Translation: [?pch]-DIR-D [?op]-DIR DAR [?chee]-LOC [?ofch]-VERB AT-[?e]-VERB [?ckh]-VERB [?o]-DIR-D [?ch]-VERB [?yt]-VERB [?okch]-VERB [?g]
+
+14. [line795] (92%)
+   Original:    char aiin okor ar tolqokar chckhy chdal ked qokar ar daiin dam
+   Translation: [?ch]-DIR [?a]-DEF oak-INST AT/IN T-[?olqok]-DIR [?chckhy] [?ch]-LOC-D [?ke]-D oak-GEN-AT/IN AT/IN THIS/THAT [MODAL]
+
+15. [line927] (92%)
+   Original:    dshdy ar aiin y ykar chdy ykal olkaiin qokaldar cheol dar aiin
+   Translation: [?dsh]-VERB AT/IN [?a]-DEF [?y] [?yk]-DIR [?ch]-VERB [?yk]-LOC AT-[?k]-DEF oak-GEN-[?al]-DIR-D [?che]-LOC DAR [?a]-DEF
+
+16. [line1042] (92%)
+   Original:    ytchedy chedy cheody shy qoiiin sheeeky chedy dain shy ykolor otaiin old
+   Translation: [?ytch]-VERB [?ch]-VERB vessel-VERB [PARTICLE] [?qoi]-DEF [?sheeeky] [?ch]-VERB THIS/THAT [PARTICLE] [?yk]-INST-LOC AT-[?a]-DEF AT-[?d]
+
+17. [line1128] (92%)
+   Original:    ytchey keody chockhdy chotal okalshdy shdy qokar oty qoty shedy chedy dam
+   Translation: [?ytchey] pharmaceutical-substance-VERB [?chockh]-VERB [?chot]-LOC [?okalsh]-VERB [?sh]-VERB oak-GEN-AT/IN AT-[?y] oat-GEN-[?y] [?sh]-VERB [?ch]-VERB [MODAL]
+
+18. [line1130] (92%)
+   Original:    lodaiin shedy qokedy chdy okedy dykalydaiin chedy okeedy s ar air cthy
+   Translation: [?lo]-DEF-D [?sh]-VERB oak-GEN-[?e]-VERB [?ch]-VERB oak-VERB [?dykaly]-DEF-D [?ch]-VERB [?oke]-VERB [?s] AT/IN SKY [PARTICLE]
+
+19. [line2403] (92%)
+   Original:    dain chkal dy lolkaiin ol okeedy qol dain olchey qokeedy chedy qotan
+   Translation: THIS/THAT [?chk]-LOC [?dy] [?lolk]-DEF OL [?oke]-VERB THEN THIS/THAT AT-[PARTICLE] oak-GEN-[?e]-VERB [?ch]-VERB oat-GEN-[?an]
+
+20. [line2465] (92%)
+   Original:    qoqokeey olkain qol sheedy qokeor sheedy qokal or chey qokar ol aiin
+   Translation: [?qoqokeey] AT-[?k]-DEF THEN water-VERB oak-GEN-[?e]-INST water-VERB oak-GEN-[?al] OR [PARTICLE] oak-GEN-AT/IN OL [?a]-DEF
+
+21. [line2509] (92%)
+   Original:    qokedy qokchy orar or chkarol otey qokedy lkedy chdy qokchdy qokal chdam
+   Translation: oak-GEN-[?e]-VERB oak-GEN-[PARTICLE] OR-DIR OR [?chk]-LOC-DIR AT-[?ey] oak-GEN-[?e]-VERB [?lk]-VERB [?ch]-VERB oak-GEN-[?ch]-VERB oak-GEN-[?al] [?chdam]
+
+22. [line2513] (92%)
+   Original:    qotedshedy qorain oteedy chedy ol chdy raiiin chekain dain chckhy sal oty
+   Translation: oat-GEN-[?edsh]-VERB [?q]-DEF-INST AT-[?e]-VERB [?ch]-VERB OL [?ch]-VERB [?rai]-DEF [?chek]-DEF THIS/THAT [?chckhy] AND AT-[?y]
+
+23. [line2523] (92%)
+   Original:    dalshedy qol sheedy qokaldy chepy dain alolor olain chedy shecthy qokeey lor
+   Translation: [?dalsh]-VERB THEN water-VERB oak-GEN-[?al]-VERB [?chepy] THIS/THAT [?al]-INST-LOC AT-AIN [?ch]-VERB water-[COMPOUND] oak-GEN-[?eey] [?l]-INST
+
+24. [line2875] (92%)
+   Original:    qokeedy qol shecthy qokal keol qoky qokal shedy sal olkain sheo qokl
+   Translation: oak-GEN-[?e]-VERB THEN water-[COMPOUND] oak-GEN-[?al] [?ke]-LOC oak-GEN-[?y] oak-GEN-[?al] [?sh]-VERB AND AT-[?k]-DEF [?sheo] oak-GEN-[?l]
+
+25. [line3224] (92%)
+   Original:    qotar ytedy tedy dar olkedy qotedy shckhy chtol tedy dar or oly
+   Translation: oat-GEN-AT/IN [?yt]-VERB T-[?e]-VERB DAR at-KEDY oat-GEN-[?e]-VERB [?shckhy] [?cht]-LOC T-[?e]-VERB DAR OR AT-[?y]
+
+26. [line3361] (92%)
+   Original:    qolchy olkeedy chdal chedy chor ar arody qokchdy chdal okar chdy otaiin
+   Translation: [?qolchy] AT-[?ke]-VERB [?ch]-LOC-D [?ch]-VERB [?ch]-INST AT/IN [?aro]-VERB oak-GEN-[?ch]-VERB [?ch]-LOC-D oak-DIR [?ch]-VERB AT-[?a]-DEF
+
+27. [line3363] (92%)
+   Original:    tar lol chol olkar daiin chear or otshey qokar opchey taiky qokar
+   Translation: T-AT/IN [?l]-LOC botanical-term AT-[?k]-DIR THIS/THAT [?che]-DIR OR AT-[?shey] oak-GEN-AT/IN [?opchey] T-[?aiky] oak-GEN-AT/IN
+
+28. [line3376] (92%)
+   Original:    ytaiin ytair dalol ytal dar aiiin chol olkchey lkar otal qotar dam
+   Translation: [?yt]-DEF [?ytair] [?d]-LOC-LOC [?yt]-LOC DAR [?ai]-DEF botanical-term AT-[?kchey] [?lk]-DIR AT-[?al] oat-GEN-AT/IN [MODAL]
+
+29. [line3393] (92%)
+   Original:    sas aiin otariin otar cheody qotaiin qokaiin ol tey qokaiin otar ol
+   Translation: [?sas] [?a]-DEF AT-AT/IN-DEF AT-AT/IN vessel-VERB oat-GEN-[?a]-DEF oak-GEN-[?a]-DEF OL T-[?ey] oak-GEN-[?a]-DEF AT-AT/IN OL
+
+30. [line3405] (92%)
+   Original:    losair yteody qokar shy qokar shor qopchol tal ol ytal otam otam
+   Translation: [?losair] [?yteo]-VERB oak-GEN-AT/IN [PARTICLE] oak-GEN-AT/IN [?sh]-INST [?qopch]-LOC T-[?al] OL [?yt]-LOC AT-[MODAL] AT-[MODAL]
+
+31. [line3465] (92%)
+   Original:    tchol olkey cfhyaiin opchedy okchedy or acheody eol shedy yteey daiin dady
+   Translation: T-[?ch]-LOC AT-[?key] [?cfhy]-DEF [?opch]-VERB [?okch]-VERB OR [?acheo]-VERB [?e]-LOC [?sh]-VERB [?yteey] THIS/THAT [?da]-VERB
+
+32. [line3932] (92%)
+   Original:    yoiin ol ol olaiin qockhey qokol olshy qokeeor or aiin dol dam
+   Translation: [?yo]-DEF OL OL AT-[?a]-DEF [?qockhey] oak-GEN-OL AT-[PARTICLE] oak-GEN-[?ee]-INST OR [?a]-DEF DOL [MODAL]
+
+33. [line4133] (92%)
+   Original:    pocharal okedar shedy oteey qokey lkar sheeky okalor shedy rkar otan okdy
+   Translation: [?poch]-LOC-DIR [?oke]-DIR-D [?sh]-VERB AT-[?eey] oak-GEN-[?ey] [?lk]-DIR [?sheeky] oak-INST-LOC [?sh]-VERB [?rk]-DIR AT-[?an] oak-VERB
+
+34. [line4185] (92%)
+   Original:    qok or chedy qokey dar chcthy chor qoty shdy okeedy qokeey qokain
+   Translation: oak OR [?ch]-VERB oak-GEN-[?ey] DAR [?chcthy] [?ch]-INST oat-GEN-[?y] [?sh]-VERB [?oke]-VERB oak-GEN-[?eey] oak-GEN-AIN
+
+35. [line4189] (92%)
+   Original:    daiin shey chol chey oteey lkeeor okaiin shedy shedy qokaiin ol chedydy
+   Translation: THIS/THAT [?shey] botanical-term [PARTICLE] AT-[?eey] [?lkee]-INST oak-DEF [?sh]-VERB [?sh]-VERB oak-GEN-[?a]-DEF OL [?ch]-VERB-VERB
+
+36. [line4194] (92%)
+   Original:    sal sheal shedy okeedy qokeey lol shedy pchor pchedy pol sheedy opalam
+   Translation: AND water-LOC [?sh]-VERB [?oke]-VERB oak-GEN-[?eey] [?l]-LOC [?sh]-VERB [?pch]-INST [?pch]-VERB [?p]-LOC water-VERB [?opalam]
+
+37. [line4256] (92%)
+   Original:    olcheear chedar or arorsheey olkeechy or char cheeol sor or aiin otam
+   Translation: AT-[?chee]-DIR [?che]-DIR-D OR [?arorsheey] AT-[?keechy] OR [?ch]-DIR [?chee]-LOC [?s]-INST OR [?a]-DEF AT-[MODAL]
+
+38. [line4282] (92%)
+   Original:    ycheo lcheod otaiin qokeedy qokaiin cheor ol chedaiin qotar ched qoty dal
+   Translation: [?ycheo] [?lcheo]-D AT-[?a]-DEF oak-GEN-[?e]-VERB oak-GEN-[?a]-DEF [?che]-INST OL [?che]-DEF-D oat-GEN-AT/IN [?che]-D oat-GEN-[?y] [?d]-LOC
+
+39. [line4356] (92%)
+   Original:    ysheod ykeeedy keshed qodaiin oteodair or chkas otaiin chpor or otchy otor
+   Translation: [?ysheo]-D [?ykee]-VERB [?keshe]-D [?qo]-DEF-D AT-[?eodair] OR [?chkas] AT-[?a]-DEF [?chp]-INST OR AT-[PARTICLE] AT-OR
+
+40. [line4366] (92%)
+   Original:    ysheedy aiin okeol ykedor ar ar alkair otos otaiin otal tair am
+   Translation: [?yshe]-VERB [?a]-DEF [?oke]-LOC [?yke]-INST-D AT/IN AT/IN [?alkair] AT-[?os] AT-[?a]-DEF AT-[?al] T-SKY [MODAL]
+
+41. [line4489] (92%)
+   Original:    teeody chedain qoteey qokar deeo ltedy otar ain chady otokcho qoked okchedy
+   Translation: T-[?eeo]-VERB [?che]-DEF-D oat-GEN-[?eey] oak-GEN-AT/IN [?deeo] [?lt]-VERB AT-AT/IN AIN [?cha]-VERB AT-[?okcho] oak-GEN-[?e]-D [?okch]-VERB
+
+42. [line4499] (92%)
+   Original:    cthedy lshedy cheol chear or alam chtaiin otar aiin chey qokaiin otain
+   Translation: [?cth]-VERB [?lsh]-VERB [?che]-LOC [?che]-DIR OR [?alam] [?cht]-DEF AT-AT/IN [?a]-DEF [PARTICLE] oak-GEN-[?a]-DEF AT-AIN
+
+43. [line4524] (92%)
+   Original:    tair cheol cheol kchekain cheear ol oiin cho lkain al oeedy chey
+   Translation: T-SKY [?che]-LOC [?che]-LOC [?kchek]-DEF [?chee]-DIR OL [?o]-DEF vessel [?lk]-DEF [?al] [?oe]-VERB [PARTICLE]
+
+44. [line4582] (92%)
+   Original:    soain aiin chey qol aiin al chedy kedy qoteey oteey qokeey lkain
+   Translation: [?so]-DEF [?a]-DEF [PARTICLE] THEN [?a]-DEF [?al] [?ch]-VERB [?k]-VERB oat-GEN-[?eey] AT-[?eey] oak-GEN-[?eey] [?lk]-DEF
+
+45. [line4594] (92%)
+   Original:    cthey chedain chedy okedy lkedy raraiin qotar otal kedy ar air ockhedy
+   Translation: [?cthey] [?che]-DEF-D [?ch]-VERB oak-VERB [?lk]-VERB [?r]-DEF-DIR oat-GEN-AT/IN AT-[?al] [?k]-VERB AT/IN SKY [?ockh]-VERB
+
+46. [line4607] (92%)
+   Original:    dcheol shol dal qokaiin otal ol shedy qokey chey lor aiin okeeam
+   Translation: [?dche]-LOC [?sh]-LOC [?d]-LOC oak-GEN-[?a]-DEF AT-[?al] OL [?sh]-VERB oak-GEN-[?ey] [PARTICLE] [?l]-INST [?a]-DEF [?okeeam]
+
+47. [line4668] (92%)
+   Original:    sain ain chey lchs shed qokeedy oteey qokedy qokeedy cheedy qokeedar oldy
+   Translation: [?s]-DEF AIN [PARTICLE] [?lchs] water-D oak-GEN-[?e]-VERB AT-[?eey] oak-GEN-[?e]-VERB oak-GEN-[?e]-VERB [?che]-VERB oak-GEN-[?ee]-DIR-D AT-[?dy]
+
+48. [line4681] (92%)
+   Original:    saiin sheeain qkain okeey qokal or cheol keol chedy qokeey qokeey ral
+   Translation: [?s]-DEF water-DEF [?qk]-DEF [?okeey] oak-GEN-[?al] OR [?che]-LOC [?ke]-LOC [?ch]-VERB oak-GEN-[?eey] oak-GEN-[?eey] [?r]-LOC
+
+49. [line4684] (92%)
+   Original:    saiin okain cheey lkaiin cheal cheol keear qokeedy qokeey checkhedy qokal oam
+   Translation: [?s]-DEF oak-DEF [PARTICLE] [?lk]-DEF [?che]-LOC [?che]-LOC [?kee]-DIR oak-GEN-[?e]-VERB oak-GEN-[?eey] [?checkh]-VERB oak-GEN-[?al] [?oam]
+
+50. [line4705] (92%)
+   Original:    otes lchey lshedy qoteedy olcheody qokeey chey kal chekeedy oteed keedy otam
+   Translation: AT-[?es] [?lchey] [?lsh]-VERB oat-GEN-[?e]-VERB AT-vessel-VERB oak-GEN-[?eey] [PARTICLE] [?k]-LOC [?cheke]-VERB AT-[?ee]-D [?ke]-VERB AT-[MODAL]
+
+
+================================================================================
+GOOD TRANSLATIONS (80-89% recognized) - 977 sentences
+================================================================================
+
+1. [line24] (89%)
+   Original:    choo kaiin shoaiin okol daiin far cthol daiin ctholdar
+   Translation: [?choo] [?k]-DEF botanical-term-DEF oak-LOC THIS/THAT [?f]-DIR [?cth]-LOC THIS/THAT [?cth]-DIR-D-LOC
+
+2. [line56] (89%)
+   Original:    dor chol chor chol keol chy chtydaiin otchor chan
+   Translation: red botanical-term [?ch]-INST botanical-term [?ke]-LOC [PARTICLE] [?chty]-DEF-D AT-[?ch]-INST [?chan]
+
+3. [line229] (89%)
+   Original:    daiin chor sor cthy chokoiin shol dsholdyotchol ot dy
+   Translation: THIS/THAT [?ch]-INST [?s]-INST [PARTICLE] [?choko]-DEF [?sh]-LOC [?dsholdyotch]-LOC oat [?dy]
+
+4. [line260] (89%)
+   Original:    dain daiin ckhy chcthor choiin qot chodaiin cthy daiin
+   Translation: THIS/THAT THIS/THAT [?ckhy] [?chcth]-INST vessel-DEF oat vessel-DEF-D [PARTICLE] THIS/THAT
+
+5. [line788] (89%)
+   Original:    qoteedy shedy shedy olokes ar ykeedl chedy otey okaiin
+   Translation: oat-GEN-[?e]-VERB [?sh]-VERB [?sh]-VERB AT-[?okes] AT/IN [?ykeedl] [?ch]-VERB AT-[?ey] oak-DEF
+
+6. [line869] (89%)
+   Original:    tocphol shaiin qotor ofchor oty chory daiin otod or
+   Translation: T-[?ocph]-LOC [?sh]-DEF oat-GEN-OR [?ofch]-INST AT-[?y] [?chory] THIS/THAT AT-[?o]-D OR
+
+7. [line950] (89%)
+   Original:    or aiin chekody dasqokol okaiin okar oky okoldy ol
+   Translation: OR [?a]-DEF [?cheko]-VERB [?dasqok]-LOC oak-DEF oak-DIR [?oky] oak-VERB-LOC OL
+
+8. [line973] (89%)
+   Original:    shol kedy lor ar okar qoky kedy ryteey qokaim
+   Translation: [?sh]-LOC [?k]-VERB [?l]-INST AT/IN oak-DIR oak-GEN-[?y] [?k]-VERB [?ryteey] oak-GEN-[?aim]
+
+9. [line984] (89%)
+   Original:    dair chedy chckhy qokey lchdyqokedy qokyl cheked qodor am
+   Translation: THERE [?ch]-VERB [?chckhy] oak-GEN-[?ey] [?lchdyqok]-VERB oak-GEN-[?yl] [?cheke]-D [?qo]-INST-D [MODAL]
+
+10. [line985] (89%)
+   Original:    qokeedy okedy chekedy chedychckheody chekal daiin cheo al okedy
+   Translation: oak-GEN-[?e]-VERB oak-VERB [?chek]-VERB [?chedychckheo]-VERB [?chek]-LOC THIS/THAT vessel [?al] oak-VERB
+
+11. [line993] (89%)
+   Original:    todaiin ol cheos yteedy okal oldoteol qokal or oteody
+   Translation: T-[?o]-DEF-D OL [?cheos] [?yte]-VERB OKAL AT-[?dote]-LOC oak-GEN-[?al] OR AT-[?eo]-VERB
+
+12. [line1062] (89%)
+   Original:    dykeedain chedy okeedy chedal olkey cheky choal chedy oteorom
+   Translation: [?dykee]-DEF-D [?ch]-VERB [?oke]-VERB [?che]-LOC-D AT-[?key] [?cheky] vessel-LOC [?ch]-VERB AT-[?eorom]
+
+13. [line1077] (89%)
+   Original:    yolkol cheol qokchain daly otchol daiin shol qotor ar
+   Translation: [?yolk]-LOC [?che]-LOC oak-GEN-[?ch]-DEF [?daly] oat-vessel THIS/THAT [?sh]-LOC oat-GEN-OR AT/IN
+
+14. [line1097] (89%)
+   Original:    dor or chain dain ykolody ytaiin qotchol kol dy
+   Translation: red OR [?ch]-DEF THIS/THAT [?ykolo]-VERB [?yt]-DEF oat-GEN-[?ch]-LOC [?k]-LOC [?dy]
+
+15. [line1101] (89%)
+   Original:    okol chor daiin cthy okchol chom okolor dyokchol s
+   Translation: oak-LOC [?ch]-INST THIS/THAT [PARTICLE] [?okch]-LOC [PARTICLE] oak-INST-LOC [?dyokch]-LOC [?s]
+
+16. [line1147] (89%)
+   Original:    shy otcho keey tor chey otchy tchol dain dam
+   Translation: [PARTICLE] AT-vessel [?keey] T-OR [PARTICLE] AT-[PARTICLE] T-[?ch]-LOC THIS/THAT [MODAL]
+
+17. [line1176] (89%)
+   Original:    lkeey qocthedy taiin shed qokar otedy dydain tolkain otam
+   Translation: [?lkeey] [?qocth]-VERB T-[?a]-DEF water-D oak-GEN-AT/IN AT-[?e]-VERB [?dy]-DEF-D T-[?olk]-DEF AT-[MODAL]
+
+18. [line1179] (89%)
+   Original:    oteody chkeyokedy chckhedy ykedy oldyotoly chey kaly tokar otam
+   Translation: AT-[?eo]-VERB [?chkeyok]-VERB [?chckh]-VERB [?yk]-VERB AT-[?dyotoly] [PARTICLE] [?kaly] T-oak-DIR AT-[MODAL]
+
+19. [line1306] (89%)
+   Original:    oty shor ytoldy qoky koldal oteees dal sotar dl
+   Translation: AT-[?y] [?sh]-INST [?yt]-VERB-LOC oak-GEN-[?y] [?k]-LOC-D-LOC AT-[?eees] [?d]-LOC [?sot]-DIR [?dl]
+
+20. [line1398] (89%)
+   Original:    ykaky qokchy okal chey oror aiin okaiin ykain otaky
+   Translation: [?ykaky] oak-GEN-[PARTICLE] OKAL [PARTICLE] OR-INST [?a]-DEF oak-DEF [?yk]-DEF AT-[?aky]
+
+21. [line1462] (89%)
+   Original:    dshodal or ckhy olchear char tal ytal ytar olchokal
+   Translation: [?dsho]-LOC-D OR [?ckhy] AT-[?che]-DIR [?ch]-DIR T-[?al] [?yt]-LOC [?yt]-DIR AT-[?chok]-LOC
+
+22. [line1472] (89%)
+   Original:    shoar ar choldal otalchal dal choldy okalys airaldy shar
+   Translation: botanical-term-DIR AT/IN [?ch]-LOC-D-LOC AT-[?alch]-LOC [?d]-LOC [?ch]-VERB-LOC [?okalys] SKY-VERB-LOC [?sh]-DIR
+
+23. [line1483] (89%)
+   Original:    shol aleedy chotar okeal sheody qokalchar otal choky sar
+   Translation: [?sh]-LOC [?ale]-VERB [?chot]-DIR [?oke]-LOC [?sheo]-VERB oak-GEN-[?alch]-DIR AT-[?al] [?choky] [?s]-DIR
+
+24. [line1491] (89%)
+   Original:    odshchol taiin okalor chol olekar otarchol chol kam qokal
+   Translation: [?odshch]-LOC T-[?a]-DEF oak-INST-LOC botanical-term AT-[?ek]-DIR AT-[?arch]-LOC botanical-term [?kam] oak-GEN-[?al]
+
+25. [line1522] (89%)
+   Original:    olain olalor odaiin qotais otal qokal dair oishy otam
+   Translation: AT-AIN AT-[?al]-INST [?o]-DEF-D oat-GEN-[?ais] AT-[?al] oak-GEN-[?al] THERE [?oishy] AT-[MODAL]
+
+26. [line1604] (89%)
+   Original:    tocpheey dol kchody qokeody qokshy qopaiin dair ykodas okyd
+   Translation: T-[?ocpheey] DOL [?kcho]-VERB oak-GEN-[?eo]-VERB oak-GEN-[PARTICLE] [?qop]-DEF THERE [?ykodas] [?oky]-D
+
+27. [line1614] (89%)
+   Original:    psheody cfhol shofol okeody qokoldy ytarody shody shedy kair
+   Translation: [?psheo]-VERB [?cfh]-LOC [?shof]-LOC [?okeo]-VERB oak-GEN-OL-VERB [?ytaro]-VERB botanical-term-VERB [?sh]-VERB [?kair]
+
+28. [line2405] (89%)
+   Original:    dshedy qokey chckhy qokar shedy chey qoked qokedy daldy
+   Translation: [?dsh]-VERB oak-GEN-[?ey] [?chckhy] oak-GEN-AT/IN [?sh]-VERB [PARTICLE] oak-GEN-[?e]-D oak-GEN-[?e]-VERB [?d]-VERB-LOC
+
+29. [line2410] (89%)
+   Original:    sol keedy qokeedy qokey okar otar dar dar dy
+   Translation: [?s]-LOC [?ke]-VERB oak-GEN-[?e]-VERB oak-GEN-[?ey] oak-DIR AT-AT/IN DAR DAR [?dy]
+
+30. [line2440] (89%)
+   Original:    qol sheckhy qokedy qokedy qokalysor chedy qoky olshty qokydy
+   Translation: THEN [?sheckhy] oak-GEN-[?e]-VERB oak-GEN-[?e]-VERB oak-GEN-[?alys]-INST [?ch]-VERB oak-GEN-[?y] AT-[?shty] oak-GEN-[?y]-VERB
+
+31. [line2606] (89%)
+   Original:    qokeedy shedy qotol shedy qokaiin sheety qokeedy lchedy lol
+   Translation: oak-GEN-[?e]-VERB [?sh]-VERB oat-GEN-OL [?sh]-VERB oak-GEN-[?a]-DEF [?sheety] oak-GEN-[?e]-VERB [?lch]-VERB [?l]-LOC
+
+32. [line2625] (89%)
+   Original:    qokaiin shedy chedy qol chedy qokaiin qokaiin checkhy raiin
+   Translation: oak-GEN-[?a]-DEF [?sh]-VERB [?ch]-VERB THEN [?ch]-VERB oak-GEN-[?a]-DEF oak-GEN-[?a]-DEF [?checkhy] [?r]-DEF
+
+33. [line2629] (89%)
+   Original:    pol shedy qoeedy qokaiin chcphey qol ltaiin shedy qol
+   Translation: [?p]-LOC [?sh]-VERB [?qoe]-VERB oak-GEN-[?a]-DEF [?chcphey] THEN [?lt]-DEF [?sh]-VERB THEN
+
+34. [line2673] (89%)
+   Original:    tshedy qokain chedal fchedy cheky sain chedy qokain ol
+   Translation: T-[?sh]-VERB oak-GEN-AIN [?che]-LOC-D [?fch]-VERB [?cheky] [?s]-DEF [?ch]-VERB oak-GEN-AIN OL
+
+35. [line2683] (89%)
+   Original:    schedy qotar sarol sheedy qokain cheey raiin daiin shey
+   Translation: [?sch]-VERB oat-GEN-AT/IN [?s]-LOC-DIR water-VERB oak-GEN-AIN [PARTICLE] [?r]-DEF THIS/THAT [?shey]
+
+36. [line2685] (89%)
+   Original:    dcheol kchedy sockhey qokal qokal shedy sholdy qokal dar
+   Translation: [?dche]-LOC [?kch]-VERB [?sockhey] oak-GEN-[?al] oak-GEN-[?al] [?sh]-VERB [?sh]-VERB-LOC oak-GEN-[?al] DAR
+
+37. [line2692] (89%)
+   Original:    yteedy qotal dol shedy qokedar chcthhy otor dor or
+   Translation: [?yte]-VERB oat-GEN-[?al] DOL [?sh]-VERB oak-GEN-[?e]-DIR-D [?chcthhy] AT-OR red OR
+
+38. [line2700] (89%)
+   Original:    sor checkhy or chckhdy dol kedy qokededy qokan ol
+   Translation: [?s]-INST [?checkhy] OR [?chckh]-VERB DOL [?k]-VERB oak-GEN-[?e]-VERB-D oak-GEN-[?an] OL
+
+39. [line2714] (89%)
+   Original:    porain ol qokeedy kchol tchal olkee yfchey ofchedy taly
+   Translation: [?p]-DEF-INST OL oak-GEN-[?e]-VERB [?kch]-LOC T-[?ch]-LOC AT-[?kee] [?yfchey] [?ofch]-VERB T-[?aly]
+
+40. [line2716] (89%)
+   Original:    qokeedy qokey daiin olkain dal chedy ololdal chchty tedy
+   Translation: oak-GEN-[?e]-VERB oak-GEN-[?ey] THIS/THAT AT-[?k]-DEF [?d]-LOC [?ch]-VERB AT-OL-LOC-D [?chchty] T-[?e]-VERB
+
+41. [line2736] (89%)
+   Original:    pykedy olfchedy qokedy spchy chedy rol dor ofchedy qokedy
+   Translation: [?pyk]-VERB AT-[?fch]-VERB oak-GEN-[?e]-VERB [?spchy] [?ch]-VERB [?r]-LOC red [?ofch]-VERB oak-GEN-[?e]-VERB
+
+42. [line2744] (89%)
+   Original:    ycheolk olkeedy qokedy ol chedol okeedy qotedy ror arol
+   Translation: [?ycheolk] AT-[?ke]-VERB oak-GEN-[?e]-VERB OL [?che]-LOC-D [?oke]-VERB oat-GEN-[?e]-VERB [?r]-INST AT/IN-LOC
+
+43. [line2759] (89%)
+   Original:    ytaiin shedy ol sheedy olshdy shey kshdy shol kedy
+   Translation: [?yt]-DEF [?sh]-VERB OL water-VERB AT-[?sh]-VERB [?shey] [?ksh]-VERB [?sh]-LOC [?k]-VERB
+
+44. [line2760] (89%)
+   Original:    teeol olkeshey qolcheol ol or sheckhedy or ol sham
+   Translation: T-[?ee]-LOC AT-[?keshey] [?qolche]-LOC OL OR [?sheckh]-VERB OR OL [?sham]
+
+45. [line2776] (89%)
+   Original:    saiin shedy psheedy qokar sheol qolchey qoty qokal qokam
+   Translation: [?s]-DEF [?sh]-VERB [?pshe]-VERB oak-GEN-AT/IN water-LOC [?qolchey] oat-GEN-[?y] oak-GEN-[?al] oak-GEN-[MODAL]
+
+46. [line2780] (89%)
+   Original:    pshorol shckhy qotshdy qokaldy opchedy qotar or aiin ol
+   Translation: [?psh]-LOC-INST [?shckhy] oat-GEN-[?sh]-VERB oak-GEN-[?al]-VERB [?opch]-VERB oat-GEN-AT/IN OR [?a]-DEF OL
+
+47. [line2824] (89%)
+   Original:    dain ar olshey dytain qokain checthy okeedy qokeedy ror
+   Translation: THIS/THAT AT/IN AT-[?shey] [?dyt]-DEF oak-GEN-AIN [?checthy] [?oke]-VERB oak-GEN-[?e]-VERB [?r]-INST
+
+48. [line2825] (89%)
+   Original:    qokeey qokedy okeey qokol sheedy qokeedy rol chey qokeedy
+   Translation: oak-GEN-[?eey] oak-GEN-[?e]-VERB [?okeey] oak-GEN-OL water-VERB oak-GEN-[?e]-VERB [?r]-LOC [PARTICLE] oak-GEN-[?e]-VERB
+
+49. [line2827] (89%)
+   Original:    dol sheey qol olkshey qokeedy olkeedy qol okaiin oly
+   Translation: DOL [?sheey] THEN AT-[?kshey] oak-GEN-[?e]-VERB AT-[?ke]-VERB THEN oak-DEF AT-[?y]
+
+50. [line2914] (89%)
+   Original:    olteedy qokaiin shedy qokain sheol qokchdy qokchdy qoty dy
+   Translation: AT-[?te]-VERB oak-GEN-[?a]-DEF [?sh]-VERB oak-GEN-AIN water-LOC oak-GEN-[?ch]-VERB oak-GEN-[?ch]-VERB oat-GEN-[?y] [?dy]
+
+
+================================================================================
+MODERATE TRANSLATIONS (70-79% recognized) - Sample of 20
+================================================================================
+
+1. [line3352] (79%)
+   Original:    kchey dair alody shes qeeor or odarchdy chdy olcheos orainor oteed chedees oteedy qoty otedy shedy otedy dar shd shyy scody chdchdy dodar aiin or aiin sar orchedy qotchdy deedes ar sheody opcho fchsom
+   Translation: [?kchey] THERE [?alo]-VERB [?shes] [?qee]-INST OR [?odarch]-VERB [?ch]-VERB AT-[?cheos] OR-INST-DEF AT-[?ee]-D [?chedees] AT-[?e]-VERB oat-GEN-[?y] AT-[?e]-VERB [?sh]-VERB AT-[?e]-VERB DAR [?sh]-D [?shyy] [?sco]-VERB [?chdch]-VERB [?do]-DIR-D [?a]-DEF OR [?a]-DEF [?s]-DIR [?orch]-VERB oat-GEN-[?ch]-VERB [?deedes] AT/IN [?sheo]-VERB [?opcho] [?fchsom]
+
+2. [line3353] (79%)
+   Original:    pchedar ar oepor oteer o cs aiin olkeor dar air dery doeedeyopchedy shedaiin dar otedy dain otey dam otedy daiin chocthy dtedair chody sheos otedos qokechy pchdeedy dan ol dol oty sho pol otoldyl
+   Translation: [?pche]-DIR-D AT/IN [?oep]-INST AT-[?eer] [?o] [?cs] [?a]-DEF AT-[?ke]-INST DAR SKY [?dery] [?doeedeyopch]-VERB water-DEF-D DAR AT-[?e]-VERB THIS/THAT AT-[?ey] [MODAL] AT-[?e]-VERB THIS/THAT [?chocthy] [?dtedair] vessel-VERB [?sheos] AT-[?edos] oak-GEN-[?echy] [?pchde]-VERB [?dan] OL DOL AT-[?y] botanical-term [?p]-LOC AT-[?oldyl]
+
+3. [line4024] (79%)
+   Original:    oaiin ol olor daiin okeey qok ykeol daiin qockhy daiin olchdar qokeol dol oraiin oldaiin keeol  rch qokeeeor sydy cheor okeey chol do dar
+   Translation: [?o]-DEF OL AT-OR THIS/THAT [?okeey] oak [?yke]-LOC THIS/THAT [?qockhy] THIS/THAT AT-[?ch]-DIR-D oak-GEN-[?e]-LOC DOL OR-DEF AT-[?d]-DEF [?kee]-LOC [?rch] oak-GEN-[?eee]-INST [?sy]-VERB [?che]-INST [?okeey] botanical-term [?do] DAR
+
+4. [line1117] (79%)
+   Original:    xol shol qokaiin ytchdy qokchdy s ar chdy cthy otedy chedy qokar chcthhy m
+   Translation: [?x]-LOC [?sh]-LOC oak-GEN-[?a]-DEF [?ytch]-VERB oak-GEN-[?ch]-VERB [?s] AT/IN [?ch]-VERB [PARTICLE] AT-[?e]-VERB [?ch]-VERB oak-GEN-AT/IN [?chcthhy] [?m]
+
+5. [line2512] (79%)
+   Original:    shed al shckhy sain chcphedy ain olkeey lkar ain otchy lkain chedy dar daly
+   Translation: water-D [?al] [?shckhy] [?s]-DEF [?chcph]-VERB AIN AT-[?keey] [?lk]-DIR AIN AT-[PARTICLE] [?lk]-DEF [?ch]-VERB DAR [?daly]
+
+6. [line2516] (79%)
+   Original:    chor shedy qoked okees al ar aiin ar ain chckheed lchedy shedy qolair chedy
+   Translation: [?ch]-INST [?sh]-VERB oak-GEN-[?e]-D [?okees] [?al] AT/IN [?a]-DEF AT/IN AIN [?chckhee]-D [?lch]-VERB [?sh]-VERB [?qolair] [?ch]-VERB
+
+7. [line3206] (79%)
+   Original:    tol or sheey chckhdy schckhy dal yshedy otedy qol or ol eedy qokeey oroly
+   Translation: T-OL OR [?sheey] [?chckh]-VERB [?schckhy] [?d]-LOC [?ysh]-VERB AT-[?e]-VERB THEN OR OL [?e]-VERB oak-GEN-[?eey] [?oroly]
+
+8. [line4251] (79%)
+   Original:    ol sheo ckhey chol kechdy okeedal lkain chol keeody otchor aiir chol kar alol
+   Translation: OL [?sheo] [?ckhey] botanical-term [?kech]-VERB [?okee]-LOC-D [?lk]-DEF botanical-term [?keeo]-VERB AT-[?ch]-INST [?aiir] botanical-term [?k]-DIR [?al]-LOC
+
+9. [line4661] (79%)
+   Original:    sair okeaiin cheol shedy qokeeey doaiin ar or lkar char aiin okal ldyr ls
+   Translation: [?sair] [?oke]-DEF [?che]-LOC [?sh]-VERB oak-GEN-[?eeey] [?do]-DEF AT/IN OR [?lk]-DIR [?ch]-DIR [?a]-DEF OKAL [?ldyr] [?ls]
+
+10. [line4938] (79%)
+   Original:    teoar ain qotar ycheey otaiir otaiin okchy lkchdy oteol ar al araiin okal cheyor
+   Translation: T-[?eo]-DIR AIN oat-GEN-AT/IN [?ycheey] AT-[?aiir] AT-[?a]-DEF [?okchy] [?lkch]-VERB AT-[?e]-LOC AT/IN [?al] AT/IN-DEF OKAL [PARTICLE]-INST
+
+11. [line5000] (79%)
+   Original:    qoedy otair otar okod chodar y dal oeedy qokolkchdy dalol y qokaiin ched al
+   Translation: [?qo]-VERB AT-SKY AT-AT/IN [?oko]-D vessel-DIR-D [?y] [?d]-LOC [?oe]-VERB oak-GEN-[?olkch]-VERB [?d]-LOC-LOC [?y] oak-GEN-[?a]-DEF [?che]-D [?al]
+
+12. [line5095] (79%)
+   Original:    dcheol qokeol or ar aiin cheey okeeeo ar chl lor ol otlaiin cheeor ary
+   Translation: [?dche]-LOC oak-GEN-[?e]-LOC OR AT/IN [?a]-DEF [PARTICLE] [?okeeeo] AT/IN [?chl] [?l]-INST OL AT-[?l]-DEF [?chee]-INST [?ary]
+
+13. [line130] (78%)
+   Original:    qotor shees otol ykoiin shol daiin cthor okchy taiin
+   Translation: oat-GEN-OR [?shees] AT-OL [?yko]-DEF [?sh]-LOC THIS/THAT [?cth]-INST [?okchy] T-[?a]-DEF
+
+14. [line179] (78%)
+   Original:    chochy cthy daiin qoky chcphhy daiin cthol cthy cthd
+   Translation: [?chochy] [PARTICLE] THIS/THAT oak-GEN-[?y] [?chcphhy] THIS/THAT [?cth]-LOC [PARTICLE] [?cth]-D
+
+15. [line259] (78%)
+   Original:    paiin daiin sheo pcheey qoty daiin cthor otydy sain
+   Translation: [?p]-DEF THIS/THAT [?sheo] [?pcheey] oat-GEN-[?y] THIS/THAT [?cth]-INST AT-[?y]-VERB [?s]-DEF
+
+16. [line433] (78%)
+   Original:    pchor qodchy qotshy dy tchy qotchy qoky daiin dchydy
+   Translation: [?pch]-INST [?qodchy] oat-GEN-[PARTICLE] [?dy] T-[PARTICLE] oat-GEN-[PARTICLE] oak-GEN-[?y] THIS/THAT [?dchy]-VERB
+
+17. [line486] (78%)
+   Original:    qotol shy ol cheor chy qokchey chey keey dy
+   Translation: oat-GEN-OL [PARTICLE] OL [?che]-INST [PARTICLE] oak-GEN-[PARTICLE] [PARTICLE] [?keey] [?dy]
+
+18. [line489] (78%)
+   Original:    dchor y kolyky chol kol qokeol cholol qoteeol dady
+   Translation: [?dch]-INST [?y] [?kolyky] botanical-term [?k]-LOC oak-GEN-[?e]-LOC [?ch]-LOC-LOC oat-GEN-[?ee]-LOC [?da]-VERB
+
+19. [line493] (78%)
+   Original:    totchy keor chy ky qotaiin qotchol ty ctheey otaiin
+   Translation: T-[?otchy] [?ke]-INST [PARTICLE] [?ky] oat-GEN-[?a]-DEF oat-GEN-[?ch]-LOC T-[?y] [?ctheey] AT-[?a]-DEF
+
+20. [line494] (78%)
+   Original:    shol chol shol tchol chcthy otyky shey yteol shody
+   Translation: [?sh]-LOC botanical-term [?sh]-LOC T-[?ch]-LOC [?chcthy] AT-[?yky] [?shey] [?yte]-LOC botanical-term-VERB
+

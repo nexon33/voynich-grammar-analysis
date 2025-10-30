@@ -1,0 +1,331 @@
+================================================================================
+VOYNICH MANUSCRIPT CONTENT ANALYSIS
+================================================================================
+Goal: Understand WHAT the manuscript discusses!
+
+Loading translation data...
+Loaded 5204 total translations
+  Perfect (100%): 1158
+  Excellent (90-99%): 300
+  Good (80-89%): 977
+  Moderate (70-79%): 820
+
+Analyzing 1458 high-confidence translations...
+
+================================================================================
+COMMON PHRASE PATTERNS
+================================================================================
+
+Most common BIGRAMS:
+ 1. oak-GEN-[?e]-VERB oak-GEN-[?e]-VERB                ( 31×)
+ 2. [?sh]-VERB oak-GEN-[?e]-VERB                       ( 20×)
+ 3. OR [?a]-DEF                                        ( 16×)
+ 4. botanical-term [PARTICLE]                          ( 15×)
+ 5. THIS/THAT [PARTICLE]                               ( 14×)
+ 6. OL [?ch]-VERB                                      ( 12×)
+ 7. botanical-term THIS/THAT                           ( 10×)
+ 8. oak-GEN-[?e]-VERB AT-[?e]-VERB                     ( 10×)
+ 9. [?ch]-VERB oak-GEN-[?eey]                          ( 10×)
+10. botanical-term botanical-term                      (  9×)
+11. [?sh]-VERB oak-GEN-[?a]-DEF                        (  9×)
+12. [?ch]-VERB oak-GEN-[?e]-VERB                       (  9×)
+13. THEN [?sh]-VERB                                    (  8×)
+14. oak-GEN-[?e]-VERB [?sh]-VERB                       (  8×)
+15. oak-GEN-[?e]-VERB [?ch]-VERB                       (  8×)
+16. [PARTICLE] oak-GEN-[?a]-DEF                        (  7×)
+17. [?a]-DEF oak-DEF                                   (  7×)
+18. OR [?sh]-VERB                                      (  7×)
+19. OL [?sh]-VERB                                      (  7×)
+20. [PARTICLE] oak-GEN-[?e]-VERB                       (  7×)
+
+Most common TRIGRAMS:
+ 1. oak-GEN-[?e]-VERB oak-GEN-[?e]-VERB oak-GEN-[?e]-VERB        (  8×)
+ 2. [?sh]-VERB oak-GEN-[?e]-VERB oak-GEN-[?e]-VERB               (  5×)
+ 3. AT-[?e]-VERB [?sh]-VERB oak-GEN-[?e]-VERB                    (  4×)
+ 4. OL [?ch]-VERB oak-GEN-AIN                                    (  3×)
+ 5. botanical-term THIS/THAT [PARTICLE]                          (  2×)
+ 6. THIS/THAT [?cth]-INST botanical-term                         (  2×)
+ 7. [PARTICLE] THIS/THAT [PARTICLE]                              (  2×)
+ 8. [?s]-INST [PARTICLE] [?k]-INST                               (  2×)
+ 9. botanical-term botanical-term THIS/THAT                      (  2×)
+10. oak-GEN-AIN AT-[?shey] oak-GEN-AIN                           (  2×)
+11. OL [?sh]-VERB oak-GEN-[?e]-VERB                              (  2×)
+12. oak-GEN-[?e]-VERB [?lk]-VERB [?ch]-VERB                      (  2×)
+13. oak-GEN-[?al] [?sh]-VERB oak-GEN-[?e]-VERB                   (  2×)
+14. [?sh]-VERB THEN [?sh]-VERB                                   (  2×)
+15. THEN [?sh]-VERB oak-GEN-[?a]-DEF                             (  2×)
+16. OL oak-GEN-AT/IN [?sh]-VERB                                  (  2×)
+17. [?sh]-VERB oat-GEN-AIN AT-[?e]-VERB                          (  2×)
+18. [?s]-DEF oak-DEF [?ch]-VERB                                  (  2×)
+19. oak-GEN-[?e]-VERB oak-GEN-AT/IN OL                           (  2×)
+20. OL [?che]-VERB oak-GEN-[?e]-VERB                             (  2×)
+
+Most common 4-WORD PHRASES:
+ 1. oak-GEN-[?e]-VERB oak-GEN-[?e]-VERB oak-GEN-[?e]-VERB oak-GEN-[?e]-VERB ( 2×)
+ 2. OL [?sh]-VERB oak-GEN-[?e]-VERB oak-GEN-[?e]-VERB                      ( 2×)
+ 3. [?sh]-VERB THEN [?sh]-VERB oak-GEN-[?a]-DEF                            ( 2×)
+ 4. [?sh]-VERB oak-GEN-[?e]-VERB oak-GEN-[?e]-VERB oak-GEN-[?e]-VERB       ( 2×)
+ 5. oak-GEN-[?e]-VERB oak-GEN-[?e]-VERB oak-GEN-[?e]-VERB [?ch]-VERB       ( 2×)
+ 6. AT-[?e]-VERB [?sh]-VERB oak-GEN-[?e]-VERB DOL                          ( 2×)
+ 7. oak-GEN-[?e]-VERB AT-[?e]-VERB [?sh]-VERB oak-GEN-[?e]-VERB            ( 2×)
+ 8. oat-GEN-[?aiincthey] [?ych]-INST [PARTICLE] [?ydych]-DEF               ( 1×)
+ 9. [?och]-INST [?qoche]-INST botanical-term THIS/THAT                     ( 1×)
+10. [?qoche]-INST botanical-term THIS/THAT [PARTICLE]                      ( 1×)
+11. T-[?sheoarom] [?sh]-INST OR [?ch]-INST                                 ( 1×)
+12. [?sh]-INST OR [?ch]-INST AT-[?chsy]                                    ( 1×)
+13. OR [?ch]-INST AT-[?chsy] [PARTICLE]                                    ( 1×)
+14. [?ch]-INST AT-[?chsy] [PARTICLE] AT-[?chomop]-DIR-INST                 ( 1×)
+15. AT-[?ch]-INST OL [?che]-INST [?qoe]-INST                               ( 1×)
+16. OL [?che]-INST [?qoe]-INST THERE                                       ( 1×)
+17. [?che]-INST [?qoe]-INST THERE oat-GEN-[?e]-LOC                         ( 1×)
+18. [?qoe]-INST THERE oat-GEN-[?e]-LOC [?qosaiinch]-INST                   ( 1×)
+19. THERE oat-GEN-[?e]-LOC [?qosaiinch]-INST [PARTICLE]                    ( 1×)
+20. [?daii]-VERB oat-GEN-[?ee]-LOC [?okch]-INST oak-INST                   ( 1×)
+
+================================================================================
+SEMANTIC FIELD ANALYSIS
+================================================================================
+
+SPATIAL markers:
+  Total occurrences: 3137
+    AT                  : 1526 ( 48.6%)
+    LOC                 :  981 ( 31.3%)
+    DIR                 :  461 ( 14.7%)
+    AT-AT/IN            :   61 (  1.9%)
+    AT-OL               :   48 (  1.5%)
+    SKY                 :   35 (  1.1%)
+    THERE               :   25 (  0.8%)
+
+BOTANICAL markers:
+  Total occurrences: 449
+    botanical-term      :  159 ( 35.4%)
+    water               :  146 ( 32.5%)
+    vessel              :  136 ( 30.3%)
+    pharmaceutical-substance:    8 (  1.8%)
+
+TEMPORAL markers:
+  Total occurrences: 2143
+    VERB                : 2100 ( 98.0%)
+    THEN                :   43 (  2.0%)
+
+ACTIONS markers:
+  Total occurrences: 2538
+    VERB                : 2100 ( 82.7%)
+    INST                :  438 ( 17.3%)
+
+SUBSTANCES markers:
+  Total occurrences: 1786
+    oak                 : 1165 ( 65.2%)
+    oat                 :  353 ( 19.8%)
+    water               :  146 (  8.2%)
+    DAR                 :   76 (  4.3%)
+    DOL                 :   32 (  1.8%)
+    red                 :   14 (  0.8%)
+
+DEIXIS markers:
+  Total occurrences: 1420
+    DEF                 : 1172 ( 82.5%)
+    THIS/THAT           :  223 ( 15.7%)
+    THERE               :   25 (  1.8%)
+
+================================================================================
+SENTENCE STRUCTURE CLUSTERS
+================================================================================
+Grouping sentences with similar structures...
+
+Found 1080 unique sentence structures
+
+Top 10 most common sentence structures:
+
+1. Structure (appears 79× times):
+   Pattern: AT-[ROOT]
+   Examples:
+     1. [line1455] otardaly
+        -> AT-[?ardaly]
+     2. [line1651] otoky
+        -> AT-[?oky]
+     3. [line1814] otcsey
+        -> AT-[?csey]
+
+2. Structure (appears 65× times):
+   Pattern: [ROOT]-VERB
+   Examples:
+     1. [line1658] ykeeody
+        -> [?ykeeo]-VERB
+     2. [line1668] dchetdy
+        -> [?dchet]-VERB
+     3. [line1706] dylchsody
+        -> [?dylchso]-VERB
+
+3. Structure (appears 32× times):
+   Pattern: [ROOT]-LOC
+   Examples:
+     1. [line1552] ykcol
+        -> [?ykc]-LOC
+     2. [line1729] oepchol
+        -> [?oepch]-LOC
+     3. [line1758] dechoekol
+        -> [?dechoek]-LOC
+
+4. Structure (appears 24× times):
+   Pattern: AT-[ROOT]-VERB
+   Examples:
+     1. [line1650] otaldy
+        -> AT-[?al]-VERB
+     2. [line1810] otochedy
+        -> AT-[?och]-VERB
+     3. [line1815] otydy
+        -> AT-[?y]-VERB
+
+5. Structure (appears 19× times):
+   Pattern: [ROOT]-INST
+   Examples:
+     1. [line1550] qor
+        -> [?q]-INST
+     2. [line1726] soeor
+        -> [?soe]-INST
+     3. [line1800] ofcheor
+        -> [?ofche]-INST
+
+6. Structure (appears 16× times):
+   Pattern: [ROOT]-D
+   Examples:
+     1. [line1981] okeod
+        -> [?okeo]-D
+     2. [line1985] okeod
+        -> [?okeo]-D
+     3. [line1994] okeod
+        -> [?okeo]-D
+
+7. Structure (appears 11× times):
+   Pattern: [ROOT]-DEF
+   Examples:
+     1. [line172] oaiirotaiin
+        -> [?oaiirot]-DEF
+     2. [line892] sotoiiin
+        -> [?sotoi]-DEF
+     3. [line1559] raiin
+        -> [?r]-DEF
+
+8. Structure (appears 10× times):
+   Pattern: [ROOT]-VERB-LOC
+   Examples:
+     1. [line1460] ackaldy
+        -> [?ack]-VERB-LOC
+     2. [line1709] opcholdy
+        -> [?opch]-VERB-LOC
+     3. [line1841] dcheoldy
+        -> [?dche]-VERB-LOC
+
+9. Structure (appears 10× times):
+   Pattern: AT-[ROOT]-LOC
+   Examples:
+     1. [line1837] oteool
+        -> AT-[?eo]-LOC
+     2. [line1848] otoshol
+        -> AT-[?osh]-LOC
+     3. [line1911] otchdychetal
+        -> AT-[?chdychet]-LOC
+
+10. Structure (appears 8× times):
+   Pattern: [ROOT]-LOC-D
+   Examples:
+     1. [line988] keerodal
+        -> [?keero]-LOC-D
+     2. [line1717] ytodal
+        -> [?yto]-LOC-D
+     3. [line1803] okeeodal
+        -> [?okeeo]-LOC-D
+
+================================================================================
+MOST INFORMATIVE SENTENCES
+================================================================================
+Sentences with highest density of known vocabulary:
+
+Top 20 sentences with highest known vocabulary density:
+
+ 1. [line524] (100.0% known, 5/5 words)
+    Original:    qotchy cthy qokol daiin dam
+    Translation: oat-GEN-[PARTICLE] [PARTICLE] oak-GEN-OL THIS/THAT [MODAL]
+
+ 2. [line740] (100.0% known, 3/3 words)
+    Original:    qotchy qokchy daiin
+    Translation: oat-GEN-[PARTICLE] oak-GEN-[PARTICLE] THIS/THAT
+
+ 3. [line742] (100.0% known, 4/4 words)
+    Original:    otol dol ol dair
+    Translation: AT-OL DOL OL THERE
+
+ 4. [line765] (100.0% known, 3/3 words)
+    Original:    ol sho chy
+    Translation: OL botanical-term [PARTICLE]
+
+ 5. [line1231] (100.0% known, 4/4 words)
+    Original:    qokchy qokchod sho cthy
+    Translation: oak-GEN-[PARTICLE] oak-GEN-vessel-D botanical-term [PARTICLE]
+
+ 6. [line1448] (100.0% known, 1/1 words)
+    Original:    dairol
+    Translation: THERE-LOC
+
+ 7. [line1457] (100.0% known, 1/1 words)
+    Original:    oralaror
+    Translation: OR-INST-DIR-LOC
+
+ 8. [line1573] (100.0% known, 1/1 words)
+    Original:    air
+    Translation: SKY
+
+ 9. [line1587] (100.0% known, 1/1 words)
+    Original:    t
+    Translation: T
+
+10. [line1592] (100.0% known, 1/1 words)
+    Original:    t
+    Translation: T
+
+11. [line1695] (100.0% known, 3/3 words)
+    Original:    chol daiin okol
+    Translation: botanical-term THIS/THAT oak-LOC
+
+12. [line1707] (100.0% known, 1/1 words)
+    Original:    okal
+    Translation: OKAL
+
+13. [line1708] (100.0% known, 2/2 words)
+    Original:    okain am
+    Translation: oak-DEF [MODAL]
+
+14. [line1718] (100.0% known, 2/2 words)
+    Original:    tol daiin
+    Translation: T-OL THIS/THAT
+
+15. [line1719] (100.0% known, 1/1 words)
+    Original:    otardy
+    Translation: AT-AT/IN-VERB
+
+16. [line1724] (100.0% known, 1/1 words)
+    Original:    otolor
+    Translation: AT-OL-INST
+
+17. [line1736] (100.0% known, 1/1 words)
+    Original:    otararain
+    Translation: AT-AT/IN-DEF-DIR
+
+18. [line1767] (100.0% known, 1/1 words)
+    Original:    okolaldy
+    Translation: oak-VERB-LOC-LOC
+
+19. [line1798] (100.0% known, 1/1 words)
+    Original:    otcheody
+    Translation: AT-vessel-VERB
+
+20. [line1805] (100.0% known, 1/1 words)
+    Original:    okoldy
+    Translation: oak-VERB-LOC
+
+================================================================================
+ANALYSIS COMPLETE!
+================================================================================
+
+Summary written to: MANUSCRIPT_CONTENT_ANALYSIS.txt
