@@ -1,0 +1,98 @@
+{
+  "total_instances": 29,
+  "criteria": {
+    "productivity": {
+      "score": 1,
+      "data": {
+        "total": 29,
+        "standalone": 20,
+        "standalone_pct": 68.96551724137932,
+        "compounds": 9,
+        "compound_pct": 31.03448275862069
+      },
+      "note": "Moderate standalone usage (50-70%)"
+    },
+    "frequency": {
+      "score": 2,
+      "data": {
+        "total": 29,
+        "threshold": 20
+      },
+      "note": "n=29 >= 20"
+    },
+    "position": {
+      "score": 2,
+      "data": {
+        "initial": 3.4482758620689653,
+        "medial": 89.65517241379311,
+        "final": 6.896551724137931
+      },
+      "note": "Strong medial preference (>70%)"
+    },
+    "section_distribution": {
+      "score": 0,
+      "data": {
+        "chi2": null,
+        "p_value": null,
+        "enrichment": null,
+        "observed": {
+          "H": 29
+        },
+        "expected": {
+          "H": 29.0
+        },
+        "note": "Insufficient data for chi-square test"
+      },
+      "note": "Insufficient data for chi-square test"
+    },
+    "cooccurrence": {
+      "score": 2,
+      "data": {
+        "total_keol_sentences": 29,
+        "sentences_with_validated": 29,
+        "cooccurrence_pct": 100.0,
+        "validated_words_found": {
+          "ot": 20,
+          "chey": 4,
+          "daiin": 10,
+          "or": 15,
+          "cho": 22,
+          "ol": 41,
+          "cheo": 7,
+          "she": 18,
+          "ke": 29,
+          "ok": 48,
+          "qok": 29,
+          "qot": 8,
+          "okal": 7,
+          "ain": 9,
+          "shee": 2,
+          "keo": 3,
+          "dar": 3,
+          "ar": 11,
+          "dair": 1,
+          "air": 1,
+          "chol": 11,
+          "sho": 5,
+          "chy": 6,
+          "dol": 1,
+          "qol": 2,
+          "shecthy": 1,
+          "cthy": 1,
+          "sal": 2,
+          "dain": 1,
+          "dor": 1,
+          "teo": 2,
+          "am": 2,
+          "shy": 2,
+          "dam": 1
+        }
+      },
+      "note": "Strong co-occurrence (>30%): 100.0%"
+    }
+  },
+  "total_score": 7,
+  "max_score": 10,
+  "status": "NEAR-VALIDATED",
+  "result": "⚠ NEAR-VALIDATED: keol scores 7/10 (needs 8+)"
+}

@@ -1,0 +1,526 @@
+{
+  "chod": {
+    "element": "chod",
+    "total_instances": 361,
+    "unique_forms": 139,
+    "frequency_distribution": {
+      "chody": 90,
+      "chodaiin": 39,
+      "chodar": 13,
+      "tchody": 8,
+      "chodal": 7,
+      "chod": 7,
+      "chodain": 6,
+      "otchody": 6,
+      "kchody": 6,
+      "pchodaiin": 5,
+      "pchody": 5,
+      "chodchy": 4,
+      "lchody": 3,
+      "chodaly": 3,
+      "kchod": 3,
+      "okchody": 3,
+      "ykchody": 3,
+      "ytchody": 3,
+      "qotchody": 3,
+      "tchodaiin": 3
+    },
+    "compound_hypotheses": [
+      {
+        "type": "prefix_compound",
+        "structure": "qok + chod",
+        "count": 7,
+        "examples": [
+          "qokchody",
+          "qokchod",
+          "qokchodotcho",
+          "qokchod",
+          "qokchodal"
+        ]
+      },
+      {
+        "type": "prefix_compound",
+        "structure": "qot + chod",
+        "count": 5,
+        "examples": [
+          "qotchod",
+          "qotchod",
+          "qotchody",
+          "qotchody",
+          "qotchody"
+        ]
+      },
+      {
+        "type": "prefix_compound",
+        "structure": "ol + chod",
+        "count": 1,
+        "examples": [
+          "olchod"
+        ]
+      },
+      {
+        "type": "prefix_compound",
+        "structure": "ot + chod",
+        "count": 13,
+        "examples": [
+          "otchody",
+          "otchody",
+          "otchody",
+          "otchodardcho",
+          "otchody"
+        ]
+      },
+      {
+        "type": "prefix_compound",
+        "structure": "t + chod",
+        "count": 19,
+        "examples": [
+          "tchody",
+          "tchody",
+          "tchody",
+          "tchodar",
+          "tchodar"
+        ]
+      },
+      {
+        "type": "suffix_compound",
+        "structure": "chod + al",
+        "count": 7,
+        "examples": [
+          "chodal",
+          "chodal",
+          "chodal",
+          "chodal",
+          "chodal"
+        ]
+      },
+      {
+        "type": "suffix_compound",
+        "structure": "chod + ol",
+        "count": 2,
+        "examples": [
+          "chodol",
+          "chodol"
+        ]
+      },
+      {
+        "type": "suffix_compound",
+        "structure": "chod + ar",
+        "count": 13,
+        "examples": [
+          "chodar",
+          "chodar",
+          "chodar",
+          "chodar",
+          "chodar"
+        ]
+      },
+      {
+        "type": "suffix_compound",
+        "structure": "chod + dy",
+        "count": 1,
+        "examples": [
+          "choddy"
+        ]
+      },
+      {
+        "type": "suffix_compound",
+        "structure": "chod + ain",
+        "count": 6,
+        "examples": [
+          "chodain",
+          "chodain",
+          "chodain",
+          "chodain",
+          "chodain"
+        ]
+      },
+      {
+        "type": "suffix_compound",
+        "structure": "chod + aiin",
+        "count": 39,
+        "examples": [
+          "chodaiin",
+          "chodaiin",
+          "chodaiin",
+          "chodaiin",
+          "chodaiin"
+        ]
+      },
+      {
+        "type": "suffix_compound",
+        "structure": "chod + y",
+        "count": 90,
+        "examples": [
+          "chody",
+          "chody",
+          "chody",
+          "chody",
+          "chody"
+        ]
+      },
+      {
+        "type": "suffix_compound",
+        "structure": "chod + ey",
+        "count": 2,
+        "examples": [
+          "chodey",
+          "chodey"
+        ]
+      },
+      {
+        "type": "root_compound",
+        "structure": "cho + d",
+        "count": 7,
+        "validated": "True, True"
+      },
+      {
+        "type": "allomorph",
+        "structure": "chod ~ chol",
+        "similarity": "1 letter difference",
+        "count": 7
+      },
+      {
+        "type": "allomorph",
+        "structure": "chod ~ cheo",
+        "similarity": "2 letter difference",
+        "count": 7
+      }
+    ],
+    "cooccurrence": {
+      "ol": 391,
+      "ok": 368,
+      "ot": 324,
+      "cho": 286,
+      "or": 215,
+      "ke": 202,
+      "ar": 192,
+      "qok": 154,
+      "cheo": 124,
+      "she": 123,
+      "sho": 113,
+      "qot": 89,
+      "chol": 82,
+      "ain": 68,
+      "dar": 63,
+      "air": 62,
+      "keo": 50,
+      "teo": 46,
+      "dol": 27,
+      "okal": 26
+    },
+    "recommendation": {
+      "status": "COMPOUND or ALLOMORPH",
+      "best_hypothesis": {
+        "type": "root_compound",
+        "structure": "cho + d",
+        "count": 7,
+        "validated": "True, True"
+      }
+    }
+  },
+  "shee": {
+    "element": "shee",
+    "total_instances": 502,
+    "unique_forms": 132,
+    "frequency_distribution": {
+      "sheey": 142,
+      "sheedy": 83,
+      "sheeol": 14,
+      "sheeky": 14,
+      "shee": 13,
+      "ysheey": 10,
+      "sheeor": 9,
+      "shees": 9,
+      "dsheey": 8,
+      "sheeo": 8,
+      "lsheey": 8,
+      "olsheey": 7,
+      "sheety": 7,
+      "sheeey": 6,
+      "ysheedy": 6,
+      "lsheedy": 6,
+      "sheed": 6,
+      "dsheedy": 4,
+      "sheet": 3,
+      "sheek": 3
+    },
+    "compound_hypotheses": [
+      {
+        "type": "prefix_compound",
+        "structure": "ol + shee",
+        "count": 11,
+        "examples": [
+          "olsheey",
+          "olsheey",
+          "olshees",
+          "olsheey",
+          "olsheed"
+        ]
+      },
+      {
+        "type": "prefix_compound",
+        "structure": "ot + shee",
+        "count": 1,
+        "examples": [
+          "otsheey"
+        ]
+      },
+      {
+        "type": "prefix_compound",
+        "structure": "t + shee",
+        "count": 4,
+        "examples": [
+          "tsheeor",
+          "tsheed",
+          "tsheeor",
+          "tsheey"
+        ]
+      },
+      {
+        "type": "suffix_compound",
+        "structure": "shee + al",
+        "count": 1,
+        "examples": [
+          "sheeal"
+        ]
+      },
+      {
+        "type": "suffix_compound",
+        "structure": "shee + ol",
+        "count": 14,
+        "examples": [
+          "sheeol",
+          "sheeol",
+          "sheeol",
+          "sheeol",
+          "sheeol"
+        ]
+      },
+      {
+        "type": "suffix_compound",
+        "structure": "shee + ar",
+        "count": 2,
+        "examples": [
+          "sheear",
+          "sheear"
+        ]
+      },
+      {
+        "type": "suffix_compound",
+        "structure": "shee + or",
+        "count": 9,
+        "examples": [
+          "sheeor",
+          "sheeor",
+          "sheeor",
+          "sheeor",
+          "sheeor"
+        ]
+      },
+      {
+        "type": "suffix_compound",
+        "structure": "shee + dy",
+        "count": 83,
+        "examples": [
+          "sheedy",
+          "sheedy",
+          "sheedy",
+          "sheedy",
+          "sheedy"
+        ]
+      },
+      {
+        "type": "suffix_compound",
+        "structure": "shee + ain",
+        "count": 1,
+        "examples": [
+          "sheeain"
+        ]
+      },
+      {
+        "type": "suffix_compound",
+        "structure": "shee + y",
+        "count": 142,
+        "examples": [
+          "sheey",
+          "sheey",
+          "sheey",
+          "sheey",
+          "sheey"
+        ]
+      },
+      {
+        "type": "suffix_compound",
+        "structure": "shee + ey",
+        "count": 6,
+        "examples": [
+          "sheeey",
+          "sheeey",
+          "sheeey",
+          "sheeey",
+          "sheeey"
+        ]
+      },
+      {
+        "type": "suffix_compound",
+        "structure": "shee + d",
+        "count": 6,
+        "examples": [
+          "sheed",
+          "sheed",
+          "sheed",
+          "sheed",
+          "sheed"
+        ]
+      },
+      {
+        "type": "allomorph",
+        "structure": "shee ~ cheo",
+        "similarity": "2 letter difference",
+        "count": 13
+      }
+    ],
+    "cooccurrence": {
+      "ok": 798,
+      "ol": 691,
+      "ke": 627,
+      "ot": 498,
+      "qok": 467,
+      "ar": 427,
+      "she": 355,
+      "or": 329,
+      "ain": 251,
+      "cho": 198,
+      "qot": 151,
+      "cheo": 144,
+      "dar": 106,
+      "sho": 90,
+      "keo": 90,
+      "air": 65,
+      "teo": 61,
+      "chol": 53,
+      "okal": 43,
+      "dair": 22
+    },
+    "recommendation": {
+      "status": "COMPOUND or ALLOMORPH",
+      "best_hypothesis": {
+        "type": "suffix_compound",
+        "structure": "shee + y",
+        "count": 142,
+        "examples": [
+          "sheey",
+          "sheey",
+          "sheey",
+          "sheey",
+          "sheey"
+        ]
+      }
+    }
+  },
+  "tcho": {
+    "element": "tcho",
+    "total_instances": 273,
+    "unique_forms": 106,
+    "frequency_distribution": {
+      "otchol": 25,
+      "tchor": 19,
+      "otchor": 16,
+      "qotchor": 14,
+      "qotchol": 13,
+      "tchol": 12,
+      "qotcho": 11,
+      "ytchor": 10,
+      "otcho": 9,
+      "tchody": 8,
+      "tcho": 8,
+      "otchody": 6,
+      "otchos": 4,
+      "ytchol": 4,
+      "tchos": 4,
+      "ytchoy": 3,
+      "ytchody": 3,
+      "qotchody": 3,
+      "tchodaiin": 3,
+      "ytchos": 2
+    },
+    "compound_hypotheses": [
+      {
+        "type": "prefix_compound",
+        "structure": "ch + tcho",
+        "count": 2,
+        "examples": [
+          "chtchor",
+          "chtchol"
+        ]
+      },
+      {
+        "type": "suffix_compound",
+        "structure": "tcho + ar",
+        "count": 1,
+        "examples": [
+          "tchoar"
+        ]
+      },
+      {
+        "type": "suffix_compound",
+        "structure": "tcho + dy",
+        "count": 8,
+        "examples": [
+          "tchody",
+          "tchody",
+          "tchody",
+          "tchody",
+          "tchody"
+        ]
+      },
+      {
+        "type": "suffix_compound",
+        "structure": "tcho + d",
+        "count": 2,
+        "examples": [
+          "tchod",
+          "tchod"
+        ]
+      },
+      {
+        "type": "root_compound",
+        "structure": "t + cho",
+        "count": 8,
+        "validated": "True, True"
+      }
+    ],
+    "cooccurrence": {
+      "ol": 296,
+      "cho": 258,
+      "ok": 217,
+      "ot": 208,
+      "or": 177,
+      "ar": 112,
+      "sho": 101,
+      "ke": 98,
+      "she": 79,
+      "chol": 66,
+      "qok": 66,
+      "qot": 55,
+      "cheo": 47,
+      "ain": 42,
+      "dar": 42,
+      "teo": 36,
+      "keo": 27,
+      "air": 23,
+      "shee": 19,
+      "dol": 18
+    },
+    "recommendation": {
+      "status": "COMPOUND or ALLOMORPH",
+      "best_hypothesis": {
+        "type": "root_compound",
+        "structure": "t + cho",
+        "count": 8,
+        "validated": "True, True"
+      }
+    }
+  }
+}
