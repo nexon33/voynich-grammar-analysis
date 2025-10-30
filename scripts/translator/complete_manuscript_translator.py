@@ -79,8 +79,12 @@ SUFFIXES = {
     "ol": "LOC",
     "ar": "DIR",
     "or": "INST",
-    "dy": "VERB",
-    "edy": "VERB",
+    # Phase 17: Corrected verb suffix allomorphy
+    # -eedy and -edy are the same suffix (long form)
+    # -dy is short form
+    "eedy": "VERB",  # Long form (most common after consonants)
+    "edy": "VERB",  # Alternate form
+    "dy": "VERB",  # Short form
     "ain": "DEF",
     "iin": "DEF",
     "aiin": "DEF",
