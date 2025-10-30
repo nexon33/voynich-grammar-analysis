@@ -1,0 +1,20 @@
+{
+  "hypothesis": "[?lch] = mix/combine/process",
+  "evidence_count": 1,
+  "tests": {
+    "sequence_position": 1,
+    "vessel_rate": 1.5463917525773196,
+    "water_rate": 3.7800687285223367,
+    "liquid_rate": 2.9209621993127146,
+    "container_total": 8.24742268041237,
+    "multiple_ingredients_rate": 14.604810996563575,
+    "ch_overlap": 65.0,
+    "sh_overlap": 60.0
+  },
+  "sample_sequences": [
+    {
+      "line": "unknown",
+      "sentence": "[?sheoky] oak-GEN-[?a]-DEF [?ch]-VERB [?lch]-VERB AT-[?sh]-VERB oak-GEN-[?e]-VERB [?ch]-VERB oak-GEN-OL"
+    }
+  ]
+}

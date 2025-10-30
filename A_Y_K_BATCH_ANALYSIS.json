@@ -1,0 +1,504 @@
+{
+  "?a": {
+    "total": 1177,
+    "standalone_count": 4,
+    "standalone_rate": 0.33984706881903143,
+    "affixed_count": 1173,
+    "verb_count": 23,
+    "verb_rate": 1.954120645709431,
+    "classification": "LIKELY NOMINAL",
+    "confidence": "LOW",
+    "top_before": {
+      "OR": 75,
+      "[PARTICLE]": 74,
+      "[?ch]-VERB": 70,
+      "OL": 54,
+      "[?sh]-VERB": 53,
+      "AT/IN": 49,
+      "[?a]-DEF": 48,
+      "THIS/THAT": 45,
+      "botanical-term": 36,
+      "[?s]": 35,
+      "oak-DEF": 30,
+      "oak-GEN-[?e]-VERB": 25,
+      "AT-[?e]-VERB": 25,
+      "[?al]": 24,
+      "oak-GEN-[?eey]": 23
+    },
+    "top_after": {
+      "[?ch]-VERB": 71,
+      "OL": 54,
+      "[PARTICLE]": 48,
+      "oak-DEF": 47,
+      "THIS/THAT": 43,
+      "[?sh]-VERB": 41,
+      "AT-[?a]-DEF": 39,
+      "botanical-term": 38,
+      "[?al]": 37,
+      "OR": 29,
+      "AT-[?al]": 29,
+      "[?a]-DEF": 27,
+      "AT/IN": 26,
+      "oak-GEN-[?a]-DEF": 26,
+      "OKAL": 25
+    },
+    "sample_contexts": [
+      {
+        "line": "line3",
+        "word": "[?sa]",
+        "before": [
+          "[?cthoary]",
+          "[?cthes]",
+          "[?d]-DEF-DIR"
+        ],
+        "after": []
+      },
+      {
+        "line": "line4",
+        "word": "AT-[?a]-DEF",
+        "before": [
+          "[?roloty]",
+          "[?cth]-DIR",
+          "THIS/THAT"
+        ],
+        "after": [
+          "OR",
+          "[?okan]"
+        ]
+      },
+      {
+        "line": "line19",
+        "word": "[?a]",
+        "before": [
+          "[?pot]-LOC",
+          "[?cthols]",
+          "[?dloct]"
+        ],
+        "after": []
+      },
+      {
+        "line": "line28",
+        "word": "[?cha]-DEF-D",
+        "before": [
+          "[?dchaiinkchsy]"
+        ],
+        "after": [
+          "AT-[?oltchey]",
+          "[?ch]-DIR",
+          "[?cfh]-DIR"
+        ]
+      },
+      {
+        "line": "line37",
+        "word": "T-[?a]-INST",
+        "before": [],
+        "after": [
+          "[?chotchey]",
+          "[?d]-LOC",
+          "[?chodyscho]-VERB"
+        ]
+      },
+      {
+        "line": "line51",
+        "word": "AT-[?a]-DEF",
+        "before": [
+          "[?koo]-DEF",
+          "vessel",
+          "[?pch]-INST"
+        ],
+        "after": [
+          "[?o]",
+          "THIS/THAT",
+          "[?chordair]"
+        ]
+      },
+      {
+        "line": "line70",
+        "word": "[?oka]-DEF-D",
+        "before": [],
+        "after": [
+          "oak-GEN-[?ch]-INST",
+          "[?qoschodam]",
+          "[?octhy]"
+        ]
+      },
+      {
+        "line": "line78",
+        "word": "[?a]-DEF",
+        "before": [
+          "[?o]-DEF-D",
+          "botanical-term",
+          "[?s]"
+        ],
+        "after": [
+          "oak-INST-LOC",
+          "[MODAL]"
+        ]
+      },
+      {
+        "line": "line79",
+        "word": "[?sha]",
+        "before": [
+          "[?ko]-DEF",
+          "[?cph]-INST",
+          "oat-GEN-[?oy]"
+        ],
+        "after": [
+          "[?ckh]-LOC",
+          "[?yko]-DEF",
+          "[?s]"
+        ]
+      },
+      {
+        "line": "line86",
+        "word": "[?oka]",
+        "before": [
+          "[?kchom]",
+          "[?ch]-INST",
+          "[?cheke]-LOC"
+        ],
+        "after": []
+      }
+    ]
+  },
+  "?y": {
+    "total": 7626,
+    "standalone_count": 159,
+    "standalone_rate": 2.084972462627852,
+    "affixed_count": 7467,
+    "verb_count": 53,
+    "verb_rate": 0.6949908208759508,
+    "classification": "LIKELY NOMINAL",
+    "confidence": "LOW",
+    "top_before": {
+      "[PARTICLE]": 480,
+      "THIS/THAT": 444,
+      "[?ch]-VERB": 314,
+      "[?sh]-VERB": 271,
+      "oak-GEN-[?e]-VERB": 266,
+      "OL": 253,
+      "botanical-term": 246,
+      "oak-GEN-[?eey]": 221,
+      "[?a]-DEF": 197,
+      "[?shey]": 186,
+      "AT/IN": 165,
+      "oak-DEF": 163,
+      "oak-GEN-AIN": 156,
+      "OR": 134,
+      "DAR": 130
+    },
+    "top_after": {
+      "THIS/THAT": 486,
+      "[PARTICLE]": 411,
+      "[?ch]-VERB": 286,
+      "oak-GEN-[?e]-VERB": 238,
+      "OL": 227,
+      "[?sh]-VERB": 221,
+      "oak-GEN-[?eey]": 206,
+      "botanical-term": 191,
+      "oak-GEN-AIN": 180,
+      "[?dy]": 174,
+      "[?d]-LOC": 149,
+      "[?a]-DEF": 147,
+      "oak-DEF": 139,
+      "[?shey]": 131,
+      "DAR": 126
+    },
+    "sample_contexts": [
+      {
+        "line": "line1",
+        "word": "[?shory]",
+        "before": [
+          "AT/IN",
+          "[?at]-DEF",
+          "[?sh]-LOC"
+        ],
+        "after": [
+          "[?cthres]",
+          "[?y]",
+          "[?k]-INST"
+        ]
+      },
+      {
+        "line": "line1",
+        "word": "[?y]",
+        "before": [
+          "[?sh]-LOC",
+          "[?shory]",
+          "[?cthres]"
+        ],
+        "after": [
+          "[?k]-INST",
+          "[?sh]-VERB-LOC"
+        ]
+      },
+      {
+        "line": "line2",
+        "word": "[?sory]",
+        "before": [],
+        "after": [
+          "[?ckh]-DIR",
+          "OR",
+          "[?y]"
+        ]
+      },
+      {
+        "line": "line2",
+        "word": "[?y]",
+        "before": [
+          "[?sory]",
+          "[?ckh]-DIR",
+          "OR"
+        ],
+        "after": [
+          "[?kair]",
+          "[?cht]-DEF",
+          "[?sh]-DIR"
+        ]
+      },
+      {
+        "line": "line3",
+        "word": "[?sheky]",
+        "before": [
+          "[?syaiir]"
+        ],
+        "after": [
+          "OR",
+          "[?yk]-DEF",
+          "botanical-term-D"
+        ]
+      },
+      {
+        "line": "line3",
+        "word": "[?cthoary]",
+        "before": [
+          "OR",
+          "[?yk]-DEF",
+          "botanical-term-D"
+        ],
+        "after": [
+          "[?cthes]",
+          "[?d]-DEF-DIR",
+          "[?sa]"
+        ]
+      },
+      {
+        "line": "line4",
+        "word": "AT-[?eey]",
+        "before": [
+          "[?o]",
+          "[?o]-DEF"
+        ],
+        "after": [
+          "AT-[?eos]",
+          "[?roloty]",
+          "[?cth]-DIR"
+        ]
+      },
+      {
+        "line": "line4",
+        "word": "[?roloty]",
+        "before": [
+          "[?o]-DEF",
+          "AT-[?eey]",
+          "AT-[?eos]"
+        ],
+        "after": [
+          "[?cth]-DIR",
+          "THIS/THAT",
+          "AT-[?a]-DEF"
+        ]
+      },
+      {
+        "line": "line5",
+        "word": "[?y]",
+        "before": [
+          "THERE"
+        ],
+        "after": [
+          "[?che]-DIR",
+          "[?cth]-DEF",
+          "[?cph]-DIR"
+        ]
+      },
+      {
+        "line": "line6",
+        "word": "[?ydaraishy]",
+        "before": [],
+        "after": []
+      }
+    ]
+  },
+  "?k": {
+    "total": 1559,
+    "standalone_count": 7,
+    "standalone_rate": 0.4490057729313663,
+    "affixed_count": 1552,
+    "verb_count": 402,
+    "verb_rate": 25.78576010262989,
+    "classification": "UNCERTAIN",
+    "confidence": "LOW",
+    "top_before": {
+      "[PARTICLE]": 96,
+      "THIS/THAT": 93,
+      "[?ch]-VERB": 84,
+      "oak-GEN-[?e]-VERB": 81,
+      "OL": 69,
+      "[?a]-DEF": 68,
+      "botanical-term": 62,
+      "oak-DEF": 51,
+      "[?sh]-VERB": 49,
+      "oak-GEN-[?a]-DEF": 47,
+      "oak-GEN-AIN": 44,
+      "OR": 41,
+      "oak-GEN-[?eey]": 35,
+      "oak-VERB": 33,
+      "[?al]": 33
+    },
+    "top_after": {
+      "[?ch]-VERB": 116,
+      "[PARTICLE]": 82,
+      "oak-GEN-[?e]-VERB": 79,
+      "[?sh]-VERB": 78,
+      "THIS/THAT": 77,
+      "OL": 64,
+      "oak-DEF": 53,
+      "OR": 49,
+      "[?a]-DEF": 48,
+      "oak-GEN-AIN": 44,
+      "DAR": 40,
+      "botanical-term": 37,
+      "[?al]": 37,
+      "[?shey]": 36,
+      "oak-GEN-[?al]": 36
+    },
+    "sample_contexts": [
+      {
+        "line": "line1",
+        "word": "[?yk]-LOC",
+        "before": [
+          "[?fachys]"
+        ],
+        "after": [
+          "AT/IN",
+          "[?at]-DEF",
+          "[?sh]-LOC"
+        ]
+      },
+      {
+        "line": "line1",
+        "word": "[?k]-INST",
+        "before": [
+          "[?shory]",
+          "[?cthres]",
+          "[?y]"
+        ],
+        "after": [
+          "[?sh]-VERB-LOC"
+        ]
+      },
+      {
+        "line": "line3",
+        "word": "[?yk]-DEF",
+        "before": [
+          "[?syaiir]",
+          "[?sheky]",
+          "OR"
+        ],
+        "after": [
+          "botanical-term-D",
+          "[?cthoary]",
+          "[?cthes]"
+        ]
+      },
+      {
+        "line": "line15",
+        "word": "[?ck]",
+        "before": [
+          "THIS/THAT",
+          "[?shckhey]"
+        ],
+        "after": [
+          "[?e]-INST",
+          "[?ch]-INST",
+          "[?shey]"
+        ]
+      },
+      {
+        "line": "line15",
+        "word": "[?k]-LOC",
+        "before": [
+          "[?e]-INST",
+          "[?ch]-INST",
+          "[?shey]"
+        ],
+        "after": [
+          "botanical-term",
+          "botanical-term",
+          "[?k]-INST"
+        ]
+      },
+      {
+        "line": "line15",
+        "word": "[?k]-INST",
+        "before": [
+          "[?k]-LOC",
+          "botanical-term",
+          "botanical-term"
+        ],
+        "after": [
+          "[?ch]-LOC"
+        ]
+      },
+      {
+        "line": "line17",
+        "word": "[?chok]-DEF",
+        "before": [
+          "[?ycho]",
+          "T-[PARTICLE]"
+        ],
+        "after": [
+          "[?sheo]",
+          "[?psh]-LOC",
+          "[?dy]-D-VERB"
+        ]
+      },
+      {
+        "line": "line20",
+        "word": "[?shok]",
+        "before": [],
+        "after": [
+          "[?ch]-INST",
+          "[PARTICLE]",
+          "THIS/THAT"
+        ]
+      },
+      {
+        "line": "line23",
+        "word": "[?k]-DEF",
+        "before": [
+          "[?cth]-LOC",
+          "DAR",
+          "water-DIR"
+        ],
+        "after": [
+          "DAR",
+          "[?shey]",
+          "[?cth]-DIR"
+        ]
+      },
+      {
+        "line": "line24",
+        "word": "[?k]-DEF",
+        "before": [
+          "[?choo]"
+        ],
+        "after": [
+          "botanical-term-DEF",
+          "oak-LOC",
+          "THIS/THAT"
+        ]
+      }
+    ]
+  }
+}

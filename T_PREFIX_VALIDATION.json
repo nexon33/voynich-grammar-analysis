@@ -1,0 +1,93 @@
+{
+  "hypothesis": "T- = instrumental/locative marker",
+  "evidence_count": 4,
+  "tests": {
+    "cross_section": {
+      "max_deviation": 0,
+      "passed": true,
+      "section_rates": {}
+    },
+    "suffix_enrichment": {
+      "loc_inst_dir_enrichment": 1.912646822702242,
+      "passed": true,
+      "enrichment": {
+        "LOC": 1.718540596094553,
+        "INST": 2.5029990341219617,
+        "DIR": 1.5164008378902112,
+        "GEN": 0.0,
+        "VERB": 1.2093206321369498
+      }
+    },
+    "semantic_contexts": {
+      "rate": 372.5590955806783,
+      "passed": true,
+      "counts": {
+        "vessel": 294,
+        "water": 232,
+        "oak": 1315,
+        "botanical": 274,
+        "location": 1510
+      }
+    },
+    "minimal_pairs": {
+      "count": 10,
+      "passed": false,
+      "top_pairs": [
+        {
+          "stem": "oak",
+          "with_t": 5,
+          "without_t": 3953
+        },
+        {
+          "stem": "oat",
+          "with_t": 2,
+          "without_t": 1135
+        },
+        {
+          "stem": "botanical-term",
+          "with_t": 10,
+          "without_t": 611
+        },
+        {
+          "stem": "OL",
+          "with_t": 54,
+          "without_t": 526
+        },
+        {
+          "stem": "vessel",
+          "with_t": 43,
+          "without_t": 454
+        },
+        {
+          "stem": "OR",
+          "with_t": 26,
+          "without_t": 467
+        },
+        {
+          "stem": "AT/IN",
+          "with_t": 52,
+          "without_t": 403
+        },
+        {
+          "stem": "water",
+          "with_t": 11,
+          "without_t": 355
+        },
+        {
+          "stem": "AIN",
+          "with_t": 16,
+          "without_t": 91
+        },
+        {
+          "stem": "SKY",
+          "with_t": 13,
+          "without_t": 78
+        }
+      ]
+    },
+    "at_in_comparison": {
+      "overlap": 13,
+      "passed": true
+    }
+  }
+}
