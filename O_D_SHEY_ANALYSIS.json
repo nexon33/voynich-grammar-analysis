@@ -1,0 +1,62 @@
+{
+  "?o": {
+    "classification": "NOMINAL or MIXED",
+    "semantic_hints": [
+      "oak-associated (47.6%)",
+      "takes DEF (197×)"
+    ],
+    "analysis": {
+      "total": 510,
+      "verb_rate": 0.19607843137254902,
+      "standalone_rate": 0.1568627450980392,
+      "contexts": {
+        "botanical": 0.11853448275862069,
+        "vessel": 0.14870689655172414,
+        "water": 0.08836206896551724,
+        "oak": 0.47629310344827586,
+        "oat": 0.21551724137931033,
+        "liquid_r": 0.07758620689655173
+      }
+    }
+  },
+  "?d": {
+    "classification": "NOMINAL or MIXED",
+    "semantic_hints": [
+      "oak-associated (49.3%)",
+      "takes LOC (325×)"
+    ],
+    "analysis": {
+      "total": 417,
+      "verb_rate": 0.07434052757793765,
+      "standalone_rate": 0.09832134292565947,
+      "contexts": {
+        "botanical": 0.11320754716981132,
+        "vessel": 0.1320754716981132,
+        "water": 0.07277628032345014,
+        "oak": 0.49326145552560646,
+        "oat": 0.16442048517520216,
+        "liquid_r": 0.05121293800539083
+      }
+    }
+  },
+  "?shey": {
+    "classification": "NOMINAL (standalone root)",
+    "semantic_hints": [
+      "oak-associated (62.7%)",
+      "takes GEN (11×)"
+    ],
+    "analysis": {
+      "total": 315,
+      "verb_rate": 0.0,
+      "standalone_rate": 0.8761904761904762,
+      "contexts": {
+        "botanical": 0.10801393728222997,
+        "vessel": 0.06620209059233449,
+        "water": 0.10104529616724739,
+        "oak": 0.627177700348432,
+        "oat": 0.18466898954703834,
+        "liquid_r": 0.12195121951219512
+      }
+    }
+  }
+}

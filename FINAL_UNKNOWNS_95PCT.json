@@ -1,0 +1,40 @@
+{
+  "current_recognition": 91.6,
+  "target_recognition": 95.0,
+  "unknown_instances": 18487,
+  "unknown_percentage": 49.964864864864865,
+  "priority_targets": [
+    {
+      "pattern": "?o",
+      "count": 510,
+      "pct": 1.3783783783783783,
+      "classification": "NOMINAL or MIXED",
+      "verb_rate": 0.19607843137254902,
+      "standalone_rate": 0.1568627450980392
+    },
+    {
+      "pattern": "?d",
+      "count": 417,
+      "pct": 1.127027027027027,
+      "classification": "NOMINAL or MIXED",
+      "verb_rate": 0.07434052757793765,
+      "standalone_rate": 0.09832134292565947
+    },
+    {
+      "pattern": "?shey",
+      "count": 315,
+      "pct": 0.8513513513513513,
+      "classification": "NOMINAL (root)",
+      "verb_rate": 0.0,
+      "standalone_rate": 0.8761904761904762
+    }
+  ],
+  "expected_recognition": 94.96,
+  "verbal_targets": [],
+  "nominal_targets": [
+    "?o",
+    "?d",
+    "?shey"
+  ],
+  "affix_targets": []
+}
