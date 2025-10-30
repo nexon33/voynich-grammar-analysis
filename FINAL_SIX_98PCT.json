@@ -1,0 +1,254 @@
+{
+  "current": 97.5,
+  "morphemes": {
+    "?ey": {
+      "total": 196,
+      "verb_rate": 0.00510204081632653,
+      "standalone_rate": 0.0,
+      "contexts": {
+        "oak": 0.8691099476439791,
+        "oat": 0.32460732984293195
+      },
+      "before": [
+        [
+          "<START>",
+          13
+        ],
+        [
+          "[?ch]-VERB",
+          10
+        ],
+        [
+          "[?sh]-VERB",
+          9
+        ]
+      ],
+      "after": [
+        [
+          "<END>",
+          9
+        ],
+        [
+          "oak-GEN-[?e]-VERB",
+          8
+        ],
+        [
+          "oak-GEN-[?eey]",
+          7
+        ]
+      ],
+      "samples": [
+        "[?dlssho] [?k]-LOC [?sheey] oak-GEN-[?ey] [?yko]-VERB [?soch]-LOC [?yky] THIS/THAT [?daiir]-LOC",
+        "[?dch]-LOC botanical-term DOL [?shkchy] [?y]-LOC-D [PARTICLE] [?ykchy] oat-GEN-[?ey] THIS/THAT [?s] "
+      ]
+    },
+    "?yk": {
+      "total": 182,
+      "verb_rate": 0.27472527472527475,
+      "standalone_rate": 0.02197802197802198,
+      "contexts": {
+        "oak": 0.5773809523809523,
+        "oat": 0.21428571428571427
+      },
+      "before": [
+        [
+          "<START>",
+          34
+        ],
+        [
+          "THIS/THAT",
+          8
+        ],
+        [
+          "oak-GEN-[?e]-VERB",
+          5
+        ]
+      ],
+      "after": [
+        [
+          "<END>",
+          19
+        ],
+        [
+          "[?ch]-VERB",
+          9
+        ],
+        [
+          "THIS/THAT",
+          8
+        ]
+      ],
+      "samples": [
+        "[?fachys] [?yk]-LOC AT/IN [?at]-DEF [?sh]-LOC [?shory] [?cthres] [?y] [?k]-INST [?sh]-VERB-LOC",
+        "[?syaiir] [?sheky] OR [?yk]-DEF botanical-term-D [?cthoary] [?cthes] [?d]-DEF-DIR [?sa]"
+      ]
+    },
+    "?yt": {
+      "total": 176,
+      "verb_rate": 0.2840909090909091,
+      "standalone_rate": 0.0,
+      "contexts": {
+        "oak": 0.40372670807453415,
+        "oat": 0.2546583850931677
+      },
+      "before": [
+        [
+          "<START>",
+          38
+        ],
+        [
+          "botanical-term",
+          3
+        ],
+        [
+          "AT-AT/IN",
+          3
+        ]
+      ],
+      "after": [
+        [
+          "<END>",
+          17
+        ],
+        [
+          "THIS/THAT",
+          7
+        ],
+        [
+          "[?a]-DEF",
+          5
+        ]
+      ],
+      "samples": [
+        "[?y]-DEF-D [?cphes]-DEF OL [?s] [?cphey] [?yt]-DEF [?shoshy] [?cphodales]",
+        "[?daii]-VERB oat-GEN-[?ee]-LOC [?okch]-INST oak-INST AT-[?yt]-LOC DOL DAR"
+      ]
+    },
+    "?okeey": {
+      "total": 174,
+      "verb_rate": 0.0,
+      "standalone_rate": 1.0,
+      "contexts": {
+        "oak": 0.6855345911949685,
+        "oat": 0.13836477987421383,
+        "acorn": 0.006289308176100629
+      },
+      "before": [
+        [
+          "<START>",
+          18
+        ],
+        [
+          "oak-GEN-[?eey]",
+          8
+        ],
+        [
+          "oak-GEN-[?e]-VERB",
+          6
+        ]
+      ],
+      "after": [
+        [
+          "oak-GEN-[?eey]",
+          9
+        ],
+        [
+          "THIS/THAT",
+          7
+        ],
+        [
+          "<END>",
+          7
+        ]
+      ],
+      "samples": [
+        "[?ch]-INST [?qodair] [?okeey] oak-GEN-[?eey]",
+        "[?ykeey] [?okeey] [?che]-INST botanical-term botanical-term [?y]-DEF-D"
+      ]
+    },
+    "?cth": {
+      "total": 164,
+      "verb_rate": 0.10365853658536585,
+      "standalone_rate": 0.012195121951219513,
+      "contexts": {
+        "oak": 0.30666666666666664,
+        "oat": 0.21333333333333335
+      },
+      "before": [
+        [
+          "THIS/THAT",
+          22
+        ],
+        [
+          "botanical-term",
+          10
+        ],
+        [
+          "[?ch]-INST",
+          7
+        ]
+      ],
+      "after": [
+        [
+          "<END>",
+          29
+        ],
+        [
+          "THIS/THAT",
+          12
+        ],
+        [
+          "botanical-term",
+          9
+        ]
+      ],
+      "samples": [
+        "[?sory] [?ckh]-DIR OR [?y] [?kair] [?cht]-DEF [?sh]-DIR [?are] [?cth]-DIR [?cth]-DIR [?dan]",
+        "[?sory] [?ckh]-DIR OR [?y] [?kair] [?cht]-DEF [?sh]-DIR [?are] [?cth]-DIR [?cth]-DIR [?dan]"
+      ]
+    },
+    "?sheey": {
+      "total": 151,
+      "verb_rate": 0.0,
+      "standalone_rate": 0.9403973509933775,
+      "contexts": {
+        "oak": 0.6180555555555556,
+        "oat": 0.20833333333333334
+      },
+      "before": [
+        [
+          "OL",
+          12
+        ],
+        [
+          "<START>",
+          4
+        ],
+        [
+          "oak-GEN-AIN",
+          4
+        ]
+      ],
+      "after": [
+        [
+          "oak-GEN-AIN",
+          7
+        ],
+        [
+          "oak-GEN-[?ey]",
+          4
+        ],
+        [
+          "OR",
+          4
+        ]
+      ],
+      "samples": [
+        "[?ky]-DEF-D [?sh]-DEF [?qoy] [?s] [?sh]-LOC [?fodanyksh] AT-[?sheey] [?daiil]-VERB",
+        "[?dlssho] [?k]-LOC [?sheey] oak-GEN-[?ey] [?yko]-VERB [?soch]-LOC [?yky] THIS/THAT [?daiir]-LOC"
+      ]
+    }
+  },
+  "gain": 2.8189189189189188,
+  "final": 100.32
+}
