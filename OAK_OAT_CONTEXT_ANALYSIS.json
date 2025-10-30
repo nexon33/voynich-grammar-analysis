@@ -1,0 +1,238 @@
+{
+  "frequency_by_section": {
+    "herbal": {
+      "oak_count": 500,
+      "oat_count": 308
+    },
+    "stars": {
+      "oak_count": 855,
+      "oat_count": 305
+    },
+    "biological": {
+      "oak_count": 1001,
+      "oat_count": 303
+    },
+    "pharmaceutical": {
+      "oak_count": 429,
+      "oat_count": 150
+    }
+  },
+  "context_patterns": {
+    "herbal": {
+      "oak": {
+        "before_top10": {
+          "THIS/THAT": 45,
+          "[PARTICLE]": 40,
+          "[?sh]-VERB": 26,
+          "[?ch]-VERB": 21,
+          "botanical-term": 20,
+          "[?y]": 18,
+          "oak-GEN-[?e]-VERB": 18,
+          "[?sh]-LOC": 17,
+          "[?a]-DEF": 16,
+          "oat-GEN-[PARTICLE]": 14
+        },
+        "after_top10": {
+          "THIS/THAT": 59,
+          "botanical-term": 34,
+          "[PARTICLE]": 33,
+          "AT/IN": 32,
+          "[?ch]-VERB": 30,
+          "DAR": 28,
+          "[?dy]": 26,
+          "[?s]": 21,
+          "OR": 20,
+          "OKAL": 17
+        }
+      },
+      "oat": {
+        "before_top10": {
+          "THIS/THAT": 37,
+          "botanical-term": 31,
+          "[PARTICLE]": 24,
+          "[?sh]-LOC": 12,
+          "oak-GEN-[PARTICLE]": 11,
+          "[?ch]-INST": 10,
+          "[?sh]-INST": 10,
+          "OR": 9,
+          "oat-GEN-[PARTICLE]": 9,
+          "AT-[PARTICLE]": 8
+        },
+        "after_top10": {
+          "THIS/THAT": 74,
+          "[PARTICLE]": 53,
+          "botanical-term": 25,
+          "[?dy]": 20,
+          "DAR": 15,
+          "[?s]": 13,
+          "[?ch]-INST": 13,
+          "AT/IN": 10,
+          "oak-GEN-[PARTICLE]": 9,
+          "[?ch]-VERB": 9
+        }
+      }
+    },
+    "stars": {
+      "oak": {
+        "before_top10": {
+          "oak-GEN-[?e]-VERB": 126,
+          "[?ch]-VERB": 99,
+          "oak-GEN-[?eey]": 82,
+          "[PARTICLE]": 78,
+          "[?sh]-VERB": 69,
+          "THIS/THAT": 66,
+          "AT-[?e]-VERB": 53,
+          "oak-DEF": 46,
+          "[?okeey]": 42,
+          "[?lch]-VERB": 38
+        },
+        "after_top10": {
+          "oak-GEN-[?e]-VERB": 95,
+          "[?ch]-VERB": 95,
+          "[PARTICLE]": 67,
+          "AT/IN": 59,
+          "oak-GEN-[?eey]": 58,
+          "AT-[?e]-VERB": 50,
+          "[?al]": 50,
+          "oak-DEF": 45,
+          "[?a]-DEF": 45,
+          "[?sh]-VERB": 44
+        }
+      },
+      "oat": {
+        "before_top10": {
+          "oak-GEN-[?e]-VERB": 43,
+          "[?ch]-VERB": 39,
+          "[?sh]-VERB": 34,
+          "AT-[?e]-VERB": 20,
+          "oak-DEF": 17,
+          "[?a]-DEF": 16,
+          "oak-GEN-[?eey]": 16,
+          "oak-VERB": 15,
+          "AT-[?ch]-VERB": 13,
+          "oat-GEN-[?e]-VERB": 13
+        },
+        "after_top10": {
+          "[?ch]-VERB": 31,
+          "[?sh]-VERB": 21,
+          "AT-[?e]-VERB": 18,
+          "[?a]-DEF": 18,
+          "THIS/THAT": 18,
+          "AT/IN": 17,
+          "AT-[?a]-DEF": 16,
+          "oak-VERB": 15,
+          "oat-GEN-[?e]-VERB": 14,
+          "oat-GEN-AIN": 14
+        }
+      }
+    },
+    "biological": {
+      "oak": {
+        "before_top10": {
+          "[?sh]-VERB": 197,
+          "oak-GEN-[?e]-VERB": 183,
+          "[?ch]-VERB": 135,
+          "OL": 84,
+          "[PARTICLE]": 72,
+          "oak-GEN-AIN": 57,
+          "oak-GEN-[?eey]": 53,
+          "oak-GEN-[?al]": 52,
+          "[?shey]": 52,
+          "oat-GEN-[?e]-VERB": 49
+        },
+        "after_top10": {
+          "[?ch]-VERB": 172,
+          "oak-GEN-[?e]-VERB": 162,
+          "[?sh]-VERB": 155,
+          "OL": 110,
+          "[PARTICLE]": 82,
+          "oak-GEN-AIN": 70,
+          "THIS/THAT": 62,
+          "oak-GEN-[?al]": 59,
+          "THEN": 50,
+          "[?d]-LOC": 50
+        }
+      },
+      "oat": {
+        "before_top10": {
+          "[?sh]-VERB": 47,
+          "oak-GEN-[?e]-VERB": 47,
+          "[?ch]-VERB": 46,
+          "oat-GEN-[?e]-VERB": 25,
+          "oak-GEN-AIN": 24,
+          "[PARTICLE]": 20,
+          "OL": 19,
+          "THIS/THAT": 17,
+          "water-LOC": 17,
+          "AT-[?e]-VERB": 17
+        },
+        "after_top10": {
+          "[?ch]-VERB": 43,
+          "[?sh]-VERB": 40,
+          "oak-GEN-[?e]-VERB": 39,
+          "OL": 29,
+          "[PARTICLE]": 24,
+          "AT-[?e]-VERB": 22,
+          "oak-GEN-AIN": 22,
+          "oat-GEN-[?e]-VERB": 20,
+          "oak-GEN-[?al]": 20,
+          "oak-GEN-[?a]-DEF": 18
+        }
+      }
+    },
+    "pharmaceutical": {
+      "oak": {
+        "before_top10": {
+          "[?sh]-VERB": 38,
+          "[?ch]-VERB": 38,
+          "oak-GEN-[?eey]": 33,
+          "[PARTICLE]": 32,
+          "[?shey]": 31,
+          "OL": 29,
+          "water-LOC": 25,
+          "botanical-term": 23,
+          "THIS/THAT": 23,
+          "oak-GEN-[?e]-VERB": 23
+        },
+        "after_top10": {
+          "[?ch]-VERB": 46,
+          "THIS/THAT": 35,
+          "[?sh]-VERB": 35,
+          "oak-GEN-[?eey]": 33,
+          "[PARTICLE]": 30,
+          "OL": 22,
+          "vessel-VERB": 20,
+          "[?a]-DEF": 20,
+          "oak-GEN-[?e]-VERB": 19,
+          "botanical-term": 17
+        }
+      },
+      "oat": {
+        "before_top10": {
+          "[?ch]-VERB": 20,
+          "[?sh]-VERB": 18,
+          "THIS/THAT": 13,
+          "oak-GEN-[?eey]": 12,
+          "AT-[?e]-VERB": 11,
+          "oak-GEN-[?e]-VERB": 10,
+          "oak-GEN-[?a]-DEF": 7,
+          "OL": 7,
+          "[?okeey]": 6,
+          "[PARTICLE]": 6
+        },
+        "after_top10": {
+          "[?ch]-VERB": 16,
+          "[?sh]-VERB": 12,
+          "AT-[?e]-VERB": 9,
+          "botanical-term": 8,
+          "OL": 8,
+          "THIS/THAT": 7,
+          "[?d]-LOC": 6,
+          "[?a]-DEF": 6,
+          "[?shey]": 6,
+          "oak-GEN-AIN": 6
+        }
+      }
+    }
+  }
+}
