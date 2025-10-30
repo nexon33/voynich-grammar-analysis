@@ -1,0 +1,75 @@
+{
+  "total_al_sentences": 1150,
+  "categories": {
+    "with_ch_verb": 200,
+    "with_sh_verb": 124,
+    "with_both_verbs": 71,
+    "with_vessel": 151,
+    "with_water": 102,
+    "with_botanical": 539,
+    "with_oak_gen": 540,
+    "with_oat_gen": 251,
+    "standalone": 50,
+    "other": 0
+  },
+  "sample_sentences": {
+    "with_both_verbs": [
+      "oak-GEN-[?oy] botanical-term [?oke]-LOC [?s] [?keey] [?sh]-DIR [?ch]-DIR [?o]-VERB",
+      "[?sh]-LOC botanical-term [?sh]-LOC T-[?ch]-LOC [?chcthy] AT-[?yky] [?shey] [?yte]-LOC botanical-term-VERB",
+      "T-[?o]-VERB pharmaceutical-substance-VERB [?sh]-VERB DAR [?ch]-VERB [?sches] OR [?cheeky] DAR [PARTICLE] [?cheky] [?ytch]-VERB",
+      "[?sh]-INST [?ch]-INST botanical-term [?sheky] [PARTICLE] oat-GEN-[?y] [?ko]-DEF-D-VERB [PARTICLE]",
+      "[?dch]-INST botanical-term [?ch]-DEF [?sh]-DEF [?cthoddarchssho]-VERB",
+      "[?ytch]-VERB T-[?y] [?sh]-LOC T-OL-VERB botanical-term-VERB AT-[?ch]-VERB [?sh]-VERB AT-OL-LOC [?sh]-D AT-[?ky] [?yt]-LOC AT-[?ary] [?cheky] [?dy]",
+      "T-[PARTICLE] [PARTICLE] [?chk]-LOC [?ch]-D oak-GEN-[?dy] [?sh]-VERB [?al]-VERB-LOC AT-[?aiir] water-LOC",
+      "[?ytchey] pharmaceutical-substance-VERB [?chockh]-VERB [?chot]-LOC [?okalsh]-VERB [?sh]-VERB oak-GEN-AT/IN AT-[?y] oat-GEN-[?y] [?sh]-VERB [?ch]-VERB [MODAL]",
+      "[?folr] [PARTICLE] [?so] botanical-term [?sh]-LOC [?a]-DEF [?sh]-LOC [?sh]-LOC [?ch]-VERB [?ch]-LOC-LOC",
+      "T-vessel-DEF-D [?oeeey] oak-DEF [?sh]-VERB oak-GEN-[?aly] [?ch]-VERB AT-[?y] pharmaceutical-substance-VERB [PARTICLE] oak-DEF"
+    ],
+    "with_vessel": [
+      "[?yshey] botanical-term-VERB [?okchoy] oat-vessel [?chocthy] [?oschy] THIS/THAT [?ch]-INST [?kos]",
+      "THIS/THAT [?o]-DEF botanical-term [?o]-DEF-D vessel-DEF-D [?ch]-VERB oak-DEF [?dan] [PARTICLE] [?ko]-D",
+      "botanical-term botanical-term [?shodan] [?kshy] [?kchy] red vessel-DEF-D botanical-term [?kchom]",
+      "oak-LOC [?sh]-LOC [?k]-LOC [?kechy] botanical-term [?kych]-LOC [?cth]-LOC vessel-VERB botanical-term THIS/THAT",
+      "[?sh]-INST oak-LOC botanical-term DOL [?ky] [?darsh]-LOC [?dch]-INST AT-vessel DAR botanical-term-VERB",
+      "[?kcho] [?kchy] botanical-term [?sh]-LOC oat-GEN-vessel [?loeees] oat-GEN-[?ych]-INST THIS/THAT",
+      "AT-[PARTICLE] [?ch]-INST [?lshy] botanical-term vessel-VERB [?chodainchcthy] THIS/THAT",
+      "botanical-term [?cholo] [?che]-INST vessel-DEF-D",
+      "botanical-term OR [?sheoldam] AT-vessel-VERB OL",
+      "botanical-term [?shockho] [?ckhy] T-[?ch]-INST vessel-DEF-D [PARTICLE]"
+    ],
+    "with_water": [
+      "[?doin] botanical-term THIS/THAT [?cth]-LOC DAR water-DIR [?k]-DEF DAR [?shey] [?cth]-DIR",
+      "[?yke]-INST botanical-term botanical-term [?cth]-LOC [?chk]-INST water-LOC",
+      "T-botanical-term-DEF [?che]-INST [?ch]-INST [?o] [?chty] oat-GEN-OL water-LOC [?sh]-INST THIS/THAT oat-GEN-[?y]",
+      "botanical-term botanical-term [?k]-INST [?shey] [?o]-DEF-D oat-GEN-[PARTICLE] T-[?aiins] water AT-[?ey] [?sy]",
+      "[?cthscth]-DEF [?shos]-DEF [?chocthey] botanical-term [?chepchy] [?sh]-INST water-DEF",
+      "botanical-term water-VERB-LOC AT-[?che]-INST THIS/THAT",
+      "[?ykeeo] THIS/THAT water-LOC-D oak-VERB [?okey] pharmaceutical-substance-VERB [?okchey] [?sair] [?okees] [?o] [?lk]-VERB",
+      "T-water-DIR-D botanical-term [?k]-VERB-LOC [?chckhy] oak-GEN-[?al]-VERB [?chek]-LOC [?chckhy] [?sheky] [?sheky] [?dalocthhy]",
+      "T-[PARTICLE] [PARTICLE] [?chk]-LOC [?ch]-D oak-GEN-[?dy] [?sh]-VERB [?al]-VERB-LOC AT-[?aiir] water-LOC",
+      "T-[?o]-DEF-LOC-D oat-GEN-[?al] [?k]-DEF AT-[?a]-DEF AT-[?al] water [?k]-DIR AT/IN-DEF [?okch]-VERB [?d]-DEF-DIR"
+    ],
+    "oak_gen": [
+      "AT-[?e]-LOC botanical-term [?s] [?che]-LOC [?ekshy] oak-GEN-[?eom] oak-GEN-OL [?daiinsoleeg]",
+      "[?och]-INST THIS/THAT oak-GEN-[?sh]-LOC [?daiim] botanical-term [?okary]",
+      "oak-GEN-[?oy] botanical-term [?oke]-LOC [?s] [?keey] [?sh]-DIR [?ch]-DIR [?o]-VERB",
+      "[?ochey] [?okey] oak-GEN-[?a]-DEF botanical-term [?ckhoy] [?cthey] [PARTICLE] [?oka]-INST AT-OL",
+      "oak-GEN-OR botanical-term [?cth]-LOC T-[?chalo]-VERB",
+      "oak-GEN-[?echy] AT-vessel-DEF botanical-term [?cpheyshckhy] [?chochy] [?kcho]-D",
+      "botanical-term [?dchy] oak-GEN-AT/IN [?chl]-DEF [?chean] [?cky] [?ch]-DIR [?ch]-DEF",
+      "[?dch]-INST [?qo]-DEF [?chk]-DEF [?cth]-INST botanical-term [?ch]-INST [?cph]-LOC [?dyoty] oak-GEN-[?a]-DEF [?dy]",
+      "oak-GEN-[PARTICLE] oat-GEN-[?ch]-LOC botanical-term [PARTICLE]",
+      "botanical-term [?ykeey] THIS/THAT oat-GEN-[PARTICLE] oat-GEN-OR botanical-term THIS/THAT oak-GEN-[?chyky]",
+      "botanical-term-DEF [?ch]-INST [?shcthy] oat-GEN-[?y] oat-GEN-[?o]-DEF oak-GEN-OL [?ch]-DEF-INST",
+      "oak-GEN-OL [?chyky] botanical-term [?cheky] THIS/THAT THIS/THAT [?chckhan]",
+      "AT-[?ch]-INST [?dy] [?kchy] T-[PARTICLE] AT/IN oak-GEN-[?chdoky] botanical-term [?dy] [?dy]",
+      "[?dchy] oak-GEN-[?y] botanical-term [?dy] oak-GEN-[?hy] [?d] AT-[?dyokch]-INST [?do]-DEF",
+      "oak-GEN-[?a]-DEF oat-GEN-[PARTICLE] T-[?y]-DEF-D-VERB botanical-term [PARTICLE]",
+      "T-botanical-term [?qofcho] oak-GEN-[?che]-INST [?chekeg]",
+      "oak-GEN-vessel oak-GEN-[?oiir] [?cthe]-LOC botanical-term",
+      "[?fchodees] botanical-term-VERB oat-GEN-[PARTICLE] oak-GEN-[PARTICLE] [?qocphy] [?chok]-VERB-LOC",
+      "[?ykeey] THIS/THAT [?chosy] oak-GEN-[?o]-DEF AT-OL botanical-term oat-GEN-[?che]-LOC [?okeo]-DEF",
+      "[?dch]-INST [?y] [?kolyky] botanical-term [?k]-LOC oak-GEN-[?e]-LOC [?ch]-LOC-LOC oat-GEN-[?ee]-LOC [?da]-VERB"
+    ]
+  }
+}

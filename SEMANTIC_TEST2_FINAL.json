@@ -1,0 +1,114 @@
+{
+  "sections": {
+    "herbal": {
+      "sentence_count": 1759,
+      "word_count": 11278,
+      "al_count": 409,
+      "botanical_count": 306,
+      "oak_gen_count": 384,
+      "oat_gen_count": 262,
+      "vessel_count": 223,
+      "water_count": 76,
+      "ch_verb_count": 187,
+      "sh_verb_count": 108
+    },
+    "astronomical": {
+      "sentence_count": 760,
+      "word_count": 3652,
+      "al_count": 95,
+      "botanical_count": 24,
+      "oak_gen_count": 122,
+      "oat_gen_count": 32,
+      "vessel_count": 33,
+      "water_count": 25,
+      "ch_verb_count": 74,
+      "sh_verb_count": 54
+    },
+    "biological": {
+      "sentence_count": 937,
+      "word_count": 7544,
+      "al_count": 217,
+      "botanical_count": 30,
+      "oak_gen_count": 572,
+      "oat_gen_count": 240,
+      "vessel_count": 18,
+      "water_count": 95,
+      "ch_verb_count": 296,
+      "sh_verb_count": 288
+    },
+    "other": {
+      "sentence_count": 194,
+      "word_count": 1140,
+      "al_count": 23,
+      "botanical_count": 15,
+      "oak_gen_count": 46,
+      "oat_gen_count": 11,
+      "vessel_count": 33,
+      "water_count": 20,
+      "ch_verb_count": 17,
+      "sh_verb_count": 9
+    },
+    "pharmaceutical": {
+      "sentence_count": 685,
+      "word_count": 4936,
+      "al_count": 139,
+      "botanical_count": 86,
+      "oak_gen_count": 276,
+      "oat_gen_count": 115,
+      "vessel_count": 90,
+      "water_count": 56,
+      "ch_verb_count": 123,
+      "sh_verb_count": 93
+    },
+    "stars": {
+      "sentence_count": 869,
+      "word_count": 8575,
+      "al_count": 267,
+      "botanical_count": 78,
+      "oak_gen_count": 504,
+      "oat_gen_count": 228,
+      "vessel_count": 127,
+      "water_count": 86,
+      "ch_verb_count": 285,
+      "sh_verb_count": 129
+    }
+  },
+  "enrichment": {
+    "al_count": {
+      "botanical_freq": 0.22422258592471359,
+      "non_botanical_freq": 0.22564302416212004,
+      "enrichment_ratio": 0.9937049317492488
+    },
+    "botanical_count": {
+      "botanical_freq": 0.16039279869067102,
+      "non_botanical_freq": 0.05144193296960249,
+      "enrichment_ratio": 3.117938798789863
+    },
+    "oak_gen_count": {
+      "botanical_freq": 0.2700490998363339,
+      "non_botanical_freq": 0.46687451286048326,
+      "enrichment_ratio": 0.5784190235225649
+    },
+    "oat_gen_count": {
+      "botanical_freq": 0.15425531914893617,
+      "non_botanical_freq": 0.19485580670303976,
+      "enrichment_ratio": 0.7916382978723404
+    },
+    "vessel_count": {
+      "botanical_freq": 0.12806873977086744,
+      "non_botanical_freq": 0.06936866718628215,
+      "enrichment_ratio": 1.846204417146325
+    },
+    "water_count": {
+      "botanical_freq": 0.054009819967266774,
+      "non_botanical_freq": 0.08028059236165237,
+      "enrichment_ratio": 0.6727630972621678
+    }
+  },
+  "summary": {
+    "botanical_sentences": 2444,
+    "non_botanical_sentences": 2566,
+    "avg_enrichment": 1.333444761057085,
+    "unmapped_sentences": 0
+  }
+}

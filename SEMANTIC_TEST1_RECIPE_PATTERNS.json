@@ -1,0 +1,387 @@
+{
+  "total_sentences": 5204,
+  "patterns": {
+    "substance_prep_location": {
+      "description": "Substance + Preparation + Vessel",
+      "example": "oak-GEN-al + [?ch]-VERB + vessel",
+      "match_count": 11,
+      "percentage": 0.21137586471944658,
+      "matches": [
+        {
+          "folio": "line1490",
+          "sentence": "[?yt]-INST AT/IN [?alom] oak-GEN-[?al]-INST [?ch]-VERB THERE vessel-VERB [?che]-LOC [?okolchy] AT-[?al]-VERB",
+          "original": "ytor ar alom qokalor chdy dair chody cheol okolchy otaldy"
+        },
+        {
+          "folio": "line1624",
+          "sentence": "oak-GEN-[?ey] AT/IN AT-[?ke]-LOC oak-GEN-[?al] [?cheoky] [?ykch]-VERB vessel-VERB [?sheo]-VERB oak-GEN-[?y] [?l]-VERB",
+          "original": "qokey ar olkeol qokal cheoky ykchdy chody sheody qoky ldy"
+        },
+        {
+          "folio": "line1973",
+          "sentence": "[?doair] AT-[?aldaldair] [?y] [?ch]-VERB AT-[?o]-DIR AT/IN [?y] [PARTICLE] oat-GEN-[?e]-INST vessel oat-GEN-SKY [?chda] AT-[?ee]-LOC [?che]-DIR AT/IN SKY AT-[?eo]-VERB [?ytyda] [?dchy] AT-[?oly] [?okeo]-LOC-D AT-[?eo]-DIR-DIR [?chetesescher] THERE [PARTICLE] [?oko]-VERB [?d]-LOC AT-[?eey] AT-[?eey]",
+          "original": "doair otaldaldair y chdy otoar ar y chy qoteor cho qotair chda oteeal chear ar air oteody ytyda dchy otoly okeodal oteoarar chetesescher dair chey okody dal oteey oteey"
+        },
+        {
+          "folio": "line2363",
+          "sentence": "AT-[?eot]-INST [?alshy] AT-[?e]-DEF-LOC [?chokeedam] AT-[?o]-VERB oat-GEN-[?y] [?sh]-VERB [?ch]-VERB T-[?ch]-LOC AT-[?eo]-VERB [?cheytey] [?choty] [?okey] [?dy] [?okecholy] AT-[?ey] vessel-DEF-D [PARTICLE] [?okch]-VERB [?saly] AT/IN [?daly]",
+          "original": "oteotor alshy oteolain chokeedam otody qoty shedy chdy tchol oteody cheytey choty okey dy okecholy otey chodaiin chey okchdy saly ar daly"
+        },
+        {
+          "folio": "line3322",
+          "sentence": "[?yt]-INST botanical-term [?shdyto]-VERB oat-GEN-[?ch]-VERB oat-vessel [?chees] AT/IN [?eeo]-DEF-D OR AT/IN-LOC [?alkam]",
+          "original": "ytor chol shdytody qotchdy otchol chees ar eeodaiin or aral alkam"
+        },
+        {
+          "folio": "line4262",
+          "sentence": "[?pch]-LOC [?ksheo]-VERB oak-GEN-[?esh]-VERB oak-GEN-[?al] [?ch]-VERB oak-GEN-[?a]-DEF AT-[?a]-DEF vessel-VERB oak-GEN-[?al] T-[?a]-DEF [?cholxy]",
+          "original": "pchol ksheody qokeshedy qokal chedy qokaiin otaiin cheody qokal taiin cholxy"
+        },
+        {
+          "folio": "line4444",
+          "sentence": "THIS/THAT botanical-term-VERB [?kch]-VERB [?sheo]-VERB AT-[?k]-DEF [?shk]-DIR vessel-VERB T-[?alsh]-VERB oak-GEN-AIN [?kararo]",
+          "original": "daiin shody kchedy sheody olkaiin shkar chody talshdy qokain kararo"
+        },
+        {
+          "folio": "line4450",
+          "sentence": "[?ycheey] [?qo]-VERB vessel-DEF-D AT-[?al] [?ch]-VERB oak-GEN-[?a]-DEF [?chok]-DEF vessel-VERB oak-GEN-[?al] AT-[?al] AT-[MODAL]",
+          "original": "ycheey qoeedy chodain otal chdy qokaiin chokaiin chody qokal otal otam"
+        },
+        {
+          "folio": "line4454",
+          "sentence": "[?s]-DIR-DIR [?oke]-INST [?a]-DEF [?chot]-LOC botanical-term-VERB oat-GEN-[?ch]-VERB oat-GEN-AT/IN [?sh]-VERB vessel-LOC-D [?ch]-VERB oat-GEN-[MODAL]",
+          "original": "sarar okeor aiin chotal shody qotchdy qotar shedy chodal chedy qotam"
+        },
+        {
+          "folio": "line4876",
+          "sentence": "[?sa] AT/IN [?o]-DEF [?okchey] [?al] [?ch]-VERB botanical-term AT-[?a]-DEF [?che]-DIR-D [?lk]-DEF vessel THIS/THAT",
+          "original": "sa ar oiin okchey al chedy chol otaiin chedar lkain cheo dain"
+        }
+      ]
+    },
+    "substance_prep_apply": {
+      "description": "Substance + Prepare + Apply",
+      "example": "oak-GEN-al + [?ch]-VERB + [?sh]-VERB",
+      "match_count": 21,
+      "percentage": 0.4035357417371253,
+      "matches": [
+        {
+          "folio": "line1045",
+          "sentence": "[?ytch]-VERB T-[?y] [?sh]-LOC T-OL-VERB botanical-term-VERB AT-[?ch]-VERB [?sh]-VERB AT-OL-LOC [?sh]-D AT-[?ky] [?yt]-LOC AT-[?ary] [?cheky] [?dy]",
+          "original": "ytchedy ty shol toldy shody otchdy shdy otolol shd olky ytol otary cheky dy"
+        },
+        {
+          "folio": "line1617",
+          "sentence": "T-[?odeeey] pharmaceutical-substance-VERB [?ch]-VERB pharmaceutical-substance-VERB [?sh]-VERB [?shekeefy] [?ch]-VERB water-LOC [?sh]-LOC [?k]-VERB [?daly]",
+          "original": "todeeey keody chdy keody shedy shekeefy chdy sheol shol kedy daly"
+        },
+        {
+          "folio": "line2404",
+          "sentence": "[?qo]-DEF-D [?cheeky] oak-GEN-[?ey] oak-GEN-AIN [?cheky] oak-GEN-[?al] THIS/THAT [?ch]-VERB oak-LOC-LOC [?sh]-VERB oak-DIR AT-[?om]",
+          "original": "qodaiin cheeky qokey qokain cheky qokal dain chedy okalol shedy okar olom"
+        },
+        {
+          "folio": "line2516",
+          "sentence": "[?ch]-INST [?sh]-VERB oak-GEN-[?e]-D [?okees] [?al] AT/IN [?a]-DEF AT/IN AIN [?chckhee]-D [?lch]-VERB [?sh]-VERB [?qolair] [?ch]-VERB",
+          "original": "chor shedy qoked okees al ar aiin ar ain chckheed lchedy shedy qolair chedy"
+        },
+        {
+          "folio": "line2535",
+          "sentence": "[?polalch]-VERB [?psh]-VERB [?opch]-VERB oak-GEN-[?as] [?ykshe]-LOC oak-GEN-[?e]-VERB AT-[?y] [?lshe]-D [?chpsh]-VERB [?yt]-LOC",
+          "original": "polalchdy pshedy opchedy qokas yksheol qokeedy oty lshed chpsheedy ytal"
+        },
+        {
+          "folio": "line2656",
+          "sentence": "T-[?che]-DIR-D AT-AIN [?checkhy] AND [?sh]-VERB oak-GEN-[?al] [?ch]-VERB oak-GEN-[?e]-VERB THEN [?sh]-VERB [?l]-LOC",
+          "original": "tchedar olain checkhy sal shedy qokal chedy qokedy qol shedy lol"
+        },
+        {
+          "folio": "line2657",
+          "sentence": "[?qockhy] DOL [?ch]-VERB [?dshee]-LOC-D oak-GEN-[?al] [?ch]-VERB [?d]-LOC [?sh]-VERB oak-GEN-[?e]-VERB [?d]-LOC AT-[PARTICLE]",
+          "original": "qockhy dol chdy dsheedal qokal chedy dal shedy qokeedy dal olchy"
+        },
+        {
+          "folio": "line2659",
+          "sentence": "[?s]-INST water-LOC [?ch]-VERB oak-GEN-[?e]-VERB DAR [?sh]-VERB [?ch]-VERB oak-GEN-[?al] [?ch]-VERB oak-GEN-[?ey] [?lsh]-VERB [?d]-LOC",
+          "original": "sor sheol chdy qokeedy dar shedy chedy qokal chedy qokey lshedy dal"
+        },
+        {
+          "folio": "line2894",
+          "sentence": "T-[?olk]-DEF AT-[?al] [?ch]-VERB oak-GEN-AT/IN OL [?sh]-VERB [?checkhy] [?oroly]",
+          "original": "tolkain otal chedy qokar ol shedy checkhy oroly"
+        },
+        {
+          "folio": "line3064",
+          "sentence": "oat-GEN-[?ey] oak-GEN-[?al] [?shoky] oak-GEN-[?al] [?ch]-VERB oat-GEN-[?al] [?sh]-VERB",
+          "original": "qotey qokal shoky qokal chedy qotal shedy"
+        }
+      ]
+    },
+    "botanical_verb_substance": {
+      "description": "Botanical term + Action + Substance",
+      "example": "botanical-term + [?ch]-VERB + oak-GEN-al",
+      "match_count": 42,
+      "percentage": 0.8070714834742506,
+      "matches": [
+        {
+          "folio": "line35",
+          "sentence": "oak-LOC [?sh]-LOC [?k]-LOC [?kechy] botanical-term [?kych]-LOC [?cth]-LOC vessel-VERB botanical-term THIS/THAT",
+          "original": "okol shol kol kechy chol kychol cthol chody chol daiin"
+        },
+        {
+          "folio": "line118",
+          "sentence": "botanical-term-VERB [?s] [?che]-INST [?choko]-VERB botanical-term-DEF-D oat-GEN-[?y]",
+          "original": "shody s cheor chokody shodaiin qoty"
+        },
+        {
+          "folio": "line920",
+          "sentence": "T-[?oh]-VERB [?ch]-VERB AT-[?a]-DEF [?ch]-VERB [?shckhdchy] botanical-term OR OR-VERB [?chees] [?aly] [?okalcheg]",
+          "original": "tohedy chdy olaiin chedy shckhdchy chol or ordy chees aly okalcheg"
+        },
+        {
+          "folio": "line1021",
+          "sentence": "botanical-term [?choto]-VERB [?chot]-LOC [?oky] botanical-term [?choldl] [?chcthy] AT-[?oy]",
+          "original": "sho chotody chotol oky chol choldl chcthy otoy"
+        },
+        {
+          "folio": "line1114",
+          "sentence": "T-water-DIR-D botanical-term [?k]-VERB-LOC [?chckhy] oak-GEN-[?al]-VERB [?chek]-LOC [?chckhy] [?sheky] [?sheky] [?dalocthhy]",
+          "original": "tshedar chol kaldy chckhy qokaldy chekal chckhy sheky sheky dalocthhy"
+        },
+        {
+          "folio": "line1341",
+          "sentence": "[?ochoiky] [?dshey] botanical-term [?ykcheo]-VERB botanical-term [MODAL]",
+          "original": "ochoiky dshey chol ykcheody chol dam"
+        },
+        {
+          "folio": "line1344",
+          "sentence": "[?oc] T-[?heo]-VERB botanical-term-VERB [?qo]-LOC-D [?ctho]-VERB water-INST botanical-term-DEF-D",
+          "original": "oc theody shody qodal cthody sheor shodaiin"
+        },
+        {
+          "folio": "line1364",
+          "sentence": "DAR [?ch]-INST [?cheky] botanical-term oak-DEF vessel-VERB botanical-term [?dy]",
+          "original": "dar chor cheky chol okaiin chody chol dy"
+        },
+        {
+          "folio": "line1472",
+          "sentence": "botanical-term-DIR AT/IN [?ch]-LOC-D-LOC AT-[?alch]-LOC [?d]-LOC [?ch]-VERB-LOC [?okalys] SKY-VERB-LOC [?sh]-DIR",
+          "original": "shoar ar choldal otalchal dal choldy okalys airaldy shar"
+        },
+        {
+          "folio": "line1853",
+          "sentence": "[?odch]-D AT-[?ch]-VERB [?cheoteeo] [?oshchey] [?chok]-LOC vessel-VERB [?ch]-VERB AT-[?eo]-DEF-D AT-vessel-LOC-D [?s]-LOC [?che]-INST AT-[?eo] AT-[?eey] [?oetch]-VERB [?opcheo]-VERB [?dch]-VERB THIS/THAT AT-[?eeo]-VERB [?dach]-VERB AT-[?eeo]-VERB [?qochecthm] [?dchreo] [?okeodly] [?do] [?ls] [?osch]-DEF [?cheockhedchy] vessel-LOC-D vessel-VERB botanical-term [?al] AT-[?eodche]-D oak-VERB oak-GEN-[?eey] [?choky] DOL [?dalees]-D [?okinaiir]",
+          "original": "odchd otchdy cheoteeo oshchey chokol cheody chedy oteodaiin otchodal sol cheor oteo oteey oetchdy opcheody dchedy daiin oteeody dacheedy oteeody qochecthm dchreo okeodly do ls oschaiin cheockhedchy chodal cheody chol al oteodched okedy qokeey choky dol daleesd okinaiir"
+        }
+      ]
+    },
+    "water_verb_location": {
+      "description": "Water + Action + Vessel",
+      "example": "water + [?ch]-VERB + vessel",
+      "match_count": 9,
+      "percentage": 0.17294388931591084,
+      "matches": [
+        {
+          "folio": "line1473",
+          "sentence": "[?yt]-DIR water-DIR [?che]-VERB-LOC [?yke]-LOC [?che]-LOC vessel-VERB [?ch]-LOC [?ch]-DEF OL AT-[?y]",
+          "original": "ytar sheear cheoldy ykeol cheal cheody chal chaiin ol oly"
+        },
+        {
+          "folio": "line2073",
+          "sentence": "water-LOC [?dalalo]-VERB AT-[?eoshey] [?okoksheo] [?shokey] [?r]-DEF AT-OR [?ochy] [?sais] vessel-VERB [PARTICLE] AT-[?eoeey] [?oamr] [?chcthy] [?dl]-LOC AT-[?eo]-DEF-D [?ykeo]-VERB AT-[?eo]-VERB [?sheo] THIS/THAT AT-[?e]-VERB [?chekalchs] DAR [?shoteeo]-VERB [?okeeo] [?d]-LOC vessel-VERB [?okchoteees] AT-[?eeo]-VERB [?cheokeo] AT-[?a]-DEF [?shes] T-[?o]-DIR [?aly] [?daly] water-LOC [?daly]",
+          "original": "sheal dalalody oteoshey okoksheo shokey raiin otor ochy sais cheody cheey oteoeey oamr chcthy dlal oteodaiin ykeody oteody sheo daiin oteedy chekalchs dar shoteeody okeeo dal cheody okchoteees oteeody cheokeo otaiin shes toar aly daly sheal daly"
+        },
+        {
+          "folio": "line3353",
+          "sentence": "[?pche]-DIR-D AT/IN [?oep]-INST AT-[?eer] [?o] [?cs] [?a]-DEF AT-[?ke]-INST DAR SKY [?dery] [?doeedeyopch]-VERB water-DEF-D DAR AT-[?e]-VERB THIS/THAT AT-[?ey] [MODAL] AT-[?e]-VERB THIS/THAT [?chocthy] [?dtedair] vessel-VERB [?sheos] AT-[?edos] oak-GEN-[?echy] [?pch]-VERB-D [?dan] OL DOL AT-[?y] botanical-term [?p]-LOC AT-[?oldyl]",
+          "original": "pchedar ar oepor oteer o cs aiin olkeor dar air dery doeedeyopchedy shedaiin dar otedy dain otey dam otedy daiin chocthy dtedair chody sheos otedos qokechy pchdeedy dan ol dol oty sho pol otoldyl"
+        },
+        {
+          "folio": "line3622",
+          "sentence": "[?do]-DEF [?d]-LOC water-LOC [?s] [?a]-DEF [?qocheey] THIS/THAT oak-GEN-[?ee]-LOC oak-GEN-[?eo]-VERB botanical-term [?che]-LOC [?ykeo] [?qo] THEN vessel [?loi]-DEF [?daimom]",
+          "original": "doiin dal sheol s aiin qocheey daiin qokeeol qokeody chol cheol ykeo qo qol cheo loiiin daimom"
+        },
+        {
+          "folio": "line3704",
+          "sentence": "AND water-LOC [?shey] oak-GEN-[?eey] oak-GEN-[?e]-LOC vessel-VERB [?sykee]-LOC DAR vessel-VERB [?y]",
+          "original": "sal sheol shey qokeey qokeol cheody sykeeol dar chody y"
+        },
+        {
+          "folio": "line3705",
+          "sentence": "[?shey] [?s] [?sheeyl] water-LOC [?sheo]-VERB T-OL [?sheoct] [?yoteey] vessel-DIR-D [?choy]",
+          "original": "shey s sheeyl sheol sheody tol sheoct yoteey chodar choy"
+        },
+        {
+          "folio": "line4713",
+          "sentence": "[?so] water-INST oak-VERB AT-[?eeey] oak-GEN-[?eey] oak-GEN-[?eeos] [?che]-DIR-D [?al]-LOC [?oikhy] [?ox]-DIR [?a]-DEF [?o]-DEF-D vessel-VERB",
+          "original": "so sheor okeedy oteeey qokeey qokeeos chedar alal oikhy oxar aiin odaiin chody"
+        },
+        {
+          "folio": "line5004",
+          "sentence": "[?pairo]-VERB water-DIR-D [?qopch]-VERB [?dch]-VERB DOL [?qopch]-VERB THIS/THAT [?ofche]-DEF-D vessel-DEF-D [?opair] DAR AT-[?y]",
+          "original": "pairody shedar qopchdy dchedy dol qopchedy daiin ofchedaiin chodaiin opair dar oty"
+        },
+        {
+          "folio": "line5138",
+          "sentence": "[?so]-DEF water-DEF-D oak-GEN-[?e]-VERB vessel-DEF-D AT-[?e]-DEF-D oak-GEN-[?e]-VERB oak-GEN-[?e]-VERB oat-GEN-[?e]-VERB [?rosy]",
+          "original": "soiin shedain qokeedy chodain otedain qokeedy qokeedy qotedy rosy"
+        }
+      ]
+    },
+    "genitive_substance_verb": {
+      "description": "Genitive Substance + Action",
+      "example": "oak-GEN-al + [?ch]-VERB",
+      "match_count": 0,
+      "percentage": 0.0,
+      "matches": []
+    },
+    "verb_at_substance": {
+      "description": "Action + Locative Substance",
+      "example": "[?sh]-VERB + AT-al",
+      "match_count": 0,
+      "percentage": 0.0,
+      "matches": []
+    },
+    "substance_verb_water": {
+      "description": "Substance + Action + Water",
+      "example": "oak-GEN-al + [?ch]-VERB + water",
+      "match_count": 16,
+      "percentage": 0.3074558032282859,
+      "matches": [
+        {
+          "folio": "line93",
+          "sentence": "[?kodalchy] [?chpa]-VERB water-LOC OL [?sheey] oat-GEN-[?eydo]-DEF [?ch]-INST [?ytoy]",
+          "original": "kodalchy chpady sheol ol sheey qoteydoiin chor ytoy"
+        },
+        {
+          "folio": "line1344",
+          "sentence": "[?oc] T-[?heo]-VERB botanical-term-VERB [?qo]-LOC-D [?ctho]-VERB water-INST botanical-term-DEF-D",
+          "original": "oc theody shody qodal cthody sheor shodaiin"
+        },
+        {
+          "folio": "line1611",
+          "sentence": "[?dalcheeeky] water-LOC [?dairo]-VERB [?chekchy] water-D [?ykesheo] [?l] [?l]-INST water-INST [?cheyl]",
+          "original": "dalcheeeky sheol dairody chekchy shed ykesheo l lor sheor cheyl"
+        },
+        {
+          "folio": "line1617",
+          "sentence": "T-[?odeeey] pharmaceutical-substance-VERB [?ch]-VERB pharmaceutical-substance-VERB [?sh]-VERB [?shekeefy] [?ch]-VERB water-LOC [?sh]-LOC [?k]-VERB [?daly]",
+          "original": "todeeey keody chdy keody shedy shekeefy chdy sheol shol kedy daly"
+        },
+        {
+          "folio": "line2003",
+          "sentence": "[?okch]-VERB AT-[?eos] [?okes] [?okeos] [?cy] [?okch]-LOC [?sair] [?o]-VERB [?o] [?chopcheopchy] botanical-term SKY [?shekchy] [?choteo]-VERB AT-[?eeshs] [?opcheo]-VERB AT-OL [?choky] vessel-VERB [?chotey] water-LOC AT/IN [?ykeo]-VERB AT-[?eey] [?che]-DEF-D [?chot]-DIR [?solyoteo]-VERB [?choekeeos] [?alair]-VERB oak-LOC [?okeey] [?dary] AT-[?orsheo]-D",
+          "original": "okchedy oteos okes okeos cy okchol sair ody o chopcheopchy chol air shekchy choteody oteeshs opcheody otol choky chody chotey sheal ar ykeody oteey chedaiin chotar solyoteody choekeeos alairdy okol okeey dary otorsheod"
+        },
+        {
+          "folio": "line2040",
+          "sentence": "[?okcheo] DAR AT-[?ey] [?ykeey] T [PARTICLE] AT-[?sheo] AT-[?eotey] [?shey] [?sheckh] [?opche]-LOC THERE [?dateey] AND [?o]-VERB [?choteey] [?choet]-VERB AT-[?eoteotsho] [?yteos] [?al]-DEF [?sheodaly] [?ckho] [?a]-DEF [?cholk]-LOC [?chote]-DIR AT-[?eo]-VERB [?ch]-DEF-LOC AT-[?eeeo] [?al] OL water-INST [?okey] botanical-term [?dy] AT-[?ees] vessel [?r] OL AT/IN AT-[?o]-DEF AT-[?eeo]-VERB [?sos] T-[?o]-DEF-D [?chok]-DEF AT-[?al]-LOC AT-[?cham]",
+          "original": "okcheo dar otey ykeey t chy otsheo oteotey shey sheckh opcheol dair dateey sal ody choteey choeteedy oteoteotsho yteos alain sheodaly ckho aiin cholkal chotear oteody cholaiin oteeeo al ol sheeor okey chol dy otees cho r ol ar otoaiin oteeody sos todaiin chokain otalal otcham"
+        },
+        {
+          "folio": "line2073",
+          "sentence": "water-LOC [?dalalo]-VERB AT-[?eoshey] [?okoksheo] [?shokey] [?r]-DEF AT-OR [?ochy] [?sais] vessel-VERB [PARTICLE] AT-[?eoeey] [?oamr] [?chcthy] [?dl]-LOC AT-[?eo]-DEF-D [?ykeo]-VERB AT-[?eo]-VERB [?sheo] THIS/THAT AT-[?e]-VERB [?chekalchs] DAR [?shoteeo]-VERB [?okeeo] [?d]-LOC vessel-VERB [?okchoteees] AT-[?eeo]-VERB [?cheokeo] AT-[?a]-DEF [?shes] T-[?o]-DIR [?aly] [?daly] water-LOC [?daly]",
+          "original": "sheal dalalody oteoshey okoksheo shokey raiin otor ochy sais cheody cheey oteoeey oamr chcthy dlal oteodaiin ykeody oteody sheo daiin oteedy chekalchs dar shoteeody okeeo dal cheody okchoteees oteeody cheokeo otaiin shes toar aly daly sheal daly"
+        },
+        {
+          "folio": "line2189",
+          "sentence": "AT-[?och]-VERB AT-[?al] [?okoey] [?sh]-VERB AT-[?eo]-DIR-D [?yke]-LOC-LOC [?ya] [?r] AT-[?eos] [?che]-DEF-LOC [?ykeeoly] AT-[?a]-DEF water-DIR [?o]-DEF ear[direct-e/o] [?oa] [?sheoke]-INST AT-[?eo]-VERB [?oekes] AT-[?ees] [?oeteos] [?dotsey] [?se]-INST AT-[?e]-LOC [?sh]-LOC [?cheem] [?okeo]-VERB water-LOC [?shey] [?sheysy] botanical-term T-[?eey] [?che]-INST [?yoeteey] [?okeeoy] [PARTICLE] [?okeeo] [?ykoly]",
+          "original": "otochedy otal okoey sheedy oteodar ykeolal ya r oteos cheolaiin ykeeoly otaiin shear oiin oro oa sheokeor oteody oekes otees oeteos dotsey seor oteol shol cheem okeody sheol shey sheysy sho teey cheor yoeteey okeeoy chy okeeo ykoly"
+        },
+        {
+          "folio": "line2523",
+          "sentence": "[?dalsh]-VERB THEN [?sh]-VERB oak-GEN-[?al]-VERB [?chepy] THIS/THAT [?al]-INST-LOC AT-AIN [?ch]-VERB water-[COMPOUND] oak-GEN-[?eey] [?l]-INST",
+          "original": "dalshedy qol sheedy qokaldy chepy dain alolor olain chedy shecthy qokeey lor"
+        },
+        {
+          "folio": "line2533",
+          "sentence": "oak-GEN-[?al] [?sh]-VERB water-LOC [?che]-LOC [?alshy] botanical-term [?ch]-VERB T-[?al]-INST AT-[?al]-INST botanical-term [?okeyr] AT/IN AT-[?y]",
+          "original": "qokal shedy sheol cheal alshy chol chdy talor olalor chol okeyr ar oly"
+        }
+      ]
+    },
+    "vessel_verb_substance": {
+      "description": "Vessel + Action + Substance",
+      "example": "vessel + [?sh]-VERB + oak-GEN-al",
+      "match_count": 28,
+      "percentage": 0.5380476556495004,
+      "matches": [
+        {
+          "folio": "line793",
+          "sentence": "T-vessel AT-[?chckhy] AT-[?yotch]-VERB [?chefalas]",
+          "original": "tcheo olchckhy olyotchdy chefalas"
+        },
+        {
+          "folio": "line1006",
+          "sentence": "oat-GEN-OR vessel vessel-VERB THIS/THAT botanical-term [?ctheey] [?darchy] [?daii]-VERB",
+          "original": "qotor cho chody daiin chol ctheey darchy daiidy"
+        },
+        {
+          "folio": "line1174",
+          "sentence": "[?alchey] [?k]-INST [?y] pharmaceutical-substance-VERB AT-[?kchey] vessel-VERB [?ch]-VERB [?dalyokee]-INST [?a]-DEF AT-AT/IN SKY [MODAL]",
+          "original": "alchey kor y keody olkchey chody chedy dalyokeeor aiin otar air am"
+        },
+        {
+          "folio": "line1267",
+          "sentence": "T-vessel-DEF-D [?oeeey] oak-DEF [?sh]-VERB oak-GEN-[?aly] [?ch]-VERB AT-[?y] pharmaceutical-substance-VERB [PARTICLE] oak-DEF",
+          "original": "tchodain oeeey okaiin shedy qokaly chdy oty keody cheey okain"
+        },
+        {
+          "folio": "line1622",
+          "sentence": "T-vessel water-INST AT-[?eo]-VERB [?lpchees] OL AT/IN [?alkey] AT-[?ey] [?ltsholy] water-[COMPOUND] [?r] OL",
+          "original": "tcheo sheor oteody lpchees ol ar alkey otey ltsholy shecthy r ol"
+        },
+        {
+          "folio": "line1635",
+          "sentence": "T-vessel-D [?sheo]-VERB [?shckhh]-D [?chos] [?ch]-INST [?sheo] pharmaceutical-substance-VERB [?chep]-DIR [?shsopam]",
+          "original": "tchod sheody shckhhd chos chor sheo keody chepar shsopam"
+        },
+        {
+          "folio": "line1853",
+          "sentence": "[?odch]-D AT-[?ch]-VERB [?cheoteeo] [?oshchey] [?chok]-LOC vessel-VERB [?ch]-VERB AT-[?eo]-DEF-D AT-vessel-LOC-D [?s]-LOC [?che]-INST AT-[?eo] AT-[?eey] [?oetch]-VERB [?opcheo]-VERB [?dch]-VERB THIS/THAT AT-[?eeo]-VERB [?dach]-VERB AT-[?eeo]-VERB [?qochecthm] [?dchreo] [?okeodly] [?do] [?ls] [?osch]-DEF [?cheockhedchy] vessel-LOC-D vessel-VERB botanical-term [?al] AT-[?eodche]-D oak-VERB oak-GEN-[?eey] [?choky] DOL [?dalees]-D [?okinaiir]",
+          "original": "odchd otchdy cheoteeo oshchey chokol cheody chedy oteodaiin otchodal sol cheor oteo oteey oetchdy opcheody dchedy daiin oteeody dacheedy oteeody qochecthm dchreo okeodly do ls oschaiin cheockhedchy chodal cheody chol al oteodched okedy qokeey choky dol daleesd okinaiir"
+        },
+        {
+          "folio": "line1879",
+          "sentence": "[?oko] AT-OL [?ees] [?choty] [?chedas] AT-[?ch]-VERB [?s]-INST [?oek]-DEF AT-[?e]-LOC DAR vessel [?dais] [?qoeeok]-DEF AT-[PARTICLE] [?d]-LOC [?cheky] [?ykes] oak-GEN-[?e]-LOC [?s]-LOC eye[reverse+e/o] [?ykeoees] [?yty] [?dy] [?dy] vessel-VERB AT-[?ololees] AT-[?y] [?s]-DIR oat-GEN-[?eey] AT-[?ey] [PARTICLE] [?ko]-DIR-D DAR [?sheo]-VERB [?shees] THIS/THAT AT-[?eeoaly] AT-[?eeos]-LOC OL oak-LOC AT-[?sey] T-OL [?che]-LOC [?okeey] [?choekchchy] [?okchy] oak-GEN-[?chshy] [?dch]-LOC [?chshek]",
+          "original": "oko otol ees choty chedas otchdy sor oekaiin oteol dar cheo dais qoeeokaiin otchey dal cheky ykes qokeol sol oy ykeoees yty dy dy chody otololees oty sar qoteey otey chey kodar dar sheody shees daiin oteeoaly oteeosol ol okol olsey tol cheol okeey choekchchy okchy qokchshy dchol chshek"
+        },
+        {
+          "folio": "line1972",
+          "sentence": "[?ykay] botanical-term [?yk]-LOC-D-DIR [?ykadyeokee]-INST [?cheoy] [?choly] [?ykch]-LOC [?cheos] [?oaram] [?ockhy] [?shchy] [?aiiny] [?daii]-LOC vessel-VERB [?che]-LOC [?yekey] [?chs]-DIR [?y]-VERB [?ykey] [PARTICLE] [?dy] botanical-term [?yk]-DIR AT-[?y] [?ykeeo]-VERB [PARTICLE] [?d]-LOC [?o]-VERB [?airchy] [?choky] [?ychey] [PARTICLE]",
+          "original": "ykay chol ykardal ykadyeokeeor cheoy choly ykchal cheos oaram ockhy shchy aiiny daiial cheody cheol yekey chsar ydy ykey chy dy chol ykar oly ykeeody chey dal ody airchy choky ychey chey"
+        },
+        {
+          "folio": "line2003",
+          "sentence": "[?okch]-VERB AT-[?eos] [?okes] [?okeos] [?cy] [?okch]-LOC [?sair] [?o]-VERB [?o] [?chopcheopchy] botanical-term SKY [?shekchy] [?choteo]-VERB AT-[?eeshs] [?opcheo]-VERB AT-OL [?choky] vessel-VERB [?chotey] water-LOC AT/IN [?ykeo]-VERB AT-[?eey] [?che]-DEF-D [?chot]-DIR [?solyoteo]-VERB [?choekeeos] [?alair]-VERB oak-LOC [?okeey] [?dary] AT-[?orsheo]-D",
+          "original": "okchedy oteos okes okeos cy okchol sair ody o chopcheopchy chol air shekchy choteody oteeshs opcheody otol choky chody chotey sheal ar ykeody oteey chedaiin chotar solyoteody choekeeos alairdy okol okeey dary otorsheod"
+        }
+      ]
+    },
+    "multi_substance": {
+      "description": "Multiple substances (ingredient mixing)",
+      "example": "oak-GEN-al + [?ch]-VERB + oat-GEN-al",
+      "match_count": 0,
+      "percentage": 0.0,
+      "matches": []
+    },
+    "botanical_water_vessel": {
+      "description": "Botanical + Water + Vessel (extraction)",
+      "example": "botanical-term + water + vessel",
+      "match_count": 2,
+      "percentage": 0.03843197540353574,
+      "matches": [
+        {
+          "folio": "line3997",
+          "sentence": "[?okee]-LOC botanical-term botanical-term-VERB botanical-term [?sh]-LOC [?okeee]-LOC [?cheos] [?sheokeey] water-INST [?chchy] vessel-DEF-D [?sheeckhey] T-[?ee]-LOC [?sche]-LOC [?s]-DIR [?oee]-INST",
+          "original": "okeeol sho shody sho shol okeeeol cheos sheokeey sheeor chchy chodaiin sheeckhey teeol scheol sar oeeor"
+        },
+        {
+          "folio": "line4912",
+          "sentence": "T-[?ch]-LOC botanical-term [?lshe]-LOC [?sh]-INST [?kcheey] [?yr]-DEF water-LOC T-vessel-VERB T-[PARTICLE] [?sheoky] [?lpch]-VERB oak-GEN-[MODAL]",
+          "original": "tchol chol lsheol shor kcheey yraiin sheol tcheody tchey sheoky lpchedy qokam"
+        }
+      ]
+    }
+  }
+}
