@@ -1,0 +1,52 @@
+{
+  "classification": "ASPECTUAL MARKER",
+  "confidence": "MODERATE",
+  "standalone_count": 3,
+  "unique_roots": 4,
+  "position_distribution": {
+    "initial": 19,
+    "medial": 1341,
+    "final": 2,
+    "standalone": 3,
+    "initial_pct": 0.01391941391941392,
+    "medial_pct": 0.9824175824175824,
+    "final_pct": 0.0014652014652014652,
+    "standalone_pct": 0.002197802197802198
+  },
+  "verb_following_pct": 0.7926470588235294,
+  "aspectual_evidence": 3,
+  "lexical_evidence": 1,
+  "top_roots": {
+    "oak-GEN": 685,
+    "AT": 358,
+    "oat-GEN": 206,
+    "T": 92
+  },
+  "top_after": {
+    "VERB": 1078,
+    "LOC": 148,
+    "INST": 46,
+    "DIR": 40,
+    "DEF": 34,
+    "D": 14
+  },
+  "oak_e_count": 551,
+  "oat_e_count": 185,
+  "sample_standalone": [
+    {
+      "line": "unknown",
+      "before": [],
+      "after": []
+    },
+    {
+      "line": "unknown",
+      "before": [],
+      "after": []
+    },
+    {
+      "line": "unknown",
+      "before": [],
+      "after": []
+    }
+  ]
+}

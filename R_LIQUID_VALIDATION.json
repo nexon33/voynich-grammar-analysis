@@ -1,0 +1,166 @@
+{
+  "hypothesis": "[?r] = liquid/contents/mixture",
+  "evidence_count": 3,
+  "vessel_r_count": 39,
+  "r_loc_count": 45,
+  "water_r_count": 35,
+  "r_al_count": 22,
+  "top_before": {
+    "[PARTICLE]": 32,
+    "oak-GEN-[?e]-VERB": 21,
+    "oak-GEN-[?eey]": 18,
+    "[?ch]-VERB": 17,
+    "vessel": 13,
+    "OL": 12,
+    "[?sh]-VERB": 11,
+    "THIS/THAT": 10,
+    "oat-GEN-[?e]-VERB": 9,
+    "botanical-term": 9,
+    "AT/IN": 8,
+    "oak-GEN-[?a]-DEF": 8,
+    "[?al]": 8,
+    "oak-GEN-AIN": 8,
+    "[?lch]-VERB": 8,
+    "[?shey]": 7,
+    "AT-[?e]-VERB": 7,
+    "DAR": 6,
+    "oak-DEF": 6,
+    "oak-VERB": 6
+  },
+  "top_after": {
+    "[PARTICLE]": 31,
+    "[?a]-DEF": 25,
+    "OL": 18,
+    "THIS/THAT": 14,
+    "[?al]": 14,
+    "[?shey]": 11,
+    "AIN": 11,
+    "[?ch]-VERB": 10,
+    "AT/IN": 9,
+    "[?sh]-VERB": 9,
+    "oak-DEF": 7,
+    "AT-[?e]-VERB": 7,
+    "AT-[?a]-DEF": 6,
+    "vessel": 5,
+    "oak-VERB": 5,
+    "[?sheey]": 5,
+    "AT-[?y]": 5,
+    "oak-GEN-[?eey]": 5,
+    "[?sh]-INST": 4,
+    "vessel-VERB": 4
+  },
+  "sample_vessel_r": [
+    {
+      "line": "unknown",
+      "word": "[?r]-LOC",
+      "distance": 1,
+      "context": "[?pch]-DIR vessel [?r]-LOC [?dalshe]-DIR [?cheeot]-DEF [?ch]-LOC"
+    },
+    {
+      "line": "unknown",
+      "word": "[?r]-DEF",
+      "distance": 1,
+      "context": "[?dch]-INST [?chodey] vessel [?r]-DEF"
+    },
+    {
+      "line": "unknown",
+      "word": "[?r]",
+      "distance": 2,
+      "context": "AT-[?o] [?r] [?okee]-LOC vessel-DEF-D [?oke]-LOC"
+    },
+    {
+      "line": "unknown",
+      "word": "[?r]",
+      "distance": 1,
+      "context": "[?scho]-DEF-D vessel [?r] vessel-VERB"
+    },
+    {
+      "line": "unknown",
+      "word": "[?r]",
+      "distance": 1,
+      "context": "[?scho]-DEF-D vessel [?r] vessel-VERB"
+    },
+    {
+      "line": "unknown",
+      "word": "[?r]",
+      "distance": 1,
+      "context": "[?qo]-DIR-D vessel [?r] [PARTICLE] [PARTICLE] [?cthckeom]"
+    },
+    {
+      "line": "unknown",
+      "word": "[?r]",
+      "distance": 1,
+      "context": "oak-GEN-vessel [?r] [?ochy] oat-GEN-[PARTICLE] oak-GEN-OR-LOC"
+    },
+    {
+      "line": "unknown",
+      "word": "[?r]-DEF",
+      "distance": 2,
+      "context": "[?ch]-INST vessel [?ro] [?r]-DEF red [?chsee]-INST [?dy]"
+    },
+    {
+      "line": "unknown",
+      "word": "[?r]",
+      "distance": 1,
+      "context": "AT-vessel [?r] OL THIS/THAT THIS/THAT"
+    },
+    {
+      "line": "unknown",
+      "word": "[?r]",
+      "distance": 1,
+      "context": "red [?ch]-DEF oat-GEN-vessel [?r] [?chydcho] THIS/THAT"
+    }
+  ],
+  "sample_r_loc": [
+    {
+      "line": "unknown",
+      "word": "[?r]-LOC",
+      "context": "[?pch]-DIR vessel [?r]-LOC [?dalshe]-DIR [?cheeot]-DEF [?ch]-LOC"
+    },
+    {
+      "line": "unknown",
+      "word": "[?r]-LOC-DIR",
+      "context": "[?r]-LOC-DIR"
+    },
+    {
+      "line": "unknown",
+      "word": "[?r]-LOC",
+      "context": "[?ch]-INST [?al] [?ylcho] [?r]-LOC"
+    },
+    {
+      "line": "unknown",
+      "word": "[?r]-LOC",
+      "context": "AT-AT/IN AT-[?e]-VERB [?dy] [?r]-LOC"
+    },
+    {
+      "line": "unknown",
+      "word": "[?r]-LOC",
+      "context": "[?r]-LOC OL AT-[?oin] AT-[?key]"
+    },
+    {
+      "line": "unknown",
+      "word": "[?r]-LOC",
+      "context": "[?chckhy] [?shey] [?l]-LOC [?r]-LOC [?sheey] DAR"
+    },
+    {
+      "line": "unknown",
+      "word": "[?r]-LOC-INST",
+      "context": "DAR [?ch]-VERB [?qopch]-VERB [?r]-LOC-INST"
+    },
+    {
+      "line": "unknown",
+      "word": "[?r]-LOC",
+      "context": "water-INST [PARTICLE] [?r]-LOC [PARTICLE] [?r] [?al]"
+    },
+    {
+      "line": "unknown",
+      "word": "[?r]-LOC",
+      "context": "[?d]-LOC [?sh]-VERB oak-GEN-[?e]-VERB [?r]-LOC"
+    },
+    {
+      "line": "unknown",
+      "word": "[?r]-LOC",
+      "context": "oak-GEN-[?eey] [?r]-LOC [?ch]-INST-D [PARTICLE] oak-GEN-[?a]-DEF"
+    }
+  ]
+}
