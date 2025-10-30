@@ -1,0 +1,92 @@
+{
+  "recognition_rate": "91.6%",
+  "new_decodings": {
+    "[?eo]": "boil/cook",
+    "[?che]": "oak-substance (bark/gall/extract)",
+    "oak-GEN-[?eey]": "acorn",
+    "oat-GEN-[?eey]": "oat-grain",
+    "[?eey]": "seed/grain"
+  },
+  "top_recipes": [
+    {
+      "folio": "line1853",
+      "original": "odchd otchdy cheoteeo oshchey chokol cheody chedy oteodaiin otchodal sol cheor oteo oteey oetchdy opcheody dchedy daiin oteeody dacheedy oteeody qochecthm dchreo okeodly do ls oschaiin cheockhedchy chodal cheody chol al oteodched okedy qokeey choky dol daleesd okinaiir",
+      "translation_88pct": "[?odch]-D AT-[?ch]-VERB [?cheoteeo] [?oshchey] [?chok]-LOC vessel-VERB [?ch]-VERB AT-[?eo]-DEF-D AT-vessel-LOC-D [?s]-LOC [?che]-INST AT-[?eo] AT-[?eey] [?oetch]-VERB [?opcheo]-VERB [?dch]-VERB THIS/THAT AT-[?eeo]-VERB [?dach]-VERB AT-[?eeo]-VERB [?qochecthm] [?dchreo] [?okeodly] [?do] [?ls] [?osch]-DEF [?cheockhedchy] vessel-LOC-D vessel-VERB botanical-term [?al] AT-[?eodche]-D oak-VERB oak-GEN-[?eey] [?choky] DOL [?dalees]-D [?okinaiir]",
+      "translation_91pct": "[?odch]-D AT-[?ch]-VERB [?cheoteboil [?oshchey] [?chok]-LOC vessel-VERB [?ch]-VERB AT-[?boil-DEF-D AT-vessel-LOC-D [?s]-LOC [?oak-substance-INST AT-[?boil AT-[?seed [?oetch]-VERB [?opchboil-VERB [?dch]-VERB THIS/THAT AT-[?eboil-VERB [?dach]-VERB AT-[?eboil-VERB [?qochecthm] [?dchrboil [?okeodly] [?do] [?ls] [?osch]-DEF [?cheockhedchy] vessel-LOC-D vessel-VERB botanical-term [?al] AT-[?eodoak-substance-D oak-VERB oak-GEN-[?seed [?choky] DOL [?dalees]-D [?okinaiir]",
+      "english": "[?odch]-D Ain-[?prepare [?cheoteboil [?oshchey] [?chothen-in vessel-VERB [?prepare Ain-[?boil-D Ain-vessel-in-D [?herb-in [?oak-substance-with Ain-[?boil Ain-[?seed [?oetprepare [?opchboil [?dprepare this Ain-[?eboil [?daprepare Ain-[?eboil [?qochecthm] [?dchrboil [?okeodly] [?do] [?lherb [?osch] [?cheockhedchy] vessel-in-D vessel-VERB botanical-term [?al] Ain-[?eodoak-substance-D oak-VERB oak's-[?seed [?choky] D[OL] [?daleeherb-D [?okinaiiliquid",
+      "score": 11
+    },
+    {
+      "folio": "line1973",
+      "original": "doair otaldaldair y chdy otoar ar y chy qoteor cho qotair chda oteeal chear ar air oteody ytyda dchy otoly okeodal oteoarar chetesescher dair chey okody dal oteey oteey",
+      "translation_88pct": "[?doair] AT-[?aldaldair] [?y] [?ch]-VERB AT-[?o]-DIR AT/IN [?y] [PARTICLE] oat-GEN-[?e]-INST vessel oat-GEN-SKY [?chda] AT-[?ee]-LOC [?che]-DIR AT/IN SKY AT-[?eo]-VERB [?ytyda] [?dchy] AT-[?oly] [?okeo]-LOC-D AT-[?eo]-DIR-DIR [?chetesescher] THERE [PARTICLE] [?oko]-VERB [?d]-LOC AT-[?eey] AT-[?eey]",
+      "translation_91pct": "[?doair] AT-[?aldaldair] [?y] [?ch]-VERB AT-[?o]-DIR AT/IN [?y] [PARTICLE] oat-GEN-[?e]-INST vessel oat-GEN-SKY [?chda] AT-[?ee]-LOC [?oak-substance-DIR AT/IN SKY AT-[?boil-VERB [?ytyda] [?dchy] AT-[?oly] [?okboil-LOC-D AT-[?boil-DIR-DIR [?chetesescher] THERE [PARTICLE] [?oko]-VERB [?d]-LOC AT-[?seed AT-[?seed",
+      "english": "[?doailiquid Ain-[?aldaldailiquid [?y] [?prepare Ain-[?o]-toward AT/IN [?y] [particle] oat's-[?e]-with vessel oat's-SKY [?chda] Ain-[?ee]-in [?oak-substance-toward AT/IN SKY Ain-[?boil [?ytyda] [?dchy] Ain-[?oly] [?okboil-in-D Ain-[?boil-toward-toward [?chetesescheliquid THERE [particle] [?oko]-VERB [?d]-in Ain-[?seed Ain-[?seed",
+      "score": 11
+    },
+    {
+      "folio": "line2189",
+      "original": "otochedy otal okoey sheedy oteodar ykeolal ya r oteos cheolaiin ykeeoly otaiin shear oiin oro oa sheokeor oteody oekes otees oeteos dotsey seor oteol shol cheem okeody sheol shey sheysy sho teey cheor yoeteey okeeoy chy okeeo ykoly",
+      "translation_88pct": "AT-[?och]-VERB AT-[?al] [?okoey] [?sh]-VERB AT-[?eo]-DIR-D [?yke]-LOC-LOC [?ya] [?r] AT-[?eos] [?che]-DEF-LOC [?ykeeoly] AT-[?a]-DEF water-DIR [?o]-DEF ear[direct-e/o] [?oa] [?sheoke]-INST AT-[?eo]-VERB [?oekes] AT-[?ees] [?oeteos] [?dotsey] [?se]-INST AT-[?e]-LOC [?sh]-LOC [?cheem] [?okeo]-VERB water-LOC [?shey] [?sheysy] botanical-term T-[?eey] [?che]-INST [?yoeteey] [?okeeoy] [PARTICLE] [?okeeo] [?ykoly]",
+      "translation_91pct": "AT-[?och]-VERB AT-[?al] [?okoey] [?sh]-VERB AT-[?boil-DIR-D [?yke]-LOC-LOC [?ya] [?r] AT-[?eos] [?oak-substance-DEF-LOC [?ykeeoly] AT-[?a]-DEF water-DIR [?o]-DEF ear[direct-e/o] [?oa] [?sheoke]-INST AT-[?boil-VERB [?oekes] AT-[?ees] [?oeteos] [?dotsey] [?se]-INST AT-[?e]-LOC [?sh]-LOC [?cheem] [?okboil-VERB water-LOC [?shey] [?sheysy] botanical-term T-[?seed [?oak-substance-INST [?yoetseed [?okeeoy] [PARTICLE] [?okeboil [?ykoly]",
+      "english": "Ain-[?oprepare Ain-[?al] [?okoey] [?apply-heat Ain-[?boil-toward-D [?yke]-in-in [?ya] [?liquid Ain-[?eoherb [?oak-substance-in [?ykeeoly] Ain-[?the-thing water-toward [?o] ear[direct-e/o] [?oa] [?sheoke]-with Ain-[?boil [?oekeherb Ain-[?eeherb [?oeteoherb [?dotsey] [?se]-with Ain-[?e]-in [?sh]-in [?cheem] [?okboil water-in [?shey] [?sheysy] botanical-term in-[?seed [?oak-substance-with [?yoetseed [?okeeoy] [particle] [?okeboil [?ykoly]",
+      "score": 11
+    },
+    {
+      "folio": "line4027",
+      "original": "olaiin okeol cheo kol ches sheey qoor qokeody cheor okeyoiin cheey cthey ory ctheey qokeey shol ody cheol oralar shey qokarary",
+      "translation_88pct": "AT-[?a]-DEF [?oke]-LOC vessel [?k]-LOC [?ches] [?sheey] [?qo]-INST oak-GEN-[?eo]-VERB [?che]-INST [?okeyo]-DEF [PARTICLE] [?cthey] [PARTICLE-FINAL] [?ctheey] oak-GEN-[?eey] [?sh]-LOC [?o]-VERB [?che]-LOC OR-DIR-LOC [?shey] oak-GEN-[?arary]",
+      "translation_91pct": "AT-[?a]-DEF [?oke]-LOC vessel [?k]-LOC [?ches] [?shseed [?qo]-INST oak-GEN-[?boil-VERB [?oak-substance-INST [?okeyo]-DEF [PARTICLE] [?cthey] [PARTICLE-FINAL] [?cthseed oak-GEN-[?seed [?sh]-LOC [?o]-VERB [?oak-substance-LOC OR-DIR-LOC [?shey] oak-GEN-[?arary]",
+      "english": "Ain-[?the-thing [?oke]-in vessel [?then-in [?cheherb [?shseed [?qo]-with oak's-[?boil [?oak-substance-with [?okeyo] [particle] [?cthey] [PARTICLE-FINAL] [?cthseed oak's-[?seed [?sh]-in [?o]-VERB [?oak-substance-in or-toward-in [?shey] oak's-[?arary]",
+      "score": 11
+    },
+    {
+      "folio": "line2024",
+      "original": "otoy ar arodchedy cheecpheey oteeos ees cheol sheeey okeedaly cheeoekey ykeed r oteey s al s air oteody dar aiir ody cheeos chey daiin otoeeseor air chedy oko dar al sho chotol dal dy",
+      "translation_88pct": "AT-[?oy] AT/IN [?arodch]-VERB [?cheecpheey] AT-[?eeos] [?ees] [?che]-LOC [?sheeey] [?okeedaly] [?cheeoekey] [?ykee]-D [?r] AT-[?eey] [?s] [?al] [?s] SKY AT-[?eo]-VERB DAR [?aiir] [?o]-VERB [?cheeos] [PARTICLE] THIS/THAT AT-[?oeese]-INST SKY [?ch]-VERB [?oko] DAR [?al] botanical-term [?chot]-LOC [?d]-LOC [?dy]",
+      "translation_91pct": "AT-[?oy] AT/IN [?arodch]-VERB [?cheecphseed AT-[?eeos] [?ees] [?oak-substance-LOC [?sheseed [?okeedaly] [?cheeoekey] [?ykee]-D [?r] AT-[?seed [?s] [?al] [?s] SKY AT-[?boil-VERB DAR [?aiir] [?o]-VERB [?cheeos] [PARTICLE] THIS/THAT AT-[?oeese]-INST SKY [?ch]-VERB [?oko] DAR [?al] botanical-term [?chot]-LOC [?d]-LOC [?dy]",
+      "english": "Ain-[?oy] AT/IN [?arodprepare [?cheecphseed Ain-[?eeoherb [?eeherb [?oak-substance-in [?sheseed [?okeedaly] [?cheeoekey] [?ykee]-D [?liquid Ain-[?seed [?herb [?al] [?herb SKY Ain-[?boil DAR [?aiiliquid [?o]-VERB [?cheeoherb [particle] this Ain-[?oeese]-with SKY [?prepare [?oko] DAR [?al] botanical-term [?chot]-in [?d]-in [?dy]",
+      "score": 10
+    },
+    {
+      "folio": "line2108",
+      "original": "osheo parar oteeodaiin she ateey daiin oteokeey dal al oteey teey dy otchy keey shseor ochey  eodal sheeolody alody cheol otar otam oteodar chpchy cpar al aiin oteochor okeodaly oteey teeey okeey keor or arol cheols okaikaly",
+      "translation_88pct": "[?osheo] [?p]-DIR-DIR AT-[?eeo]-DEF-D water [?ateey] THIS/THAT AT-[?eokeey] [?d]-LOC [?al] AT-[?eey] T-[?eey] [?dy] AT-[PARTICLE] [?keey] [?shse]-INST [?ochey] [?eo]-LOC-D [?sheeolo]-VERB [?alo]-VERB [?che]-LOC AT-AT/IN AT-[MODAL] AT-[?eo]-DIR-D [?chpchy] [?cp]-DIR [?al] [?a]-DEF AT-[?eoch]-INST [?okeodaly] AT-[?eey] T-[?eeey] [?okeey] [?ke]-INST OR AT/IN-LOC [?cheols] [?okaikaly]",
+      "translation_91pct": "[?oshboil [?p]-DIR-DIR AT-[?eboil-DEF-D water [?atseed THIS/THAT AT-[?eokseed [?d]-LOC [?al] AT-[?seed T-[?seed [?dy] AT-[PARTICLE] [?kseed [?shse]-INST [?ochey] [?boil-LOC-D [?sheeolo]-VERB [?alo]-VERB [?oak-substance-LOC AT-AT/IN AT-[MODAL] AT-[?boil-DIR-D [?chpchy] [?cp]-DIR [?al] [?a]-DEF AT-[?eoch]-INST [?okeodaly] AT-[?seed T-[?eseed [?okseed [?ke]-INST OR AT/IN-LOC [?cheols] [?okaikaly]",
+      "english": "[?oshboil [?p]-toward-toward Ain-[?eboil-D water [?atseed this Ain-[?eokseed [?d]-in [?al] Ain-[?seed in-[?seed [?dy] Ain-[particle] [?kseed [?shse]-with [?ochey] [?boil-in-D [?sheeolo]-VERB [?alo]-VERB [?oak-substance-in Ain-AT/IN Ain-[MODAL] Ain-[?boil-toward-D [?chpchy] [?cp]-toward [?al] [?the-thing Ain-[?eoch]-with [?okeodaly] Ain-[?seed in-[?eseed [?okseed [?ke]-with or AT/IN-in [?cheolherb [?okaikaly]",
+      "score": 10
+    },
+    {
+      "folio": "line2165",
+      "original": "oteey tey teodal chokaly ol cheol yaiin oteodaiin shokal otey otaiin otal y dal okaly dalchdy cseteeey okal shey qoteeody sheycthy chotal chees otoees aiin",
+      "translation_88pct": "AT-[?eey] T-[?ey] T-[?eo]-LOC-D [?chokaly] OL [?che]-LOC [?y]-DEF AT-[?eo]-DEF-D [?shok]-LOC AT-[?ey] AT-[?a]-DEF AT-[?al] [?y] [?d]-LOC [?okaly] [?dalch]-VERB [?cseteeey] OKAL [?shey] oat-GEN-[?eeo]-VERB [?sheycthy] [?chot]-LOC [?chees] AT-[?oees] [?a]-DEF",
+      "translation_91pct": "AT-[?seed T-[?ey] T-[?boil-LOC-D [?chokaly] OL [?oak-substance-LOC [?y]-DEF AT-[?boil-DEF-D [?shok]-LOC AT-[?ey] AT-[?a]-DEF AT-[?al] [?y] [?d]-LOC [?okaly] [?dalch]-VERB [?cseteseed OKAL [?shey] oat-GEN-[?eboil-VERB [?sheycthy] [?chot]-LOC [?chees] AT-[?oees] [?a]-DEF",
+      "english": "Ain-[?seed in-[?ey] in-[?boil-in-D [?chokaly] [OL] [?oak-substance-in [?y] Ain-[?boil-D [?shothen-in Ain-[?ey] Ain-[?the-thing Ain-[?al] [?y] [?d]-in [?okaly] [?dalprepare [?cseteseed OKAL [?shey] oat's-[?eboil [?sheycthy] [?chot]-in [?cheeherb Ain-[?oeeherb [?the-thing",
+      "score": 10
+    },
+    {
+      "folio": "line2176",
+      "original": "ok eey cheky oteo ykeey chedaiin okeeol cheeor chocthar ar oteody oteedy okeolaiin oteey okarar  dysheol al alaiiin okeos olaiin okos okeoar otes sar aiin chekaithhy chokees oteedy chekar okar ch ches os oiin okeeey cheey ches oteody cheal dy shocthy choteey ereoly oheol sheey chorain",
+      "translation_88pct": "oak [?eey] [?cheky] AT-[?eo] [?ykeey] [?che]-DEF-D [?okee]-LOC [?chee]-INST [?chocth]-DIR AT/IN AT-[?eo]-VERB AT-[?e]-VERB [?oke]-DEF-LOC AT-[?eey] oak-DIR-DIR [?dyshe]-LOC [?al] [?alai]-DEF [?okeos] AT-[?a]-DEF [?okos] [?okeo]-DIR AT-[?es] [?s]-DIR [?a]-DEF [?chekaithhy] [?chokees] AT-[?e]-VERB [?chek]-DIR oak-DIR [?ch] [?ches] [?os] [?o]-DEF [?okeeey] [PARTICLE] [?ches] AT-[?eo]-VERB [?che]-LOC [?dy] [?shocthy] [?choteey] [?ereoly] [?ohe]-LOC [?sheey] [?ch]-DEF-INST",
+      "translation_91pct": "oak [?seed [?cheky] AT-[?boil [?ykseed [?oak-substance-DEF-D [?okee]-LOC [?chee]-INST [?chocth]-DIR AT/IN AT-[?boil-VERB AT-[?e]-VERB [?oke]-DEF-LOC AT-[?seed oak-DIR-DIR [?dyshe]-LOC [?al] [?alai]-DEF [?okeos] AT-[?a]-DEF [?okos] [?okboil-DIR AT-[?es] [?s]-DIR [?a]-DEF [?chekaithhy] [?chokees] AT-[?e]-VERB [?chek]-DIR oak-DIR [?ch] [?ches] [?os] [?o]-DEF [?okeseed [PARTICLE] [?ches] AT-[?boil-VERB [?oak-substance-LOC [?dy] [?shocthy] [?chotseed [?ereoly] [?ohe]-LOC [?shseed [?ch]-DEF-INST",
+      "english": "oak [?seed [?cheky] Ain-[?boil [?ykseed [?oak-substance-D [?okee]-in [?chee]-with [?chocth]-toward AT/IN Ain-[?boil Ain-[?e]-VERB [?oke]-in Ain-[?seed oak-toward-toward [?dyshe]-in [?al] [?alai] [?okeoherb Ain-[?the-thing [?okoherb [?okboil-toward Ain-[?eherb [?herb-toward [?the-thing [?chekaithhy] [?chokeeherb Ain-[?e]-VERB [?chethen-toward oak-toward [?ch] [?cheherb [?oherb [?o] [?okeseed [particle] [?cheherb Ain-[?boil [?oak-substance-in [?dy] [?shocthy] [?chotseed [?ereoly] [?ohe]-in [?shseed [?ch]-with",
+      "score": 10
+    },
+    {
+      "folio": "line2346",
+      "original": "otoar ykeody okodeey qopchey opaiin qoteedy dpy otedy csedy qokeody cheoral okedal oteody shedy otesalod air chy ykchs aly ykeol ydys opchey dy toly chfaikch ytedar echy qokeey oty yteedy choldy qokalaiin ykaipy orary",
+      "translation_88pct": "AT-[?o]-DIR [?ykeo]-VERB [?okodeey] [?qopchey] [?op]-DEF oat-GEN-[?e]-VERB [?dpy] AT-[?e]-VERB [?cs]-VERB oak-GEN-[?eo]-VERB [?che]-LOC-INST [?oke]-LOC-D AT-[?eo]-VERB [?sh]-VERB AT-[?esalo]-D SKY [PARTICLE] [?ykchs] [?aly] [?yke]-LOC [?ydys] [?opchey] [?dy] T-[?oly] [?chfaikch] [?yte]-DIR-D [?echy] oak-GEN-[?eey] AT-[?y] [?yt]-VERB [?ch]-VERB-LOC oak-GEN-[?al]-DEF [?ykaipy] [?orary]",
+      "translation_91pct": "AT-[?o]-DIR [?ykboil-VERB [?okodseed [?qopchey] [?op]-DEF oat-GEN-[?e]-VERB [?dpy] AT-[?e]-VERB [?cs]-VERB oak-GEN-[?boil-VERB [?oak-substance-LOC-INST [?oke]-LOC-D AT-[?boil-VERB [?sh]-VERB AT-[?esalo]-D SKY [PARTICLE] [?ykchs] [?aly] [?yke]-LOC [?ydys] [?opchey] [?dy] T-[?oly] [?chfaikch] [?yte]-DIR-D [?echy] oak-GEN-[?seed AT-[?y] [?yt]-VERB [?ch]-VERB-LOC oak-GEN-[?al]-DEF [?ykaipy] [?orary]",
+      "english": "Ain-[?o]-toward [?ykboil [?okodseed [?qopchey] [?op] oat's-[?e]-VERB [?dpy] Ain-[?e]-VERB [?cherb-VERB oak's-[?boil [?oak-substance-in-with [?oke]-in-D Ain-[?boil [?apply-heat Ain-[?esalo]-D SKY [particle] [?ykchherb [?aly] [?yke]-in [?ydyherb [?opchey] [?dy] in-[?oly] [?chfaikch] [?yte]-toward-D [?echy] oak's-[?seed Ain-[?y] [?yt]-VERB [?prepare-in oak's-[?al] [?ykaipy] [?orary]",
+      "score": 10
+    },
+    {
+      "folio": "line4706",
+      "original": "daiin shecthey oteody qochey qokeey chey teey qokeedy qokeedy cheal lokeedy lched",
+      "translation_88pct": "THIS/THAT [?shecthey] AT-[?eo]-VERB [?qochey] oak-GEN-[?eey] [PARTICLE] T-[?eey] oak-GEN-[?e]-VERB oak-GEN-[?e]-VERB [?che]-LOC [?lok]-VERB [?lche]-D",
+      "translation_91pct": "THIS/THAT [?shecthey] AT-[?boil-VERB [?qochey] oak-GEN-[?seed [PARTICLE] T-[?seed oak-GEN-[?e]-VERB oak-GEN-[?e]-VERB [?oak-substance-LOC [?lok]-VERB [?loak-substance-D",
+      "english": "this [?shecthey] Ain-[?boil [?qochey] oak's-[?seed [particle] in-[?seed oak's-[?e]-VERB oak's-[?e]-VERB [?oak-substance-in [?lothen-VERB [?loak-substance-D",
+      "score": 10
+    }
+  ]
+}

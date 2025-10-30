@@ -1,0 +1,78 @@
+{
+  "classification": "nominal (unclear derivation)",
+  "confidence": "LOW",
+  "tests_passed": "0/3",
+  "tests": {
+    "gen_marking": {
+      "eey_with_gen": 148,
+      "eey_total": 511,
+      "rate": 0.2896281800391389,
+      "gen_sources": [
+        [
+          "oak",
+          114
+        ],
+        [
+          "oat",
+          34
+        ]
+      ],
+      "derived": false
+    },
+    "def_marking": {
+      "eey_with_def": 0,
+      "eey_total": 511,
+      "rate": 0.0,
+      "nominal": false
+    },
+    "morphological": {
+      "eey_standalone": 5,
+      "eey_affixed": 506,
+      "standalone_rate": 0.009784735812133072,
+      "interpretation": "affix-like"
+    },
+    "pharmaceutical": {
+      "eey_total": 432,
+      "contexts": {
+        "botanical": 0.07175925925925926,
+        "vessel": 0.09953703703703703,
+        "water": 0.1111111111111111,
+        "oak": 0.8101851851851852,
+        "oat": 0.28703703703703703,
+        "liquid_r": 0.09490740740740741
+      },
+      "pharmaceutical_rate": 0.09432870370370369,
+      "pharmaceutical": false
+    },
+    "gen_patterns": {
+      "eey_patterns": [
+        [
+          "oak → [?eey]",
+          308
+        ]
+      ],
+      "other_patterns": [
+        [
+          "oak → [?e]-VERB",
+          571
+        ],
+        [
+          "oak → AIN",
+          277
+        ],
+        [
+          "oak → [?a]-DEF",
+          262
+        ],
+        [
+          "oak → [?al]",
+          188
+        ],
+        [
+          "oat → [?e]-VERB",
+          168
+        ]
+      ]
+    }
+  }
+}

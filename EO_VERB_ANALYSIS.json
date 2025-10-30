@@ -1,0 +1,36 @@
+{
+  "classification": "BOIL/COOK",
+  "confidence": "HIGH",
+  "tests": {
+    "vessel": {
+      "eo_with_vessel": 35,
+      "eo_total": 144,
+      "rate": 0.24305555555555555,
+      "sh_rate": 0.07126436781609195,
+      "enrichment": 3.4106182795698925,
+      "interpretation": "boil/cook"
+    },
+    "water": {
+      "eo_with_water": 17,
+      "eo_total": 144,
+      "rate": 0.11805555555555555,
+      "baseline": 0.06879323597232898,
+      "enrichment": 1.7160924891371818,
+      "interpretation": "boil/strain"
+    },
+    "instrumental": {
+      "eo_inst": 1,
+      "eo_total": 170,
+      "rate": 0.0058823529411764705,
+      "ch_rate": 0.18057210965435042,
+      "interpretation": "not tool-based"
+    },
+    "sequence": {
+      "after_ch": 3,
+      "after_sh": 5,
+      "after_lch": 1,
+      "total": 9,
+      "interpretation": "Limited sequence data"
+    }
+  }
+}

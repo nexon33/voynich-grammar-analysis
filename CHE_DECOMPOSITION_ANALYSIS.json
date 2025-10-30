@@ -1,0 +1,121 @@
+{
+  "classification": "independent",
+  "confidence": "LOW",
+  "tests_passed": "0/3",
+  "tests": {
+    "morphological": {
+      "che_total": 560,
+      "ch_total": 1678,
+      "che_before": [
+        [
+          "<START>",
+          37
+        ],
+        [
+          "OL",
+          20
+        ],
+        [
+          "THIS/THAT",
+          13
+        ],
+        [
+          "oak-GEN-[?e]-VERB",
+          10
+        ],
+        [
+          "oak-GEN-[?a]-DEF",
+          10
+        ],
+        [
+          "[?a]-DEF",
+          9
+        ],
+        [
+          "AT/IN",
+          8
+        ],
+        [
+          "oak-GEN-AIN",
+          8
+        ],
+        [
+          "oak-DEF",
+          8
+        ],
+        [
+          "OR",
+          7
+        ]
+      ],
+      "ch_before": [
+        [
+          "<START>",
+          125
+        ],
+        [
+          "OL",
+          42
+        ],
+        [
+          "THIS/THAT",
+          37
+        ],
+        [
+          "[?ch]-VERB",
+          35
+        ],
+        [
+          "oak-GEN-[?e]-VERB",
+          28
+        ],
+        [
+          "oak-DEF",
+          26
+        ],
+        [
+          "[?sh]-VERB",
+          25
+        ],
+        [
+          "THEN",
+          25
+        ],
+        [
+          "oak-GEN-AIN",
+          23
+        ],
+        [
+          "[PARTICLE]",
+          22
+        ]
+      ],
+      "similarity": 0.6,
+      "composite": false
+    },
+    "verbal": {
+      "che_verb": 5,
+      "che_total": 560,
+      "che_rate": 0.008928571428571428,
+      "ch_rate": 0.5882002383790227,
+      "verbal": false
+    },
+    "aspectual": {
+      "che_with_continuous": 116,
+      "che_total": 493,
+      "rate": 0.23529411764705882,
+      "aspectual": false
+    },
+    "distribution": {
+      "che_total": 493,
+      "contexts": {
+        "botanical": 0.1359026369168357,
+        "vessel": 0.16024340770791076,
+        "water": 0.11561866125760649,
+        "oak": 0.5517241379310345,
+        "oat": 0.2210953346855984,
+        "verb_sequence": 0.3894523326572008
+      }
+    }
+  }
+}
