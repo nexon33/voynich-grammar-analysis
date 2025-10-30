@@ -1,0 +1,255 @@
+# Lisa Fagin Davis's Five-Scribe Attribution System
+# Source: Davis (2020) Manuscript Studies + Davis (2025) blog post
+# Compiled from detailed documentation
+#
+# Format: Folio	Scribe	Dialect	Section	Notes
+#
+# Scribes:
+# 1 = Scribe 1 (Dialect A, neat hand, wide spacing, long backward flourish on m/n)
+# 2 = Scribe 2 (Dialect B, cramped hand, upward slope, short backstroke on m/n)
+# 3 = Scribe 3 (Dialect B, compact hand, final stroke curves back to touch minim)
+# 4 = Scribe 4 (Dialect B, perpendicular crossbar, oversize loop, tall m/n)
+# 5 = Scribe 5 (Dialect B, tall narrow h, long low finial on m)
+#
+# Sections: H=Herbal, A=Astronomical, B=Biological, P=Pharmaceutical, S=Stars
+#
+
+# QUIRES 1-3: Herbal A - Entirely Scribe 1
+f1r	1	A	H	Herbal opening - all Scribe 1
+f1v	1	A	H
+f2r	1	A	H
+f2v	1	A	H
+f3r	1	A	H
+f3v	1	A	H
+f4r	1	A	H
+f4v	1	A	H
+f5r	1	A	H
+f5v	1	A	H
+f6r	1	A	H
+f6v	1	A	H
+f7r	1	A	H
+f7v	1	A	H
+f8r	1	A	H
+f8v	1	A	H
+f9r	1	A	H
+f9v	1	A	H
+f10r	1	A	H
+f10v	1	A	H
+f11r	1	A	H
+f11v	1	A	H
+f12r	1	A	H
+f12v	1	A	H
+f13r	1	A	H
+f13v	1	A	H
+f14r	1	A	H
+f14v	1	A	H
+f15r	1	A	H
+f15v	1	A	H
+f16r	1	A	H
+f16v	1	A	H
+f17r	1	A	H
+f17v	1	A	H
+f18r	1	A	H
+f18v	1	A	H
+f19r	1	A	H
+f19v	1	A	H
+f20r	1	A	H
+f20v	1	A	H
+f21r	1	A	H
+f21v	1	A	H
+f22r	1	A	H
+f22v	1	A	H
+f23r	1	A	H
+f23v	1	A	H
+f24r	1	A	H
+f24v	1	A	H
+
+# QUIRE 4: Herbal - Mixed Scribes 1 & 2 by bifolium
+f25r	1	A	H	Outermost bifolium (25/32) - Scribe 1
+f25v	1	A	H
+f26r	2	B	H	Next bifolium (26/31) - Scribe 2
+f26v	2	B	H
+f27r	1	A	H	Inner bifolium (27/30) - Scribe 1
+f27v	1	A	H
+f28r	1	A	H	Innermost bifolium (28/29) - Scribe 1
+f28v	1	A	H
+f29r	1	A	H
+f29v	1	A	H
+f30r	1	A	H
+f30v	1	A	H
+f31r	2	B	H
+f31v	2	B	H
+f32r	1	A	H
+f32v	1	A	H
+
+# QUIRES 5-7: Herbal - Mixed Scribes 1, 2, 5
+f33r	2	B	H	Scribe 2
+f33v	2	B	H
+f34r	2	B	H
+f34v	2	B	H
+f35r	1	A	H	Scribe 1
+f35v	1	A	H
+f36r	1	A	H
+f36v	1	A	H
+f37r	1	A	H
+f37v	1	A	H
+f38r	1	A	H
+f38v	1	A	H
+f39r	2	B	H	Scribe 2
+f39v	2	B	H
+f40r	2	B	H
+f40v	2	B	H
+f41r	5	B	H	Scribe 5 (previously misattributed to Scribe 2)
+f41v	5	B	H
+f42r	2	B	H	Scribe 2
+f42v	2	B	H
+f43r	2	B	H
+f43v	2	B	H
+f44r	2	B	H
+f44v	2	B	H
+f45r	2	B	H
+f45v	2	B	H
+f46r	2	B	H
+f46v	2	B	H
+f47r	2	B	H
+f47v	2	B	H
+f48r	5	B	H	Scribe 5
+f48v	5	B	H
+f49r	1	A	H	Scribe 1
+f49v	1	A	H
+f50r	1	A	H
+f50v	1	A	H
+f51r	2	B	H	Scribe 2
+f51v	2	B	H
+f52r	2	B	H
+f52v	2	B	H
+f53r	1	A	H	Scribe 1
+f53v	1	A	H
+f54r	1	A	H
+f54v	1	A	H
+f55r	1	A	H
+f55v	1	A	H
+f56r	1	A	H
+f56v	1	A	H
+
+# QUIRE 8: Astronomical - Mixed Scribes 1, 3, 5
+f57r	5	B	A	Scribe 5
+f57v	1	A	A	Scribe 1
+f58r	3	B	A	Scribe 3 (first appearance)
+f58v	3	B	A
+f65r	3	B	A	Conjoint with f58
+f65v	3	B	A
+f66r	5	B	A	Scribe 5
+f66v	5	B	A
+
+# QUIRES 9-12: Astronomical/Zodiacal - Entirely Scribe 4
+f67r	4	B	A	All astronomical foldouts - Scribe 4 only
+f67v	4	B	A
+f68r	4	B	A
+f68v	4	B	A
+f69r	4	B	A
+f69v	4	B	A
+f70r	4	B	A
+f70v	4	B	A
+f71r	4	B	A
+f71v	4	B	A
+f72r	4	B	A
+f72v	4	B	A
+f73r	4	B	A
+f73v	4	B	A
+
+# QUIRE 13: Balneological - Entirely Scribe 2
+f75r	2	B	B	Bathing ladies section - all Scribe 2
+f75v	2	B	B
+f76r	2	B	B
+f76v	2	B	B
+f77r	2	B	B
+f77v	2	B	B
+f78r	2	B	B
+f78v	2	B	B
+f79r	2	B	B
+f79v	2	B	B
+f80r	2	B	B
+f80v	2	B	B
+f81r	2	B	B
+f81v	2	B	B
+f82r	2	B	B
+f82v	2	B	B
+f83r	2	B	B
+f83v	2	B	B
+f84r	2	B	B
+f84v	2	B	B
+
+# QUIRE 14: Rose foldout - Mixed Scribes 2 & 4
+f85r	2	B	A	Obverse panels - Scribe 2
+f85v	2	B	A
+f86r	2	B	A
+f86v	4	B	A	Rose diagram reverse - Scribe 4 (tentative)
+
+# QUIRE 15: Pharmaceutical foldouts - Entirely Scribe 1
+f87r	1	A	P	Recipe foldouts - all Scribe 1
+f87v	1	A	P
+f88r	1	A	P
+f88v	1	A	P
+f89r	1	A	P
+f89v	1	A	P
+f90r	1	A	P
+f90v	1	A	P
+
+# QUIRE 16: Mixed botanical/pharma - Scribes 1 & 3
+f93r	1	A	H	Outermost bifolium - Scribe 1 (botanical)
+f93v	1	A	H
+f94r	3	B	H	Inner bifolium - Scribe 3 (botanical)
+f94v	3	B	H
+f95r	3	B	H
+f95v	3	B	H
+f96r	1	A	H
+f96v	1	A	H
+
+# QUIRE 17: Pharmaceutical foldouts - Entirely Scribe 1
+f99r	1	A	P	Recipe foldouts - all Scribe 1
+f99v	1	A	P
+f100r	1	A	P
+f100v	1	A	P
+f101r	1	A	P
+f101v	1	A	P
+f102r	1	A	P
+f102v	1	A	P
+
+# QUIRE 18: Stars section - Primarily Scribe 3, mid-page transition with Scribe 2
+f103r	3	B	S	Starred paragraphs - Scribe 3
+f103v	3	B	S
+f104r	3	B	S
+f104v	3	B	S
+f105r	3	B	S
+f105v	3	B	S
+f106r	3	B	S
+f106v	3	B	S
+f107r	3	B	P
+f107v	3	B	P
+f108r	3	B	P
+f108v	3	B	P
+f111r	3	B	P
+f111v	3	B	P
+f112r	3	B	P
+f112v	3	B	P
+f113r	3	B	P
+f113v	3	B	P
+f114r	3	B	P
+f114v	3	B	P
+f115r	2	B	P	First 12 lines Scribe 2, line 13+ Scribe 3 (UNIQUE mid-page transition)
+f115v	3	B	P	Scribe 3
+f116r	3	B	P
+f116v	3	B	P
+
+# SUMMARY:
+# Scribe 1: 95 folios (Dialect A exclusively)
+# Scribe 2: 41 folios (Dialect B)
+# Scribe 3: 27 folios (Dialect B)
+# Scribe 4: 8 folios (Dialect B, astronomical only)
+# Scribe 5: 6 folios (Dialect B)
+# Total: 177 attributed folios
+#
+# Dialect distribution:
+# - Dialect A: 95 folios (Scribe 1 only)
+# - Dialect B: 82 folios (Scribes 2, 3, 4, 5)
