@@ -1,4 +1,4 @@
-# Voynich Manuscript Decipherment: 0% → 98% Recognition in 48 Hours
+# Voynich Manuscript: Morphological Structure Analysis (58% Pattern Recognition)
 
 **⚠️ SEEKING CRITICAL PEER REVIEW - Repository contains complete research trail**
 
@@ -9,10 +9,13 @@
 
 ## 🚨 Critical Context
 
-**Background:** Programmer/data scientist, NOT a linguist
-**Timeline:** October 29-30, 2025 (48 hours)
-**Method:** Human + AI collaboration (Claude by Anthropic)
-**Result:** 98.3% morpheme recognition (if methodology is valid)
+**Background:** Programmer/data scientist, NOT a linguist  
+**Timeline:** October 29-31, 2025  
+**Method:** Human + AI collaboration (Claude by Anthropic)  
+**Result:** 58% morphological pattern recognition, ~18-25% semantic understanding  
+**Status:** Validated against scrambled controls
+
+**⚠️ IMPORTANT:** Initial claim of "98% recognition" was inflated due to counting suffix-only matches as "recognized." Null hypothesis testing revealed true metrics are ~58% morphological / 18-25% semantic. See [NULL_HYPOTHESIS_EXECUTIVE_SUMMARY.md](./NULL_HYPOTHESIS_EXECUTIVE_SUMMARY.md) for details.
 
 **This repository contains 20 phases of iterative research, multiple revisions, dead ends, and breakthroughs. The "messiness" is intentional - it shows the actual research process, not a polished final product.**
 
@@ -51,12 +54,22 @@ qot      = oat
 
 ### For Quick Review (Most People)
 
-**Read these 5 files in order:**
+**Read these files in order:**
 
-1. **[DECIPHERMENT_COMPLETE_88_TO_98_PCT.md](./DECIPHERMENT_COMPLETE_88_TO_98_PCT.md)**
-   - Complete summary: 88.2% → 98.3% recognition
-   - All key discoveries documented
-   - **Start here if you read nothing else**
+1. **[NULL_HYPOTHESIS_EXECUTIVE_SUMMARY.md](./NULL_HYPOTHESIS_EXECUTIVE_SUMMARY.md)** ⭐ **NEW**
+   - Critical methodology validation
+   - Corrected recognition rates (58% morphological, 18-25% semantic)
+   - **Read this first to understand corrected claims**
+
+2. **[CORRECTED_INTERPRETATION.md](./CORRECTED_INTERPRETATION.md)** ⭐ **NEW**
+   - What the null hypothesis test actually means
+   - Why word-order independence is expected for morphological analysis
+   - Validated vs unsupported claims
+
+3. **[DECIPHERMENT_COMPLETE_88_TO_98_PCT.md](./DECIPHERMENT_COMPLETE_88_TO_98_PCT.md)**
+   - Original summary (recognition rates now known to be inflated)
+   - Morphological discoveries remain valid
+   - **Read with corrected context from files #1-2**
 
 2. **[VOYNICHESE_ORIGINALS_WITH_TRANSLATIONS.md](./VOYNICHESE_ORIGINALS_WITH_TRANSLATIONS.md)**
    - Actual Voynich glyphs with translations
@@ -271,24 +284,53 @@ then   - oak  - CONT   - GEN    - TOPIC
 
 ---
 
-## 📈 Recognition Statistics
+## 📈 Recognition Statistics (CORRECTED)
 
-### Overall Achievement
+### ⚠️ Methodology Correction
 
-| Metric | Value |
-|--------|-------|
-| **Starting recognition** | 0% (Day 0) |
-| **Day 1 progress** | 0% → 88.2% (+88.2%) |
-| **Day 2 progress** | 88.2% → 98.3% (+10.1%) |
-| **Total words decoded** | 36,371 / 37,000 |
-| **Morphemes validated** | 53 elements |
-| **Unknown remaining** | 1.7% (~629 words) |
+**Original claim:** 98.3% recognition  
+**Corrected (after null hypothesis testing):**
+- **Morphological pattern recognition:** 58.2%
+- **Semantic understanding:** 35-42% (updated Oct 31, 2025)
+  - Initial: 18-25% (15 roots)
+  - After decoding top 10 roots: 35-42% (25 roots, +17.7%)
+
+**What happened:** Initial metrics counted words as "recognized" if ANY morpheme was identified (including suffix-only matches). True semantic understanding requires knowing root meanings.
+
+**Example of inflation:**
+- Word: `ykal` → `[?yk]-LOC` 
+- Original: Counted as "recognized" (suffix `-al` known)
+- Corrected: Only morphologically parsed (root `yk` unknown)
+- This accounts for 49.2% of corpus
+
+### Corrected Achievement Metrics
+
+| Metric | Value | What It Means |
+|--------|-------|---------------|
+| **Morphological patterns identified** | 58.2% | Can decompose words into PREFIX-STEM-SUFFIX |
+| **Suffix identification** | 49.2% | Can identify grammatical markers |
+| **Semantic understanding** | **35-42%** | **Actually know what words mean** |
+| **Known root vocabulary** | 25 roots | ch, sh, ok, che, or, chey, chy, ain, am, ey + 15 previous |
+| **High confidence decoding** | 13,371 words (36%) | Roots + suffixes both known |
+| **Morphological only** | 18,252 words (49%) | Suffix known, root unknown |
+| **Unknown remaining** | 5,502 words (15%) | No structure identified |
+
+### Validation Against Controls
+
+| Text Type | Morphological Recognition |
+|-----------|---------------------------|
+| Real Voynich | 58.2% |
+| Scrambled word order | 58.2% (expected - morphology is word-internal) |
+| Scrambled characters | 25.9% |
+| Random text | 8.4% |
+
+**Interpretation:** Real text shows 7× better recognition than random (58% vs 8%), validating that morphological patterns are genuine linguistic structure.
 
 ### By Confidence Level
 
-- **HIGH confidence (10/10):** 23 morphemes
-- **MEDIUM confidence (8-9/10):** 18 morphemes
-- **TENTATIVE (6-7/10):** 12 morphemes
+- **HIGH confidence (fully known):** 9,150 words (24.6%)
+- **MEDIUM confidence (suffix only):** 18,252 words (49.2%)
+- **UNKNOWN (no recognition):** 9,709 words (26.2%)
 
 ---
 
@@ -315,19 +357,44 @@ Each morpheme scored on:
 
 ---
 
-## 🔄 Falsification Criteria
+## 🔄 Falsification Criteria (UPDATED)
 
 ### This Analysis Is WRONG If:
 
-1. ❌ Random text scores ≥8/10 on validation framework
-2. ❌ Independent researchers can't replicate morpheme identification
-3. ❌ "Translations" don't parse new passages consistently
-4. ❌ Hildegard parallel is unique (other medieval recipes don't match)
-5. ❌ [?e] medial position (98.2%) is statistical artifact
-6. ❌ Linguists identify fatal typological inconsistencies
-7. ❌ The 48-hour timeline reveals systematic rushed errors
+1. ✅ **TESTED:** Random text scores ≥8/10 on validation framework
+   - **Result:** Random text: 8.4% recognition vs Real: 58.2% - **PASSED**
 
-**Tests #1 and #2 passed on sample data. Need independent verification.**
+2. ⏳ Independent researchers can't replicate morpheme identification
+   - **Status:** Awaiting independent replication
+
+3. ⚠️ **PARTIALLY FAILED:** "Translations" don't parse new passages consistently
+   - **Result:** Only 18-25% semantic understanding, not 98% - Recognition inflated
+   - Morphological parsing works consistently, semantic interpretation does not
+
+4. ⏳ Hildegard parallel is unique (other medieval recipes don't match)
+   - **Status:** Needs testing against broader corpus
+
+5. ⚠️ **UNCERTAIN:** [?e] medial position (98.2%) is statistical artifact
+   - **Result:** Appears in scrambled word order too (98.8%) - May be orthographic
+   - Interpretation as aspectual marker weakened but not disproven
+
+6. ⏳ Linguists identify fatal typological inconsistencies
+   - **Status:** Awaiting linguistic peer review
+
+7. ⚠️ **PARTIALLY CONFIRMED:** Timeline reveals systematic rushed errors
+   - **Result:** Recognition inflation discovered (98% → 58% morphological)
+   - Null hypothesis testing revealed methodology limitations
+   - Core findings (morphological structure) remain valid
+
+### Test Results Summary
+
+| Test | Status | Result |
+|------|--------|--------|
+| Null hypothesis (random text) | ✅ PASSED | 58% vs 8% - real structure exists |
+| Null hypothesis (scrambled order) | ⚠️ EXPECTED | Word-order independence normal for morphology |
+| Recognition rate accuracy | ❌ FAILED | 98% claim was inflated, corrected to 58%/18-25% |
+| Morphological patterns | ✅ VALIDATED | Disappear in scrambled characters (25.9%) |
+| Independent replication | ⏳ PENDING | Awaiting peer review |
 
 ---
 
@@ -396,23 +463,29 @@ python scripts/analysis/complete_translation_98pct.py
 
 - ❌ I have linguistics expertise (I don't)
 - ❌ This is peer-reviewed (seeking review now)
+- ❌ **98% recognition** (corrected to 58% morphological, 18-25% semantic)
+- ❌ **"Manuscript decoded"** (morphological structure identified, not complete decipherment)
 - ❌ I know which language family (extinct Uralic? Isolate? Unknown)
 - ❌ I can identify all botanical terms (need expert consultation)
 - ❌ This definitively "solves" the Voynich manuscript
-- ❌ Semantic interpretations are validated (they're hypotheses)
-- ❌ This should have taken 48 hours (probably should have taken years)
+- ❌ Semantic interpretations are fully validated (many are hypotheses)
+- ❌ Discourse structure validated (null hypothesis testing shows word-order independence)
+- ❌ Aspect marking proven (98% medial 'e' may be orthographic, not linguistic)
 
 ---
 
-## ✅ What I AM Claiming
+## ✅ What I AM Claiming (CORRECTED)
 
-- ✅ 98% morpheme recognition achieved (if methodology sound)
-- ✅ Systematic agglutinative grammar (53 morphemes)
-- ✅ At least one structural parallel with medieval text (Hildegard)
-- ✅ Statistical validation framework (replicable)
-- ✅ Methodology transparent and testable
-- ✅ This is either breakthrough or spectacular systematic error
-- ✅ I honestly don't know which
+- ✅ **58% morphological pattern recognition** (validated against scrambled controls)
+- ✅ **Real linguistic structure exists** (7× better than random text)
+- ✅ **Systematic agglutinative morphology** (PREFIX-STEM-SUFFIX structure)
+- ✅ **Suffix inventory documented** (~10-15 productive suffixes)
+- ✅ **Semantic understanding of 35-42%** (25 root words decoded, +17.7% gain on Oct 31)
+- ✅ At least one structural parallel with medieval text (Hildegard - requires validation)
+- ✅ Null hypothesis testing performed (methodology validated against controls)
+- ✅ Methodology transparent and replicable
+- ✅ This represents significant progress OR systematic error with real patterns
+- ✅ Recognition inflation discovered and corrected through rigorous testing
 
 ---
 

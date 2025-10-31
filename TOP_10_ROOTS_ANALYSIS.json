@@ -1,0 +1,534 @@
+{
+  "analysis_date": "2025-10-31",
+  "target_roots": [
+    "ch",
+    "sh",
+    "ok",
+    "ain",
+    "or",
+    "chey",
+    "chy",
+    "che",
+    "am",
+    "ey"
+  ],
+  "total_instances": 6571,
+  "potential_gain_pct": 17.6996632996633,
+  "detailed_analysis": {
+    "ch": {
+      "total_instances": 1678,
+      "classification": "needs_interpretation",
+      "standalone_rate": 0.004767580452920143,
+      "verb_suffix_rate": 0.5482717520858165,
+      "case_suffix_rate": 0.9797377830750894,
+      "top_suffixes": {
+        "edy": 623,
+        "dy": 273,
+        "or": 268,
+        "ar": 86,
+        "eedy": 69
+      },
+      "co_occurrence_known": {
+        "ol": 94,
+        "ar": 84,
+        "daiin": 57,
+        "qol": 43,
+        "cho": 25
+      },
+      "context_examples": [
+        {
+          "original": "oschy dain chor kos",
+          "translation": "[?oschy] THIS/THAT [?ch]-INST [?kos]",
+          "target_word": "chor",
+          "target_trans": "[?ch]-INST"
+        },
+        {
+          "original": "odaiin chodain chdy okain dan",
+          "translation": "[?o]-DEF-D vessel-DEF-D [?ch]-VERB oak-DEF [?dan]",
+          "target_word": "chdy",
+          "target_trans": "[?ch]-VERB"
+        },
+        {
+          "original": "ck eor chor shey kol",
+          "translation": "[?ck] [?e]-INST [?ch]-INST [?shey] [?k]-LOC",
+          "target_word": "chor",
+          "target_trans": "[?ch]-INST"
+        },
+        {
+          "original": "chol kor chal",
+          "translation": "botanical-term [?k]-INST [?ch]-LOC",
+          "target_word": "chal",
+          "target_trans": "[?ch]-LOC"
+        },
+        {
+          "original": "shok chor chey dain",
+          "translation": "[?shok] [?ch]-INST [PARTICLE] THIS/THAT",
+          "target_word": "chor",
+          "target_trans": "[?ch]-INST"
+        }
+      ]
+    },
+    "sh": {
+      "total_instances": 1055,
+      "classification": "needs_interpretation",
+      "standalone_rate": 0.014218009478672985,
+      "verb_suffix_rate": 0.5279620853080569,
+      "case_suffix_rate": 0.9127962085308057,
+      "top_suffixes": {
+        "edy": 480,
+        "ol": 185,
+        "or": 96,
+        "eedy": 84,
+        "dy": 62
+      },
+      "co_occurrence_known": {
+        "ol": 75,
+        "ar": 55,
+        "daiin": 33,
+        "qol": 31,
+        "she": 23
+      },
+      "context_examples": [
+        {
+          "original": "ar ataiin shol shory cthres",
+          "translation": "AT/IN [?at]-DEF [?sh]-LOC [?shory] [?cthres]",
+          "target_word": "shol",
+          "target_trans": "[?sh]-LOC"
+        },
+        {
+          "original": "y kor sholdy",
+          "translation": "[?y] [?k]-INST [?sh]-VERB-LOC",
+          "target_word": "sholdy",
+          "target_trans": "[?sh]-VERB-LOC"
+        },
+        {
+          "original": "kair chtaiin shar are cthar",
+          "translation": "[?kair] [?cht]-DEF [?sh]-DIR [?are] [?cth]-DIR",
+          "target_word": "shar",
+          "target_trans": "[?sh]-DIR"
+        },
+        {
+          "original": "o y shol cphoy oydar",
+          "translation": "[?o] [?y] [?sh]-LOC [?cphoy] [?oy]-DIR-D",
+          "target_word": "shol",
+          "target_trans": "[?sh]-LOC"
+        },
+        {
+          "original": "cphoy oydar sh s cfhoaiin",
+          "translation": "[?cphoy] [?oy]-DIR-D [?sh] [?s] [?cfho]-DEF",
+          "target_word": "sh",
+          "target_trans": "[?sh]"
+        }
+      ]
+    },
+    "ok": {
+      "total_instances": 883,
+      "classification": "needs_interpretation",
+      "standalone_rate": 0.006795016987542469,
+      "verb_suffix_rate": 0.15288788221970556,
+      "case_suffix_rate": 0.942242355605889,
+      "top_suffixes": {
+        "aiin": 209,
+        "ain": 143,
+        "ar": 127,
+        "edy": 116,
+        "eedy": 104
+      },
+      "co_occurrence_known": {
+        "ar": 70,
+        "ol": 41,
+        "daiin": 26,
+        "she": 11,
+        "cho": 7
+      },
+      "context_examples": [
+        {
+          "original": "chodain chdy okain dan cthy",
+          "translation": "vessel-DEF-D [?ch]-VERB oak-DEF [?dan] [PARTICLE]",
+          "target_word": "okain",
+          "target_trans": "oak-DEF"
+        },
+        {
+          "original": "kaiin shoaiin okol daiin far",
+          "translation": "[?k]-DEF botanical-term-DEF oak-LOC THIS/THAT [?f]-DIR",
+          "target_word": "okol",
+          "target_trans": "oak-LOC"
+        },
+        {
+          "original": "okol shol kol",
+          "translation": "oak-LOC [?sh]-LOC [?k]-LOC",
+          "target_word": "okol",
+          "target_trans": "oak-LOC"
+        },
+        {
+          "original": "shor okol chol dol",
+          "translation": "[?sh]-INST oak-LOC botanical-term DOL",
+          "target_word": "okol",
+          "target_trans": "oak-LOC"
+        },
+        {
+          "original": "okol chy chor",
+          "translation": "oak-LOC [PARTICLE] [?ch]-INST",
+          "target_word": "okol",
+          "target_trans": "oak-LOC"
+        }
+      ]
+    },
+    "ain": {
+      "total_instances": 557,
+      "classification": "needs_interpretation",
+      "standalone_rate": 0.1615798922800718,
+      "verb_suffix_rate": 0.0,
+      "case_suffix_rate": 0.003590664272890485,
+      "top_suffixes": {
+        "or": 1,
+        "d-ar": 1
+      },
+      "co_occurrence_known": {
+        "ar": 44,
+        "ol": 28,
+        "she": 16,
+        "qol": 6,
+        "daiin": 5
+      },
+      "context_examples": [
+        {
+          "original": "otain sheody chan",
+          "translation": "AT-AIN [?sheo]-VERB [?chan]",
+          "target_word": "otain",
+          "target_trans": "AT-AIN"
+        },
+        {
+          "original": "ykchy chckhy otain cthor cthy",
+          "translation": "[?ykchy] [?chckhy] AT-AIN [?cth]-INST [PARTICLE]",
+          "target_word": "otain",
+          "target_trans": "AT-AIN"
+        },
+        {
+          "original": "chear dsheor ain y mol",
+          "translation": "[?che]-DIR [?dshe]-INST AIN [?y] [?m]-LOC",
+          "target_word": "ain",
+          "target_trans": "AIN"
+        },
+        {
+          "original": "okeer cheor qokain",
+          "translation": "[?okeer] [?che]-INST oak-GEN-AIN",
+          "target_word": "qokain",
+          "target_trans": "oak-GEN-AIN"
+        },
+        {
+          "original": "kor oteol ain",
+          "translation": "[?k]-INST AT-[?e]-LOC AIN",
+          "target_word": "ain",
+          "target_trans": "AIN"
+        }
+      ]
+    },
+    "or": {
+      "total_instances": 640,
+      "classification": "needs_interpretation",
+      "standalone_rate": 0.5484375,
+      "verb_suffix_rate": 0.0015625,
+      "case_suffix_rate": 0.20625,
+      "top_suffixes": {
+        "aiin": 40,
+        "ain": 27,
+        "ol": 16,
+        "ar": 13,
+        "al": 12
+      },
+      "co_occurrence_known": {
+        "ar": 40,
+        "ol": 26,
+        "daiin": 21,
+        "she": 16,
+        "air": 11
+      },
+      "context_examples": [
+        {
+          "original": "sory ckhar or y kair",
+          "translation": "[?sory] [?ckh]-DIR OR [?y] [?kair]",
+          "target_word": "or",
+          "target_trans": "OR"
+        },
+        {
+          "original": "syaiir sheky or ykaiin shod",
+          "translation": "[?syaiir] [?sheky] OR [?yk]-DEF botanical-term-D",
+          "target_word": "or",
+          "target_trans": "OR"
+        },
+        {
+          "original": "daiin otaiin or okan",
+          "translation": "THIS/THAT AT-[?a]-DEF OR [?okan]",
+          "target_word": "or",
+          "target_trans": "OR"
+        },
+        {
+          "original": "yteeay char or ochydcho lkody",
+          "translation": "[?yteeay] [?ch]-DIR OR [?ochydcho] [?lko]-VERB",
+          "target_word": "or",
+          "target_trans": "OR"
+        },
+        {
+          "original": "sho or sheoldam otchody",
+          "translation": "botanical-term OR [?sheoldam] AT-vessel-VERB",
+          "target_word": "or",
+          "target_trans": "OR"
+        }
+      ]
+    },
+    "chey": {
+      "total_instances": 473,
+      "classification": "needs_interpretation",
+      "standalone_rate": 0.7167019027484144,
+      "verb_suffix_rate": 0.0,
+      "case_suffix_rate": 0.004228329809725159,
+      "top_suffixes": {
+        "al": 1,
+        "d": 1,
+        "or": 1
+      },
+      "co_occurrence_known": {
+        "daiin": 27,
+        "ol": 25,
+        "ar": 18,
+        "qol": 14,
+        "dain": 12
+      },
+      "context_examples": [
+        {
+          "original": "ycho tchey chokain sheo",
+          "translation": "[?ycho] T-[PARTICLE] [?chok]-DEF [?sheo]",
+          "target_word": "tchey",
+          "target_trans": "T-[PARTICLE]"
+        },
+        {
+          "original": "shcthaiin okaiir chey rchy potol",
+          "translation": "[?shcth]-DEF [?okaiir] [PARTICLE] [?rchy] [?pot]-LOC",
+          "target_word": "chey",
+          "target_trans": "[PARTICLE]"
+        },
+        {
+          "original": "shok chor chey dain ckhey",
+          "translation": "[?shok] [?ch]-INST [PARTICLE] THIS/THAT [?ckhey]",
+          "target_word": "chey",
+          "target_trans": "[PARTICLE]"
+        },
+        {
+          "original": "dair cphoaldar chey tody otoaiin",
+          "translation": "THERE [?cpho]-DIR-D-LOC [PARTICLE] T-[?o]-VERB AT-[?o]-DEF",
+          "target_word": "chey",
+          "target_trans": "[PARTICLE]"
+        },
+        {
+          "original": "sho ykeey chey daiin chcthy",
+          "translation": "botanical-term [?ykeey] [PARTICLE] THIS/THAT [?chcthy]",
+          "target_word": "chey",
+          "target_trans": "[PARTICLE]"
+        }
+      ]
+    },
+    "chy": {
+      "total_instances": 345,
+      "classification": "needs_interpretation",
+      "standalone_rate": 0.39420289855072466,
+      "verb_suffix_rate": 0.005797101449275362,
+      "case_suffix_rate": 0.011594202898550725,
+      "top_suffixes": {
+        "dy": 2,
+        "d-aiin": 2
+      },
+      "co_occurrence_known": {
+        "daiin": 24,
+        "cho": 13,
+        "ol": 13,
+        "ar": 9,
+        "sho": 5
+      },
+      "context_examples": [
+        {
+          "original": "shey pydeey chy ro d",
+          "translation": "[?shey] [?pydeey] [PARTICLE] [?ro] [?d]",
+          "target_word": "chy",
+          "target_trans": "[PARTICLE]"
+        },
+        {
+          "original": "chodo lol chy cthy",
+          "translation": "[?chodo] [?l]-LOC [PARTICLE] [PARTICLE]",
+          "target_word": "chy",
+          "target_trans": "[PARTICLE]"
+        },
+        {
+          "original": "qotaiincthey ychor chy ydychaiin",
+          "translation": "oat-GEN-[?aiincthey] [?ych]-INST [PARTICLE] [?ydych]-DEF",
+          "target_word": "chy",
+          "target_trans": "[PARTICLE]"
+        },
+        {
+          "original": "ychain dal chy dalor shan",
+          "translation": "[?ych]-DEF [?d]-LOC [PARTICLE] [?d]-INST-LOC [?shan]",
+          "target_word": "chy",
+          "target_trans": "[PARTICLE]"
+        },
+        {
+          "original": "okol chy chor cthor",
+          "translation": "oak-LOC [PARTICLE] [?ch]-INST [?cth]-INST",
+          "target_word": "chy",
+          "target_trans": "[PARTICLE]"
+        }
+      ]
+    },
+    "che": {
+      "total_instances": 560,
+      "classification": "needs_interpretation",
+      "standalone_rate": 0.0035714285714285713,
+      "verb_suffix_rate": 0.008928571428571428,
+      "case_suffix_rate": 0.9625,
+      "top_suffixes": {
+        "ol": 186,
+        "or": 110,
+        "ar": 50,
+        "d-ar": 35,
+        "d-aiin": 34
+      },
+      "co_occurrence_known": {
+        "ol": 48,
+        "ar": 28,
+        "daiin": 20,
+        "cho": 15,
+        "she": 9
+      },
+      "context_examples": [
+        {
+          "original": "dair y chear cthaiin cphar",
+          "translation": "THERE [?y] [?che]-DIR [?cth]-DEF [?cph]-DIR",
+          "target_word": "chear",
+          "target_trans": "[?che]-DIR"
+        },
+        {
+          "original": "ol choeee cheol dol ctheyykol",
+          "translation": "OL [?choeee] [?che]-LOC DOL [?ctheyyk]-LOC",
+          "target_word": "cheol",
+          "target_trans": "[?che]-LOC"
+        },
+        {
+          "original": "sho cholo cheor chodaiin",
+          "translation": "botanical-term [?cholo] [?che]-INST vessel-DEF-D",
+          "target_word": "cheor",
+          "target_trans": "[?che]-INST"
+        },
+        {
+          "original": "chokeoschees chr cheaiin",
+          "translation": "[?chokeoschees] [?chr] [?che]-DEF",
+          "target_word": "cheaiin",
+          "target_trans": "[?che]-DEF"
+        },
+        {
+          "original": "chokoishe chor cheol chol dolody",
+          "translation": "[?chokoishe] [?ch]-INST [?che]-LOC botanical-term [?dolo]-VERB",
+          "target_word": "cheol",
+          "target_trans": "[?che]-LOC"
+        }
+      ]
+    },
+    "am": {
+      "total_instances": 183,
+      "classification": "needs_interpretation",
+      "standalone_rate": 0.47540983606557374,
+      "verb_suffix_rate": 0.00546448087431694,
+      "case_suffix_rate": 0.00546448087431694,
+      "top_suffixes": {
+        "dy": 1,
+        "d": 1
+      },
+      "co_occurrence_known": {
+        "ar": 17,
+        "air": 6,
+        "daiin": 4,
+        "cho": 3,
+        "she": 3
+      },
+      "context_examples": [
+        {
+          "original": "char cfhar am",
+          "translation": "[?ch]-DIR [?cfh]-DIR [MODAL]",
+          "target_word": "am",
+          "target_trans": "[MODAL]"
+        },
+        {
+          "original": "aiin okolor am",
+          "translation": "[?a]-DEF oak-INST-LOC [MODAL]",
+          "target_word": "am",
+          "target_trans": "[MODAL]"
+        },
+        {
+          "original": "qodaiino ar am",
+          "translation": "[?qodaiino] AT/IN [MODAL]",
+          "target_word": "am",
+          "target_trans": "[MODAL]"
+        },
+        {
+          "original": "lor char otam cthom dy",
+          "translation": "[?l]-INST [?ch]-DIR AT-[MODAL] [?cthom] [?dy]",
+          "target_word": "otam",
+          "target_trans": "AT-[MODAL]"
+        },
+        {
+          "original": "ytchos shy qokam cthy",
+          "translation": "[?ytchos] [PARTICLE] oak-GEN-[MODAL] [PARTICLE]",
+          "target_word": "qokam",
+          "target_trans": "oak-GEN-[MODAL]"
+        }
+      ]
+    },
+    "ey": {
+      "total_instances": 197,
+      "classification": "needs_interpretation",
+      "standalone_rate": 0.005076142131979695,
+      "verb_suffix_rate": 0.005076142131979695,
+      "case_suffix_rate": 0.005076142131979695,
+      "top_suffixes": {
+        "dy": 1
+      },
+      "co_occurrence_known": {
+        "daiin": 5,
+        "ar": 5,
+        "dain": 4,
+        "ol": 4,
+        "sho": 2
+      },
+      "context_examples": [
+        {
+          "original": "kol sheey qokey ykody sochol",
+          "translation": "[?k]-LOC [?sheey] oak-GEN-[?ey] [?yko]-VERB [?soch]-LOC",
+          "target_word": "qokey",
+          "target_trans": "oak-GEN-[?ey]"
+        },
+        {
+          "original": "shy ykchy qotey daiin s",
+          "translation": "[PARTICLE] [?ykchy] oat-GEN-[?ey] THIS/THAT [?s]",
+          "target_word": "qotey",
+          "target_trans": "oat-GEN-[?ey]"
+        },
+        {
+          "original": "daiin sheoy tey ssoaiin",
+          "translation": "THIS/THAT [?sheoy] T-[?ey] [?sso]-DEF",
+          "target_word": "tey",
+          "target_trans": "T-[?ey]"
+        },
+        {
+          "original": "qokey chor char",
+          "translation": "oak-GEN-[?ey] [?ch]-INST [?ch]-DIR",
+          "target_word": "qokey",
+          "target_trans": "oak-GEN-[?ey]"
+        },
+        {
+          "original": "taiins she otey sy",
+          "translation": "T-[?aiins] water AT-[?ey] [?sy]",
+          "target_word": "otey",
+          "target_trans": "AT-[?ey]"
+        }
+      ]
+    }
+  }
+}

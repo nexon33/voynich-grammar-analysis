@@ -1,0 +1,1592 @@
+{
+  "current_semantic_understanding": "18-25%",
+  "known_roots": [
+    "qok",
+    "qot",
+    "dain",
+    "daiin",
+    "sho",
+    "cho",
+    "ar",
+    "dair",
+    "air",
+    "dor",
+    "she",
+    "shee",
+    "ol",
+    "qol",
+    "sal"
+  ],
+  "total_unknown_roots_analyzed": 5193,
+  "top_50_targets": [
+    {
+      "root": "ain",
+      "frequency": 557,
+      "priority_score": 23.57,
+      "with_known_context": 5,
+      "suffix_patterns": 2,
+      "standalone_rate": 0.0,
+      "context_examples": [
+        {
+          "context": "dal ain ydamshody",
+          "translation": "AIN",
+          "known_neighbors": [
+            "ar"
+          ]
+        },
+        {
+          "context": "s ain okam",
+          "translation": "AIN",
+          "known_neighbors": [
+            "air"
+          ]
+        },
+        {
+          "context": "todal qotain ckheey",
+          "translation": "oat-GEN-AIN",
+          "known_neighbors": [
+            "sho"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "ch",
+      "frequency": 1678,
+      "priority_score": 23,
+      "with_known_context": 5,
+      "suffix_patterns": 51,
+      "standalone_rate": 0.004767580452920143,
+      "context_examples": [
+        {
+          "context": "oschy chor kos",
+          "translation": "[?ch]-INST",
+          "known_neighbors": [
+            "dain"
+          ]
+        },
+        {
+          "context": "odaiin chdy dan",
+          "translation": "[?ch]-VERB",
+          "known_neighbors": [
+            "cho"
+          ]
+        },
+        {
+          "context": "otchor otchor cheor",
+          "translation": "AT-[?ch]-INST",
+          "known_neighbors": [
+            "ol"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "sh",
+      "frequency": 1055,
+      "priority_score": 23,
+      "with_known_context": 5,
+      "suffix_patterns": 28,
+      "standalone_rate": 0.014218009478672985,
+      "context_examples": [
+        {
+          "context": "yto shol kodshey",
+          "translation": "[?sh]-LOC",
+          "known_neighbors": [
+            "she"
+          ]
+        },
+        {
+          "context": "potoy shol cphoaldar",
+          "translation": "[?sh]-LOC",
+          "known_neighbors": [
+            "dair"
+          ]
+        },
+        {
+          "context": "kchy shol loeees",
+          "translation": "[?sh]-LOC",
+          "known_neighbors": [
+            "sho",
+            "cho"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "chey",
+      "frequency": 473,
+      "priority_score": 22.73,
+      "with_known_context": 5,
+      "suffix_patterns": 3,
+      "standalone_rate": 0.0,
+      "context_examples": [
+        {
+          "context": "shok chey ckhey",
+          "translation": "[PARTICLE]",
+          "known_neighbors": [
+            "dain"
+          ]
+        },
+        {
+          "context": "sho chey chcthy",
+          "translation": "[PARTICLE]",
+          "known_neighbors": [
+            "daiin"
+          ]
+        },
+        {
+          "context": "ol chey cthy",
+          "translation": "[PARTICLE]",
+          "known_neighbors": [
+            "ol"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "ok",
+      "frequency": 883,
+      "priority_score": 21.83,
+      "with_known_context": 5,
+      "suffix_patterns": 35,
+      "standalone_rate": 0.0,
+      "context_examples": [
+        {
+          "context": "kaiin okol far",
+          "translation": "oak-LOC",
+          "known_neighbors": [
+            "sho",
+            "daiin"
+          ]
+        },
+        {
+          "context": "yty okaiin cthy",
+          "translation": "oak-DEF",
+          "known_neighbors": [
+            "daiin"
+          ]
+        },
+        {
+          "context": "dchor okol daiin",
+          "translation": "oak-LOC",
+          "known_neighbors": [
+            "daiin"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "chy",
+      "frequency": 345,
+      "priority_score": 21.45,
+      "with_known_context": 5,
+      "suffix_patterns": 2,
+      "standalone_rate": 0.0,
+      "context_examples": [
+        {
+          "context": "qoaiin chy oteeen",
+          "translation": "[PARTICLE]",
+          "known_neighbors": [
+            "daiin"
+          ]
+        },
+        {
+          "context": "cho otchy dy",
+          "translation": "AT-[PARTICLE]",
+          "known_neighbors": [
+            "cho"
+          ]
+        },
+        {
+          "context": "ocholy chy dor",
+          "translation": "[PARTICLE]",
+          "known_neighbors": [
+            "dor"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "ey",
+      "frequency": 197,
+      "priority_score": 19.97,
+      "with_known_context": 5,
+      "suffix_patterns": 1,
+      "standalone_rate": 0.0,
+      "context_examples": [
+        {
+          "context": "shy qotey s",
+          "translation": "oat-GEN-[?ey]",
+          "known_neighbors": [
+            "daiin"
+          ]
+        },
+        {
+          "context": "taiins otey sy",
+          "translation": "AT-[?ey]",
+          "known_neighbors": [
+            "she"
+          ]
+        },
+        {
+          "context": "keeey tey daiiindain",
+          "translation": "T-[?ey]",
+          "known_neighbors": [
+            "daiin"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "am",
+      "frequency": 183,
+      "priority_score": 19.83,
+      "with_known_context": 5,
+      "suffix_patterns": 2,
+      "standalone_rate": 0.0,
+      "context_examples": [
+        {
+          "context": "qodaiino am am",
+          "translation": "[MODAL]",
+          "known_neighbors": [
+            "ar"
+          ]
+        },
+        {
+          "context": "cthdain am am",
+          "translation": "[MODAL]",
+          "known_neighbors": [
+            "dair"
+          ]
+        },
+        {
+          "context": "air tam tam",
+          "translation": "T-[MODAL]",
+          "known_neighbors": [
+            "cho"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "or",
+      "frequency": 640,
+      "priority_score": 19.4,
+      "with_known_context": 5,
+      "suffix_patterns": 17,
+      "standalone_rate": 0.0,
+      "context_examples": [
+        {
+          "context": "sho or otchody",
+          "translation": "OR",
+          "known_neighbors": [
+            "sho"
+          ]
+        },
+        {
+          "context": "cthol otor cthory",
+          "translation": "AT-OR",
+          "known_neighbors": [
+            "sho"
+          ]
+        },
+        {
+          "context": "cthor qokor okaiin",
+          "translation": "oak-GEN-OR",
+          "known_neighbors": [
+            "daiin"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "cthy",
+      "frequency": 109,
+      "priority_score": 19.09,
+      "with_known_context": 5,
+      "suffix_patterns": 3,
+      "standalone_rate": 0.0,
+      "context_examples": [
+        {
+          "context": "chol cthy cthy",
+          "translation": "[PARTICLE]",
+          "known_neighbors": [
+            "daiin"
+          ]
+        },
+        {
+          "context": "oteeen cthy qotcho",
+          "translation": "[PARTICLE]",
+          "known_neighbors": [
+            "cho"
+          ]
+        },
+        {
+          "context": "chochy cthy qoky",
+          "translation": "[PARTICLE]",
+          "known_neighbors": [
+            "daiin"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "dam",
+      "frequency": 97,
+      "priority_score": 18.97,
+      "with_known_context": 5,
+      "suffix_patterns": 1,
+      "standalone_rate": 0.0,
+      "context_examples": [
+        {
+          "context": "daiindol dam dam",
+          "translation": "[MODAL]",
+          "known_neighbors": [
+            "dair"
+          ]
+        },
+        {
+          "context": "qokol dam dam",
+          "translation": "[MODAL]",
+          "known_neighbors": [
+            "daiin"
+          ]
+        },
+        {
+          "context": "lolchor dam daing",
+          "translation": "[MODAL]",
+          "known_neighbors": [
+            "daiin"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "che",
+      "frequency": 560,
+      "priority_score": 18.6,
+      "with_known_context": 5,
+      "suffix_patterns": 22,
+      "standalone_rate": 0.0035714285714285713,
+      "context_examples": [
+        {
+          "context": "sho cheor chodaiin",
+          "translation": "[?che]-INST",
+          "known_neighbors": [
+            "cho"
+          ]
+        },
+        {
+          "context": "otchor cheor dair",
+          "translation": "[?che]-INST",
+          "known_neighbors": [
+            "ol"
+          ]
+        },
+        {
+          "context": "sho cheor qoeeey",
+          "translation": "[?che]-INST",
+          "known_neighbors": [
+            "sho"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "ai",
+      "frequency": 48,
+      "priority_score": 18.48,
+      "with_known_context": 5,
+      "suffix_patterns": 2,
+      "standalone_rate": 0.0,
+      "context_examples": [
+        {
+          "context": "chor aiiin daly",
+          "translation": "[?ai]-DEF",
+          "known_neighbors": [
+            "ar"
+          ]
+        },
+        {
+          "context": "qokedy taiiin teedy",
+          "translation": "T-[?ai]-DEF",
+          "known_neighbors": [
+            "she"
+          ]
+        },
+        {
+          "context": "al aiiin shedy",
+          "translation": "[?ai]-DEF",
+          "known_neighbors": [
+            "ol"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "eos",
+      "frequency": 39,
+      "priority_score": 18.39,
+      "with_known_context": 5,
+      "suffix_patterns": 3,
+      "standalone_rate": 0.0,
+      "context_examples": [
+        {
+          "context": "ol qokeos okos",
+          "translation": "oak-GEN-[?eos]",
+          "known_neighbors": [
+            "ar"
+          ]
+        },
+        {
+          "context": "chear oteos os",
+          "translation": "AT-[?eos]",
+          "known_neighbors": [
+            "ar"
+          ]
+        },
+        {
+          "context": "ched oteos alal",
+          "translation": "AT-[?eos]",
+          "known_neighbors": [
+            "ar",
+            "she"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "eeos",
+      "frequency": 22,
+      "priority_score": 18.22,
+      "with_known_context": 5,
+      "suffix_patterns": 2,
+      "standalone_rate": 0.045454545454545456,
+      "context_examples": [
+        {
+          "context": "chhy qokeeos sheo",
+          "translation": "oak-GEN-[?eeos]",
+          "known_neighbors": [
+            "ar"
+          ]
+        },
+        {
+          "context": "daiin oteeosol okol",
+          "translation": "AT-[?eeos]-LOC",
+          "known_neighbors": [
+            "ol"
+          ]
+        },
+        {
+          "context": "ro qokeeosal oys",
+          "translation": "oak-GEN-[?eeos]-LOC",
+          "known_neighbors": [
+            "ar"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "shey",
+      "frequency": 315,
+      "priority_score": 18.15,
+      "with_known_context": 5,
+      "suffix_patterns": 1,
+      "standalone_rate": 0.8761904761904762,
+      "context_examples": [
+        {
+          "context": "daiiin shey chol",
+          "translation": "[?shey]",
+          "known_neighbors": [
+            "dor"
+          ]
+        },
+        {
+          "context": "sols shey shey",
+          "translation": "[?shey]",
+          "known_neighbors": [
+            "she"
+          ]
+        },
+        {
+          "context": "qokeey shey qokchey",
+          "translation": "[?shey]",
+          "known_neighbors": [
+            "qot"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "eey",
+      "frequency": 511,
+      "priority_score": 18.11,
+      "with_known_context": 5,
+      "suffix_patterns": 0,
+      "standalone_rate": 0.009784735812133072,
+      "context_examples": [
+        {
+          "context": "qokeey qokeey shey",
+          "translation": "oak-GEN-[?eey]",
+          "known_neighbors": [
+            "qot"
+          ]
+        },
+        {
+          "context": "qotchy qoteey doty",
+          "translation": "oat-GEN-[?eey]",
+          "known_neighbors": [
+            "daiin"
+          ]
+        },
+        {
+          "context": "qoteey qoteey chodaiin",
+          "translation": "oat-GEN-[?eey]",
+          "known_neighbors": [
+            "cho"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "al",
+      "frequency": 775,
+      "priority_score": 17.75,
+      "with_known_context": 5,
+      "suffix_patterns": 19,
+      "standalone_rate": 0.327741935483871,
+      "context_examples": [
+        {
+          "context": "or al ckham",
+          "translation": "[?al]",
+          "known_neighbors": [
+            "daiin"
+          ]
+        },
+        {
+          "context": "dchy al al",
+          "translation": "[?al]",
+          "known_neighbors": [
+            "dain"
+          ]
+        },
+        {
+          "context": "tar al oram",
+          "translation": "[?al]",
+          "known_neighbors": [
+            "ar"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "chol",
+      "frequency": 380,
+      "priority_score": 16.8,
+      "with_known_context": 5,
+      "suffix_patterns": 0,
+      "standalone_rate": 0.0,
+      "context_examples": [
+        {
+          "context": "sho chol kshy",
+          "translation": "botanical-term",
+          "known_neighbors": [
+            "sho"
+          ]
+        },
+        {
+          "context": "doin chol cthal",
+          "translation": "botanical-term",
+          "known_neighbors": [
+            "dain"
+          ]
+        },
+        {
+          "context": "cthol chol daiin",
+          "translation": "botanical-term",
+          "known_neighbors": [
+            "cho",
+            "daiin"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "chckhy",
+      "frequency": 138,
+      "priority_score": 16.38,
+      "with_known_context": 5,
+      "suffix_patterns": 2,
+      "standalone_rate": 0.9782608695652174,
+      "context_examples": [
+        {
+          "context": "daiin chckhy chor",
+          "translation": "[?chckhy]",
+          "known_neighbors": [
+            "daiin"
+          ]
+        },
+        {
+          "context": "chor chckhy chckhy",
+          "translation": "[?chckhy]",
+          "known_neighbors": [
+            "daiin"
+          ]
+        },
+        {
+          "context": "otcho chckhy chckhy",
+          "translation": "[?chckhy]",
+          "known_neighbors": [
+            "dain"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "oy",
+      "frequency": 23,
+      "priority_score": 16.23,
+      "with_known_context": 4,
+      "suffix_patterns": 3,
+      "standalone_rate": 0.0,
+      "context_examples": [
+        {
+          "context": "qokoy qokoy okeol",
+          "translation": "oak-GEN-[?oy]",
+          "known_neighbors": [
+            "sho"
+          ]
+        },
+        {
+          "context": "otoy otoy arodchedy",
+          "translation": "AT-[?oy]",
+          "known_neighbors": [
+            "ar"
+          ]
+        },
+        {
+          "context": "toy toy daiin",
+          "translation": "T-[?oy]",
+          "known_neighbors": [
+            "daiin"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "dai",
+      "frequency": 18,
+      "priority_score": 16.18,
+      "with_known_context": 4,
+      "suffix_patterns": 3,
+      "standalone_rate": 0.0,
+      "context_examples": [
+        {
+          "context": "otol daiiin daiiin",
+          "translation": "[?dai]-DEF",
+          "known_neighbors": [
+            "ol"
+          ]
+        },
+        {
+          "context": "chor daiiin daiin",
+          "translation": "[?dai]-DEF",
+          "known_neighbors": [
+            "sho",
+            "daiin"
+          ]
+        },
+        {
+          "context": "tey daiiindain dain",
+          "translation": "[?dai]-DEF-D-DEF",
+          "known_neighbors": [
+            "daiin",
+            "dain"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "oky",
+      "frequency": 100,
+      "priority_score": 16.0,
+      "with_known_context": 5,
+      "suffix_patterns": 2,
+      "standalone_rate": 0.88,
+      "context_examples": [
+        {
+          "context": "ycheey oky okchey",
+          "translation": "[?oky]",
+          "known_neighbors": [
+            "daiin"
+          ]
+        },
+        {
+          "context": "chair oky etyd",
+          "translation": "[?oky]",
+          "known_neighbors": [
+            "daiin"
+          ]
+        },
+        {
+          "context": "saiin oky qotchol",
+          "translation": "[?oky]",
+          "known_neighbors": [
+            "she"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "dar",
+      "frequency": 297,
+      "priority_score": 15.97,
+      "with_known_context": 5,
+      "suffix_patterns": 0,
+      "standalone_rate": 0.0,
+      "context_examples": [
+        {
+          "context": "dain dar kaiin",
+          "translation": "DAR",
+          "known_neighbors": [
+            "she"
+          ]
+        },
+        {
+          "context": "dchor dar shody",
+          "translation": "DAR",
+          "known_neighbors": [
+            "cho",
+            "sho"
+          ]
+        },
+        {
+          "context": "dar dar s",
+          "translation": "DAR",
+          "known_neighbors": [
+            "cho"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "chos",
+      "frequency": 51,
+      "priority_score": 15.51,
+      "with_known_context": 5,
+      "suffix_patterns": 2,
+      "standalone_rate": 0.6862745098039216,
+      "context_examples": [
+        {
+          "context": "otol tchos dainchcthchy",
+          "translation": "T-[?chos]",
+          "known_neighbors": [
+            "sho"
+          ]
+        },
+        {
+          "context": "odaiin chos om",
+          "translation": "[?chos]",
+          "known_neighbors": [
+            "ar"
+          ]
+        },
+        {
+          "context": "qokeor chos ykeey",
+          "translation": "[?chos]",
+          "known_neighbors": [
+            "sho"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "choky",
+      "frequency": 44,
+      "priority_score": 15.44,
+      "with_known_context": 5,
+      "suffix_patterns": 1,
+      "standalone_rate": 0.8863636363636364,
+      "context_examples": [
+        {
+          "context": "shtshy tchokyd tchokyd",
+          "translation": "T-[?choky]-D",
+          "known_neighbors": [
+            "sho"
+          ]
+        },
+        {
+          "context": "cthol choky choky",
+          "translation": "[?choky]",
+          "known_neighbors": [
+            "daiin"
+          ]
+        },
+        {
+          "context": "ykor choky key",
+          "translation": "[?choky]",
+          "known_neighbors": [
+            "daiin"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "cheos",
+      "frequency": 39,
+      "priority_score": 15.39,
+      "with_known_context": 5,
+      "suffix_patterns": 2,
+      "standalone_rate": 0.8461538461538461,
+      "context_examples": [
+        {
+          "context": "todaiin cheos okal",
+          "translation": "[?cheos]",
+          "known_neighbors": [
+            "ol"
+          ]
+        },
+        {
+          "context": "shokeshy cheos dol",
+          "translation": "[?cheos]",
+          "known_neighbors": [
+            "daiin"
+          ]
+        },
+        {
+          "context": "checkhy cheos raldy",
+          "translation": "[?cheos]",
+          "known_neighbors": [
+            "dain"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "ckhy",
+      "frequency": 38,
+      "priority_score": 15.38,
+      "with_known_context": 5,
+      "suffix_patterns": 1,
+      "standalone_rate": 0.9736842105263158,
+      "context_examples": [
+        {
+          "context": "dain ckhy choiin",
+          "translation": "[?ckhy]",
+          "known_neighbors": [
+            "daiin"
+          ]
+        },
+        {
+          "context": "okol ckhy ckhy",
+          "translation": "[?ckhy]",
+          "known_neighbors": [
+            "ar"
+          ]
+        },
+        {
+          "context": "okchor ckhy qotchol",
+          "translation": "[?ckhy]",
+          "known_neighbors": [
+            "she"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "okchy",
+      "frequency": 37,
+      "priority_score": 15.37,
+      "with_known_context": 5,
+      "suffix_patterns": 1,
+      "standalone_rate": 0.918918918918919,
+      "context_examples": [
+        {
+          "context": "ydor okchy koiin",
+          "translation": "[?okchy]",
+          "known_neighbors": [
+            "she"
+          ]
+        },
+        {
+          "context": "okchy okchy kchol",
+          "translation": "[?okchy]",
+          "known_neighbors": [
+            "sho"
+          ]
+        },
+        {
+          "context": "qokol okchy cthol",
+          "translation": "[?okchy]",
+          "known_neighbors": [
+            "daiin"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "sheky",
+      "frequency": 36,
+      "priority_score": 15.36,
+      "with_known_context": 5,
+      "suffix_patterns": 1,
+      "standalone_rate": 0.9722222222222222,
+      "context_examples": [
+        {
+          "context": "chor sheky qoty",
+          "translation": "[?sheky]",
+          "known_neighbors": [
+            "sho"
+          ]
+        },
+        {
+          "context": "teodar sheky xsl",
+          "translation": "[?sheky]",
+          "known_neighbors": [
+            "cho"
+          ]
+        },
+        {
+          "context": "qokeody sheky okedy",
+          "translation": "[?sheky]",
+          "known_neighbors": [
+            "ar"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "cheo",
+      "frequency": 235,
+      "priority_score": 15.35,
+      "with_known_context": 5,
+      "suffix_patterns": 13,
+      "standalone_rate": 0.0,
+      "context_examples": [
+        {
+          "context": "cholols qotcheo shodaiin",
+          "translation": "oat-GEN-vessel",
+          "known_neighbors": [
+            "sho",
+            "daiin"
+          ]
+        },
+        {
+          "context": "shol cheodaiin doytchody",
+          "translation": "vessel-DEF-D",
+          "known_neighbors": [
+            "daiin"
+          ]
+        },
+        {
+          "context": "shoiin cheody otchy",
+          "translation": "vessel-VERB",
+          "known_neighbors": [
+            "sho"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "kchy",
+      "frequency": 34,
+      "priority_score": 15.34,
+      "with_known_context": 5,
+      "suffix_patterns": 1,
+      "standalone_rate": 0.8529411764705882,
+      "context_examples": [
+        {
+          "context": "shodan kchy chodaiin",
+          "translation": "[?kchy]",
+          "known_neighbors": [
+            "dor"
+          ]
+        },
+        {
+          "context": "kcho kchy shol",
+          "translation": "[?kchy]",
+          "known_neighbors": [
+            "sho"
+          ]
+        },
+        {
+          "context": "keey kchy shody",
+          "translation": "[?kchy]",
+          "known_neighbors": [
+            "sho"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "aiir",
+      "frequency": 34,
+      "priority_score": 15.34,
+      "with_known_context": 5,
+      "suffix_patterns": 2,
+      "standalone_rate": 0.6764705882352942,
+      "context_examples": [
+        {
+          "context": "dchar otaiir okchom",
+          "translation": "AT-[?aiir]",
+          "known_neighbors": [
+            "ol"
+          ]
+        },
+        {
+          "context": "dair otaiir otosy",
+          "translation": "AT-[?aiir]",
+          "known_neighbors": [
+            "dair"
+          ]
+        },
+        {
+          "context": "shedy aiir ykeols",
+          "translation": "[?aiir]",
+          "known_neighbors": [
+            "ar"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "cheeo",
+      "frequency": 33,
+      "priority_score": 15.33,
+      "with_known_context": 5,
+      "suffix_patterns": 3,
+      "standalone_rate": 0.48484848484848486,
+      "context_examples": [
+        {
+          "context": "aiin cheeo ockhedy",
+          "translation": "[?cheeo]",
+          "known_neighbors": [
+            "dain"
+          ]
+        },
+        {
+          "context": "qokecho cheeo dam",
+          "translation": "[?cheeo]",
+          "known_neighbors": [
+            "ol"
+          ]
+        },
+        {
+          "context": "daiin olcheeo s",
+          "translation": "AT-[?cheeo]",
+          "known_neighbors": [
+            "daiin"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "sair",
+      "frequency": 31,
+      "priority_score": 15.31,
+      "with_known_context": 5,
+      "suffix_patterns": 3,
+      "standalone_rate": 0.8709677419354839,
+      "context_examples": [
+        {
+          "context": "sair sair daiin",
+          "translation": "[?sair]",
+          "known_neighbors": [
+            "ol"
+          ]
+        },
+        {
+          "context": "opaiin sair chopchedy",
+          "translation": "[?sair]",
+          "known_neighbors": [
+            "ar"
+          ]
+        },
+        {
+          "context": "chey sair okal",
+          "translation": "[?sair]",
+          "known_neighbors": [
+            "daiin"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "dchy",
+      "frequency": 30,
+      "priority_score": 15.3,
+      "with_known_context": 5,
+      "suffix_patterns": 3,
+      "standalone_rate": 0.9,
+      "context_examples": [
+        {
+          "context": "shookche dchy al",
+          "translation": "[?dchy]",
+          "known_neighbors": [
+            "dain"
+          ]
+        },
+        {
+          "context": "chol dchy chlaiin",
+          "translation": "[?dchy]",
+          "known_neighbors": [
+            "ar"
+          ]
+        },
+        {
+          "context": "damykchy dchy dchy",
+          "translation": "[?dchy]",
+          "known_neighbors": [
+            "dain"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "daly",
+      "frequency": 29,
+      "priority_score": 15.29,
+      "with_known_context": 5,
+      "suffix_patterns": 1,
+      "standalone_rate": 0.9655172413793104,
+      "context_examples": [
+        {
+          "context": "okey daly aim",
+          "translation": "[?daly]",
+          "known_neighbors": [
+            "ar"
+          ]
+        },
+        {
+          "context": "qokaiir daly dal",
+          "translation": "[?daly]",
+          "known_neighbors": [
+            "daiin"
+          ]
+        },
+        {
+          "context": "toar daly daly",
+          "translation": "[?daly]",
+          "known_neighbors": [
+            "she"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "ees",
+      "frequency": 28,
+      "priority_score": 15.28,
+      "with_known_context": 5,
+      "suffix_patterns": 1,
+      "standalone_rate": 0.21428571428571427,
+      "context_examples": [
+        {
+          "context": "otar otees or",
+          "translation": "AT-[?ees]",
+          "known_neighbors": [
+            "ol"
+          ]
+        },
+        {
+          "context": "oko ees chedas",
+          "translation": "[?ees]",
+          "known_neighbors": [
+            "ol"
+          ]
+        },
+        {
+          "context": "chol otees r",
+          "translation": "AT-[?ees]",
+          "known_neighbors": [
+            "cho"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "daiir",
+      "frequency": 25,
+      "priority_score": 15.25,
+      "with_known_context": 5,
+      "suffix_patterns": 2,
+      "standalone_rate": 0.88,
+      "context_examples": [
+        {
+          "context": "yky daiirol daiirol",
+          "translation": "[?daiir]-LOC",
+          "known_neighbors": [
+            "dain"
+          ]
+        },
+        {
+          "context": "daiir daiir chety",
+          "translation": "[?daiir]",
+          "known_neighbors": [
+            "air"
+          ]
+        },
+        {
+          "context": "chetegy daiir chedar",
+          "translation": "[?daiir]",
+          "known_neighbors": [
+            "ar",
+            "ar"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "yty",
+      "frequency": 25,
+      "priority_score": 15.25,
+      "with_known_context": 5,
+      "suffix_patterns": 1,
+      "standalone_rate": 0.96,
+      "context_examples": [
+        {
+          "context": "qotchol yty okaiin",
+          "translation": "[?yty]",
+          "known_neighbors": [
+            "daiin"
+          ]
+        },
+        {
+          "context": "qokchol yty cthdain",
+          "translation": "[?yty]",
+          "known_neighbors": [
+            "daiin"
+          ]
+        },
+        {
+          "context": "oky yty ordachy",
+          "translation": "[?yty]",
+          "known_neighbors": [
+            "ol"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "eees",
+      "frequency": 21,
+      "priority_score": 15.21,
+      "with_known_context": 5,
+      "suffix_patterns": 2,
+      "standalone_rate": 0.42857142857142855,
+      "context_examples": [
+        {
+          "context": "ol eees oloaiin",
+          "translation": "[?eees]",
+          "known_neighbors": [
+            "ol"
+          ]
+        },
+        {
+          "context": "qoteees qoteees kcheey",
+          "translation": "oat-GEN-[?eees]",
+          "known_neighbors": [
+            "sho"
+          ]
+        },
+        {
+          "context": "sheal oteees am",
+          "translation": "AT-[?eees]",
+          "known_neighbors": [
+            "ar"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "ykeeo",
+      "frequency": 19,
+      "priority_score": 15.19,
+      "with_known_context": 5,
+      "suffix_patterns": 2,
+      "standalone_rate": 0.3684210526315789,
+      "context_examples": [
+        {
+          "context": "ykeeo ykeeo shedal",
+          "translation": "[?ykeeo]",
+          "known_neighbors": [
+            "daiin"
+          ]
+        },
+        {
+          "context": "oleeckhey ykeeody ckhar",
+          "translation": "[?ykeeo]-VERB",
+          "known_neighbors": [
+            "cho"
+          ]
+        },
+        {
+          "context": "ykeeody ykeeody qoky",
+          "translation": "[?ykeeo]-VERB",
+          "known_neighbors": [
+            "ar"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "qo",
+      "frequency": 216,
+      "priority_score": 15.16,
+      "with_known_context": 5,
+      "suffix_patterns": 20,
+      "standalone_rate": 0.12962962962962962,
+      "context_examples": [
+        {
+          "context": "qo qo choeee",
+          "translation": "[?qo]",
+          "known_neighbors": [
+            "ol"
+          ]
+        },
+        {
+          "context": "tshy qoaiin sho",
+          "translation": "[?qo]-DEF",
+          "known_neighbors": [
+            "sho"
+          ]
+        },
+        {
+          "context": "daiin qodaiin s",
+          "translation": "[?qo]-DEF-D",
+          "known_neighbors": [
+            "daiin",
+            "cho"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "lk",
+      "frequency": 200,
+      "priority_score": 15.0,
+      "with_known_context": 5,
+      "suffix_patterns": 10,
+      "standalone_rate": 0.005,
+      "context_examples": [
+        {
+          "context": "qotaiin lkain or",
+          "translation": "[?lk]-DEF",
+          "known_neighbors": [
+            "ol"
+          ]
+        },
+        {
+          "context": "shey lkaiin olor",
+          "translation": "[?lk]-DEF",
+          "known_neighbors": [
+            "ol"
+          ]
+        },
+        {
+          "context": "ar lkol chedy",
+          "translation": "[?lk]-LOC",
+          "known_neighbors": [
+            "ol"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "cheey",
+      "frequency": 196,
+      "priority_score": 14.96,
+      "with_known_context": 5,
+      "suffix_patterns": 0,
+      "standalone_rate": 0.0,
+      "context_examples": [
+        {
+          "context": "ty cheey cheol",
+          "translation": "[PARTICLE]",
+          "known_neighbors": [
+            "dor",
+            "ol"
+          ]
+        },
+        {
+          "context": "daiin cheey dycheocthy",
+          "translation": "[PARTICLE]",
+          "known_neighbors": [
+            "daiin"
+          ]
+        },
+        {
+          "context": "okchor cheey chy",
+          "translation": "[PARTICLE]",
+          "known_neighbors": [
+            "ol",
+            "daiin"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "yk",
+      "frequency": 182,
+      "priority_score": 14.82,
+      "with_known_context": 5,
+      "suffix_patterns": 16,
+      "standalone_rate": 0.02197802197802198,
+      "context_examples": [
+        {
+          "context": "fachys ykal ataiin",
+          "translation": "[?yk]-LOC",
+          "known_neighbors": [
+            "ar"
+          ]
+        },
+        {
+          "context": "sheky ykaiin cthoary",
+          "translation": "[?yk]-DEF",
+          "known_neighbors": [
+            "sho"
+          ]
+        },
+        {
+          "context": "ykey ykaiin cthy",
+          "translation": "[?yk]-DEF",
+          "known_neighbors": [
+            "daiin"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "yt",
+      "frequency": 176,
+      "priority_score": 14.76,
+      "with_known_context": 5,
+      "suffix_patterns": 13,
+      "standalone_rate": 0.0,
+      "context_examples": [
+        {
+          "context": "qotcho ytor daiin",
+          "translation": "[?yt]-INST",
+          "known_neighbors": [
+            "cho",
+            "daiin"
+          ]
+        },
+        {
+          "context": "chytchy ytor chykychodar",
+          "translation": "[?yt]-INST",
+          "known_neighbors": [
+            "ol"
+          ]
+        },
+        {
+          "context": "qotchey ytor dain",
+          "translation": "[?yt]-INST",
+          "known_neighbors": [
+            "dain"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "lch",
+      "frequency": 173,
+      "priority_score": 14.73,
+      "with_known_context": 5,
+      "suffix_patterns": 13,
+      "standalone_rate": 0.011560693641618497,
+      "context_examples": [
+        {
+          "context": "qokeey lchedy sheols",
+          "translation": "[?lch]-VERB",
+          "known_neighbors": [
+            "ar"
+          ]
+        },
+        {
+          "context": "lchedy lchedy qokedy",
+          "translation": "[?lch]-VERB",
+          "known_neighbors": [
+            "she"
+          ]
+        },
+        {
+          "context": "qokeey lchedy kaiin",
+          "translation": "[?lch]-VERB",
+          "known_neighbors": [
+            "ol"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "eo",
+      "frequency": 170,
+      "priority_score": 14.7,
+      "with_known_context": 5,
+      "suffix_patterns": 14,
+      "standalone_rate": 0.011764705882352941,
+      "context_examples": [
+        {
+          "context": "cpheody oteodaiin kolotam",
+          "translation": "AT-[?eo]-DEF-D",
+          "known_neighbors": [
+            "ol"
+          ]
+        },
+        {
+          "context": "y teodar sheky",
+          "translation": "T-[?eo]-DIR-D",
+          "known_neighbors": [
+            "ar"
+          ]
+        },
+        {
+          "context": "qokeeody qokeody sheky",
+          "translation": "oak-GEN-[?eo]-VERB",
+          "known_neighbors": [
+            "ar"
+          ]
+        }
+      ]
+    },
+    {
+      "root": "cth",
+      "frequency": 164,
+      "priority_score": 14.64,
+      "with_known_context": 5,
+      "suffix_patterns": 14,
+      "standalone_rate": 0.012195121951219513,
+      "context_examples": [
+        {
+          "context": "oteos cthar otaiin",
+          "translation": "[?cth]-DIR",
+          "known_neighbors": [
+            "daiin"
+          ]
+        },
+        {
+          "context": "chol cthal shear",
+          "translation": "[?cth]-LOC",
+          "known_neighbors": [
+            "dain"
+          ]
+        },
+        {
+          "context": "daiin cthol ctholdar",
+          "translation": "[?cth]-LOC",
+          "known_neighbors": [
+            "daiin"
+          ]
+        }
+      ]
+    }
+  ],
+  "impact_analysis": {
+    "top_10_gain_pct": 16.484848484848484,
+    "top_20_gain_pct": 24.255892255892256,
+    "top_50_gain_pct": 31.53939393939394,
+    "top_100_gain_pct": 39.67407407407407
+  }
+}
