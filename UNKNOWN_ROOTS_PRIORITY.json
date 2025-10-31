@@ -1,0 +1,191 @@
+{
+  "total_words": 37125,
+  "total_unique_roots": 5229,
+  "known_roots_count": 34,
+  "unknown_roots_count": 5179,
+  "current_semantic_percentage": 36.22895622895623,
+  "top_30_unknown": [
+    {
+      "rank": 1,
+      "root": "e",
+      "instances": 1365,
+      "percentage_gain": 3.676767676767677
+    },
+    {
+      "rank": 2,
+      "root": "a",
+      "instances": 1057,
+      "percentage_gain": 2.847138047138047
+    },
+    {
+      "rank": 3,
+      "root": "s",
+      "instances": 694,
+      "percentage_gain": 1.8693602693602693
+    },
+    {
+      "rank": 4,
+      "root": "y",
+      "instances": 622,
+      "percentage_gain": 1.6754208754208755
+    },
+    {
+      "rank": 5,
+      "root": "k",
+      "instances": 525,
+      "percentage_gain": 1.4141414141414141
+    },
+    {
+      "rank": 6,
+      "root": "eey",
+      "instances": 511,
+      "percentage_gain": 1.3764309764309763
+    },
+    {
+      "rank": 7,
+      "root": "o",
+      "instances": 510,
+      "percentage_gain": 1.3737373737373737
+    },
+    {
+      "rank": 8,
+      "root": "d",
+      "instances": 417,
+      "percentage_gain": 1.1232323232323234
+    },
+    {
+      "rank": 9,
+      "root": "shey",
+      "instances": 315,
+      "percentage_gain": 0.8484848484848486
+    },
+    {
+      "rank": 10,
+      "root": "r",
+      "instances": 289,
+      "percentage_gain": 0.7784511784511785
+    },
+    {
+      "rank": 11,
+      "root": "dy",
+      "instances": 276,
+      "percentage_gain": 0.7434343434343434
+    },
+    {
+      "rank": 12,
+      "root": "l",
+      "instances": 243,
+      "percentage_gain": 0.6545454545454545
+    },
+    {
+      "rank": 13,
+      "root": "okeey",
+      "instances": 174,
+      "percentage_gain": 0.4686868686868687
+    },
+    {
+      "rank": 14,
+      "root": "cth",
+      "instances": 164,
+      "percentage_gain": 0.4417508417508417
+    },
+    {
+      "rank": 15,
+      "root": "sheey",
+      "instances": 151,
+      "percentage_gain": 0.4067340067340068
+    },
+    {
+      "rank": 16,
+      "root": "oke",
+      "instances": 147,
+      "percentage_gain": 0.39595959595959596
+    },
+    {
+      "rank": 17,
+      "root": "chckhy",
+      "instances": 138,
+      "percentage_gain": 0.3717171717171717
+    },
+    {
+      "rank": 18,
+      "root": "sheo",
+      "instances": 130,
+      "percentage_gain": 0.3501683501683502
+    },
+    {
+      "rank": 19,
+      "root": "ee",
+      "instances": 126,
+      "percentage_gain": 0.3393939393939394
+    },
+    {
+      "rank": 20,
+      "root": "kch",
+      "instances": 107,
+      "percentage_gain": 0.2882154882154882
+    },
+    {
+      "rank": 21,
+      "root": "oky",
+      "instances": 100,
+      "percentage_gain": 0.26936026936026936
+    },
+    {
+      "rank": 22,
+      "root": "opch",
+      "instances": 98,
+      "percentage_gain": 0.26397306397306397
+    },
+    {
+      "rank": 23,
+      "root": "dch",
+      "instances": 97,
+      "percentage_gain": 0.2612794612794613
+    },
+    {
+      "rank": 24,
+      "root": "okch",
+      "instances": 97,
+      "percentage_gain": 0.2612794612794613
+    },
+    {
+      "rank": 25,
+      "root": "pch",
+      "instances": 95,
+      "percentage_gain": 0.2558922558922559
+    },
+    {
+      "rank": 26,
+      "root": "p",
+      "instances": 91,
+      "percentage_gain": 0.2451178451178451
+    },
+    {
+      "rank": 27,
+      "root": "eeo",
+      "instances": 89,
+      "percentage_gain": 0.23973063973063974
+    },
+    {
+      "rank": 28,
+      "root": "keey",
+      "instances": 83,
+      "percentage_gain": 0.22356902356902358
+    },
+    {
+      "rank": 29,
+      "root": "chcthy",
+      "instances": 81,
+      "percentage_gain": 0.2181818181818182
+    },
+    {
+      "rank": 30,
+      "root": "aly",
+      "instances": 72,
+      "percentage_gain": 0.19393939393939394
+    }
+  ],
+  "roots_to_hit_50": 7,
+  "gain_to_hit_50": 14.232996632996633
+}

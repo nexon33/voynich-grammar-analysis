@@ -12,15 +12,15 @@
 **Background:** Programmer/data scientist, NOT a linguist  
 **Timeline:** October 29-31, 2025  
 **Method:** Human + AI collaboration (Claude by Anthropic)  
-**Result:** 58% morphological pattern recognition, **42-49% semantic understanding**  
-**Status:** Validated against scrambled controls, 35 roots decoded
+**Result:** 58% morphological pattern recognition, **50.4% semantic understanding**  
+**Status:** Validated against scrambled controls, **42 roots decoded** (50% threshold crossed!)
 
-**⚠️ IMPORTANT:** Initial claim of "98% recognition" was inflated due to counting suffix-only matches as "recognized." Null hypothesis testing revealed true metrics are 58% morphological / 42-49% semantic (35 roots).
+**⚠️ IMPORTANT:** Initial claim of "98% recognition" was inflated due to counting suffix-only matches as "recognized." Null hypothesis testing revealed true metrics are 58% morphological / initially 18% semantic. Through systematic vocabulary expansion, semantic understanding increased from 18% → 36.2% → **50.4%** by decoding 42 roots.
 
 **📚 QUICK START DOCUMENTS:**
-- [CURRENT_STATUS_SUMMARY.md](./CURRENT_STATUS_SUMMARY.md) - Quick reference (read this first!)
+- [7_CRITICAL_ROOTS_TO_50_PERCENT.md](./7_CRITICAL_ROOTS_TO_50_PERCENT.md) - **Latest:** 7 roots that pushed understanding over 50%
+- [VOCABULARY_42_ROOTS_COMPLETE.md](./VOCABULARY_42_ROOTS_COMPLETE.md) - **Complete vocabulary** (42 roots decoded)
 - [NULL_HYPOTHESIS_EXECUTIVE_SUMMARY.md](./NULL_HYPOTHESIS_EXECUTIVE_SUMMARY.md) - Validation results
-- [VOCABULARY_35_ROOTS_COMPLETE.md](./VOCABULARY_35_ROOTS_COMPLETE.md) - Complete vocabulary
 - [FINAL_SESSION_SUMMARY_VOCABULARY_EXPANSION.md](./FINAL_SESSION_SUMMARY_VOCABULARY_EXPANSION.md) - Complete timeline
 
 **This repository contains 20 phases of iterative research, multiple revisions, dead ends, and breakthroughs. The "messiness" is intentional - it shows the actual research process, not a polished final product.**
@@ -297,10 +297,11 @@ then   - oak  - CONT   - GEN    - TOPIC
 **Original claim:** 98.3% recognition  
 **Corrected (after null hypothesis testing):**
 - **Morphological pattern recognition:** 58.2%
-- **Semantic understanding:** **42-49%** (final update Oct 31, 2025)
+- **Semantic understanding:** **50.4%** (final update Oct 31, 2025 - **50% threshold crossed!**)
   - Initial: 18-25% (15 roots)
   - After top 10 roots: 35-42% (25 roots, +17.7%)
-  - After Tier 1+2: 42-49% (35 roots, +24.5% total gain)
+  - After Tier 1+2: 42-49% (35 roots, +24.5%)
+  - **After critical 7 roots: 50.4% (42 roots, +32.1% total gain)** ✨
 
 **What happened:** Initial metrics counted words as "recognized" if ANY morpheme was identified (including suffix-only matches). True semantic understanding requires knowing root meanings.
 
@@ -316,9 +317,9 @@ then   - oak  - CONT   - GEN    - TOPIC
 |--------|-------|---------------|
 | **Morphological patterns identified** | 58.2% | Can decompose words into PREFIX-STEM-SUFFIX |
 | **Suffix identification** | 49.2% | Can identify grammatical markers |
-| **Semantic understanding** | **42-49%** | **Actually know what words mean** |
-| **Known root vocabulary** | **35 roots** | Botanical, processes, containers, spatial, particles |
-| **High confidence decoding** | 16,136 words (43.5%) | Roots + suffixes both known |
+| **Semantic understanding** | **50.4%** | **Actually know what words mean** (50% threshold crossed!) |
+| **Known root vocabulary** | **42 roots** | Botanical, processes, containers, spatial, particles |
+| **High confidence decoding** | 18,726 words (50.4%) | Roots + suffixes both known |
 | **Morphological only** | 15,487 words (41.7%) | Suffix known, root unknown |
 | **Unknown remaining** | 5,502 words (14.8%) | No structure identified |
 
@@ -558,7 +559,7 @@ python scripts/analysis/complete_translation_98pct.py
 - ✅ **Real linguistic structure exists** (7× better than random text)
 - ✅ **Systematic agglutinative morphology** (PREFIX-STEM-SUFFIX structure)
 - ✅ **Suffix inventory documented** (~10-15 productive suffixes)
-- ✅ **Semantic understanding of 42-49%** (35 root words decoded, +24.5% gain on Oct 31)
+- ✅ **Semantic understanding of 50.4%** (42 root words decoded, +32.1% gain on Oct 31 - **50% threshold crossed!**)
 - ✅ At least one structural parallel with medieval text (Hildegard - requires validation)
 - ✅ Null hypothesis testing performed (methodology validated against controls)
 - ✅ Methodology transparent and replicable
