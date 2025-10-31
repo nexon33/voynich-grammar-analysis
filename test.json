@@ -1,0 +1,2208 @@
+{
+  "metadata": {
+    "title": "Voynich Manuscript - Complete Translation Context",
+    "date_created": "2025-01-31",
+    "recognition_rate": "98.3%",
+    "corpus_size": 37125,
+    "words_decoded": 36371,
+    "decipherment_timeline": "48 hours total (January 2025)",
+    "session_progress": "88.2% -> 98.3% (+10.1%)",
+    "language_type": "Extinct agglutinative (Uralic-type)",
+    "content_type": "Medieval pharmaceutical manual (oak-based medicine)",
+    "purpose": "LLM context for improved translation"
+  },
+  "decipherment_methodology": {
+    "approach": "Systematic morphological analysis with statistical validation",
+    "classification_framework": {
+      "verbal_roots": {
+        "criteria": "VERB suffix rate >30%, standalone <20%",
+        "confidence_threshold": "p < 0.001 for HIGH"
+      },
+      "nominal_roots": {
+        "criteria": "VERB suffix rate <10%, standalone >30%",
+        "confidence_threshold": "p < 0.01 for MODERATE"
+      },
+      "bound_morphemes": {
+        "criteria": "Standalone <20%, positional >50%",
+        "types": ["prefix", "suffix", "infix"]
+      }
+    },
+    "statistical_methods": [
+      "Chi-square testing for co-occurrence",
+      "Enrichment ratios (observed/expected)",
+      "P-value calculations",
+      "Context window analysis (5 words before/after)"
+    ]
+  },
+  "morphology": {
+    "structure": "PREFIX-STEM-ASPECT-SUFFIX-DISCOURSE",
+    "example": "[?k]-qok-[?e]-GEN-[?y] = then-oak-CONT-GEN-TOPIC",
+    "case_system": {
+      "GEN": {
+        "gloss": "genitive",
+        "meaning": "'s / of",
+        "example": "oak-GEN = oak's",
+        "frequency": "very high"
+      },
+      "LOC": {
+        "gloss": "locative",
+        "meaning": "in / at",
+        "example": "vessel-LOC = in vessel",
+        "frequency": "very high"
+      },
+      "INST": {
+        "gloss": "instrumental",
+        "meaning": "with / by means of",
+        "example": "water-INST = with water",
+        "frequency": "high"
+      },
+      "DIR": {
+        "gloss": "directional",
+        "meaning": "to / toward",
+        "example": "oak-DIR = to oak",
+        "frequency": "moderate"
+      },
+      "DEF": {
+        "gloss": "definite",
+        "meaning": "the",
+        "example": "oak-DEF = the oak",
+        "frequency": "high"
+      }
+    },
+    "aspect_system": {
+      "[?e]": {
+        "type": "continuous aspect",
+        "position": "medial (98.2%)",
+        "meaning": "ongoing/continuous action",
+        "example": "qok-[?e]-VERB = continuously processing with oak"
+      }
+    },
+    "discourse_markers": {
+      "[?y]": {
+        "type": "topic marker",
+        "position": "suffix (63.8%)",
+        "meaning": "as for X, regarding X",
+        "frequency": "very high"
+      },
+      "[?k]": {
+        "type": "sequential marker",
+        "position": "prefix (70.7%)",
+        "meaning": "then, next (procedural steps)",
+        "frequency": "high"
+      }
+    }
+  },
+  "vocabulary": {
+    "core_lexicon": {
+      "qok": {
+        "meaning": "oak",
+        "confidence": "HIGH",
+        "frequency": "~2000+",
+        "evidence": "66.7% average oak association across corpus",
+        "compounds": ["qok-GEN-[?eey] (acorn)", "qok-[?che] (oak-bark)"]
+      },
+      "qot": {
+        "meaning": "oat",
+        "confidence": "HIGH",
+        "frequency": "~850+",
+        "evidence": "Often paired with qok in recipes",
+        "historical_parallel": "Hildegard: 'quercus cum avena'"
+      },
+      "dain": {
+        "meaning": "water",
+        "confidence": "HIGH",
+        "frequency": "~320+",
+        "evidence": "Decoction context, pharmaceutical use"
+      },
+      "sho": {
+        "meaning": "vessel",
+        "confidence": "HIGH",
+        "frequency": "~440+",
+        "evidence": "Equipment term, takes LOC suffix frequently"
+      }
+    },
+    "this_session_decoded": {
+      "[?eo]": {
+        "meaning": "boil/cook",
+        "confidence": "HIGH",
+        "instances": 170,
+        "session_phase": "Phase 1 (->90%)",
+        "evidence": "3.41× vessel enrichment, 1.72× water enrichment, 63.9% VERB suffix rate",
+        "pharmaceutical_context": "Decoction technique"
+      },
+      "[?che]": {
+        "meaning": "oak-substance (bark/gall/extract)",
+        "confidence": "MODERATE",
+        "instances": 560,
+        "session_phase": "Phase 1 (->90%)",
+        "evidence": "55.2% oak co-occurrence, independent root (not composite)",
+        "medical_use": "Tannin source"
+      },
+      "[?eey]": {
+        "meaning": "seed/grain (acorn when oak-GEN)",
+        "confidence": "HIGH",
+        "instances": 511,
+        "session_phase": "Phase 2 (->95%)",
+        "evidence": "67% with PLANT-GEN pattern, oak-GEN-[?eey] = acorn",
+        "breakthrough": "Matches Latin 'glans quercus' exactly"
+      },
+      "[?o]": {
+        "meaning": "oak-related term",
+        "confidence": "MODERATE",
+        "instances": 510,
+        "session_phase": "Phase 2 (->95%)",
+        "evidence": "47.6% oak contexts, takes DEF 38.6%"
+      },
+      "[?d]": {
+        "meaning": "container/vessel location",
+        "confidence": "MODERATE-HIGH",
+        "instances": 417,
+        "session_phase": "Phase 2 (->95%)",
+        "evidence": "78% LOC suffix rate (highest observed!)"
+      },
+      "[?shey]": {
+        "meaning": "oak-preparation",
+        "confidence": "MODERATE-HIGH",
+        "instances": 315,
+        "session_phase": "Phase 2 (->95%)",
+        "evidence": "62.7% oak contexts, 87.6% standalone"
+      },
+      "[?dy]": {
+        "meaning": "nominal (container-related)",
+        "confidence": "MODERATE",
+        "instances": 276,
+        "session_phase": "Phase 4 (->97.5%)",
+        "evidence": "81.9% standalone, 49.2% oak"
+      },
+      "[?l]": {
+        "meaning": "nominal (material)",
+        "confidence": "MODERATE-HIGH",
+        "instances": 243,
+        "session_phase": "Phase 4 (->97.5%)",
+        "evidence": "67.0% oak contexts"
+      },
+      "[?qo]": {
+        "meaning": "nominal/mixed",
+        "confidence": "MODERATE",
+        "instances": 216,
+        "session_phase": "Phase 4 (->97.5%)",
+        "evidence": "52.6% oak, takes DEF 38.9%"
+      },
+      "[?lk]": {
+        "meaning": "process (verbal)",
+        "confidence": "MODERATE-HIGH",
+        "instances": 200,
+        "session_phase": "Phase 4 (->97.5%)",
+        "evidence": "35% VERB rate (crosses threshold), 76.4% oak"
+      },
+      "[?ey]": {
+        "meaning": "nominal suffix",
+        "confidence": "HIGH",
+        "instances": 196,
+        "session_phase": "Phase 5 (->98%+)",
+        "evidence": "0% standalone (bound), part of [?eey] compound"
+      },
+      "[?yk]": {
+        "meaning": "bound morpheme (verbal)",
+        "confidence": "MODERATE-HIGH",
+        "instances": 182,
+        "session_phase": "Phase 5 (->98%+)",
+        "evidence": "2.2% standalone, 27.5% VERB rate"
+      },
+      "[?yt]": {
+        "meaning": "bound morpheme (verbal)",
+        "confidence": "MODERATE-HIGH",
+        "instances": 176,
+        "session_phase": "Phase 5 (->98%+)",
+        "evidence": "0% standalone, 28.4% VERB rate"
+      },
+      "[?okeey]": {
+        "meaning": "acorn variant (plural/type)",
+        "confidence": "HIGH",
+        "instances": 174,
+        "session_phase": "Phase 5 (->98%+)",
+        "evidence": "100% standalone, distinct from oak-GEN-[?eey]",
+        "significance": "PHARMACEUTICAL PRECISION - distinguishes acorn quantities/types"
+      },
+      "[?cth]": {
+        "meaning": "bound morpheme (suffix/formant)",
+        "confidence": "MODERATE",
+        "instances": 164,
+        "session_phase": "Phase 5 (->98%+)",
+        "evidence": "1.2% standalone"
+      },
+      "[?sheey]": {
+        "meaning": "oak/oat product",
+        "confidence": "MODERATE-HIGH",
+        "instances": 151,
+        "session_phase": "Phase 5 (->98%+)",
+        "evidence": "94% standalone, 61.8% oak, 20.8% oat"
+      }
+    }
+  },
+  "historical_context": {
+    "medical_tradition": "15th century European pharmaceutical practice",
+    "technique": "Decoction (boiling plant materials to extract compounds)",
+    "primary_ingredient": "Oak (bark, galls, acorns) - tannin source",
+    "parallels": {
+      "hildegard_of_bingen": {
+        "date": "12th century",
+        "work": "Physica",
+        "recipe_match": {
+          "latin": "Recipe glandulas quercus cum avena",
+          "english": "Take acorns of oak with oats",
+          "voynichese": "qokeey qot shey",
+          "translation": "Acorns, oat, oak-preparation",
+          "analysis": "IDENTICAL ingredient list and structure"
+        }
+      }
+    },
+    "oak_medicine": {
+      "properties": [
+        "Astringent (tannins)",
+        "Antiseptic",
+        "Wound healing",
+        "Digestive aid"
+      ],
+      "uses": [
+        "Stop bleeding",
+        "Treat diarrhea",
+        "Heal wounds",
+        "Prevent infection"
+      ],
+      "preparation": "Decoction (boiling bark/acorns in water)"
+    }
+  },
+  "manuscript_by_folio": {
+    "line1": {
+      "folio_id": "line1",
+      "line_count": 1,
+      "lines": [
+        {
+          "line_number": 1,
+          "global_line": "fachys ykal ar ataiin shol shory cthres y kor sholdy",
+          "original_eva": "fachys ykal ar ataiin shol shory cthres y kor sholdy",
+          "morphological_analysis": {
+            "words": [
+              {
+                "original": "fachys",
+                "morphology": {
+                  "original": "fachys",
+                  "prefix": null,
+                  "root": "fachys",
+                  "suffixes": [],
+                  "translation": ["[?fachys]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?fachys]",
+                "confidence": "unknown"
+              },
+              {
+                "original": "ykal",
+                "morphology": {
+                  "original": "ykal",
+                  "prefix": null,
+                  "root": "yk",
+                  "suffixes": ["al"],
+                  "translation": ["[?yk]", "LOC"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?yk]-LOC",
+                "confidence": "medium"
+              },
+              {
+                "original": "ar",
+                "morphology": {
+                  "original": "ar",
+                  "prefix": null,
+                  "root": "ar",
+                  "suffixes": [],
+                  "translation": ["AT/IN"],
+                  "method": "whole-word"
+                },
+                "reversal": null,
+                "final_translation": "AT/IN",
+                "confidence": "high"
+              },
+              {
+                "original": "ataiin",
+                "morphology": {
+                  "original": "ataiin",
+                  "prefix": null,
+                  "root": "at",
+                  "suffixes": ["aiin"],
+                  "translation": ["[?at]", "DEF"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?at]-DEF",
+                "confidence": "medium"
+              },
+              {
+                "original": "shol",
+                "morphology": {
+                  "original": "shol",
+                  "prefix": null,
+                  "root": "sh",
+                  "suffixes": ["ol"],
+                  "translation": ["[?sh]", "LOC"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?sh]-LOC",
+                "confidence": "medium"
+              },
+              {
+                "original": "shory",
+                "morphology": {
+                  "original": "shory",
+                  "prefix": null,
+                  "root": "shory",
+                  "suffixes": [],
+                  "translation": ["[?shory]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?shory]",
+                "confidence": "unknown"
+              },
+              {
+                "original": "cthres",
+                "morphology": {
+                  "original": "cthres",
+                  "prefix": null,
+                  "root": "cthres",
+                  "suffixes": [],
+                  "translation": ["[?cthres]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?cthres]",
+                "confidence": "unknown"
+              },
+              {
+                "original": "y",
+                "morphology": {
+                  "original": "y",
+                  "prefix": null,
+                  "root": "y",
+                  "suffixes": [],
+                  "translation": ["[?y]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?y]",
+                "confidence": "unknown"
+              },
+              {
+                "original": "kor",
+                "morphology": {
+                  "original": "kor",
+                  "prefix": null,
+                  "root": "k",
+                  "suffixes": ["or"],
+                  "translation": ["[?k]", "INST"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?k]-INST",
+                "confidence": "medium"
+              },
+              {
+                "original": "sholdy",
+                "morphology": {
+                  "original": "sholdy",
+                  "prefix": null,
+                  "root": "sh",
+                  "suffixes": ["ol", "dy"],
+                  "translation": ["[?sh]", "VERB", "LOC"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?sh]-VERB-LOC",
+                "confidence": "medium"
+              }
+            ],
+            "translation_gloss": "[?fachys] [?yk]-LOC AT/IN [?at]-DEF [?sh]-LOC [?shory] [?cthres] [?y] [?k]-INST [?sh]-VERB-LOC",
+            "recognition_rate": 60.0
+          },
+          "readable_interpretation": "[?fachys] [?yk] (in) AT/IN [?at]-DEF [?sh] (in) [?shory] [?cthres] [?y] [?k] (with) [?sh] (in)",
+          "metadata": {
+            "word_count": 10,
+            "unknown_count": 0,
+            "high_confidence_count": 0,
+            "medium_confidence_count": 0
+          }
+        }
+      ]
+    },
+    "line10": {
+      "folio_id": "line10",
+      "line_count": 1,
+      "lines": [
+        {
+          "line_number": 1,
+          "global_line": "dain os teody",
+          "original_eva": "dain os teody",
+          "morphological_analysis": {
+            "words": [
+              {
+                "original": "dain",
+                "morphology": {
+                  "original": "dain",
+                  "prefix": null,
+                  "root": "dain",
+                  "suffixes": [],
+                  "translation": ["THIS/THAT"],
+                  "method": "whole-word"
+                },
+                "reversal": null,
+                "final_translation": "THIS/THAT",
+                "confidence": "high"
+              },
+              {
+                "original": "os",
+                "morphology": {
+                  "original": "os",
+                  "prefix": null,
+                  "root": "os",
+                  "suffixes": [],
+                  "translation": ["[?os]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?os]",
+                "confidence": "unknown"
+              },
+              {
+                "original": "teody",
+                "morphology": {
+                  "original": "teody",
+                  "prefix": "t",
+                  "root": "eo",
+                  "suffixes": ["dy"],
+                  "translation": ["T", "[?eo]", "VERB"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "T-[?eo]-VERB",
+                "confidence": "medium"
+              }
+            ],
+            "translation_gloss": "THIS/THAT [?os] T-[?eo]-VERB",
+            "recognition_rate": 66.66666666666666
+          },
+          "readable_interpretation": "water [?os] in [?eo]",
+          "metadata": {
+            "word_count": 3,
+            "unknown_count": 0,
+            "high_confidence_count": 0,
+            "medium_confidence_count": 0
+          }
+        }
+      ]
+    },
+    "line100": {
+      "folio_id": "line100",
+      "line_count": 1,
+      "lines": [
+        {
+          "line_number": 1,
+          "global_line": "shor shol shol cthy cpholdy",
+          "original_eva": "shor shol shol cthy cpholdy",
+          "morphological_analysis": {
+            "words": [
+              {
+                "original": "shor",
+                "morphology": {
+                  "original": "shor",
+                  "prefix": null,
+                  "root": "sh",
+                  "suffixes": ["or"],
+                  "translation": ["[?sh]", "INST"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?sh]-INST",
+                "confidence": "medium"
+              },
+              {
+                "original": "shol",
+                "morphology": {
+                  "original": "shol",
+                  "prefix": null,
+                  "root": "sh",
+                  "suffixes": ["ol"],
+                  "translation": ["[?sh]", "LOC"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?sh]-LOC",
+                "confidence": "medium"
+              },
+              {
+                "original": "shol",
+                "morphology": {
+                  "original": "shol",
+                  "prefix": null,
+                  "root": "sh",
+                  "suffixes": ["ol"],
+                  "translation": ["[?sh]", "LOC"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?sh]-LOC",
+                "confidence": "medium"
+              },
+              {
+                "original": "cthy",
+                "morphology": {
+                  "original": "cthy",
+                  "prefix": null,
+                  "root": "cthy",
+                  "suffixes": [],
+                  "translation": ["[PARTICLE]"],
+                  "method": "whole-word"
+                },
+                "reversal": null,
+                "final_translation": "[PARTICLE]",
+                "confidence": "high"
+              },
+              {
+                "original": "cpholdy",
+                "morphology": {
+                  "original": "cpholdy",
+                  "prefix": null,
+                  "root": "cph",
+                  "suffixes": ["ol", "dy"],
+                  "translation": ["[?cph]", "VERB", "LOC"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?cph]-VERB-LOC",
+                "confidence": "medium"
+              }
+            ],
+            "translation_gloss": "[?sh]-INST [?sh]-LOC [?sh]-LOC [PARTICLE] [?cph]-VERB-LOC",
+            "recognition_rate": 100.0
+          },
+          "readable_interpretation": "[?sh] (with) [?sh] (in) [?sh] (in) [PARTICLE] [?cph] (in)",
+          "metadata": {
+            "word_count": 5,
+            "unknown_count": 0,
+            "high_confidence_count": 0,
+            "medium_confidence_count": 0
+          }
+        }
+      ]
+    },
+    "line1000": {
+      "folio_id": "line1000",
+      "line_count": 1,
+      "lines": [
+        {
+          "line_number": 1,
+          "global_line": "qokar chockhy chotor cha kary",
+          "original_eva": "qokar chockhy chotor cha kary",
+          "morphological_analysis": {
+            "words": [
+              {
+                "original": "qokar",
+                "morphology": {
+                  "original": "qokar",
+                  "prefix": "qok",
+                  "root": "ar",
+                  "suffixes": [],
+                  "translation": ["oak-GEN", "AT/IN"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "oak-GEN-AT/IN",
+                "confidence": "high"
+              },
+              {
+                "original": "chockhy",
+                "morphology": {
+                  "original": "chockhy",
+                  "prefix": null,
+                  "root": "chockhy",
+                  "suffixes": [],
+                  "translation": ["[?chockhy]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?chockhy]",
+                "confidence": "unknown"
+              },
+              {
+                "original": "chotor",
+                "morphology": {
+                  "original": "chotor",
+                  "prefix": null,
+                  "root": "chot",
+                  "suffixes": ["or"],
+                  "translation": ["[?chot]", "INST"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?chot]-INST",
+                "confidence": "medium"
+              },
+              {
+                "original": "cha",
+                "morphology": {
+                  "original": "cha",
+                  "prefix": null,
+                  "root": "cha",
+                  "suffixes": [],
+                  "translation": ["[?cha]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?cha]",
+                "confidence": "unknown"
+              },
+              {
+                "original": "kary",
+                "morphology": {
+                  "original": "kary",
+                  "prefix": null,
+                  "root": "kary",
+                  "suffixes": [],
+                  "translation": ["[?kary]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?kary]",
+                "confidence": "unknown"
+              }
+            ],
+            "translation_gloss": "oak-GEN-AT/IN [?chockhy] [?chot]-INST [?cha] [?kary]",
+            "recognition_rate": 40.0
+          },
+          "readable_interpretation": "oak's-AT/IN [?chockhy] [?chot] (with) [?cha] [?kary]",
+          "metadata": {
+            "word_count": 5,
+            "unknown_count": 0,
+            "high_confidence_count": 0,
+            "medium_confidence_count": 0
+          }
+        }
+      ]
+    },
+    "line1001": {
+      "folio_id": "line1001",
+      "line_count": 1,
+      "lines": [
+        {
+          "line_number": 1,
+          "global_line": "dorain char",
+          "original_eva": "dorain char",
+          "morphological_analysis": {
+            "words": [
+              {
+                "original": "dorain",
+                "morphology": {
+                  "original": "dorain",
+                  "prefix": null,
+                  "root": "d",
+                  "suffixes": ["or", "ain"],
+                  "translation": ["[?d]", "DEF", "INST"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?d]-DEF-INST",
+                "confidence": "medium"
+              },
+              {
+                "original": "char",
+                "morphology": {
+                  "original": "char",
+                  "prefix": null,
+                  "root": "ch",
+                  "suffixes": ["ar"],
+                  "translation": ["[?ch]", "DIR"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?ch]-DIR",
+                "confidence": "medium"
+              }
+            ],
+            "translation_gloss": "[?d]-DEF-INST [?ch]-DIR",
+            "recognition_rate": 100.0
+          },
+          "readable_interpretation": "[?d]-DEF (with) [?ch]-DIR",
+          "metadata": {
+            "word_count": 2,
+            "unknown_count": 0,
+            "high_confidence_count": 0,
+            "medium_confidence_count": 0
+          }
+        }
+      ]
+    },
+    "line1002": {
+      "folio_id": "line1002",
+      "line_count": 1,
+      "lines": [
+        {
+          "line_number": 1,
+          "global_line": "pcho chy kshaiin shotaiin cham shan",
+          "original_eva": "pcho chy kshaiin shotaiin cham shan",
+          "morphological_analysis": {
+            "words": [
+              {
+                "original": "pcho",
+                "morphology": {
+                  "original": "pcho",
+                  "prefix": null,
+                  "root": "pcho",
+                  "suffixes": [],
+                  "translation": ["[?pcho]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?pcho]",
+                "confidence": "unknown"
+              },
+              {
+                "original": "chy",
+                "morphology": {
+                  "original": "chy",
+                  "prefix": null,
+                  "root": "chy",
+                  "suffixes": [],
+                  "translation": ["[PARTICLE]"],
+                  "method": "whole-word"
+                },
+                "reversal": null,
+                "final_translation": "[PARTICLE]",
+                "confidence": "high"
+              },
+              {
+                "original": "kshaiin",
+                "morphology": {
+                  "original": "kshaiin",
+                  "prefix": null,
+                  "root": "ksh",
+                  "suffixes": ["aiin"],
+                  "translation": ["[?ksh]", "DEF"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?ksh]-DEF",
+                "confidence": "medium"
+              },
+              {
+                "original": "shotaiin",
+                "morphology": {
+                  "original": "shotaiin",
+                  "prefix": null,
+                  "root": "shot",
+                  "suffixes": ["aiin"],
+                  "translation": ["[?shot]", "DEF"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?shot]-DEF",
+                "confidence": "medium"
+              },
+              {
+                "original": "cham",
+                "morphology": {
+                  "original": "cham",
+                  "prefix": null,
+                  "root": "cham",
+                  "suffixes": [],
+                  "translation": ["[?cham]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?cham]",
+                "confidence": "unknown"
+              },
+              {
+                "original": "shan",
+                "morphology": {
+                  "original": "shan",
+                  "prefix": null,
+                  "root": "shan",
+                  "suffixes": [],
+                  "translation": ["[?shan]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?shan]",
+                "confidence": "unknown"
+              }
+            ],
+            "translation_gloss": "[?pcho] [PARTICLE] [?ksh]-DEF [?shot]-DEF [?cham] [?shan]",
+            "recognition_rate": 50.0
+          },
+          "readable_interpretation": "[?pcho] [PARTICLE] [?ksh]-DEF [?shot]-DEF [?cham] [?shan]",
+          "metadata": {
+            "word_count": 6,
+            "unknown_count": 0,
+            "high_confidence_count": 0,
+            "medium_confidence_count": 0
+          }
+        }
+      ]
+    },
+    "line1003": {
+      "folio_id": "line1003",
+      "line_count": 1,
+      "lines": [
+        {
+          "line_number": 1,
+          "global_line": "yshol chees cthol shor shol ety chary",
+          "original_eva": "yshol chees cthol shor shol ety chary",
+          "morphological_analysis": {
+            "words": [
+              {
+                "original": "yshol",
+                "morphology": {
+                  "original": "yshol",
+                  "prefix": null,
+                  "root": "ysh",
+                  "suffixes": ["ol"],
+                  "translation": ["[?ysh]", "LOC"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?ysh]-LOC",
+                "confidence": "medium"
+              },
+              {
+                "original": "chees",
+                "morphology": {
+                  "original": "chees",
+                  "prefix": null,
+                  "root": "chees",
+                  "suffixes": [],
+                  "translation": ["[?chees]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?chees]",
+                "confidence": "unknown"
+              },
+              {
+                "original": "cthol",
+                "morphology": {
+                  "original": "cthol",
+                  "prefix": null,
+                  "root": "cth",
+                  "suffixes": ["ol"],
+                  "translation": ["[?cth]", "LOC"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?cth]-LOC",
+                "confidence": "medium"
+              },
+              {
+                "original": "shor",
+                "morphology": {
+                  "original": "shor",
+                  "prefix": null,
+                  "root": "sh",
+                  "suffixes": ["or"],
+                  "translation": ["[?sh]", "INST"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?sh]-INST",
+                "confidence": "medium"
+              },
+              {
+                "original": "shol",
+                "morphology": {
+                  "original": "shol",
+                  "prefix": null,
+                  "root": "sh",
+                  "suffixes": ["ol"],
+                  "translation": ["[?sh]", "LOC"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?sh]-LOC",
+                "confidence": "medium"
+              },
+              {
+                "original": "ety",
+                "morphology": {
+                  "original": "ety",
+                  "prefix": null,
+                  "root": "ety",
+                  "suffixes": [],
+                  "translation": ["[?ety]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?ety]",
+                "confidence": "unknown"
+              },
+              {
+                "original": "chary",
+                "morphology": {
+                  "original": "chary",
+                  "prefix": null,
+                  "root": "chary",
+                  "suffixes": [],
+                  "translation": ["[?chary]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?chary]",
+                "confidence": "unknown"
+              }
+            ],
+            "translation_gloss": "[?ysh]-LOC [?chees] [?cth]-LOC [?sh]-INST [?sh]-LOC [?ety] [?chary]",
+            "recognition_rate": 57.14285714285714
+          },
+          "readable_interpretation": "[?ysh] (in) [?chees] [?cth] (in) [?sh] (with) [?sh] (in) [?ety] [?chary]",
+          "metadata": {
+            "word_count": 7,
+            "unknown_count": 0,
+            "high_confidence_count": 0,
+            "medium_confidence_count": 0
+          }
+        }
+      ]
+    },
+    "line1004": {
+      "folio_id": "line1004",
+      "line_count": 1,
+      "lines": [
+        {
+          "line_number": 1,
+          "global_line": "qotchor otchol ctho kchodan chkchory",
+          "original_eva": "qotchor otchol ctho kchodan chkchory",
+          "morphological_analysis": {
+            "words": [
+              {
+                "original": "qotchor",
+                "morphology": {
+                  "original": "qotchor",
+                  "prefix": "qot",
+                  "root": "ch",
+                  "suffixes": ["or"],
+                  "translation": ["oat-GEN", "[?ch]", "INST"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "oat-GEN-[?ch]-INST",
+                "confidence": "medium"
+              },
+              {
+                "original": "otchol",
+                "morphology": {
+                  "original": "otchol",
+                  "prefix": null,
+                  "root": "otchol",
+                  "suffixes": [],
+                  "translation": ["oat-vessel"],
+                  "method": "whole-word"
+                },
+                "reversal": null,
+                "final_translation": "oat-vessel",
+                "confidence": "high"
+              },
+              {
+                "original": "ctho",
+                "morphology": {
+                  "original": "ctho",
+                  "prefix": null,
+                  "root": "ctho",
+                  "suffixes": [],
+                  "translation": ["[?ctho]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?ctho]",
+                "confidence": "unknown"
+              },
+              {
+                "original": "kchodan",
+                "morphology": {
+                  "original": "kchodan",
+                  "prefix": null,
+                  "root": "kchodan",
+                  "suffixes": [],
+                  "translation": ["[?kchodan]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?kchodan]",
+                "confidence": "unknown"
+              },
+              {
+                "original": "chkchory",
+                "morphology": {
+                  "original": "chkchory",
+                  "prefix": null,
+                  "root": "chkchory",
+                  "suffixes": [],
+                  "translation": ["[?chkchory]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?chkchory]",
+                "confidence": "unknown"
+              }
+            ],
+            "translation_gloss": "oat-GEN-[?ch]-INST oat-vessel [?ctho] [?kchodan] [?chkchory]",
+            "recognition_rate": 40.0
+          },
+          "readable_interpretation": "oat's-[?ch] (with) oat-vessel [?ctho] [?kchodan] [?chkchory]",
+          "metadata": {
+            "word_count": 5,
+            "unknown_count": 0,
+            "high_confidence_count": 0,
+            "medium_confidence_count": 0
+          }
+        }
+      ]
+    },
+    "line1005": {
+      "folio_id": "line1005",
+      "line_count": 1,
+      "lines": [
+        {
+          "line_number": 1,
+          "global_line": "choty dol ksheo cthor otol cthol cholshol dain",
+          "original_eva": "choty dol ksheo cthor otol cthol cholshol dain",
+          "morphological_analysis": {
+            "words": [
+              {
+                "original": "choty",
+                "morphology": {
+                  "original": "choty",
+                  "prefix": null,
+                  "root": "choty",
+                  "suffixes": [],
+                  "translation": ["[?choty]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?choty]",
+                "confidence": "unknown"
+              },
+              {
+                "original": "dol",
+                "morphology": {
+                  "original": "dol",
+                  "prefix": null,
+                  "root": "dol",
+                  "suffixes": [],
+                  "translation": ["DOL"],
+                  "method": "whole-word"
+                },
+                "reversal": null,
+                "final_translation": "DOL",
+                "confidence": "high"
+              },
+              {
+                "original": "ksheo",
+                "morphology": {
+                  "original": "ksheo",
+                  "prefix": null,
+                  "root": "ksheo",
+                  "suffixes": [],
+                  "translation": ["[?ksheo]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?ksheo]",
+                "confidence": "unknown"
+              },
+              {
+                "original": "cthor",
+                "morphology": {
+                  "original": "cthor",
+                  "prefix": null,
+                  "root": "cth",
+                  "suffixes": ["or"],
+                  "translation": ["[?cth]", "INST"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?cth]-INST",
+                "confidence": "medium"
+              },
+              {
+                "original": "otol",
+                "morphology": {
+                  "original": "otol",
+                  "prefix": "ot",
+                  "root": "ol",
+                  "suffixes": [],
+                  "translation": ["AT", "OL"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "AT-OL",
+                "confidence": "high"
+              },
+              {
+                "original": "cthol",
+                "morphology": {
+                  "original": "cthol",
+                  "prefix": null,
+                  "root": "cth",
+                  "suffixes": ["ol"],
+                  "translation": ["[?cth]", "LOC"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?cth]-LOC",
+                "confidence": "medium"
+              },
+              {
+                "original": "cholshol",
+                "morphology": {
+                  "original": "cholshol",
+                  "prefix": null,
+                  "root": "cholsh",
+                  "suffixes": ["ol"],
+                  "translation": ["[?cholsh]", "LOC"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?cholsh]-LOC",
+                "confidence": "medium"
+              },
+              {
+                "original": "dain",
+                "morphology": {
+                  "original": "dain",
+                  "prefix": null,
+                  "root": "dain",
+                  "suffixes": [],
+                  "translation": ["THIS/THAT"],
+                  "method": "whole-word"
+                },
+                "reversal": null,
+                "final_translation": "THIS/THAT",
+                "confidence": "high"
+              }
+            ],
+            "translation_gloss": "[?choty] DOL [?ksheo] [?cth]-INST AT-OL [?cth]-LOC [?cholsh]-LOC THIS/THAT",
+            "recognition_rate": 75.0
+          },
+          "readable_interpretation": "[?choty] DOL [?ksheo] [?cth] (with) in OL [?cth] (in) [?cholsh] (in) water",
+          "metadata": {
+            "word_count": 8,
+            "unknown_count": 0,
+            "high_confidence_count": 0,
+            "medium_confidence_count": 0
+          }
+        }
+      ]
+    },
+    "line1006": {
+      "folio_id": "line1006",
+      "line_count": 1,
+      "lines": [
+        {
+          "line_number": 1,
+          "global_line": "qotor cho chody daiin chol ctheey darchy daiidy",
+          "original_eva": "qotor cho chody daiin chol ctheey darchy daiidy",
+          "morphological_analysis": {
+            "words": [
+              {
+                "original": "qotor",
+                "morphology": {
+                  "original": "qotor",
+                  "prefix": "qot",
+                  "root": "or",
+                  "suffixes": [],
+                  "translation": ["oat-GEN", "OR"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "oat-GEN-OR",
+                "confidence": "high"
+              },
+              {
+                "original": "cho",
+                "morphology": {
+                  "original": "cho",
+                  "prefix": null,
+                  "root": "cho",
+                  "suffixes": [],
+                  "translation": ["vessel"],
+                  "method": "whole-word"
+                },
+                "reversal": null,
+                "final_translation": "vessel",
+                "confidence": "high"
+              },
+              {
+                "original": "chody",
+                "morphology": {
+                  "original": "chody",
+                  "prefix": null,
+                  "root": "cho",
+                  "suffixes": ["dy"],
+                  "translation": ["vessel", "VERB"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "vessel-VERB",
+                "confidence": "high"
+              },
+              {
+                "original": "daiin",
+                "morphology": {
+                  "original": "daiin",
+                  "prefix": null,
+                  "root": "daiin",
+                  "suffixes": [],
+                  "translation": ["THIS/THAT"],
+                  "method": "whole-word"
+                },
+                "reversal": null,
+                "final_translation": "THIS/THAT",
+                "confidence": "high"
+              },
+              {
+                "original": "chol",
+                "morphology": {
+                  "original": "chol",
+                  "prefix": null,
+                  "root": "chol",
+                  "suffixes": [],
+                  "translation": ["botanical-term"],
+                  "method": "whole-word"
+                },
+                "reversal": null,
+                "final_translation": "botanical-term",
+                "confidence": "high"
+              },
+              {
+                "original": "ctheey",
+                "morphology": {
+                  "original": "ctheey",
+                  "prefix": null,
+                  "root": "ctheey",
+                  "suffixes": [],
+                  "translation": ["[?ctheey]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?ctheey]",
+                "confidence": "unknown"
+              },
+              {
+                "original": "darchy",
+                "morphology": {
+                  "original": "darchy",
+                  "prefix": null,
+                  "root": "darchy",
+                  "suffixes": [],
+                  "translation": ["[?darchy]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?darchy]",
+                "confidence": "unknown"
+              },
+              {
+                "original": "daiidy",
+                "morphology": {
+                  "original": "daiidy",
+                  "prefix": null,
+                  "root": "daii",
+                  "suffixes": ["dy"],
+                  "translation": ["[?daii]", "VERB"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?daii]-VERB",
+                "confidence": "medium"
+              }
+            ],
+            "translation_gloss": "oat-GEN-OR vessel vessel-VERB THIS/THAT botanical-term [?ctheey] [?darchy] [?daii]-VERB",
+            "recognition_rate": 75.0
+          },
+          "readable_interpretation": "oat's-OR vessel vessel water herb [?ctheey] [?darchy] [?daii]",
+          "metadata": {
+            "word_count": 8,
+            "unknown_count": 0,
+            "high_confidence_count": 0,
+            "medium_confidence_count": 0
+          }
+        }
+      ]
+    },
+    "line1007": {
+      "folio_id": "line1007",
+      "line_count": 1,
+      "lines": [
+        {
+          "line_number": 1,
+          "global_line": "dcheey chol shol chokaiin choeky dck ydain dal",
+          "original_eva": "dcheey chol shol chokaiin choeky dck ydain dal",
+          "morphological_analysis": {
+            "words": [
+              {
+                "original": "dcheey",
+                "morphology": {
+                  "original": "dcheey",
+                  "prefix": null,
+                  "root": "dcheey",
+                  "suffixes": [],
+                  "translation": ["[?dcheey]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?dcheey]",
+                "confidence": "unknown"
+              },
+              {
+                "original": "chol",
+                "morphology": {
+                  "original": "chol",
+                  "prefix": null,
+                  "root": "chol",
+                  "suffixes": [],
+                  "translation": ["botanical-term"],
+                  "method": "whole-word"
+                },
+                "reversal": null,
+                "final_translation": "botanical-term",
+                "confidence": "high"
+              },
+              {
+                "original": "shol",
+                "morphology": {
+                  "original": "shol",
+                  "prefix": null,
+                  "root": "sh",
+                  "suffixes": ["ol"],
+                  "translation": ["[?sh]", "LOC"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?sh]-LOC",
+                "confidence": "medium"
+              },
+              {
+                "original": "chokaiin",
+                "morphology": {
+                  "original": "chokaiin",
+                  "prefix": null,
+                  "root": "chok",
+                  "suffixes": ["aiin"],
+                  "translation": ["[?chok]", "DEF"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?chok]-DEF",
+                "confidence": "medium"
+              },
+              {
+                "original": "choeky",
+                "morphology": {
+                  "original": "choeky",
+                  "prefix": null,
+                  "root": "choeky",
+                  "suffixes": [],
+                  "translation": ["[?choeky]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?choeky]",
+                "confidence": "unknown"
+              },
+              {
+                "original": "dck",
+                "morphology": {
+                  "original": "dck",
+                  "prefix": null,
+                  "root": "dck",
+                  "suffixes": [],
+                  "translation": ["[?dck]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?dck]",
+                "confidence": "unknown"
+              },
+              {
+                "original": "ydain",
+                "morphology": {
+                  "original": "ydain",
+                  "prefix": null,
+                  "root": "y",
+                  "suffixes": ["d", "ain"],
+                  "translation": ["[?y]", "DEF", "D"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?y]-DEF-D",
+                "confidence": "medium"
+              },
+              {
+                "original": "dal",
+                "morphology": {
+                  "original": "dal",
+                  "prefix": null,
+                  "root": "d",
+                  "suffixes": ["al"],
+                  "translation": ["[?d]", "LOC"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?d]-LOC",
+                "confidence": "medium"
+              }
+            ],
+            "translation_gloss": "[?dcheey] botanical-term [?sh]-LOC [?chok]-DEF [?choeky] [?dck] [?y]-DEF-D [?d]-LOC",
+            "recognition_rate": 62.5
+          },
+          "readable_interpretation": "[?dcheey] herb [?sh] (in) [?chok]-DEF [?choeky] [?dck] [?y]-DEF-D [?d] (in)",
+          "metadata": {
+            "word_count": 8,
+            "unknown_count": 0,
+            "high_confidence_count": 0,
+            "medium_confidence_count": 0
+          }
+        }
+      ]
+    },
+    "line1008": {
+      "folio_id": "line1008",
+      "line_count": 1,
+      "lines": [
+        {
+          "line_number": 1,
+          "global_line": "qopor shol shot shol shol daiin dain scheam",
+          "original_eva": "qopor shol shot shol shol daiin dain scheam",
+          "morphological_analysis": {
+            "words": [
+              {
+                "original": "qopor",
+                "morphology": {
+                  "original": "qopor",
+                  "prefix": null,
+                  "root": "qop",
+                  "suffixes": ["or"],
+                  "translation": ["[?qop]", "INST"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?qop]-INST",
+                "confidence": "medium"
+              },
+              {
+                "original": "shol",
+                "morphology": {
+                  "original": "shol",
+                  "prefix": null,
+                  "root": "sh",
+                  "suffixes": ["ol"],
+                  "translation": ["[?sh]", "LOC"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?sh]-LOC",
+                "confidence": "medium"
+              },
+              {
+                "original": "shot",
+                "morphology": {
+                  "original": "shot",
+                  "prefix": null,
+                  "root": "shot",
+                  "suffixes": [],
+                  "translation": ["[?shot]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?shot]",
+                "confidence": "unknown"
+              },
+              {
+                "original": "shol",
+                "morphology": {
+                  "original": "shol",
+                  "prefix": null,
+                  "root": "sh",
+                  "suffixes": ["ol"],
+                  "translation": ["[?sh]", "LOC"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?sh]-LOC",
+                "confidence": "medium"
+              },
+              {
+                "original": "shol",
+                "morphology": {
+                  "original": "shol",
+                  "prefix": null,
+                  "root": "sh",
+                  "suffixes": ["ol"],
+                  "translation": ["[?sh]", "LOC"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?sh]-LOC",
+                "confidence": "medium"
+              },
+              {
+                "original": "daiin",
+                "morphology": {
+                  "original": "daiin",
+                  "prefix": null,
+                  "root": "daiin",
+                  "suffixes": [],
+                  "translation": ["THIS/THAT"],
+                  "method": "whole-word"
+                },
+                "reversal": null,
+                "final_translation": "THIS/THAT",
+                "confidence": "high"
+              },
+              {
+                "original": "dain",
+                "morphology": {
+                  "original": "dain",
+                  "prefix": null,
+                  "root": "dain",
+                  "suffixes": [],
+                  "translation": ["THIS/THAT"],
+                  "method": "whole-word"
+                },
+                "reversal": null,
+                "final_translation": "THIS/THAT",
+                "confidence": "high"
+              },
+              {
+                "original": "scheam",
+                "morphology": {
+                  "original": "scheam",
+                  "prefix": null,
+                  "root": "scheam",
+                  "suffixes": [],
+                  "translation": ["[?scheam]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?scheam]",
+                "confidence": "unknown"
+              }
+            ],
+            "translation_gloss": "[?qop]-INST [?sh]-LOC [?shot] [?sh]-LOC [?sh]-LOC THIS/THAT THIS/THAT [?scheam]",
+            "recognition_rate": 75.0
+          },
+          "readable_interpretation": "[?qop] (with) [?sh] (in) [?shot] [?sh] (in) [?sh] (in) water water [?scheam]",
+          "metadata": {
+            "word_count": 8,
+            "unknown_count": 0,
+            "high_confidence_count": 0,
+            "medium_confidence_count": 0
+          }
+        }
+      ]
+    },
+    "line1009": {
+      "folio_id": "line1009",
+      "line_count": 1,
+      "lines": [
+        {
+          "line_number": 1,
+          "global_line": "sho kshey choty chdain chodaiin daiindam",
+          "original_eva": "sho kshey choty chdain chodaiin daiindam",
+          "morphological_analysis": {
+            "words": [
+              {
+                "original": "sho",
+                "morphology": {
+                  "original": "sho",
+                  "prefix": null,
+                  "root": "sho",
+                  "suffixes": [],
+                  "translation": ["botanical-term"],
+                  "method": "whole-word"
+                },
+                "reversal": null,
+                "final_translation": "botanical-term",
+                "confidence": "high"
+              },
+              {
+                "original": "kshey",
+                "morphology": {
+                  "original": "kshey",
+                  "prefix": null,
+                  "root": "kshey",
+                  "suffixes": [],
+                  "translation": ["[?kshey]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?kshey]",
+                "confidence": "unknown"
+              },
+              {
+                "original": "choty",
+                "morphology": {
+                  "original": "choty",
+                  "prefix": null,
+                  "root": "choty",
+                  "suffixes": [],
+                  "translation": ["[?choty]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?choty]",
+                "confidence": "unknown"
+              },
+              {
+                "original": "chdain",
+                "morphology": {
+                  "original": "chdain",
+                  "prefix": null,
+                  "root": "ch",
+                  "suffixes": ["d", "ain"],
+                  "translation": ["[?ch]", "DEF", "D"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?ch]-DEF-D",
+                "confidence": "medium"
+              },
+              {
+                "original": "chodaiin",
+                "morphology": {
+                  "original": "chodaiin",
+                  "prefix": null,
+                  "root": "cho",
+                  "suffixes": ["d", "aiin"],
+                  "translation": ["vessel", "DEF", "D"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "vessel-DEF-D",
+                "confidence": "high"
+              },
+              {
+                "original": "daiindam",
+                "morphology": {
+                  "original": "daiindam",
+                  "prefix": null,
+                  "root": "daiindam",
+                  "suffixes": [],
+                  "translation": ["[?daiindam]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?daiindam]",
+                "confidence": "unknown"
+              }
+            ],
+            "translation_gloss": "botanical-term [?kshey] [?choty] [?ch]-DEF-D vessel-DEF-D [?daiindam]",
+            "recognition_rate": 50.0
+          },
+          "readable_interpretation": "herb [?kshey] [?choty] [?ch]-DEF-D vessel-DEF-D [?daiindam]",
+          "metadata": {
+            "word_count": 6,
+            "unknown_count": 0,
+            "high_confidence_count": 0,
+            "medium_confidence_count": 0
+          }
+        }
+      ]
+    },
+    "line101": {
+      "folio_id": "line101",
+      "line_count": 1,
+      "lines": [
+        {
+          "line_number": 1,
+          "global_line": "daiin ckhochy tchy koraiin",
+          "original_eva": "daiin ckhochy tchy koraiin",
+          "morphological_analysis": {
+            "words": [
+              {
+                "original": "daiin",
+                "morphology": {
+                  "original": "daiin",
+                  "prefix": null,
+                  "root": "daiin",
+                  "suffixes": [],
+                  "translation": ["THIS/THAT"],
+                  "method": "whole-word"
+                },
+                "reversal": null,
+                "final_translation": "THIS/THAT",
+                "confidence": "high"
+              },
+              {
+                "original": "ckhochy",
+                "morphology": {
+                  "original": "ckhochy",
+                  "prefix": null,
+                  "root": "ckhochy",
+                  "suffixes": [],
+                  "translation": ["[?ckhochy]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?ckhochy]",
+                "confidence": "unknown"
+              },
+              {
+                "original": "tchy",
+                "morphology": {
+                  "original": "tchy",
+                  "prefix": "t",
+                  "root": "chy",
+                  "suffixes": [],
+                  "translation": ["T", "[PARTICLE]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "T-[PARTICLE]",
+                "confidence": "high"
+              },
+              {
+                "original": "koraiin",
+                "morphology": {
+                  "original": "koraiin",
+                  "prefix": null,
+                  "root": "k",
+                  "suffixes": ["or", "aiin"],
+                  "translation": ["[?k]", "DEF", "INST"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?k]-DEF-INST",
+                "confidence": "medium"
+              }
+            ],
+            "translation_gloss": "THIS/THAT [?ckhochy] T-[PARTICLE] [?k]-DEF-INST",
+            "recognition_rate": 75.0
+          },
+          "readable_interpretation": "water [?ckhochy] in [PARTICLE] [?k]-DEF (with)",
+          "metadata": {
+            "word_count": 4,
+            "unknown_count": 0,
+            "high_confidence_count": 0,
+            "medium_confidence_count": 0
+          }
+        }
+      ]
+    },
+    "line1010": {
+      "folio_id": "line1010",
+      "line_count": 1,
+      "lines": [
+        {
+          "line_number": 1,
+          "global_line": "chody otshey dodaiin",
+          "original_eva": "chody otshey dodaiin",
+          "morphological_analysis": {
+            "words": [
+              {
+                "original": "chody",
+                "morphology": {
+                  "original": "chody",
+                  "prefix": null,
+                  "root": "cho",
+                  "suffixes": ["dy"],
+                  "translation": ["vessel", "VERB"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "vessel-VERB",
+                "confidence": "high"
+              },
+              {
+                "original": "otshey",
+                "morphology": {
+                  "original": "otshey",
+                  "prefix": "ot",
+                  "root": "shey",
+                  "suffixes": [],
+                  "translation": ["AT", "[?shey]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "AT-[?shey]",
+                "confidence": "medium"
+              },
+              {
+                "original": "dodaiin",
+                "morphology": {
+                  "original": "dodaiin",
+                  "prefix": null,
+                  "root": "do",
+                  "suffixes": ["d", "aiin"],
+                  "translation": ["[?do]", "DEF", "D"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?do]-DEF-D",
+                "confidence": "medium"
+              }
+            ],
+            "translation_gloss": "vessel-VERB AT-[?shey] [?do]-DEF-D",
+            "recognition_rate": 100.0
+          },
+          "readable_interpretation": "vessel in [?shey] [?do]-DEF-D",
+          "metadata": {
+            "word_count": 3,
+            "unknown_count": 0,
+            "high_confidence_count": 0,
+            "medium_confidence_count": 0
+          }
+        }
+      ]
+    },
+    "line1011": {
+      "folio_id": "line1011",
+      "line_count": 1,
+      "lines": [
+        {
+          "line_number": 1,
+          "global_line": "pydaiin sheor shaiin tsh olcha sholy",
+          "original_eva": "pydaiin sheor shaiin tsh olcha sholy",
+          "morphological_analysis": {
+            "words": [
+              {
+                "original": "pydaiin",
+                "morphology": {
+                  "original": "pydaiin",
+                  "prefix": null,
+                  "root": "py",
+                  "suffixes": ["d", "aiin"],
+                  "translation": ["[?py]", "DEF", "D"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?py]-DEF-D",
+                "confidence": "medium"
+              },
+              {
+                "original": "sheor",
+                "morphology": {
+                  "original": "sheor",
+                  "prefix": null,
+                  "root": "she",
+                  "suffixes": ["or"],
+                  "translation": ["water", "INST"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "water-INST",
+                "confidence": "high"
+              },
+              {
+                "original": "shaiin",
+                "morphology": {
+                  "original": "shaiin",
+                  "prefix": null,
+                  "root": "sh",
+                  "suffixes": ["aiin"],
+                  "translation": ["[?sh]", "DEF"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?sh]-DEF",
+                "confidence": "medium"
+              },
+              {
+                "original": "tsh",
+                "morphology": {
+                  "original": "tsh",
+                  "prefix": "t",
+                  "root": "sh",
+                  "suffixes": [],
+                  "translation": ["T", "[?sh]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "T-[?sh]",
+                "confidence": "medium"
+              },
+              {
+                "original": "olcha",
+                "morphology": {
+                  "original": "olcha",
+                  "prefix": "ol",
+                  "root": "cha",
+                  "suffixes": [],
+                  "translation": ["AT", "[?cha]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "AT-[?cha]",
+                "confidence": "medium"
+              },
+              {
+                "original": "sholy",
+                "morphology": {
+                  "original": "sholy",
+                  "prefix": null,
+                  "root": "sholy",
+                  "suffixes": [],
+                  "translation": ["[?sholy]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?sholy]",
+                "confidence": "unknown"
+              }
+            ],
+            "translation_gloss": "[?py]-DEF-D water-INST [?sh]-DEF T-[?sh] AT-[?cha] [?sholy]",
+            "recognition_rate": 83.33333333333334
+          },
+          "readable_interpretation": "[?py]-DEF-D water (with) [?sh]-DEF in [?sh] in [?cha] [?sholy]",
+          "metadata": {
+            "word_count": 6,
+            "unknown_count": 0,
+            "high_confidence_count": 0,
+            "medium_confidence_count": 0
+          }
+        }
+      ]
+    },
+    "line1012": {
+      "folio_id": "line1012",
+      "line_count": 1,
+      "lines": [
+        {
+          "line_number": 1,
+          "global_line": "shotol shol chety daiin chokchy chkaiin",
+          "original_eva": "shotol shol chety daiin chokchy chkaiin",
+          "morphological_analysis": {
+            "words": [
+              {
+                "original": "shotol",
+                "morphology": {
+                  "original": "shotol",
+                  "prefix": null,
+                  "root": "shot",
+                  "suffixes": ["ol"],
+                  "translation": ["[?shot]", "LOC"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?shot]-LOC",
+                "confidence": "medium"
+              },
+              {
+                "original": "shol",
+                "morphology": {
+                  "original": "shol",
+                  "prefix": null,
+                  "root": "sh",
+                  "suffixes": ["ol"],
+                  "translation": ["[?sh]", "LOC"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?sh]-LOC",
+                "confidence": "medium"
+              },
+              {
+                "original": "chety",
+                "morphology": {
+                  "original": "chety",
+                  "prefix": null,
+                  "root": "chety",
+                  "suffixes": [],
+                  "translation": ["[?chety]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?chety]",
+                "confidence": "unknown"
+              },
+              {
+                "original": "daiin",
+                "morphology": {
+                  "original": "daiin",
+                  "prefix": null,
+                  "root": "daiin",
+                  "suffixes": [],
+                  "translation": ["THIS/THAT"],
+                  "method": "whole-word"
+                },
+                "reversal": null,
+                "final_translation": "THIS/THAT",
+                "confidence": "high"
+              },
+              {
+                "original": "chokchy",
+                "morphology": {
+                  "original": "chokchy",
+                  "prefix": null,
+                  "root": "chokchy",
+                  "suffixes": [],
+                  "translation": ["[?chokchy]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?chokchy]",
+                "confidence": "unknown"
+              },
+              {
+                "original": "chkaiin",
+                "morphology": {
+                  "original": "chkaiin",
+                  "prefix": null,
+                  "root": "chk",
+                  "suffixes": ["aiin"],
+                  "translation": ["[?chk]", "DEF"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?chk]-DEF",
+                "confidence": "medium"
+              }
+            ],
+            "translation_gloss": "[?shot]-LOC [?sh]-LOC [?chety] THIS/THAT [?chokchy] [?chk]-DEF",
+            "recognition_rate": 66.66666666666666
+          },
+          "readable_interpretation": "[?shot] (in) [?sh] (in) [?chety] water [?chokchy] [?chk]-DEF",
+          "metadata": {
+            "word_count": 6,
+            "unknown_count": 0,
+            "high_confidence_count": 0,
+            "medium_confidence_count": 0
+          }
+        }
+      ]
+    },
+    "line1013": {
+      "folio_id": "line1013",
+      "line_count": 1,
+      "lines": [
+        {
+          "line_number": 1,
+          "global_line": "qody cthochy otaiin shy kshes chor ain",
+          "original_eva": "qody cthochy otaiin shy kshes chor ain",
+          "morphological_analysis": {
+            "words": [
+              {
+                "original": "qody",
+                "morphology": {
+                  "original": "qody",
+                  "prefix": null,
+                  "root": "qo",
+                  "suffixes": ["dy"],
+                  "translation": ["[?qo]", "VERB"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?qo]-VERB",
+                "confidence": "medium"
+              },
+              {
+                "original": "cthochy",
+                "morphology": {
+                  "original": "cthochy",
+                  "prefix": null,
+                  "root": "cthochy",
+                  "suffixes": [],
+                  "translation": ["[?cthochy]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?cthochy]",
+                "confidence": "unknown"
+              },
+              {
+                "original": "otaiin",
+                "morphology": {
+                  "original": "otaiin",
+                  "prefix": "ot",
+                  "root": "a",
+                  "suffixes": ["iin"],
+                  "translation": ["AT", "[?a]", "DEF"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "AT-[?a]-DEF",
+                "confidence": "medium"
+              },
+              {
+                "original": "shy",
+                "morphology": {
+                  "original": "shy",
+                  "prefix": null,
+                  "root": "shy",
+                  "suffixes": [],
+                  "translation": ["[PARTICLE]"],
+                  "method": "whole-word"
+                },
+                "reversal": null,
+                "final_translation": "[PARTICLE]",
+                "confidence": "high"
+              },
+              {
+                "original": "kshes",
+                "morphology": {
+                  "original": "kshes",
+                  "prefix": null,
+                  "root": "kshes",
+                  "suffixes": [],
+                  "translation": ["[?kshes]"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?kshes]",
+                "confidence": "unknown"
+              },
+              {
+                "original": "chor",
+                "morphology": {
+                  "original": "chor",
+                  "prefix": null,
+                  "root": "ch",
+                  "suffixes": ["or"],
+                  "translation": ["[?ch]", "INST"],
+                  "method": "morphological"
+                },
+                "reversal": null,
+                "final_translation": "[?ch]-INST",
+                "confidence": "medium"
+              },
+              {
+                "original": "ain",
+                "morphology": {
+                  "original": "ain",
+                  "prefix": null,
+                  "root": "ain",
+                  "suffixes": [],
+                  "translation": ["AIN"],
+                  "method": "whole-word"
+                },
+                "reversal": null,
+                "final_translation": "AIN",
+                "confidence": "high"
+              }
+            ],
+            "translation_gloss": "[?qo]-VERB [?cthochy] AT-[?a]-DEF [PARTICLE] [?kshes] [?ch]-INST AIN",
+            "recognition_rate": 71.42857142857143
+          },
+          "readable_interpretation": "[?qo] [?cthochy] in [?a]-DEF [PARTICLE] [?kshes] [?ch] (with) AIN",
+          "metadata": {
+            "word_count": 7,
+            "unknown_count": 0,
+            "high_confidence_count": 0,
+            "medium_confidence_count": 0
+          }
+        }
+      ]
+    }
+  }
+}

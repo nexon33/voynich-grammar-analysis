@@ -1,0 +1,567 @@
+{
+  "high_quality_lines": [
+    {
+      "folio": "line21",
+      "line": "otol daiiin",
+      "translation": "AT-OL [?dai]-DEF",
+      "recognition": 100.0,
+      "word_count": 2
+    },
+    {
+      "folio": "line40",
+      "line": "qotaiincthey ychor chy ydychaiin",
+      "translation": "oat-GEN-[?aiincthey] [?ych]-INST [PARTICLE] [?ydych]-DEF",
+      "recognition": 100.0,
+      "word_count": 4
+    },
+    {
+      "folio": "line61",
+      "line": "ochor qocheor chol daiin cthy",
+      "translation": "[?och]-INST [?qoche]-INST botanical-term THIS/THAT [PARTICLE]",
+      "recognition": 100.0,
+      "word_count": 5
+    },
+    {
+      "folio": "line73",
+      "line": "tsheoarom shor or chor olchsy chom otchomoporar",
+      "translation": "T-[?sheoarom] [?sh]-INST OR [?ch]-INST AT-[?chsy] [PARTICLE] AT-[?chomop]-DIR-INST",
+      "recognition": 100.0,
+      "word_count": 7
+    },
+    {
+      "folio": "line77",
+      "line": "otchor ol cheor qoeor dair qoteol qosaiinchor cthy",
+      "translation": "AT-[?ch]-INST OL [?che]-INST [?qoe]-INST THERE oat-GEN-[?e]-LOC [?qosaiinch]-INST [PARTICLE]",
+      "recognition": 100.0,
+      "word_count": 8
+    },
+    {
+      "folio": "line80",
+      "line": "daiidy qoteeol okchor okor olytol dol dar",
+      "translation": "[?daii]-VERB oat-GEN-[?ee]-LOC [?okch]-INST oak-INST AT-[?yt]-LOC DOL DAR",
+      "recognition": 100.0,
+      "word_count": 7
+    },
+    {
+      "folio": "line95",
+      "line": "otchol chol chy chaiin qotaiindaiin shain",
+      "translation": "oat-vessel botanical-term [PARTICLE] [?ch]-DEF oat-GEN-[?a]-DEF-D-DEF [?sh]-DEF",
+      "recognition": 100.0,
+      "word_count": 6
+    },
+    {
+      "folio": "line100",
+      "line": "shor shol shol cthy cpholdy",
+      "translation": "[?sh]-INST [?sh]-LOC [?sh]-LOC [PARTICLE] [?cph]-VERB-LOC",
+      "recognition": 100.0,
+      "word_count": 5
+    },
+    {
+      "folio": "line102",
+      "line": "odal shor shyshol cphaiin",
+      "translation": "[?o]-LOC-D [?sh]-INST [?shysh]-LOC [?cph]-DEF",
+      "recognition": 100.0,
+      "word_count": 4
+    },
+    {
+      "folio": "line104",
+      "line": "soiin chaiin chaiin",
+      "translation": "[?so]-DEF [?ch]-DEF [?ch]-DEF",
+      "recognition": 100.0,
+      "word_count": 3
+    },
+    {
+      "folio": "line116",
+      "line": "sho kcheor shody shtaiin qotol daiin",
+      "translation": "botanical-term [?kche]-INST botanical-term-VERB [?sht]-DEF oat-GEN-OL THIS/THAT",
+      "recognition": 100.0,
+      "word_count": 6
+    },
+    {
+      "folio": "line131",
+      "line": "shokeeol chor cheotol otchol daiin dal chol chotaiin",
+      "translation": "[?shokee]-LOC [?ch]-INST [?cheot]-LOC oat-vessel THIS/THAT [?d]-LOC botanical-term [?chot]-DEF",
+      "recognition": 100.0,
+      "word_count": 8
+    },
+    {
+      "folio": "line143",
+      "line": "ychar olchad ol chokaiin",
+      "translation": "[?ych]-DIR AT-[?cha]-D OL [?chok]-DEF",
+      "recognition": 100.0,
+      "word_count": 4
+    },
+    {
+      "folio": "line145",
+      "line": "qocthol qodaiin cthy",
+      "translation": "[?qocth]-LOC [?qo]-DEF-D [PARTICLE]",
+      "recognition": 100.0,
+      "word_count": 3
+    },
+    {
+      "folio": "line156",
+      "line": "qokche ychear kchdy",
+      "translation": "oak-GEN-[?che] [?yche]-DIR [?kch]-VERB",
+      "recognition": 100.0,
+      "word_count": 3
+    },
+    {
+      "folio": "line160",
+      "line": "qokor chol cthol tchalody",
+      "translation": "oak-GEN-OR botanical-term [?cth]-LOC T-[?chalo]-VERB",
+      "recognition": 100.0,
+      "word_count": 4
+    },
+    {
+      "folio": "line166",
+      "line": "dchor choldar okol daiin",
+      "translation": "[?dch]-INST [?ch]-DIR-D-LOC oak-LOC THIS/THAT",
+      "recognition": 100.0,
+      "word_count": 4
+    },
+    {
+      "folio": "line172",
+      "line": "oaiirotaiin",
+      "translation": "[?oaiirot]-DEF",
+      "recognition": 100.0,
+      "word_count": 1
+    },
+    {
+      "folio": "line182",
+      "line": "dchodaiin qotchy cheey tcheey",
+      "translation": "[?dcho]-DEF-D oat-GEN-[PARTICLE] [PARTICLE] T-[PARTICLE]",
+      "recognition": 100.0,
+      "word_count": 4
+    },
+    {
+      "folio": "line187",
+      "line": "pshol chor otshal chopycphol chody shy cfhodar shor",
+      "translation": "[?psh]-LOC [?ch]-INST AT-[?sh]-LOC [?chopycph]-LOC vessel-VERB [PARTICLE] [?cfho]-DIR-D [?sh]-INST",
+      "recognition": 100.0,
+      "word_count": 8
+    },
+    {
+      "folio": "line198",
+      "line": "qochodaiin shotokodychotol",
+      "translation": "[?qocho]-DEF-D [?shotokodychot]-LOC",
+      "recognition": 100.0,
+      "word_count": 2
+    },
+    {
+      "folio": "line208",
+      "line": "cthod soocthsol shol otol chol opcheaiin opydaiin saiin",
+      "translation": "[?ctho]-D [?soocths]-LOC [?sh]-LOC AT-OL botanical-term [?opche]-DEF [?opy]-DEF-D [?s]-DEF",
+      "recognition": 100.0,
+      "word_count": 8
+    },
+    {
+      "folio": "line210",
+      "line": "qody cheal sychorychear shol chaiin shaiin dolar",
+      "translation": "[?qo]-VERB [?che]-LOC [?sychoryche]-DIR [?sh]-LOC [?ch]-DEF [?sh]-DEF [?d]-DIR-LOC",
+      "recognition": 100.0,
+      "word_count": 7
+    },
+    {
+      "folio": "line212",
+      "line": "chol chol darotchar etaiin cthol dar",
+      "translation": "botanical-term botanical-term [?darotch]-DIR [?et]-DEF [?cth]-LOC DAR",
+      "recognition": 100.0,
+      "word_count": 6
+    },
+    {
+      "folio": "line215",
+      "line": "okchol kshchol chol chol cthaiin dain",
+      "translation": "[?okch]-LOC [?kshch]-LOC botanical-term botanical-term [?cth]-DEF THIS/THAT",
+      "recognition": 100.0,
+      "word_count": 6
+    },
+    {
+      "folio": "line218",
+      "line": "sorain",
+      "translation": "[?s]-DEF-INST",
+      "recognition": 100.0,
+      "word_count": 1
+    },
+    {
+      "folio": "line219",
+      "line": "pchar cho rol dalshear cheeotaiin chal daiin",
+      "translation": "[?pch]-DIR vessel [?r]-LOC [?dalshe]-DIR [?cheeot]-DEF [?ch]-LOC THIS/THAT",
+      "recognition": 100.0,
+      "word_count": 7
+    },
+    {
+      "folio": "line224",
+      "line": "dain chear daiin",
+      "translation": "THIS/THAT [?che]-DIR THIS/THAT",
+      "recognition": 100.0,
+      "word_count": 3
+    },
+    {
+      "folio": "line251",
+      "line": "qokchy qotchol chol cthy",
+      "translation": "oak-GEN-[PARTICLE] oat-GEN-[?ch]-LOC botanical-term [PARTICLE]",
+      "recognition": 100.0,
+      "word_count": 4
+    },
+    {
+      "folio": "line254",
+      "line": "qotchor chor otol chol cholorchol daiin dar",
+      "translation": "oat-GEN-[?ch]-INST [?ch]-INST AT-OL botanical-term [?cholorch]-LOC THIS/THAT DAR",
+      "recognition": 100.0,
+      "word_count": 7
+    },
+    {
+      "folio": "line255",
+      "line": "oykchor shor chor chy kaiiin dychodaiin",
+      "translation": "[?oykch]-INST [?sh]-INST [?ch]-INST [PARTICLE] [?kai]-DEF [?dycho]-DEF-D",
+      "recognition": 100.0,
+      "word_count": 6
+    },
+    {
+      "folio": "line258",
+      "line": "rodaiin daiin qotchy qotor",
+      "translation": "[?ro]-DEF-D THIS/THAT oat-GEN-[PARTICLE] oat-GEN-OR",
+      "recognition": 100.0,
+      "word_count": 4
+    },
+    {
+      "folio": "line291",
+      "line": "qokchy qokod chy otchy cthody",
+      "translation": "oak-GEN-[PARTICLE] oak-GEN-[?o]-D [PARTICLE] AT-[PARTICLE] [?ctho]-VERB",
+      "recognition": 100.0,
+      "word_count": 5
+    },
+    {
+      "folio": "line293",
+      "line": "qoky daiin",
+      "translation": "oak-GEN-[?y] THIS/THAT",
+      "recognition": 100.0,
+      "word_count": 2
+    },
+    {
+      "folio": "line299",
+      "line": "pchodaiin chopol shoiin daiin dain",
+      "translation": "[?pcho]-DEF-D [?chop]-LOC botanical-term-DEF THIS/THAT THIS/THAT",
+      "recognition": 100.0,
+      "word_count": 5
+    },
+    {
+      "folio": "line301",
+      "line": "ydaiin olchy kchor daiin olol",
+      "translation": "[?y]-DEF-D AT-[PARTICLE] [?kch]-INST THIS/THAT AT-OL",
+      "recognition": 100.0,
+      "word_count": 5
+    },
+    {
+      "folio": "line302",
+      "line": "ochkchar kol shy daiin dorody",
+      "translation": "[?ochkch]-DIR [?k]-LOC [PARTICLE] THIS/THAT [?doro]-VERB",
+      "recognition": 100.0,
+      "word_count": 5
+    },
+    {
+      "folio": "line319",
+      "line": "chokshor daiinokshody daiindol dair dam",
+      "translation": "[?choksh]-INST [?daiinoksho]-VERB [?d]-LOC-D-DEF THERE [MODAL]",
+      "recognition": 100.0,
+      "word_count": 5
+    },
+    {
+      "folio": "line323",
+      "line": "qokaiin qotchy tydydaiin chol cthy",
+      "translation": "oak-GEN-[?a]-DEF oat-GEN-[PARTICLE] T-[?y]-DEF-D-VERB botanical-term [PARTICLE]",
+      "recognition": 100.0,
+      "word_count": 5
+    },
+    {
+      "folio": "line324",
+      "line": "scheaiin chodaiin chlsol ckhaiin sal",
+      "translation": "[?sche]-DEF vessel-DEF-D [?chls]-LOC [?ckh]-DEF AND",
+      "recognition": 100.0,
+      "word_count": 5
+    },
+    {
+      "folio": "line338",
+      "line": "cthor daiin qokor okeor okaiin",
+      "translation": "[?cth]-INST THIS/THAT oak-GEN-OR [?oke]-INST oak-DEF",
+      "recognition": 100.0,
+      "word_count": 5
+    },
+    {
+      "folio": "line343",
+      "line": "ytchor chor ol oiin oty shol daiin",
+      "translation": "[?ytch]-INST [?ch]-INST OL [?o]-DEF AT-[?y] [?sh]-LOC THIS/THAT",
+      "recognition": 100.0,
+      "word_count": 7
+    },
+    {
+      "folio": "line345",
+      "line": "sor chor cthoiin cthy qokaiin",
+      "translation": "[?s]-INST [?ch]-INST [?ctho]-DEF [PARTICLE] oak-GEN-[?a]-DEF",
+      "recognition": 100.0,
+      "word_count": 5
+    },
+    {
+      "folio": "line346",
+      "line": "soloiin cheor chol daiin cthy",
+      "translation": "[?solo]-DEF [?che]-INST botanical-term THIS/THAT [PARTICLE]",
+      "recognition": 100.0,
+      "word_count": 5
+    },
+    {
+      "folio": "line347",
+      "line": "daiin cthor chol chor",
+      "translation": "THIS/THAT [?cth]-INST botanical-term [?ch]-INST",
+      "recognition": 100.0,
+      "word_count": 4
+    },
+    {
+      "folio": "line351",
+      "line": "dainod ychealod",
+      "translation": "[?daino]-D [?ychealo]-D",
+      "recognition": 100.0,
+      "word_count": 2
+    },
+    {
+      "folio": "line356",
+      "line": "saiin ytaiin",
+      "translation": "[?s]-DEF [?yt]-DEF",
+      "recognition": 100.0,
+      "word_count": 2
+    },
+    {
+      "folio": "line364",
+      "line": "dchol chcthody cphod chotol dal",
+      "translation": "[?dch]-LOC [?chctho]-VERB [?cpho]-D [?chot]-LOC [?d]-LOC",
+      "recognition": 100.0,
+      "word_count": 5
+    },
+    {
+      "folio": "line373",
+      "line": "sokar oaorar",
+      "translation": "[?sok]-DIR [?oa]-DIR-INST",
+      "recognition": 100.0,
+      "word_count": 2
+    },
+    {
+      "folio": "line384",
+      "line": "otchol cthar okaiin chol daiiin",
+      "translation": "oat-vessel [?cth]-DIR oak-DEF botanical-term [?dai]-DEF",
+      "recognition": 100.0,
+      "word_count": 5
+    }
+  ],
+  "recipe_sequences": [],
+  "keyword_contexts": {
+    "oak": [
+      {
+        "folio": "line14",
+        "translation": "THIS/THAT [?o]-DEF botanical-term [?o]-DEF-D vessel-DEF-D [?ch]-VERB oak-DEF [?dan] [PARTICLE] [?ko]-D",
+        "recognition": 90.0
+      },
+      {
+        "folio": "line24",
+        "translation": "[?choo] [?k]-DEF botanical-term-DEF oak-LOC THIS/THAT [?f]-DIR [?cth]-LOC THIS/THAT [?cth]-DIR-D-LOC",
+        "recognition": 88.88888888888889
+      },
+      {
+        "folio": "line35",
+        "translation": "oak-LOC [?sh]-LOC [?k]-LOC [?kechy] botanical-term [?kych]-LOC [?cth]-LOC vessel-VERB botanical-term THIS/THAT",
+        "recognition": 90.0
+      },
+      {
+        "folio": "line36",
+        "translation": "[?sh]-INST oak-LOC botanical-term DOL [?ky] [?darsh]-LOC [?dch]-INST AT-vessel DAR botanical-term-VERB",
+        "recognition": 90.0
+      },
+      {
+        "folio": "line46",
+        "translation": "[?dlssho] [?k]-LOC [?sheey] oak-GEN-[?ey] [?yko]-VERB [?soch]-LOC [?yky] THIS/THAT [?daiir]-LOC",
+        "recognition": 66.66666666666666
+      },
+      {
+        "folio": "line47",
+        "translation": "oak-GEN-[?y] [?ch]-DEF-LOC [?sh]-LOC [?sheky] [?daiincthey] [?ke]-LOC [?s]-DEF [?s]-DEF",
+        "recognition": 75.0
+      },
+      {
+        "folio": "line49",
+        "translation": "oak-LOC [PARTICLE] [?ch]-INST [?cth]-INST [?y]-INST [?an] [?chans]-DEF [?chety] [?chyky] AND",
+        "recognition": 70.0
+      },
+      {
+        "folio": "line71",
+        "translation": "oak-GEN-[?eey] oat [?shey] oak-GEN-[?o]-VERB oak-GEN-[PARTICLE] vessel-VERB",
+        "recognition": 83.33333333333334
+      },
+      {
+        "folio": "line74",
+        "translation": "AT-[?e]-LOC botanical-term [?s] [?che]-LOC [?ekshy] oak-GEN-[?eom] oak-GEN-OL [?daiinsoleeg]",
+        "recognition": 62.5
+      },
+      {
+        "folio": "line78",
+        "translation": "[?yche]-INST botanical-term [?o]-DEF-D botanical-term [?s] [?a]-DEF oak-INST-LOC [MODAL]",
+        "recognition": 87.5
+      }
+    ],
+    "water": [
+      {
+        "folio": "line23",
+        "translation": "[?doin] botanical-term THIS/THAT [?cth]-LOC DAR water-DIR [?k]-DEF DAR [?shey] [?cth]-DIR",
+        "recognition": 80.0
+      },
+      {
+        "folio": "line69",
+        "translation": "[?pche]-LOC [?sh]-LOC [?sols] water-LOC [?shey]",
+        "recognition": 60.0
+      },
+      {
+        "folio": "line93",
+        "translation": "[?kodalchy] [?chpa]-VERB water-LOC OL [?sheey] oat-GEN-[?eydo]-DEF [?ch]-INST [?ytoy]",
+        "recognition": 62.5
+      },
+      {
+        "folio": "line112",
+        "translation": "T-[?orchy] water-INST [?ch]-INST [?shokchy] [?cphy]-VERB",
+        "recognition": 80.0
+      },
+      {
+        "folio": "line136",
+        "translation": "DAR vessel [?s] water-INST [?chocthy] AT-[?chamyaiir] [PARTICLE]",
+        "recognition": 71.42857142857143
+      },
+      {
+        "folio": "line141",
+        "translation": "DAR water-LOC [?skaiio]-DIR-D AT-[?a]-DEF [?chory]",
+        "recognition": 80.0
+      },
+      {
+        "folio": "line209",
+        "translation": "[?shcth]-LOC [?sarch]-INST water-DEF [?sh]-INST [?chykchy] AT-[?a]-DEF [?cty]",
+        "recognition": 71.42857142857143
+      },
+      {
+        "folio": "line398",
+        "translation": "[?yke]-INST botanical-term botanical-term [?cth]-LOC [?chk]-INST water-LOC",
+        "recognition": 100.0
+      },
+      {
+        "folio": "line402",
+        "translation": "[?qo]-DEF [?s]-DIR water DOL [?qopch]-DEF [?cth]-INST",
+        "recognition": 100.0
+      },
+      {
+        "folio": "line406",
+        "translation": "[?o]-LOC water-INST [?sh]-INST-LOC OR water-[COMPOUND] [?cphe]-INST THIS/THAT",
+        "recognition": 100.0
+      }
+    ],
+    "vessel": [
+      {
+        "folio": "line14",
+        "translation": "THIS/THAT [?o]-DEF botanical-term [?o]-DEF-D vessel-DEF-D [?ch]-VERB oak-DEF [?dan] [PARTICLE] [?ko]-D",
+        "recognition": 90.0
+      },
+      {
+        "folio": "line29",
+        "translation": "[?yteeay] [?ch]-DIR OR [?ochydcho] [?lko]-VERB [?oko]-DIR-D vessel-VERB",
+        "recognition": 71.42857142857143
+      },
+      {
+        "folio": "line35",
+        "translation": "oak-LOC [?sh]-LOC [?k]-LOC [?kechy] botanical-term [?kych]-LOC [?cth]-LOC vessel-VERB botanical-term THIS/THAT",
+        "recognition": 90.0
+      },
+      {
+        "folio": "line36",
+        "translation": "[?sh]-INST oak-LOC botanical-term DOL [?ky] [?darsh]-LOC [?dch]-INST AT-vessel DAR botanical-term-VERB",
+        "recognition": 90.0
+      },
+      {
+        "folio": "line37",
+        "translation": "T-[?a]-INST [?chotchey] [?d]-LOC [?chodyscho]-VERB [?p]-LOC vessel-DIR-D",
+        "recognition": 83.33333333333334
+      },
+      {
+        "folio": "line51",
+        "translation": "[?koo]-DEF vessel [?pch]-INST AT-[?a]-DEF [?o] THIS/THAT [?chordair] [?shty]",
+        "recognition": 62.5
+      },
+      {
+        "folio": "line52",
+        "translation": "[?kcho] [?kchy] botanical-term [?sh]-LOC oat-GEN-vessel [?loeees] oat-GEN-[?ych]-INST THIS/THAT",
+        "recognition": 62.5
+      },
+      {
+        "folio": "line53",
+        "translation": "AT-[PARTICLE] [?ch]-INST [?lshy] botanical-term vessel-VERB [?chodainchcthy] THIS/THAT",
+        "recognition": 71.42857142857143
+      },
+      {
+        "folio": "line54",
+        "translation": "botanical-term [?cholo] [?che]-INST vessel-DEF-D",
+        "recognition": 75.0
+      },
+      {
+        "folio": "line65",
+        "translation": "oat-vessel [?qo]-DEF-D [PARTICLE] [?shom] [?damo]",
+        "recognition": 60.0
+      }
+    ],
+    "oat": [
+      {
+        "folio": "line40",
+        "translation": "oat-GEN-[?aiincthey] [?ych]-INST [PARTICLE] [?ydych]-DEF",
+        "recognition": 100.0
+      },
+      {
+        "folio": "line52",
+        "translation": "[?kcho] [?kchy] botanical-term [?sh]-LOC oat-GEN-vessel [?loeees] oat-GEN-[?ych]-INST THIS/THAT",
+        "recognition": 62.5
+      },
+      {
+        "folio": "line60",
+        "translation": "[?yche]-INST [?ch]-INST [MODAL] oat-GEN-[?cham] [?cham]",
+        "recognition": 80.0
+      },
+      {
+        "folio": "line65",
+        "translation": "oat-vessel [?qo]-DEF-D [PARTICLE] [?shom] [?damo]",
+        "recognition": 60.0
+      },
+      {
+        "folio": "line71",
+        "translation": "oak-GEN-[?eey] oat [?shey] oak-GEN-[?o]-VERB oak-GEN-[PARTICLE] vessel-VERB",
+        "recognition": 83.33333333333334
+      },
+      {
+        "folio": "line76",
+        "translation": "[?pcheoldom] botanical-term-DEF-D [?qopch]-INST [?qop]-LOC [?opch]-LOC oat-GEN-[?yotolom]",
+        "recognition": 83.33333333333334
+      },
+      {
+        "folio": "line77",
+        "translation": "AT-[?ch]-INST OL [?che]-INST [?qoe]-INST THERE oat-GEN-[?e]-LOC [?qosaiinch]-INST [PARTICLE]",
+        "recognition": 100.0
+      },
+      {
+        "folio": "line79",
+        "translation": "[?ko]-DEF [?cph]-INST oat-GEN-[?oy] [?sha] [?ckh]-LOC [?yko]-DEF [?s] AT-[?y]",
+        "recognition": 75.0
+      },
+      {
+        "folio": "line80",
+        "translation": "[?daii]-VERB oat-GEN-[?ee]-LOC [?okch]-INST oak-INST AT-[?yt]-LOC DOL DAR",
+        "recognition": 100.0
+      },
+      {
+        "folio": "line93",
+        "translation": "[?kodalchy] [?chpa]-VERB water-LOC OL [?sheey] oat-GEN-[?eydo]-DEF [?ch]-INST [?ytoy]",
+        "recognition": 62.5
+      }
+    ],
+    "boil": [],
+    "acorn": []
+  }
+}

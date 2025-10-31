@@ -1,0 +1,74 @@
+VOYNICH MANUSCRIPT - BEST READABLE RECIPES
+================================================================================
+Extracted 3255 high-quality lines (≥70% recognition)
+Found 0 complete recipe sequences
+================================================================================
+
+TOP 20 BEST-RECOGNIZED LINES:
+--------------------------------------------------------------------------------
+
+1. Folio line21 - 100.0% recognized
+   AT-OL [?dai]-DEF
+
+2. Folio line40 - 100.0% recognized
+   oat-GEN-[?aiincthey] [?ych]-INST [PARTICLE] [?ydych]-DEF
+
+3. Folio line61 - 100.0% recognized
+   [?och]-INST [?qoche]-INST botanical-term THIS/THAT [PARTICLE]
+
+4. Folio line73 - 100.0% recognized
+   T-[?sheoarom] [?sh]-INST OR [?ch]-INST AT-[?chsy] [PARTICLE] AT-[?chomop]-DIR-INST
+
+5. Folio line77 - 100.0% recognized
+   AT-[?ch]-INST OL [?che]-INST [?qoe]-INST THERE oat-GEN-[?e]-LOC [?qosaiinch]-INST [PARTICLE]
+
+6. Folio line80 - 100.0% recognized
+   [?daii]-VERB oat-GEN-[?ee]-LOC [?okch]-INST oak-INST AT-[?yt]-LOC DOL DAR
+
+7. Folio line95 - 100.0% recognized
+   oat-vessel botanical-term [PARTICLE] [?ch]-DEF oat-GEN-[?a]-DEF-D-DEF [?sh]-DEF
+
+8. Folio line100 - 100.0% recognized
+   [?sh]-INST [?sh]-LOC [?sh]-LOC [PARTICLE] [?cph]-VERB-LOC
+
+9. Folio line102 - 100.0% recognized
+   [?o]-LOC-D [?sh]-INST [?shysh]-LOC [?cph]-DEF
+
+10. Folio line104 - 100.0% recognized
+   [?so]-DEF [?ch]-DEF [?ch]-DEF
+
+11. Folio line116 - 100.0% recognized
+   botanical-term [?kche]-INST botanical-term-VERB [?sht]-DEF oat-GEN-OL THIS/THAT
+
+12. Folio line131 - 100.0% recognized
+   [?shokee]-LOC [?ch]-INST [?cheot]-LOC oat-vessel THIS/THAT [?d]-LOC botanical-term [?chot]-DEF
+
+13. Folio line143 - 100.0% recognized
+   [?ych]-DIR AT-[?cha]-D OL [?chok]-DEF
+
+14. Folio line145 - 100.0% recognized
+   [?qocth]-LOC [?qo]-DEF-D [PARTICLE]
+
+15. Folio line156 - 100.0% recognized
+   oak-GEN-[?che] [?yche]-DIR [?kch]-VERB
+
+16. Folio line160 - 100.0% recognized
+   oak-GEN-OR botanical-term [?cth]-LOC T-[?chalo]-VERB
+
+17. Folio line166 - 100.0% recognized
+   [?dch]-INST [?ch]-DIR-D-LOC oak-LOC THIS/THAT
+
+18. Folio line172 - 100.0% recognized
+   [?oaiirot]-DEF
+
+19. Folio line182 - 100.0% recognized
+   [?dcho]-DEF-D oat-GEN-[PARTICLE] [PARTICLE] T-[PARTICLE]
+
+20. Folio line187 - 100.0% recognized
+   [?psh]-LOC [?ch]-INST AT-[?sh]-LOC [?chopycph]-LOC vessel-VERB [PARTICLE] [?cfho]-DIR-D [?sh]-INST
+
+
+================================================================================
+COMPLETE RECIPE SEQUENCES:
+================================================================================
+

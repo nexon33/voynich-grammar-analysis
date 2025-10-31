@@ -1,0 +1,142 @@
+================================================================================
+VOYNICH MANUSCRIPT - READABLE PHARMACEUTICAL RECIPES
+98% Recognition - Medieval Oak-Based Medicine
+================================================================================
+
+TOP 30 MOST READABLE PASSAGES:
+--------------------------------------------------------------------------------
+
+1. Folio line21 (100.0% recognized)
+   Original: otol daiiin
+   Translation: in with [?dai] the
+
+3. Folio line61 (100.0% recognized)
+   Original: ochor qocheor chol daiin cthy
+   Translation: [?och] (with) [?qoche] (with) herb water
+
+4. Folio line73 (100.0% recognized)
+   Original: tsheoarom shor or chor olchsy chom otchomoporar
+   Translation: in [?sheoarom] apply (with) or prepare (with) in [?chsy] in [?chomop] (to) (with)
+
+5. Folio line77 (100.0% recognized)
+   Original: otchor ol cheor qoeor dair qoteol qosaiinchor cthy
+   Translation: in prepare (with) with oak-bark (with) [?qoe] (with) there oat's [?e] (in) [?qosaiinch] (with)
+
+6. Folio line80 (100.0% recognized)
+   Original: daiidy qoteeol okchor okor olytol dol dar
+   Translation: [?daii] oat's [?ee] (in) [?okch] (with) oak (with) in [?yt] (in) to this
+
+7. Folio line95 (100.0% recognized)
+   Original: otchol chol chy chaiin qotaiindaiin shain
+   Translation: oat in vessel herb prepare the oat's [?a] the-D the apply the
+
+8. Folio line100 (100.0% recognized)
+   Original: shor shol shol cthy cpholdy
+   Translation: apply (with) apply (in) apply (in) [?cph] (in)
+
+9. Folio line102 (100.0% recognized)
+   Original: odal shor shyshol cphaiin
+   Translation: substance (in)-D apply (with) [?shysh] (in) [?cph] the
+
+10. Folio line104 (100.0% recognized)
+   Original: soiin chaiin chaiin
+   Translation: [?so] the prepare the prepare the
+
+11. Folio line116 (100.0% recognized)
+   Original: sho kcheor shody shtaiin qotol daiin
+   Translation: herb [?kche] (with) herb [?sht] the oat's with water
+
+12. Folio line131 (100.0% recognized)
+   Original: shokeeol chor cheotol otchol daiin dal chol chotaiin
+   Translation: [?shokee] (in) prepare (with) [?cheot] (in) oat in vessel water container (in) herb [?chot] the
+
+13. Folio line143 (100.0% recognized)
+   Original: ychar olchad ol chokaiin
+   Translation: [?ych] (to) in [?cha]-D with [?chok] the
+
+15. Folio line156 (100.0% recognized)
+   Original: qokche ychear kchdy
+   Translation: oak's oak-bark [?yche] (to) [?kch]
+
+16. Folio line160 (100.0% recognized)
+   Original: qokor chol cthol tchalody
+   Translation: oak's or herb [?cth] (in) in [?chalo]
+
+17. Folio line166 (100.0% recognized)
+   Original: dchor choldar okol daiin
+   Translation: [?dch] (with) prepare (to)-D (in) oak (in) water
+
+19. Folio line182 (100.0% recognized)
+   Original: dchodaiin qotchy cheey tcheey
+   Translation: [?dcho] the-D oat's in
+
+20. Folio line187 (100.0% recognized)
+   Original: pshol chor otshal chopycphol chody shy cfhodar shor
+   Translation: [?psh] (in) prepare (with) in apply (in) [?chopycph] (in) vessel [?cfho] (to)-D apply (with)
+
+22. Folio line208 (100.0% recognized)
+   Original: cthod soocthsol shol otol chol opcheaiin opydaiin saiin
+   Translation: [?ctho]-D [?soocths] (in) apply (in) in with herb [?opche] the [?opy] the-D of the
+
+23. Folio line210 (100.0% recognized)
+   Original: qody cheal sychorychear shol chaiin shaiin dolar
+   Translation: [?qo] oak-bark (in) [?sychoryche] (to) apply (in) prepare the apply the container (to) (in)
+
+24. Folio line212 (100.0% recognized)
+   Original: chol chol darotchar etaiin cthol dar
+   Translation: herb herb [?darotch] (to) [?et] the [?cth] (in) this
+
+25. Folio line215 (100.0% recognized)
+   Original: okchol kshchol chol chol cthaiin dain
+   Translation: [?okch] (in) [?kshch] (in) herb herb [?cth] the water
+
+26. Folio line218 (100.0% recognized)
+   Original: sorain
+   Translation: of the (with)
+
+27. Folio line219 (100.0% recognized)
+   Original: pchar cho rol dalshear cheeotaiin chal daiin
+   Translation: [?pch] (to) vessel liquid (in) [?dalshe] (to) [?cheeot] the prepare (in) water
+
+28. Folio line224 (100.0% recognized)
+   Original: dain chear daiin
+   Translation: water oak-bark (to) water
+
+29. Folio line251 (100.0% recognized)
+   Original: qokchy qotchol chol cthy
+   Translation: oak's oat's prepare (in) herb
+
+30. Folio line254 (100.0% recognized)
+   Original: qotchor chor otol chol cholorchol daiin dar
+   Translation: oat's prepare (with) prepare (with) in with herb [?cholorch] (in) water this
+
+
+================================================================================
+OAK-BASED PHARMACEUTICAL RECIPES
+================================================================================
+
+
+================================================================================
+KEY PHARMACEUTICAL TERMS IN CONTEXT
+================================================================================
+
+
+OAK - 10 mentions in high-quality text
+  • water substance the herb substance the-D vessel the-D prepare oak the [?dan] [?ko]-D
+  • [?choo] [?k] the herb the oak (in) water [?f] (to) [?cth] (in) water [?cth] (to)-D (in)
+  • oak (in) apply (in) [?k] (in) [?kechy] herb [?kych] (in) [?cth] (in) vessel herb water
+
+WATER - 10 mentions in high-quality text
+  • [?doin] herb water [?cth] (in) this water (to) [?k] the this oak-preparation [?cth] (to)
+  • [?pche] (in) apply (in) [?sols] water (in) oak-preparation
+  • [?kodalchy] [?chpa] water (in) with oak-product oat's [?eydo] the prepare (with) [?ytoy]
+
+VESSEL - 10 mentions in high-quality text
+  • water substance the herb substance the-D vessel the-D prepare oak the [?dan] [?ko]-D
+  • [?yteeay] prepare (to) or [?ochydcho] [?lko] [?oko] (to)-D vessel
+  • oak (in) apply (in) [?k] (in) [?kechy] herb [?kych] (in) [?cth] (in) vessel herb water
+
+OAT - 10 mentions in high-quality text
+  • oat's [?aiincthey] [?ych] (with) [?ydych] the
+  • [?kcho] [?kchy] herb apply (in) oat's vessel [?loeees] oat's [?ych] (with) water
+  • [?yche] (with) prepare (with) [MODAL] oat's [?cham] [?cham]

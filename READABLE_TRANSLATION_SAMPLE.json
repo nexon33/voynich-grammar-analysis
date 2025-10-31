@@ -1,0 +1,909 @@
+{
+  "metadata": {
+    "total_lines": 100,
+    "total_words": 665,
+    "average_recognition": 35.75
+  },
+  "translations": [
+    {
+      "line": 1,
+      "folio": "unknown",
+      "original": "fachys ykal ar ataiin shol shory cth!res y kor sholdy!",
+      "translation": "[fachys] [yk] the at/in [at]'s if vessel-[ry] [cthres] that vessel-[l] in",
+      "word_count": 10,
+      "unknown_count": 6,
+      "recognition": 40.0
+    },
+    {
+      "line": 2,
+      "folio": "unknown",
+      "original": "sory ckhar o!r y kair chtaiin shar are cthar cthar dan!",
+      "translation": "[sory] [ckh] to and then [air] [t]'s [sh] to [are] [cth] to [cth] to [dan]",
+      "word_count": 11,
+      "unknown_count": 9,
+      "recognition": 18.181818181818183
+    },
+    {
+      "line": 3,
+      "folio": "unknown",
+      "original": "syaiir sheky or ykaiin shod cthoary cthes daraiin sa",
+      "translation": "[syaiir] [eky] and [yk]'s vessel-[d] [cthoary] [cthes] this's [sa]",
+      "word_count": 9,
+      "unknown_count": 7,
+      "recognition": 22.22222222222222
+    },
+    {
+      "line": 4,
+      "folio": "unknown",
+      "original": "o oiin oteey oteos roloty cth*ar daiin otaiin or okan",
+      "translation": "[o] [oiin] [oteey] [oteos] [roloty] [cth] to water [ot]'s and [okan]",
+      "word_count": 10,
+      "unknown_count": 8,
+      "recognition": 20.0
+    },
+    {
+      "line": 5,
+      "folio": "unknown",
+      "original": "dair y chear cthaiin cphar cfhaiin",
+      "translation": "this oak-bark to [cth]'s [cph] to [cfh]'s",
+      "word_count": 6,
+      "unknown_count": 3,
+      "recognition": 50.0
+    },
+    {
+      "line": 6,
+      "folio": "unknown",
+      "original": "ydar!aish!y",
+      "translation": "[ydaraishy]",
+      "word_count": 1,
+      "unknown_count": 1,
+      "recognition": 0.0
+    },
+    {
+      "line": 7,
+      "folio": "unknown",
+      "original": "* odar o !y shol cphoy oydar sh! s cfhoaiin shodary",
+      "translation": "[od] to [o] if [cphoy] [oyd] to [sh] of [cfho]'s vessel-[dary]",
+      "word_count": 11,
+      "unknown_count": 7,
+      "recognition": 36.36363636363637
+    },
+    {
+      "line": 8,
+      "folio": "unknown",
+      "original": "yshey shody okcho!y otchol chocthy os!chy dain chor kos",
+      "translation": "[yshey] vessel in [okchoy] [otch] with [octhy] [oschy] water and then [os]",
+      "word_count": 9,
+      "unknown_count": 6,
+      "recognition": 33.33333333333333
+    },
+    {
+      "line": 9,
+      "folio": "unknown",
+      "original": "daiin shos cfhol shody",
+      "translation": "water vessel-of [cfh] with vessel in",
+      "word_count": 4,
+      "unknown_count": 1,
+      "recognition": 75.0
+    },
+    {
+      "line": 10,
+      "folio": "unknown",
+      "original": "dain os teody",
+      "translation": "water [os] [te] in",
+      "word_count": 3,
+      "unknown_count": 2,
+      "recognition": 33.33333333333333
+    },
+    {
+      "line": 11,
+      "folio": "unknown",
+      "original": "* ydain cphesaiin ol s cphey ytain shoshy cphodal!es",
+      "translation": "[yd]'s [cphes]'s or of [cphey] [yt]'s vessel-[shy] [cphodales]",
+      "word_count": 9,
+      "unknown_count": 6,
+      "recognition": 33.33333333333333
+    },
+    {
+      "line": 12,
+      "folio": "unknown",
+      "original": "oksho kshoy otairin oteol okan shodain sckhey daiin",
+      "translation": "[oksho] then vessel-[?] [otairin] [ot] with [okan] vessel-water [sckhey] water",
+      "word_count": 8,
+      "unknown_count": 5,
+      "recognition": 37.5
+    },
+    {
+      "line": 13,
+      "folio": "unknown",
+      "original": "shoy ckhey kodaiin cphy cphodaiils cthey she oldain d!",
+      "translation": "vessel-[?] [ckhey] then [od]'s [cphy] [cphodaiils] [cthey] [e] [old]'s [d]",
+      "word_count": 9,
+      "unknown_count": 8,
+      "recognition": 11.11111111111111
+    },
+    {
+      "line": 14,
+      "folio": "unknown",
+      "original": "dain oiin chol odaiin chodain chdy okain dan cthy kod!",
+      "translation": "water [oiin] take [od]'s [od]'s [ch] in [ok]'s [dan] [cthy] then [od]",
+      "word_count": 10,
+      "unknown_count": 8,
+      "recognition": 20.0
+    },
+    {
+      "line": 15,
+      "folio": "unknown",
+      "original": "daiin shckhey ck eor chor shey kol chol chol kor chal",
+      "translation": "water [ckhey] [ck] [eor] and oak-prep then with take take that [ch] the",
+      "word_count": 11,
+      "unknown_count": 4,
+      "recognition": 63.63636363636363
+    },
+    {
+      "line": 16,
+      "folio": "unknown",
+      "original": "sho chol sh!odan kshy kchy dor chodaiin sho kchom",
+      "translation": "vessel take vessel-[dan] then [shy] then use [dor] [od]'s vessel then [om]",
+      "word_count": 9,
+      "unknown_count": 5,
+      "recognition": 44.44444444444444
+    },
+    {
+      "line": 17,
+      "folio": "unknown",
+      "original": "ycho tchey chokain sheo pshol dydyd cthy daicthy",
+      "translation": "[ycho] [tchey] [ok]'s [eo] [psh] with [dydyd] [cthy] [daicthy]",
+      "word_count": 8,
+      "unknown_count": 8,
+      "recognition": 0.0
+    },
+    {
+      "line": 18,
+      "folio": "unknown",
+      "original": "yto shol she kodshey cphealy das!ain dain ckhyds",
+      "translation": "[yto] if [e] then [odshey] [cphealy] [das]'s water [ckhyds]",
+      "word_count": 8,
+      "unknown_count": 6,
+      "recognition": 25.0
+    },
+    {
+      "line": 19,
+      "folio": "unknown",
+      "original": "dchar shcthaiin okaiir chey rchy !potol cthols dloct a",
+      "translation": "[dch] to [cth]'s [okaiir] use [rchy] [pot] with [cthols] [dloct] [a]",
+      "word_count": 9,
+      "unknown_count": 8,
+      "recognition": 11.11111111111111
+    },
+    {
+      "line": 20,
+      "folio": "unknown",
+      "original": "shok chor chey dain ckhey",
+      "translation": "vessel-then and use water [ckhey]",
+      "word_count": 5,
+      "unknown_count": 1,
+      "recognition": 80.0
+    },
+    {
+      "line": 21,
+      "folio": "unknown",
+      "original": "otol daiiin",
+      "translation": "[ot] with [daiiin]",
+      "word_count": 2,
+      "unknown_count": 2,
+      "recognition": 0.0
+    },
+    {
+      "line": 22,
+      "folio": "unknown",
+      "original": "cpho shaiin shokcheey chol tshodeesy shey pydeey chy ro d*",
+      "translation": "[cpho] [sh]'s vessel-then acorn take [tshodeesy] oak-prep [pydeey] use [ro] [d]",
+      "word_count": 10,
+      "unknown_count": 6,
+      "recognition": 40.0
+    },
+    {
+      "line": 23,
+      "folio": "unknown",
+      "original": "*doin chol dain cthal dar shear kaiin dar shey cth!ar!",
+      "translation": "take water [cth] the this [sh] to then's this oak-prep [cth] to",
+      "word_count": 10,
+      "unknown_count": 3,
+      "recognition": 70.0
+    },
+    {
+      "line": 24,
+      "folio": "unknown",
+      "original": "!cho*!o kaiin shoaiin okol daiin far cthol daiin ctholdar",
+      "translation": "[oo] then's vessel's [ok] with water [f] to [cth] with water [cthold] to",
+      "word_count": 9,
+      "unknown_count": 5,
+      "recognition": 44.44444444444444
+    },
+    {
+      "line": 25,
+      "folio": "unknown",
+      "original": "ycheey oka!y oky daiin okchey k!okaiin *chol k*chy dal",
+      "translation": "[ycheey] [okay] [oky] water [okchey] then [ok]'s then use [d] the",
+      "word_count": 9,
+      "unknown_count": 6,
+      "recognition": 33.33333333333333
+    },
+    {
+      "line": 26,
+      "folio": "unknown",
+      "original": "d*eeo shody koshey cthy ok!chey keey keey dal chtor",
+      "translation": "[deeo] vessel in then [oshey] [cthy] [okchey] then [eey] then [eey] [d] the [tor]",
+      "word_count": 9,
+      "unknown_count": 8,
+      "recognition": 11.11111111111111
+    },
+    {
+      "line": 27,
+      "folio": "unknown",
+      "original": "!*eo! chol chok choty chotey",
+      "translation": "[eo] take [ok] [oty] [otey]",
+      "word_count": 5,
+      "unknown_count": 4,
+      "recognition": 20.0
+    },
+    {
+      "line": 28,
+      "folio": "unknown",
+      "original": "dchaiin=kchsy chadaiin ololtchey char cfhar am",
+      "translation": "[dchaiin=kchsy] [ad]'s [ololtchey] [ch] to [cfh] to [am]",
+      "word_count": 6,
+      "unknown_count": 5,
+      "recognition": 16.666666666666664
+    },
+    {
+      "line": 29,
+      "folio": "unknown",
+      "original": "yteeay char or ochydcho lkody okodar chody",
+      "translation": "[yteeay] [ch] to and [ochydcho] process in [okod] to [ch] in",
+      "word_count": 7,
+      "unknown_count": 5,
+      "recognition": 28.57142857142857
+    },
+    {
+      "line": 30,
+      "folio": "unknown",
+      "original": "d!o ckhy ckho ckhy shydksheey cthy kotchody dal",
+      "translation": "[do] with [ckho] with [ydksheey] [cthy] then [otch] in [d] the",
+      "word_count": 8,
+      "unknown_count": 6,
+      "recognition": 25.0
+    },
+    {
+      "line": 31,
+      "folio": "unknown",
+      "original": "dol chokeo dair damsochey chokody",
+      "translation": "to [okeo] this [damsochey] [ok] in",
+      "word_count": 5,
+      "unknown_count": 3,
+      "recognition": 40.0
+    },
+    {
+      "line": 32,
+      "folio": "unknown",
+      "original": "potoy shol dair cphoaldar chey tody otoaiin shoshy",
+      "translation": "[potoy] if this [cphoald] to use [t] in [oto]'s vessel-[shy]",
+      "word_count": 8,
+      "unknown_count": 5,
+      "recognition": 37.5
+    },
+    {
+      "line": 33,
+      "folio": "unknown",
+      "original": "choky chol cthol shol okaldolchey chodo lol chy cthy",
+      "translation": "[oky] take [cth] with if [okaldolchey] [odo] [l] with use [cthy]",
+      "word_count": 9,
+      "unknown_count": 6,
+      "recognition": 33.33333333333333
+    },
+    {
+      "line": 34,
+      "folio": "unknown",
+      "original": "qo ol choeee cheol dol ctheyykol dol dolo ykol do l!ch!ody",
+      "translation": "[qo] or [oeee] boil to [ctheyyk] with to [dolo] [yk] with [do] [lch] in",
+      "word_count": 11,
+      "unknown_count": 7,
+      "recognition": 36.36363636363637
+    },
+    {
+      "line": 35,
+      "folio": "unknown",
+      "original": "okol shol kol kechy chol kychol cthol chody chol daiin",
+      "translation": "[ok] with if then with then [echy] take then [ych] with [cth] with [ch] in take water",
+      "word_count": 10,
+      "unknown_count": 5,
+      "recognition": 50.0
+    },
+    {
+      "line": 36,
+      "folio": "unknown",
+      "original": "shor okol chol dol ky darshol dchor otcho dar shody",
+      "translation": "vessel-[?] [ok] with take to [ky] [darsh] with [dchor] [otcho] this vessel in",
+      "word_count": 10,
+      "unknown_count": 5,
+      "recognition": 50.0
+    },
+    {
+      "line": 37,
+      "folio": "unknown",
+      "original": "taor chotchey dal chodyschody pol chodar",
+      "translation": "[taor] [otchey] [d] the [odysch] in [p] with [od] to",
+      "word_count": 6,
+      "unknown_count": 6,
+      "recognition": 0.0
+    },
+    {
+      "line": 38,
+      "folio": "unknown",
+      "original": "kydainy ypchol daiin otchalypchaiin ckholsy",
+      "translation": "then [yd]'s [ypch] with water [otchalypch]'s [ckholsy]",
+      "word_count": 5,
+      "unknown_count": 4,
+      "recognition": 20.0
+    },
+    {
+      "line": 39,
+      "folio": "unknown",
+      "original": "dorchorychkar sshor cthy cth!",
+      "translation": "[dorchorychk] to [sshor] [cthy] [cth]",
+      "word_count": 4,
+      "unknown_count": 4,
+      "recognition": 0.0
+    },
+    {
+      "line": 40,
+      "folio": "unknown",
+      "original": "qotaiincthey ychor chy ydychaiin",
+      "translation": "oat-[aiincthey] [ychor] use [ydych]'s",
+      "word_count": 4,
+      "unknown_count": 3,
+      "recognition": 25.0
+    },
+    {
+      "line": 41,
+      "folio": "unknown",
+      "original": "chaindychtod dycphy dal!schokaiin d",
+      "translation": "[aindychtod] [dycphy] [dalschok]'s [d]",
+      "word_count": 4,
+      "unknown_count": 4,
+      "recognition": 0.0
+    },
+    {
+      "line": 42,
+      "folio": "unknown",
+      "original": "otochor alshodaiinchol !danytchaiin dan",
+      "translation": "[otochor] [alshodaiinch] with [danytch]'s [dan]",
+      "word_count": 4,
+      "unknown_count": 4,
+      "recognition": 0.0
+    },
+    {
+      "line": 43,
+      "folio": "unknown",
+      "original": "saiin daindd!kol sorytoldydchol dchy cthy",
+      "translation": "of's water-[ddk] with [sorytoldydch] with [dchy] [cthy]",
+      "word_count": 5,
+      "unknown_count": 4,
+      "recognition": 20.0
+    },
+    {
+      "line": 44,
+      "folio": "unknown",
+      "original": "shor ckhy daiinychol dan=",
+      "translation": "vessel-[?] with water-[ych] with [dan=]",
+      "word_count": 4,
+      "unknown_count": 1,
+      "recognition": 75.0
+    },
+    {
+      "line": 45,
+      "folio": "unknown",
+      "original": "kydain shaiin qoy s shol fodanyksh olsheey daiildy",
+      "translation": "then [yd]'s [sh]'s [qoy] of if [fodanyksh] [olsheey] [daiil] in",
+      "word_count": 8,
+      "unknown_count": 6,
+      "recognition": 25.0
+    },
+    {
+      "line": 46,
+      "folio": "unknown",
+      "original": "dlssho kol sheey qokey ykody sochol yky dain daiirol",
+      "translation": "[dlssho] then with oak-product oak-[ey] [yk] in [soch] with [yky] water [daiir] with",
+      "word_count": 9,
+      "unknown_count": 6,
+      "recognition": 33.33333333333333
+    },
+    {
+      "line": 47,
+      "folio": "unknown",
+      "original": "qoky cholaiin shol sheky daiincthey keol s!aiin saiin",
+      "translation": "oak-[?] take's if [eky] water-[cthey] mix of's of's",
+      "word_count": 8,
+      "unknown_count": 2,
+      "recognition": 75.0
+    },
+    {
+      "line": 48,
+      "folio": "unknown",
+      "original": "ychain dal chy dalor shan danolsaiin sheey ckhor",
+      "translation": "[ych]'s [d] the use [dalor] [an] [danols]'s oak-product [ckhor]",
+      "word_count": 8,
+      "unknown_count": 6,
+      "recognition": 25.0
+    },
+    {
+      "line": 49,
+      "folio": "unknown",
+      "original": "okol chy chor cthor yor an chansaiin chety chyky sal",
+      "translation": "[ok] with use and [cthor] [yor] [an] [ans]'s oak-bark-[ty] [yky] of the",
+      "word_count": 10,
+      "unknown_count": 7,
+      "recognition": 30.0
+    },
+    {
+      "line": 50,
+      "folio": "unknown",
+      "original": "sho ykeey chey daiin chcthy",
+      "translation": "vessel [ykeey] use water [cthy]",
+      "word_count": 5,
+      "unknown_count": 2,
+      "recognition": 60.0
+    },
+    {
+      "line": 51,
+      "folio": "unknown",
+      "original": "kooiin cheo pchor otaiin o dain chordair shty",
+      "translation": "then [ooiin] boil [pchor] [ot]'s [o] water [ordair] [ty]",
+      "word_count": 8,
+      "unknown_count": 6,
+      "recognition": 25.0
+    },
+    {
+      "line": 52,
+      "folio": "unknown",
+      "original": "kcho kchy sho shol qotcho loeees qotychor daiin",
+      "translation": "then [o] then use vessel if oat-[o] [loeees] oat-[ychor] water",
+      "word_count": 8,
+      "unknown_count": 4,
+      "recognition": 50.0
+    },
+    {
+      "line": 53,
+      "folio": "unknown",
+      "original": "otchy chor lshy chol chody chodainchcthy daiin",
+      "translation": "[otchy] and [lshy] take [ch] in [od]'s [cthy] water",
+      "word_count": 7,
+      "unknown_count": 5,
+      "recognition": 28.57142857142857
+    },
+    {
+      "line": 54,
+      "folio": "unknown",
+      "original": "sho cholo cheor chodaiin",
+      "translation": "vessel [olo] oak-bark-and [od]'s",
+      "word_count": 4,
+      "unknown_count": 2,
+      "recognition": 50.0
+    },
+    {
+      "line": 55,
+      "folio": "unknown",
+      "original": "kchor shy daiiin chckhoys shey dor chol daiin",
+      "translation": "then and [shy] [daiiin] [ckhoys] oak-prep [dor] take water",
+      "word_count": 8,
+      "unknown_count": 4,
+      "recognition": 50.0
+    },
+    {
+      "line": 56,
+      "folio": "unknown",
+      "original": "dor chol chor chol keol chy chtydaiin otchor chan",
+      "translation": "[dor] take and take mix use [tyd]'s [otchor] [an]",
+      "word_count": 9,
+      "unknown_count": 4,
+      "recognition": 55.55555555555556
+    },
+    {
+      "line": 57,
+      "folio": "unknown",
+      "original": "daiin chotchey qoteeey chokeoschees chr cheaiin",
+      "translation": "water [otchey] oat-grain [okeoschees] [chr] oak-bark's",
+      "word_count": 6,
+      "unknown_count": 3,
+      "recognition": 50.0
+    },
+    {
+      "line": 58,
+      "folio": "unknown",
+      "original": "chokoishe chor cheol chol dolody=",
+      "translation": "[okoishe] and boil take [dolody=]",
+      "word_count": 5,
+      "unknown_count": 1,
+      "recognition": 80.0
+    },
+    {
+      "line": 59,
+      "folio": "unknown",
+      "original": "tsheos qopal chol cthol daimm",
+      "translation": "[tsheos] [qop] the take [cth] with [daimm]",
+      "word_count": 5,
+      "unknown_count": 4,
+      "recognition": 20.0
+    },
+    {
+      "line": 60,
+      "folio": "unknown",
+      "original": "ycheor chor dam qotcham cham",
+      "translation": "[ycheor] and [dam] oat-[am] [am]",
+      "word_count": 5,
+      "unknown_count": 4,
+      "recognition": 20.0
+    },
+    {
+      "line": 61,
+      "folio": "unknown",
+      "original": "ochor qocheor chol daiin cthy",
+      "translation": "[ochor] [qocheor] take water [cthy]",
+      "word_count": 5,
+      "unknown_count": 3,
+      "recognition": 40.0
+    },
+    {
+      "line": 62,
+      "folio": "unknown",
+      "original": "schey chor chal cham cham cho",
+      "translation": "[schey] and [ch] the [am] [am] [o]",
+      "word_count": 6,
+      "unknown_count": 5,
+      "recognition": 16.666666666666664
+    },
+    {
+      "line": 63,
+      "folio": "unknown",
+      "original": "qokol chololy s cham cthol",
+      "translation": "oak with [ololy] of [am] [cth] with",
+      "word_count": 5,
+      "unknown_count": 3,
+      "recognition": 40.0
+    },
+    {
+      "line": 64,
+      "folio": "unknown",
+      "original": "ychtaiin chor cthom otal dam",
+      "translation": "[ycht]'s and [cthom] [ot] the [dam]",
+      "word_count": 5,
+      "unknown_count": 4,
+      "recognition": 20.0
+    },
+    {
+      "line": 65,
+      "folio": "unknown",
+      "original": "otchol qodaiin chom shom damo",
+      "translation": "[otch] with [qod]'s [om] vessel-[m] [damo]",
+      "word_count": 5,
+      "unknown_count": 5,
+      "recognition": 0.0
+    },
+    {
+      "line": 66,
+      "folio": "unknown",
+      "original": "ysheor chor chol oky damo",
+      "translation": "[ysheor] and take [oky] [damo]",
+      "word_count": 5,
+      "unknown_count": 3,
+      "recognition": 40.0
+    },
+    {
+      "line": 67,
+      "folio": "unknown",
+      "original": "sho *or sheoldam otchody ol",
+      "translation": "vessel [eoldam] [otch] in or",
+      "word_count": 5,
+      "unknown_count": 2,
+      "recognition": 60.0
+    },
+    {
+      "line": 68,
+      "folio": "unknown",
+      "original": "ydas chol cthom",
+      "translation": "[ydas] take [cthom]",
+      "word_count": 3,
+      "unknown_count": 2,
+      "recognition": 33.33333333333333
+    },
+    {
+      "line": 69,
+      "folio": "unknown",
+      "original": "pcheol shol sols sheol shey",
+      "translation": "[pch] with if [sols] then oak-prep",
+      "word_count": 5,
+      "unknown_count": 2,
+      "recognition": 60.0
+    },
+    {
+      "line": 70,
+      "folio": "unknown",
+      "original": "okadaiin qokchor qoschodam octhy",
+      "translation": "[okad]'s oak-and [qoschodam] [octhy]",
+      "word_count": 4,
+      "unknown_count": 3,
+      "recognition": 25.0
+    },
+    {
+      "line": 71,
+      "folio": "unknown",
+      "original": "qokeey qot shey qokody qokchey cheody",
+      "translation": "acorn oat oak-prep oak in oak-use oak-bark in",
+      "word_count": 6,
+      "unknown_count": 0,
+      "recognition": 100.0
+    },
+    {
+      "line": 72,
+      "folio": "unknown",
+      "original": "chor qodair okeey qokeey",
+      "translation": "and [qodair] acorns acorn",
+      "word_count": 4,
+      "unknown_count": 1,
+      "recognition": 75.0
+    },
+    {
+      "line": 73,
+      "folio": "unknown",
+      "original": "tsheoarom shor or chor olchsy chom otchomoporar",
+      "translation": "[tsheoarom] vessel-[?] and and [olchsy] [om] [otchomopor] to",
+      "word_count": 7,
+      "unknown_count": 4,
+      "recognition": 42.857142857142854
+    },
+    {
+      "line": 74,
+      "folio": "unknown",
+      "original": "oteol chol s cheol ekshy qokeom qokol daiinsoleeg",
+      "translation": "[ot] with take of boil [ekshy] oak-[eom] oak with water-[soleeg]",
+      "word_count": 8,
+      "unknown_count": 4,
+      "recognition": 50.0
+    },
+    {
+      "line": 75,
+      "folio": "unknown",
+      "original": "soeom okeom yteody qokeeo dal sam",
+      "translation": "[soeom] [okeom] [yte] in oak-[eeo] [d] the [sam]",
+      "word_count": 6,
+      "unknown_count": 6,
+      "recognition": 0.0
+    },
+    {
+      "line": 76,
+      "folio": "unknown",
+      "original": "pcheoldom shodaiin qopchor qopol opchol qotyotolom",
+      "translation": "[pcheoldom] vessel-water [qopchor] [qop] with [opch] with oat-[yotolom]",
+      "word_count": 6,
+      "unknown_count": 5,
+      "recognition": 16.666666666666664
+    },
+    {
+      "line": 77,
+      "folio": "unknown",
+      "original": "otchor ol cheor qoeor dair qoteol qosaiinchor cthy",
+      "translation": "[otchor] or oak-bark-and [qoeor] this oat with [qosaiinchor] [cthy]",
+      "word_count": 8,
+      "unknown_count": 4,
+      "recognition": 50.0
+    },
+    {
+      "line": 78,
+      "folio": "unknown",
+      "original": "ycheor chol odaiin chol s aiin okol!or am=",
+      "translation": "[ycheor] take [od]'s take of [aiin] [okolor] [am=]",
+      "word_count": 8,
+      "unknown_count": 4,
+      "recognition": 50.0
+    },
+    {
+      "line": 79,
+      "folio": "unknown",
+      "original": "koaiin cphor qotoy sha ckhol ykoaiin s oly",
+      "translation": "then [o]'s [cphor] oat-[oy] [a] [ckh] with [yko]'s of [oly]",
+      "word_count": 8,
+      "unknown_count": 7,
+      "recognition": 12.5
+    },
+    {
+      "line": 80,
+      "folio": "unknown",
+      "original": "daiidy qoteeol okchor okor olytol dol dar",
+      "translation": "[daii] in oat-[e] with [okchor] [okor] [olyt] with to this",
+      "word_count": 7,
+      "unknown_count": 5,
+      "recognition": 28.57142857142857
+    },
+    {
+      "line": 81,
+      "folio": "unknown",
+      "original": "okom chol shol seees chom cheeykam okai!",
+      "translation": "[okom] take if [seees] [om] oak-bark-[eykam] [okai]",
+      "word_count": 7,
+      "unknown_count": 5,
+      "recognition": 28.57142857142857
+    },
+    {
+      "line": 82,
+      "folio": "unknown",
+      "original": "qodar ees eey kcheol okal do r chear een",
+      "translation": "[qod] to [ees] [eey] then [ch] with [ok] the [do] oak-bark to [een]",
+      "word_count": 9,
+      "unknown_count": 7,
+      "recognition": 22.22222222222222
+    },
+    {
+      "line": 83,
+      "folio": "unknown",
+      "original": "yeeear otchal eeor eear ckhy!",
+      "translation": "[yee] to [otch] the [eeor] [e] to with",
+      "word_count": 5,
+      "unknown_count": 4,
+      "recognition": 20.0
+    },
+    {
+      "line": 84,
+      "folio": "unknown",
+      "original": "or cheor kor chodaly chom=",
+      "translation": "and oak-bark-and that [odaly] [om=]",
+      "word_count": 5,
+      "unknown_count": 1,
+      "recognition": 80.0
+    },
+    {
+      "line": 85,
+      "folio": "unknown",
+      "original": "tchor otcham chor cfham s!",
+      "translation": "[tchor] [otcham] and [cfham] of",
+      "word_count": 5,
+      "unknown_count": 3,
+      "recognition": 40.0
+    },
+    {
+      "line": 86,
+      "folio": "unknown",
+      "original": "ykchy kchom chor chekeol oka",
+      "translation": "[ykchy] then [om] and oak-bark-mix [oka]",
+      "word_count": 5,
+      "unknown_count": 3,
+      "recognition": 40.0
+    },
+    {
+      "line": 87,
+      "folio": "unknown",
+      "original": "ytcheear okeol cthodoaly chor cthy",
+      "translation": "[ytche] to [ok] with [cthodoaly] and [cthy]",
+      "word_count": 5,
+      "unknown_count": 4,
+      "recognition": 20.0
+    },
+    {
+      "line": 88,
+      "folio": "unknown",
+      "original": "ochor daiin qokshol daiim chol okary",
+      "translation": "[ochor] water oak-if [daiim] take [okary]",
+      "word_count": 6,
+      "unknown_count": 3,
+      "recognition": 50.0
+    },
+    {
+      "line": 89,
+      "folio": "unknown",
+      "original": "sho shockho ckhy tchor chodaiin chom",
+      "translation": "vessel vessel-[ckho] with [tchor] [od]'s [om]",
+      "word_count": 6,
+      "unknown_count": 4,
+      "recognition": 33.33333333333333
+    },
+    {
+      "line": 90,
+      "folio": "unknown",
+      "original": "osh chodair ytchy tchor kcham s",
+      "translation": "[osh] [odair] [ytchy] [tchor] then [am] of",
+      "word_count": 6,
+      "unknown_count": 5,
+      "recognition": 16.666666666666664
+    },
+    {
+      "line": 91,
+      "folio": "unknown",
+      "original": "shar shkaiin qokchy yty cthal chky",
+      "translation": "[sh] to then's oak-use [yty] [cth] the [ky]",
+      "word_count": 6,
+      "unknown_count": 4,
+      "recognition": 33.33333333333333
+    },
+    {
+      "line": 92,
+      "folio": "unknown",
+      "original": "dain sheam yteam",
+      "translation": "water [eam] [yteam]",
+      "word_count": 3,
+      "unknown_count": 2,
+      "recognition": 33.33333333333333
+    },
+    {
+      "line": 93,
+      "folio": "unknown",
+      "original": "kodalchy chpady sheol ol sheey qoteydoiin chor ytoy",
+      "translation": "then [odalchy] [pa] in then or oak-product oat-[eydoiin] and [ytoy]",
+      "word_count": 8,
+      "unknown_count": 4,
+      "recognition": 50.0
+    },
+    {
+      "line": 94,
+      "folio": "unknown",
+      "original": "dchor chol shol cthol shtchy chaiin!schoraiin chom",
+      "translation": "[dchor] take if [cth] with [tchy] [aiinschor]'s [om]",
+      "word_count": 7,
+      "unknown_count": 5,
+      "recognition": 28.57142857142857
+    },
+    {
+      "line": 95,
+      "folio": "unknown",
+      "original": "otchol chol chy chaiin qotaiindaiin shain",
+      "translation": "[otch] with take use [ch]'s oat-[aiind]'s [sh]'s",
+      "word_count": 6,
+      "unknown_count": 4,
+      "recognition": 33.33333333333333
+    },
+    {
+      "line": 96,
+      "folio": "unknown",
+      "original": "qotchol chy yty daiin !okaiin cthy=",
+      "translation": "oat-take use [yty] water [ok]'s [cthy=]",
+      "word_count": 6,
+      "unknown_count": 2,
+      "recognition": 66.66666666666666
+    },
+    {
+      "line": 97,
+      "folio": "unknown",
+      "original": "pydaiin qotchy dy tydy",
+      "translation": "[pyd]'s oat-use in/at [ty] in",
+      "word_count": 4,
+      "unknown_count": 2,
+      "recognition": 50.0
+    },
+    {
+      "line": 98,
+      "folio": "unknown",
+      "original": "chor shy!tchy dy tcheay",
+      "translation": "and [ytchy] in/at [tcheay]",
+      "word_count": 4,
+      "unknown_count": 2,
+      "recognition": 50.0
+    },
+    {
+      "line": 99,
+      "folio": "unknown",
+      "original": "qotaiin cthol daiin cthom",
+      "translation": "oat's [cth] with water [cthom]",
+      "word_count": 4,
+      "unknown_count": 2,
+      "recognition": 50.0
+    },
+    {
+      "line": 100,
+      "folio": "unknown",
+      "original": "shor shol shol cthy cpholdy",
+      "translation": "vessel-[?] if if [cthy] [cph] with in",
+      "word_count": 5,
+      "unknown_count": 2,
+      "recognition": 60.0
+    }
+  ]
+}
