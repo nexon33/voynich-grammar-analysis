@@ -416,6 +416,15 @@ python scripts/analysis/complete_translation_98pct.py
 
 ---
 
+## Research History
+   
+   This repository contains the complete research trail, including 
+   abandoned hypotheses. We initially tested a Middle English cipher 
+   model (3.16% recognition) before achieving 98.3% recognition through 
+   morphological analysis. Abandoned approaches are preserved for transparency.
+
+---
+
 ## 📧 Contact & Review
 
 **Seeking critical peer review from:**
