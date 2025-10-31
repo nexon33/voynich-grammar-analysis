@@ -1,0 +1,69 @@
+{
+  "total_words": 37125,
+  "claimed_recognition": {
+    "count": 27402,
+    "rate": 73.81010101010102
+  },
+  "true_recognition": {
+    "count": 6800,
+    "rate": 18.31649831649832
+  },
+  "breakdown": {
+    "high_confidence": 9150,
+    "medium_confidence": 18252,
+    "unknown": 9709
+  },
+  "discrepancy": 55.4936026936027,
+  "medium_samples": [
+    {
+      "original": "ykal",
+      "translation": "[?yk]-LOC",
+      "root": "yk"
+    },
+    {
+      "original": "ataiin",
+      "translation": "[?at]-DEF",
+      "root": "at"
+    },
+    {
+      "original": "shol",
+      "translation": "[?sh]-LOC",
+      "root": "sh"
+    },
+    {
+      "original": "kor",
+      "translation": "[?k]-INST",
+      "root": "k"
+    },
+    {
+      "original": "sholdy",
+      "translation": "[?sh]-VERB-LOC",
+      "root": "sh"
+    },
+    {
+      "original": "ckhar",
+      "translation": "[?ckh]-DIR",
+      "root": "ckh"
+    },
+    {
+      "original": "chtaiin",
+      "translation": "[?cht]-DEF",
+      "root": "cht"
+    },
+    {
+      "original": "shar",
+      "translation": "[?sh]-DIR",
+      "root": "sh"
+    },
+    {
+      "original": "cthar",
+      "translation": "[?cth]-DIR",
+      "root": "cth"
+    },
+    {
+      "original": "cthar",
+      "translation": "[?cth]-DIR",
+      "root": "cth"
+    }
+  ]
+}

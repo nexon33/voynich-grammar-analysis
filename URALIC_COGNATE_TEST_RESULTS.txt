@@ -1,0 +1,13 @@
+URALIC COGNATE TESTING RESULTS
+================================================================================
+
+DIRECT VOCABULARY COMPARISON: NO MATCHES
+PHONOLOGICAL CORRESPONDENCES: WEAK/UNCERTAIN
+GRAMMATICAL MORPHEMES: SOME POSSIBLE WEAK MATCHES
+PROTO-URALIC ROOTS: NO CLEAR COGNATES
+LATIN LOANWORDS: 1-2 POSSIBLE (qok ← quercus)
+
+CONCLUSION:
+Structure = Uralic-type (agglutinative)
+Vocabulary = NOT Uralic (zero cognates)
+Classification = Extinct separate family OR very early Uralic divergence

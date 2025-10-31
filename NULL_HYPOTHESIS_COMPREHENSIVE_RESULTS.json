@@ -1,0 +1,41 @@
+{
+  "test": "comprehensive_morphological_null_hypothesis",
+  "date": "2025-01-31",
+  "results": [
+    {
+      "label": "Real Voynich",
+      "total_words": 36458,
+      "total_morphemes": 61141,
+      "recognized_morphemes": 35561,
+      "recognition_rate": 58.16228063001914
+    },
+    {
+      "label": "Control 1: Scrambled word order",
+      "total_words": 36458,
+      "total_morphemes": 61141,
+      "recognized_morphemes": 35561,
+      "recognition_rate": 58.16228063001914
+    },
+    {
+      "label": "Control 2: Scrambled characters",
+      "total_words": 36458,
+      "total_morphemes": 40721,
+      "recognized_morphemes": 10562,
+      "recognition_rate": 25.937476977480905
+    },
+    {
+      "label": "Control 3: Random text",
+      "total_words": 37187,
+      "total_morphemes": 39106,
+      "recognized_morphemes": 3287,
+      "recognition_rate": 8.405359791336368
+    }
+  ],
+  "verdict": "FAIL",
+  "interpretation": {
+    "real_recognition": 58.16228063001914,
+    "scrambled_chars_recognition": 25.937476977480905,
+    "random_recognition": 8.405359791336368,
+    "threshold_passed": false
+  }
+}

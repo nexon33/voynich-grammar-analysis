@@ -1,0 +1,51 @@
+{
+  "test_type": "null_hypothesis",
+  "date": "2025-01-31",
+  "verdict": "UNCERTAIN",
+  "positional_analysis": {
+    "real_voynich": {
+      "label": "Real Voynich",
+      "total_e": 20070,
+      "initial_pct": 0.7075236671649228,
+      "medial_pct": 98.8490284005979,
+      "final_pct": 0.4384653712007972,
+      "standalone_pct": 0.004982561036372696
+    },
+    "control_scrambled_word_order": {
+      "label": "Control 1: Scrambled word order",
+      "total_e": 20070,
+      "initial_pct": 0.7075236671649228,
+      "medial_pct": 98.8490284005979,
+      "final_pct": 0.4384653712007972,
+      "standalone_pct": 0.004982561036372696
+    },
+    "control_scrambled_characters": {
+      "label": "Control 2: Scrambled characters",
+      "total_e": 20070,
+      "initial_pct": 17.149975087194818,
+      "medial_pct": 66.37269556552067,
+      "final_pct": 16.47234678624813,
+      "standalone_pct": 0.004982561036372696
+    },
+    "control_random_text": {
+      "label": "Control 3: Random text",
+      "total_e": 8378,
+      "initial_pct": 19.83767008832657,
+      "medial_pct": 60.12174743375507,
+      "final_pct": 20.04058247791836,
+      "standalone_pct": 0.0
+    }
+  },
+  "interpretation": {
+    "real_medial_pct": 98.8490284005979,
+    "scrambled_medial_pct": 66.37269556552067,
+    "random_medial_pct": 60.12174743375507,
+    "expected_random": 33.3,
+    "verdict": "UNCERTAIN"
+  },
+  "controls_created": [
+    "data/control_scrambled_word_order.txt",
+    "data/control_scrambled_characters.txt",
+    "data/control_random_text.txt"
+  ]
+}
