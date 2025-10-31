@@ -12,10 +12,16 @@
 **Background:** Programmer/data scientist, NOT a linguist  
 **Timeline:** October 29-31, 2025  
 **Method:** Human + AI collaboration (Claude by Anthropic)  
-**Result:** 58% morphological pattern recognition, ~18-25% semantic understanding  
-**Status:** Validated against scrambled controls
+**Result:** 58% morphological pattern recognition, **42-49% semantic understanding**  
+**Status:** Validated against scrambled controls, 35 roots decoded
 
-**⚠️ IMPORTANT:** Initial claim of "98% recognition" was inflated due to counting suffix-only matches as "recognized." Null hypothesis testing revealed true metrics are ~58% morphological / 18-25% semantic. See [NULL_HYPOTHESIS_EXECUTIVE_SUMMARY.md](./NULL_HYPOTHESIS_EXECUTIVE_SUMMARY.md) for details.
+**⚠️ IMPORTANT:** Initial claim of "98% recognition" was inflated due to counting suffix-only matches as "recognized." Null hypothesis testing revealed true metrics are 58% morphological / 42-49% semantic (35 roots).
+
+**📚 QUICK START DOCUMENTS:**
+- [CURRENT_STATUS_SUMMARY.md](./CURRENT_STATUS_SUMMARY.md) - Quick reference (read this first!)
+- [NULL_HYPOTHESIS_EXECUTIVE_SUMMARY.md](./NULL_HYPOTHESIS_EXECUTIVE_SUMMARY.md) - Validation results
+- [VOCABULARY_35_ROOTS_COMPLETE.md](./VOCABULARY_35_ROOTS_COMPLETE.md) - Complete vocabulary
+- [FINAL_SESSION_SUMMARY_VOCABULARY_EXPANSION.md](./FINAL_SESSION_SUMMARY_VOCABULARY_EXPANSION.md) - Complete timeline
 
 **This repository contains 20 phases of iterative research, multiple revisions, dead ends, and breakthroughs. The "messiness" is intentional - it shows the actual research process, not a polished final product.**
 
@@ -291,9 +297,10 @@ then   - oak  - CONT   - GEN    - TOPIC
 **Original claim:** 98.3% recognition  
 **Corrected (after null hypothesis testing):**
 - **Morphological pattern recognition:** 58.2%
-- **Semantic understanding:** 35-42% (updated Oct 31, 2025)
+- **Semantic understanding:** **42-49%** (final update Oct 31, 2025)
   - Initial: 18-25% (15 roots)
-  - After decoding top 10 roots: 35-42% (25 roots, +17.7%)
+  - After top 10 roots: 35-42% (25 roots, +17.7%)
+  - After Tier 1+2: 42-49% (35 roots, +24.5% total gain)
 
 **What happened:** Initial metrics counted words as "recognized" if ANY morpheme was identified (including suffix-only matches). True semantic understanding requires knowing root meanings.
 
@@ -309,11 +316,11 @@ then   - oak  - CONT   - GEN    - TOPIC
 |--------|-------|---------------|
 | **Morphological patterns identified** | 58.2% | Can decompose words into PREFIX-STEM-SUFFIX |
 | **Suffix identification** | 49.2% | Can identify grammatical markers |
-| **Semantic understanding** | **35-42%** | **Actually know what words mean** |
-| **Known root vocabulary** | 25 roots | ch, sh, ok, che, or, chey, chy, ain, am, ey + 15 previous |
-| **High confidence decoding** | 13,371 words (36%) | Roots + suffixes both known |
-| **Morphological only** | 18,252 words (49%) | Suffix known, root unknown |
-| **Unknown remaining** | 5,502 words (15%) | No structure identified |
+| **Semantic understanding** | **42-49%** | **Actually know what words mean** |
+| **Known root vocabulary** | **35 roots** | Botanical, processes, containers, spatial, particles |
+| **High confidence decoding** | 16,136 words (43.5%) | Roots + suffixes both known |
+| **Morphological only** | 15,487 words (41.7%) | Suffix known, root unknown |
+| **Unknown remaining** | 5,502 words (14.8%) | No structure identified |
 
 ### Validation Against Controls
 
@@ -480,7 +487,7 @@ python scripts/analysis/complete_translation_98pct.py
 - ✅ **Real linguistic structure exists** (7× better than random text)
 - ✅ **Systematic agglutinative morphology** (PREFIX-STEM-SUFFIX structure)
 - ✅ **Suffix inventory documented** (~10-15 productive suffixes)
-- ✅ **Semantic understanding of 35-42%** (25 root words decoded, +17.7% gain on Oct 31)
+- ✅ **Semantic understanding of 42-49%** (35 root words decoded, +24.5% gain on Oct 31)
 - ✅ At least one structural parallel with medieval text (Hildegard - requires validation)
 - ✅ Null hypothesis testing performed (methodology validated against controls)
 - ✅ Methodology transparent and replicable

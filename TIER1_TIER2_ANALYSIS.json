@@ -1,0 +1,303 @@
+{
+  "tier1_roots": [
+    "al",
+    "dar",
+    "chol",
+    "lk",
+    "qo"
+  ],
+  "tier2_roots": [
+    "cheey",
+    "yk",
+    "yt",
+    "lch",
+    "eo"
+  ],
+  "tier1_analysis": {
+    "al": {
+      "instances": 775,
+      "standalone_rate": 0.327741935483871,
+      "verb_suffix_rate": 0.04129032258064516,
+      "case_suffix_rate": 0.1406451612903226,
+      "top_patterns": {
+        "dy": 30,
+        "or": 16,
+        "ol": 11,
+        "ar": 11,
+        "aiin": 9
+      },
+      "contexts": [
+        {
+          "original": "chor cthom otal dam",
+          "translation": "[?ch]-INST [?cthom] AT-[?al] [MODAL]",
+          "target": "otal",
+          "target_trans": "AT-[?al]"
+        },
+        {
+          "original": "or al daiin ckham",
+          "translation": "OR [?al] THIS/THAT [?ckham]",
+          "target": "al",
+          "target_trans": "[?al]"
+        },
+        {
+          "original": "dchy dain al",
+          "translation": "[?dchy] THIS/THAT [?al]",
+          "target": "al",
+          "target_trans": "[?al]"
+        }
+      ]
+    },
+    "dar": {
+      "instances": 297,
+      "standalone_rate": 1.0,
+      "verb_suffix_rate": 0.0,
+      "case_suffix_rate": 0.0,
+      "top_patterns": {},
+      "contexts": [
+        {
+          "original": "dain cthal dar shear kaiin",
+          "translation": "THIS/THAT [?cth]-LOC DAR water-DIR [?k]-DEF",
+          "target": "dar",
+          "target_trans": "DAR"
+        },
+        {
+          "original": "shear kaiin dar shey cthar",
+          "translation": "water-DIR [?k]-DEF DAR [?shey] [?cth]-DIR",
+          "target": "dar",
+          "target_trans": "DAR"
+        },
+        {
+          "original": "dchor otcho dar shody",
+          "translation": "[?dch]-INST AT-vessel DAR botanical-term-VERB",
+          "target": "dar",
+          "target_trans": "DAR"
+        }
+      ]
+    },
+    "chol": {
+      "instances": 380,
+      "standalone_rate": 1.0,
+      "verb_suffix_rate": 0.0,
+      "case_suffix_rate": 0.0,
+      "top_patterns": {},
+      "contexts": [
+        {
+          "original": "dain oiin chol odaiin chodain",
+          "translation": "THIS/THAT [?o]-DEF botanical-term [?o]-DEF-D vessel-DEF-D",
+          "target": "chol",
+          "target_trans": "botanical-term"
+        },
+        {
+          "original": "shey kol chol chol kor",
+          "translation": "[?shey] [?k]-LOC botanical-term botanical-term [?k]-INST",
+          "target": "chol",
+          "target_trans": "botanical-term"
+        },
+        {
+          "original": "kol chol chol kor chal",
+          "translation": "[?k]-LOC botanical-term botanical-term [?k]-INST [?ch]-LOC",
+          "target": "chol",
+          "target_trans": "botanical-term"
+        }
+      ]
+    },
+    "lk": {
+      "instances": 200,
+      "standalone_rate": 0.005,
+      "verb_suffix_rate": 0.145,
+      "case_suffix_rate": 0.8,
+      "top_patterns": {
+        "aiin": 49,
+        "eedy": 41,
+        "ain": 35,
+        "ar": 30,
+        "edy": 28
+      },
+      "contexts": [
+        {
+          "original": "chy dar lk r ar",
+          "translation": "[PARTICLE] DAR [?lk] [?r] AT/IN",
+          "target": "lk",
+          "target_trans": "[?lk]"
+        },
+        {
+          "original": "okees o lkedy",
+          "translation": "[?okees] [?o] [?lk]-VERB",
+          "target": "lkedy",
+          "target_trans": "[?lk]-VERB"
+        },
+        {
+          "original": "lkedy okchey shorqoy",
+          "translation": "[?lk]-VERB [?okchey] [?shorqoy]",
+          "target": "lkedy",
+          "target_trans": "[?lk]-VERB"
+        }
+      ]
+    },
+    "qo": {
+      "instances": 216,
+      "standalone_rate": 0.12962962962962962,
+      "verb_suffix_rate": 0.10185185185185185,
+      "case_suffix_rate": 0.7222222222222222,
+      "top_patterns": {
+        "d-aiin": 41,
+        "aiin": 22,
+        "eedy": 20,
+        "dy": 17,
+        "ar": 12
+      },
+      "contexts": [
+        {
+          "original": "qo ol choeee",
+          "translation": "[?qo] OL [?choeee]",
+          "target": "qo",
+          "target_trans": "[?qo]"
+        },
+        {
+          "original": "otchol qodaiin chom shom",
+          "translation": "oat-vessel [?qo]-DEF-D [PARTICLE] [?shom]",
+          "target": "qodaiin",
+          "target_trans": "[?qo]-DEF-D"
+        },
+        {
+          "original": "qodar ees eey",
+          "translation": "[?qo]-DIR-D [?ees] [?eey]",
+          "target": "qodar",
+          "target_trans": "[?qo]-DIR-D"
+        }
+      ]
+    }
+  },
+  "tier2_analysis": {
+    "cheey": {
+      "instances": 196,
+      "standalone_rate": 0.8877551020408163,
+      "verb_suffix_rate": 0.0,
+      "case_suffix_rate": 0.0,
+      "top_patterns": {},
+      "contexts": [
+        {
+          "original": "ty dor cheey ol cheol",
+          "translation": "T-[?y] red [PARTICLE] OL [?che]-LOC",
+          "target": "cheey",
+          "target_trans": "[PARTICLE]"
+        },
+        {
+          "original": "dchodaiin qotchy cheey tcheey",
+          "translation": "[?dcho]-DEF-D oat-GEN-[PARTICLE] [PARTICLE] T-[PARTICLE]",
+          "target": "cheey",
+          "target_trans": "[PARTICLE]"
+        }
+      ]
+    },
+    "yk": {
+      "instances": 182,
+      "standalone_rate": 0.02197802197802198,
+      "verb_suffix_rate": 0.12637362637362637,
+      "case_suffix_rate": 0.8626373626373627,
+      "top_patterns": {
+        "aiin": 44,
+        "ar": 33,
+        "eedy": 27
+      },
+      "contexts": [
+        {
+          "original": "fachys ykal ar ataiin",
+          "translation": "[?fachys] [?yk]-LOC AT/IN [?at]-DEF",
+          "target": "ykal",
+          "target_trans": "[?yk]-LOC"
+        },
+        {
+          "original": "sheky or ykaiin shod cthoary",
+          "translation": "[?sheky] OR [?yk]-DEF botanical-term-D [?cthoary]",
+          "target": "ykaiin",
+          "target_trans": "[?yk]-DEF"
+        }
+      ]
+    },
+    "yt": {
+      "instances": 176,
+      "standalone_rate": 0.0,
+      "verb_suffix_rate": 0.13068181818181818,
+      "case_suffix_rate": 0.875,
+      "top_patterns": {
+        "aiin": 41,
+        "eedy": 27,
+        "ar": 26
+      },
+      "contexts": [
+        {
+          "original": "s cphey ytain shoshy cphodales",
+          "translation": "[?s] [?cphey] [?yt]-DEF [?shoshy] [?cphodales]",
+          "target": "ytain",
+          "target_trans": "[?yt]-DEF"
+        },
+        {
+          "original": "okchor okor olytol dol dar",
+          "translation": "[?okch]-INST oak-INST AT-[?yt]-LOC DOL DAR",
+          "target": "olytol",
+          "target_trans": "AT-[?yt]-LOC"
+        }
+      ]
+    },
+    "lch": {
+      "instances": 173,
+      "standalone_rate": 0.011560693641618497,
+      "verb_suffix_rate": 0.7745664739884393,
+      "case_suffix_rate": 0.9421965317919075,
+      "top_patterns": {
+        "edy": 119,
+        "dy": 15,
+        "eedy": 9
+      },
+      "contexts": [
+        {
+          "original": "ykcho lchol cholchaiin otchy",
+          "translation": "[?ykcho] [?lch]-LOC [?cholch]-DEF AT-[PARTICLE]",
+          "target": "lchol",
+          "target_trans": "[?lch]-LOC"
+        },
+        {
+          "original": "chol cthaiin lchaiin lchal daldair",
+          "translation": "botanical-term [?cth]-DEF [?lch]-DEF [?lch]-LOC [?daldair]",
+          "target": "lchaiin",
+          "target_trans": "[?lch]-DEF"
+        }
+      ]
+    },
+    "eo": {
+      "instances": 170,
+      "standalone_rate": 0.011764705882352941,
+      "verb_suffix_rate": 0.5411764705882353,
+      "case_suffix_rate": 0.7941176470588235,
+      "top_patterns": {
+        "dy": 91,
+        "d-al": 12,
+        "d-aiin": 11
+      },
+      "contexts": [
+        {
+          "original": "dain os teody",
+          "translation": "THIS/THAT [?os] T-[?eo]-VERB",
+          "target": "teody",
+          "target_trans": "T-[?eo]-VERB"
+        },
+        {
+          "original": "eo chol chok",
+          "translation": "[?eo] botanical-term [?chok]",
+          "target": "eo",
+          "target_trans": "[?eo]"
+        }
+      ]
+    }
+  },
+  "impact": {
+    "tier1_instances": 1868,
+    "tier1_coverage_pct": 5.0316498316498315,
+    "tier2_instances": 897,
+    "tier2_coverage_pct": 2.416161616161616,
+    "combined_instances": 2765,
+    "combined_coverage_pct": 7.447811447811448,
+    "projected_understanding": "42.4%-49.4%"
+  }
+}
