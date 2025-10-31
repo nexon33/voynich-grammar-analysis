@@ -417,11 +417,15 @@ python scripts/analysis/complete_translation_98pct.py
 ---
 
 ## Research History
-   
-   This repository contains the complete research trail, including 
-   abandoned hypotheses. We initially tested a Middle English cipher 
-   model (3.16% recognition) before achieving 98.3% recognition through 
-   morphological analysis. Abandoned approaches are preserved for transparency.
+
+This repository contains the complete research trail, including 
+abandoned hypotheses. We initially tested a Middle English cipher 
+model (3.16% recognition) based on e↔o frequency correspondence. 
+Distributional analysis contradicted cipher predictions (e.g., 
+morpheme [?eey] appears 511× as bound suffix vs. cipher prediction 
+of ~14 standalone instances). We achieved 98.3% recognition through 
+morphological analysis. Abandoned approaches are preserved in commit 
+history for transparency.
 
 ---
 
