@@ -1,0 +1,812 @@
+{
+  "summary": {
+    "total_compounds": 11,
+    "passing_compounds": 10,
+    "pass_rate": 0.9090909090909091,
+    "average_consistency": 0.7127275949126416,
+    "result": "✗ FAIL",
+    "status": "<75% consistency - patterns questionable"
+  },
+  "by_type": {
+    "TYPE1_N_COPULA": {
+      "oky": {
+        "verification": {
+          "total_instances": 100,
+          "standalone_count": 96,
+          "standalone_rate": 0.96,
+          "expected_standalone": ">85%",
+          "pattern_fits": true,
+          "consistency_rate": 0.96
+        },
+        "sample_contexts": [
+          {
+            "original": "oky",
+            "before": [
+              "ycheey",
+              "okay"
+            ],
+            "after": [
+              "daiin",
+              "okchey",
+              "kokaiin"
+            ],
+            "standalone": true
+          },
+          {
+            "original": "oky",
+            "before": [
+              "ysheor",
+              "chor",
+              "chol"
+            ],
+            "after": [
+              "damo"
+            ],
+            "standalone": true
+          },
+          {
+            "original": "oky",
+            "before": [
+              "ychor",
+              "chshoty"
+            ],
+            "after": [
+              "kaiin"
+            ],
+            "standalone": true
+          },
+          {
+            "original": "oky",
+            "before": [
+              "os",
+              "chair",
+              "otytchol"
+            ],
+            "after": [
+              "daiin",
+              "etyd"
+            ],
+            "standalone": true
+          },
+          {
+            "original": "oky",
+            "before": [
+              "okchor",
+              "dchy",
+              "tshy"
+            ],
+            "after": [
+              "chy",
+              "cthy",
+              "otchy"
+            ],
+            "standalone": true
+          }
+        ]
+      },
+      "aly": {
+        "verification": {
+          "total_instances": 72,
+          "standalone_count": 72,
+          "standalone_rate": 1.0,
+          "expected_standalone": ">85%",
+          "pattern_fits": true,
+          "consistency_rate": 1.0
+        },
+        "sample_contexts": [
+          {
+            "original": "aly",
+            "before": [
+              "or",
+              "ordy",
+              "chees"
+            ],
+            "after": [
+              "okalcheg"
+            ],
+            "standalone": true
+          },
+          {
+            "original": "aly",
+            "before": [
+              "cho",
+              "ckhcfhhy",
+              "or"
+            ],
+            "after": [
+              "shody"
+            ],
+            "standalone": true
+          },
+          {
+            "original": "qotaly",
+            "before": [
+              "ar",
+              "shekalchdy",
+              "cholty"
+            ],
+            "after": [
+              "chedy",
+              "oty",
+              "otam"
+            ],
+            "standalone": true
+          },
+          {
+            "original": "aly",
+            "before": [
+              "dair"
+            ],
+            "after": [
+              "chdam",
+              "chcthy",
+              "chdam"
+            ],
+            "standalone": true
+          },
+          {
+            "original": "qokaly",
+            "before": [
+              "oeeey",
+              "okaiin",
+              "shedy"
+            ],
+            "after": [
+              "chdy",
+              "oty",
+              "keody"
+            ],
+            "standalone": true
+          }
+        ]
+      }
+    },
+    "TYPE2_V_V": {
+      "sheo": {
+        "verification": {
+          "total_instances": 130,
+          "verb_suffix_count": 53,
+          "standalone_count": 49,
+          "verbal_rate": 0.7846153846153846,
+          "expected_verbal": ">50%",
+          "pattern_fits": true,
+          "consistency_rate": 0.7846153846153846
+        },
+        "sample_contexts": [
+          {
+            "original": "sheo",
+            "before": [
+              "ycho",
+              "tchey",
+              "chokain"
+            ],
+            "after": [
+              "pshol",
+              "dydyd",
+              "cthy"
+            ],
+            "standalone": true
+          },
+          {
+            "original": "sheo",
+            "before": [
+              "chy",
+              "cthy",
+              "shkchor"
+            ],
+            "after": [
+              "cheorycholdy"
+            ],
+            "standalone": true
+          },
+          {
+            "original": "sheo",
+            "before": [
+              "otaiin"
+            ],
+            "after": [
+              "okeody",
+              "chol",
+              "chokeody"
+            ],
+            "standalone": true
+          },
+          {
+            "original": "sheody",
+            "before": [
+              "otain"
+            ],
+            "after": [
+              "chan",
+              "s",
+              "cheor"
+            ],
+            "standalone": false
+          },
+          {
+            "original": "sheo",
+            "before": [
+              "ychol",
+              "ckhor",
+              "pchar"
+            ],
+            "after": [
+              "ckhaiin"
+            ],
+            "standalone": true
+          }
+        ]
+      },
+      "eeo": {
+        "verification": {
+          "total_instances": 89,
+          "verb_suffix_count": 34,
+          "standalone_count": 41,
+          "verbal_rate": 0.8426966292134831,
+          "expected_verbal": ">50%",
+          "pattern_fits": true,
+          "consistency_rate": 0.8426966292134831
+        },
+        "sample_contexts": [
+          {
+            "original": "qokeeo",
+            "before": [
+              "soeom",
+              "okeom",
+              "yteody"
+            ],
+            "after": [
+              "dal",
+              "sam"
+            ],
+            "standalone": true
+          },
+          {
+            "original": "qoteeody",
+            "before": [
+              "dchod"
+            ],
+            "after": [
+              "ytchy",
+              "qotshey",
+              "dchaiin"
+            ],
+            "standalone": false
+          },
+          {
+            "original": "qokeeo",
+            "before": [
+              "odar",
+              "xaloeees",
+              "cpheody"
+            ],
+            "after": [
+              "dy"
+            ],
+            "standalone": true
+          },
+          {
+            "original": "qokeeody",
+            "before": [],
+            "after": [
+              "qokeody",
+              "qokeody",
+              "qokar"
+            ],
+            "standalone": false
+          },
+          {
+            "original": "qokeeody",
+            "before": [
+              "qokeody",
+              "qokar",
+              "sheky"
+            ],
+            "after": [
+              "okedy",
+              "kodary"
+            ],
+            "standalone": false
+          }
+        ]
+      }
+    },
+    "TYPE3_N_V": {
+      "kch": {
+        "verification": {
+          "total_instances": 107,
+          "verb_suffix_count": 52,
+          "verbal_rate": 0.48598130841121495,
+          "expected_verbal": ">40%",
+          "pattern_fits": true,
+          "consistency_rate": 0.48598130841121495
+        },
+        "sample_contexts": [
+          {
+            "original": "kchor",
+            "before": [],
+            "after": [
+              "shy",
+              "daiiin",
+              "chckhoys"
+            ],
+            "standalone": false
+          },
+          {
+            "original": "kchdy",
+            "before": [
+              "qokche",
+              "ychear"
+            ],
+            "after": [],
+            "standalone": false
+          },
+          {
+            "original": "kchor",
+            "before": [],
+            "after": [
+              "sheod",
+              "sheodaiin",
+              "shodaiin"
+            ],
+            "standalone": false
+          },
+          {
+            "original": "kcholdar",
+            "before": [
+              "sho"
+            ],
+            "after": [
+              "shey",
+              "cthar",
+              "chotain"
+            ],
+            "standalone": false
+          },
+          {
+            "original": "kchor",
+            "before": [],
+            "after": [
+              "otchar",
+              "okychokain",
+              "keoky"
+            ],
+            "standalone": false
+          }
+        ]
+      },
+      "okch": {
+        "verification": {
+          "total_instances": 97,
+          "verb_suffix_count": 45,
+          "verbal_rate": 0.4639175257731959,
+          "expected_verbal": ">40%",
+          "pattern_fits": true,
+          "consistency_rate": 0.4639175257731959
+        },
+        "sample_contexts": [
+          {
+            "original": "okchor",
+            "before": [
+              "daiidy",
+              "qoteeol"
+            ],
+            "after": [
+              "okor",
+              "olytol",
+              "dol"
+            ],
+            "standalone": false
+          },
+          {
+            "original": "okchol",
+            "before": [],
+            "after": [
+              "kshchol",
+              "chol",
+              "chol"
+            ],
+            "standalone": false
+          },
+          {
+            "original": "okchol",
+            "before": [
+              "qotchy"
+            ],
+            "after": [
+              "cthy",
+              "dy"
+            ],
+            "standalone": false
+          },
+          {
+            "original": "okchor",
+            "before": [
+              "daiin",
+              "qotchol",
+              "okchy"
+            ],
+            "after": [
+              "oiin",
+              "chckhy",
+              "d"
+            ],
+            "standalone": false
+          },
+          {
+            "original": "okchor",
+            "before": [],
+            "after": [
+              "dchy",
+              "tshy",
+              "oky"
+            ],
+            "standalone": false
+          }
+        ]
+      },
+      "dch": {
+        "verification": {
+          "total_instances": 97,
+          "verb_suffix_count": 38,
+          "verbal_rate": 0.3917525773195876,
+          "expected_verbal": ">40%",
+          "pattern_fits": false,
+          "consistency_rate": 0
+        },
+        "sample_contexts": [
+          {
+            "original": "dchar",
+            "before": [],
+            "after": [
+              "shcthaiin",
+              "okaiir",
+              "chey"
+            ],
+            "standalone": false
+          },
+          {
+            "original": "dchor",
+            "before": [
+              "dol",
+              "ky",
+              "darshol"
+            ],
+            "after": [
+              "otcho",
+              "dar",
+              "shody"
+            ],
+            "standalone": false
+          },
+          {
+            "original": "dchor",
+            "before": [],
+            "after": [
+              "chol",
+              "shol",
+              "cthol"
+            ],
+            "standalone": false
+          },
+          {
+            "original": "dchol",
+            "before": [],
+            "after": [
+              "s",
+              "y",
+              "chol"
+            ],
+            "standalone": false
+          },
+          {
+            "original": "dchor",
+            "before": [],
+            "after": [
+              "choldar",
+              "okol",
+              "daiin"
+            ],
+            "standalone": false
+          }
+        ]
+      },
+      "pch": {
+        "verification": {
+          "total_instances": 95,
+          "verb_suffix_count": 53,
+          "verbal_rate": 0.5578947368421052,
+          "expected_verbal": ">40%",
+          "pattern_fits": true,
+          "consistency_rate": 0.5578947368421052
+        },
+        "sample_contexts": [
+          {
+            "original": "pchor",
+            "before": [
+              "kooiin",
+              "cheo"
+            ],
+            "after": [
+              "otaiin",
+              "o",
+              "dain"
+            ],
+            "standalone": false
+          },
+          {
+            "original": "pchar",
+            "before": [
+              "ychol",
+              "ckhor"
+            ],
+            "after": [
+              "sheo",
+              "ckhaiin"
+            ],
+            "standalone": false
+          },
+          {
+            "original": "pchar",
+            "before": [],
+            "after": [
+              "cho",
+              "rol",
+              "dalshear"
+            ],
+            "standalone": false
+          },
+          {
+            "original": "pchor",
+            "before": [],
+            "after": [
+              "ypcheey",
+              "qotor",
+              "ypchy"
+            ],
+            "standalone": false
+          },
+          {
+            "original": "pchor",
+            "before": [],
+            "after": [
+              "qodchy",
+              "qotshy",
+              "dy"
+            ],
+            "standalone": false
+          }
+        ]
+      },
+      "opch": {
+        "verification": {
+          "total_instances": 98,
+          "verb_suffix_count": 73,
+          "verbal_rate": 0.7448979591836735,
+          "expected_verbal": ">40%",
+          "pattern_fits": true,
+          "consistency_rate": 0.7448979591836735
+        },
+        "sample_contexts": [
+          {
+            "original": "opchol",
+            "before": [
+              "shodaiin",
+              "qopchor",
+              "qopol"
+            ],
+            "after": [
+              "qotyotolom"
+            ],
+            "standalone": false
+          },
+          {
+            "original": "opchor",
+            "before": [
+              "dy",
+              "qopchy",
+              "shol"
+            ],
+            "after": [
+              "dypchy",
+              "dchm"
+            ],
+            "standalone": false
+          },
+          {
+            "original": "opchor",
+            "before": [
+              "orshy",
+              "choiin",
+              "dtchan"
+            ],
+            "after": [
+              "dy"
+            ],
+            "standalone": false
+          },
+          {
+            "original": "opchol",
+            "before": [
+              "podairol",
+              "odaiiily",
+              "shoaldy"
+            ],
+            "after": [
+              "otol",
+              "ol",
+              "chcphy"
+            ],
+            "standalone": false
+          },
+          {
+            "original": "opchar",
+            "before": [
+              "porory",
+              "chor"
+            ],
+            "after": [
+              "she",
+              "cheol",
+              "daiin"
+            ],
+            "standalone": false
+          }
+        ]
+      }
+    },
+    "TYPE4_N_GEN": {
+      "okeey": {
+        "verification": {
+          "total_instances": 174,
+          "standalone_count": 174,
+          "standalone_rate": 1.0,
+          "expected_standalone": ">70%",
+          "pattern_fits": true,
+          "consistency_rate": 1.0
+        },
+        "sample_contexts": [
+          {
+            "original": "okeey",
+            "before": [
+              "chor",
+              "qodair"
+            ],
+            "after": [
+              "qokeey"
+            ],
+            "standalone": true
+          },
+          {
+            "original": "okeey",
+            "before": [
+              "ykeey"
+            ],
+            "after": [
+              "cheor",
+              "chol",
+              "sho"
+            ],
+            "standalone": true
+          },
+          {
+            "original": "okeey",
+            "before": [
+              "octhey",
+              "okeeos",
+              "cheody"
+            ],
+            "after": [
+              "kchody",
+              "daiin",
+              "cheody"
+            ],
+            "standalone": true
+          },
+          {
+            "original": "okeey",
+            "before": [
+              "ar",
+              "ckheos",
+              "chedy"
+            ],
+            "after": [
+              "qoear",
+              "oraiin",
+              "cheom"
+            ],
+            "standalone": true
+          },
+          {
+            "original": "okeey",
+            "before": [
+              "ydaiin"
+            ],
+            "after": [
+              "daiin"
+            ],
+            "standalone": true
+          }
+        ]
+      },
+      "keey": {
+        "verification": {
+          "total_instances": 83,
+          "standalone_count": 83,
+          "standalone_rate": 1.0,
+          "expected_standalone": ">70%",
+          "pattern_fits": true,
+          "consistency_rate": 1.0
+        },
+        "sample_contexts": [
+          {
+            "original": "keey",
+            "before": [
+              "koshey",
+              "cthy",
+              "okchey"
+            ],
+            "after": [
+              "keey",
+              "dal",
+              "chtor"
+            ],
+            "standalone": true
+          },
+          {
+            "original": "keey",
+            "before": [
+              "cthy",
+              "okchey",
+              "keey"
+            ],
+            "after": [
+              "dal",
+              "chtor"
+            ],
+            "standalone": true
+          },
+          {
+            "original": "keey",
+            "before": [
+              "sho",
+              "okeol",
+              "s"
+            ],
+            "after": [
+              "shar",
+              "char",
+              "ody"
+            ],
+            "standalone": true
+          },
+          {
+            "original": "keey",
+            "before": [
+              "qotoeey"
+            ],
+            "after": [
+              "cheo",
+              "kchy",
+              "shody"
+            ],
+            "standalone": true
+          },
+          {
+            "original": "keey",
+            "before": [
+              "deeeese",
+              "choty",
+              "qokchyshol"
+            ],
+            "after": [
+              "choty",
+              "dain"
+            ],
+            "standalone": true
+          }
+        ]
+      }
+    }
+  }
+}

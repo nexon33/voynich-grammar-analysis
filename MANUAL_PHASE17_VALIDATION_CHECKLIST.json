@@ -1,0 +1,877 @@
+{
+  "instructions": {
+    "task": "Manually validate Phase 17 root extraction accuracy",
+    "method": "For each word, assess if morphological decomposition is correct",
+    "criteria": [
+      "Does root extraction make sense?",
+      "Is root too short to be plausible?",
+      "Could this be a whole word (no segmentation)?",
+      "Are affixes correctly identified?"
+    ],
+    "scoring": {
+      "CORRECT": "Root extraction looks good",
+      "WRONG": "Root extraction is clearly wrong",
+      "UNCERTAIN": "Hard to tell without more context"
+    }
+  },
+  "sample_statistics": {
+    "total_words_sampled": 50,
+    "single_letter_roots": 20,
+    "two_letter_roots": 15,
+    "three_plus_roots": 15,
+    "words_with_prefixes": 0,
+    "words_with_suffixes": 28,
+    "average_suffixes": 0.68
+  },
+  "validation_checklist": [
+    {
+      "id": 1,
+      "original": "qokaiin",
+      "root": "a",
+      "prefixes": [],
+      "suffixes": [
+        "iin"
+      ],
+      "decomposition": "**a**-[iin]",
+      "root_length": 1,
+      "num_suffixes": 1,
+      "num_prefixes": 0,
+      "issues": [
+        "! SINGLE-LETTER ROOT"
+      ],
+      "assessment": "WRONG",
+      "assessment_reason": "qokaiin should be root='qok', suffix='aiin' (definite article). Single 'a' is artifact"
+    },
+    {
+      "id": 2,
+      "original": "m",
+      "root": "m",
+      "prefixes": [],
+      "suffixes": [],
+      "decomposition": "**m**",
+      "root_length": 1,
+      "num_suffixes": 0,
+      "num_prefixes": 0,
+      "issues": [
+        "! SINGLE-LETTER ROOT",
+        "(i) STANDALONE (no segmentation)"
+      ],
+      "assessment": "WRONG",
+      "assessment_reason": "Unknown single letter 'm', likely noise or abbreviation mark"
+    },
+    {
+      "id": 3,
+      "original": "r",
+      "root": "r",
+      "prefixes": [],
+      "suffixes": [],
+      "decomposition": "**r**",
+      "root_length": 1,
+      "num_suffixes": 0,
+      "num_prefixes": 0,
+      "issues": [
+        "! SINGLE-LETTER ROOT",
+        "(i) STANDALONE (no segmentation)"
+      ],
+      "assessment": "UNCERTAIN",
+      "assessment_reason": "Single 'r' could be substance root (289 instances) but suspicious"
+    },
+    {
+      "id": 4,
+      "original": "odal",
+      "root": "o",
+      "prefixes": [],
+      "suffixes": [
+        "d",
+        "al"
+      ],
+      "decomposition": "**o**-[d-al]",
+      "root_length": 1,
+      "num_suffixes": 2,
+      "num_prefixes": 0,
+      "issues": [
+        "! SINGLE-LETTER ROOT"
+      ],
+      "assessment": "WRONG",
+      "assessment_reason": "odal should probably be root='od' or whole word, not single 'o'"
+    },
+    {
+      "id": 5,
+      "original": "rain",
+      "root": "r",
+      "prefixes": [],
+      "suffixes": [
+        "ain"
+      ],
+      "decomposition": "**r**-[ain]",
+      "root_length": 1,
+      "num_suffixes": 1,
+      "num_prefixes": 0,
+      "issues": [
+        "! SINGLE-LETTER ROOT"
+      ],
+      "assessment": "WRONG",
+      "assessment_reason": "rain should be whole word or 'ra-in', not single 'r'"
+    },
+    {
+      "id": 6,
+      "original": "qokeedy",
+      "root": "e",
+      "prefixes": [],
+      "suffixes": [
+        "edy"
+      ],
+      "decomposition": "**e**-[edy]",
+      "root_length": 1,
+      "num_suffixes": 1,
+      "num_prefixes": 0,
+      "issues": [
+        "! SINGLE-LETTER ROOT"
+      ],
+      "assessment": "WRONG",
+      "assessment_reason": "qokeedy should be root='qok' + 'eedy', not stripping to single 'e'"
+    },
+    {
+      "id": 7,
+      "original": "odaiin",
+      "root": "o",
+      "prefixes": [],
+      "suffixes": [
+        "d",
+        "aiin"
+      ],
+      "decomposition": "**o**-[d-aiin]",
+      "root_length": 1,
+      "num_suffixes": 2,
+      "num_prefixes": 0,
+      "issues": [
+        "! SINGLE-LETTER ROOT"
+      ],
+      "assessment": "WRONG",
+      "assessment_reason": "odaiin should be root='od' + 'aiin', not single 'o'"
+    },
+    {
+      "id": 8,
+      "original": "otedol",
+      "root": "e",
+      "prefixes": [],
+      "suffixes": [
+        "d",
+        "ol"
+      ],
+      "decomposition": "**e**-[d-ol]",
+      "root_length": 1,
+      "num_suffixes": 2,
+      "num_prefixes": 0,
+      "issues": [
+        "! SINGLE-LETTER ROOT"
+      ],
+      "assessment": "WRONG",
+      "assessment_reason": "otedol - looks like 'ote' (oat) + 'd' + 'ol', not single 'e'"
+    },
+    {
+      "id": 9,
+      "original": "kedy",
+      "root": "k",
+      "prefixes": [],
+      "suffixes": [
+        "edy"
+      ],
+      "decomposition": "**k**-[edy]",
+      "root_length": 1,
+      "num_suffixes": 1,
+      "num_prefixes": 0,
+      "issues": [
+        "! SINGLE-LETTER ROOT"
+      ],
+      "assessment": "WRONG",
+      "assessment_reason": "kedy could be whole word or 'ked-y', not single 'k'"
+    },
+    {
+      "id": 10,
+      "original": "lal",
+      "root": "l",
+      "prefixes": [],
+      "suffixes": [
+        "al"
+      ],
+      "decomposition": "**l**-[al]",
+      "root_length": 1,
+      "num_suffixes": 1,
+      "num_prefixes": 0,
+      "issues": [
+        "! SINGLE-LETTER ROOT"
+      ],
+      "assessment": "WRONG",
+      "assessment_reason": "lal could be whole word or 'l' repetition, suspicious single letter"
+    },
+    {
+      "id": 11,
+      "original": "kain",
+      "root": "k",
+      "prefixes": [],
+      "suffixes": [
+        "ain"
+      ],
+      "decomposition": "**k**-[ain]",
+      "root_length": 1,
+      "num_suffixes": 1,
+      "num_prefixes": 0,
+      "issues": [
+        "! SINGLE-LETTER ROOT"
+      ],
+      "assessment": "WRONG",
+      "assessment_reason": "kain could be whole word or 'ka-in', not single 'k'"
+    },
+    {
+      "id": 12,
+      "original": "qoky",
+      "root": "y",
+      "prefixes": [],
+      "suffixes": [],
+      "decomposition": "**y**",
+      "root_length": 1,
+      "num_suffixes": 0,
+      "num_prefixes": 0,
+      "issues": [
+        "! SINGLE-LETTER ROOT",
+        "(i) STANDALONE (no segmentation)"
+      ],
+      "assessment": "UNCERTAIN",
+      "assessment_reason": "qoky might be 'qok-y' (oak+copula compound) - your discovery! But single 'y' is suspicious"
+    },
+    {
+      "id": 13,
+      "original": "pol",
+      "root": "p",
+      "prefixes": [],
+      "suffixes": [
+        "ol"
+      ],
+      "decomposition": "**p**-[ol]",
+      "root_length": 1,
+      "num_suffixes": 1,
+      "num_prefixes": 0,
+      "issues": [
+        "! SINGLE-LETTER ROOT"
+      ],
+      "assessment": "WRONG",
+      "assessment_reason": "pol should be whole word or 'po-l', not single 'p'"
+    },
+    {
+      "id": 14,
+      "original": "m",
+      "root": "m",
+      "prefixes": [],
+      "suffixes": [],
+      "decomposition": "**m**",
+      "root_length": 1,
+      "num_suffixes": 0,
+      "num_prefixes": 0,
+      "issues": [
+        "! SINGLE-LETTER ROOT",
+        "(i) STANDALONE (no segmentation)"
+      ],
+      "assessment": "WRONG",
+      "assessment_reason": "Duplicate of #2 - unknown single 'm'"
+    },
+    {
+      "id": 15,
+      "original": "odaldy",
+      "root": "o",
+      "prefixes": [],
+      "suffixes": [
+        "d",
+        "al",
+        "dy"
+      ],
+      "decomposition": "**o**-[d-al-dy]",
+      "root_length": 1,
+      "num_suffixes": 3,
+      "num_prefixes": 0,
+      "issues": [
+        "! SINGLE-LETTER ROOT",
+        "! MANY SUFFIXES (possible over-stripping)"
+      ],
+      "assessment": "WRONG",
+      "assessment_reason": "odaldy with 3 suffixes + single 'o' = clear over-stripping"
+    },
+    {
+      "id": 16,
+      "original": "qokedy",
+      "root": "e",
+      "prefixes": [],
+      "suffixes": [
+        "dy"
+      ],
+      "decomposition": "**e**-[dy]",
+      "root_length": 1,
+      "num_suffixes": 1,
+      "num_prefixes": 0,
+      "issues": [
+        "! SINGLE-LETTER ROOT"
+      ],
+      "assessment": "WRONG",
+      "assessment_reason": "qokedy should be root='qok' + 'edy', not single 'e'"
+    },
+    {
+      "id": 17,
+      "original": "qoty",
+      "root": "y",
+      "prefixes": [],
+      "suffixes": [],
+      "decomposition": "**y**",
+      "root_length": 1,
+      "num_suffixes": 0,
+      "num_prefixes": 0,
+      "issues": [
+        "! SINGLE-LETTER ROOT",
+        "(i) STANDALONE (no segmentation)"
+      ],
+      "assessment": "UNCERTAIN",
+      "assessment_reason": "qoty might be 'qot-y' (oat+copula) - similar to #12, suspicious"
+    },
+    {
+      "id": 18,
+      "original": "ral",
+      "root": "r",
+      "prefixes": [],
+      "suffixes": [
+        "al"
+      ],
+      "decomposition": "**r**-[al]",
+      "root_length": 1,
+      "num_suffixes": 1,
+      "num_prefixes": 0,
+      "issues": [
+        "! SINGLE-LETTER ROOT"
+      ],
+      "assessment": "WRONG",
+      "assessment_reason": "ral should be whole word or 'ra-l', not single 'r'"
+    },
+    {
+      "id": 19,
+      "original": "oteedy",
+      "root": "e",
+      "prefixes": [],
+      "suffixes": [
+        "edy"
+      ],
+      "decomposition": "**e**-[edy]",
+      "root_length": 1,
+      "num_suffixes": 1,
+      "num_prefixes": 0,
+      "issues": [
+        "! SINGLE-LETTER ROOT"
+      ],
+      "assessment": "WRONG",
+      "assessment_reason": "oteedy should be root='ot' or 'ote' + 'edy', not single 'e'"
+    },
+    {
+      "id": 20,
+      "original": "oteor",
+      "root": "e",
+      "prefixes": [],
+      "suffixes": [
+        "or"
+      ],
+      "decomposition": "**e**-[or]",
+      "root_length": 1,
+      "num_suffixes": 1,
+      "num_prefixes": 0,
+      "issues": [
+        "! SINGLE-LETTER ROOT"
+      ],
+      "assessment": "WRONG",
+      "assessment_reason": "oteor should be root='ot' or 'ote' + 'or', not single 'e'"
+    },
+    {
+      "id": 21,
+      "original": "chor",
+      "root": "ch",
+      "prefixes": [],
+      "suffixes": [
+        "or"
+      ],
+      "decomposition": "**ch**-[or]",
+      "root_length": 2,
+      "num_suffixes": 1,
+      "num_prefixes": 0,
+      "issues": [],
+      "assessment": "CORRECT",
+      "assessment_reason": "chor = ch (take/mix) + or (instrumental) - known verb root, correct"
+    },
+    {
+      "id": 22,
+      "original": "lkeedy",
+      "root": "lk",
+      "prefixes": [],
+      "suffixes": [
+        "eedy"
+      ],
+      "decomposition": "**lk**-[eedy]",
+      "root_length": 2,
+      "num_suffixes": 1,
+      "num_prefixes": 0,
+      "issues": [],
+      "assessment": "CORRECT",
+      "assessment_reason": "lkeedy = lk (liquid) + eedy (VERB) - plausible, pattern OK"
+    },
+    {
+      "id": 23,
+      "original": "or",
+      "root": "or",
+      "prefixes": [],
+      "suffixes": [],
+      "decomposition": "**or**",
+      "root_length": 2,
+      "num_suffixes": 0,
+      "num_prefixes": 0,
+      "issues": [
+        "! SHORT ROOT, NO SUFFIXES",
+        "(i) STANDALONE (no segmentation)"
+      ],
+      "assessment": "CORRECT",
+      "assessment_reason": "or = known conjunction 'and/or', standalone is correct"
+    },
+    {
+      "id": 24,
+      "original": "qoedy",
+      "root": "qo",
+      "prefixes": [],
+      "suffixes": [
+        "edy"
+      ],
+      "decomposition": "**qo**-[edy]",
+      "root_length": 2,
+      "num_suffixes": 1,
+      "num_prefixes": 0,
+      "issues": [],
+      "assessment": "UNCERTAIN",
+      "assessment_reason": "qoedy = qo + edy - 'qo' is uncertain root, could be whole word 'qoedy'"
+    },
+    {
+      "id": 25,
+      "original": "otar",
+      "root": "ar",
+      "prefixes": [],
+      "suffixes": [],
+      "decomposition": "**ar**",
+      "root_length": 2,
+      "num_suffixes": 0,
+      "num_prefixes": 0,
+      "issues": [
+        "! SHORT ROOT, NO SUFFIXES",
+        "(i) STANDALONE (no segmentation)"
+      ],
+      "assessment": "WRONG",
+      "assessment_reason": "otar looks like 'ot' (prefix/article) + 'ar' (at/in), not standalone 'ar'"
+    },
+    {
+      "id": 26,
+      "original": "shedy",
+      "root": "sh",
+      "prefixes": [],
+      "suffixes": [
+        "edy"
+      ],
+      "decomposition": "**sh**-[edy]",
+      "root_length": 2,
+      "num_suffixes": 1,
+      "num_prefixes": 0,
+      "issues": [],
+      "assessment": "CORRECT",
+      "assessment_reason": "shedy = sh (mix/prepare) + edy (VERB) - known verb root, correct"
+    },
+    {
+      "id": 27,
+      "original": "qotar",
+      "root": "ar",
+      "prefixes": [],
+      "suffixes": [],
+      "decomposition": "**ar**",
+      "root_length": 2,
+      "num_suffixes": 0,
+      "num_prefixes": 0,
+      "issues": [
+        "! SHORT ROOT, NO SUFFIXES",
+        "(i) STANDALONE (no segmentation)"
+      ],
+      "assessment": "WRONG",
+      "assessment_reason": "qotar same as #25 - looks like 'qot' + 'ar', not standalone 'ar'"
+    },
+    {
+      "id": 28,
+      "original": "shedy",
+      "root": "sh",
+      "prefixes": [],
+      "suffixes": [
+        "edy"
+      ],
+      "decomposition": "**sh**-[edy]",
+      "root_length": 2,
+      "num_suffixes": 1,
+      "num_prefixes": 0,
+      "issues": [],
+      "assessment": "CORRECT",
+      "assessment_reason": "shedy - duplicate of #26, correct"
+    },
+    {
+      "id": 29,
+      "original": "tchor",
+      "root": "ch",
+      "prefixes": [],
+      "suffixes": [
+        "or"
+      ],
+      "decomposition": "**ch**-[or]",
+      "root_length": 2,
+      "num_suffixes": 1,
+      "num_prefixes": 0,
+      "issues": [],
+      "assessment": "CORRECT",
+      "assessment_reason": "tchor = t + ch + or - 'ch' is known verb, pattern OK (t- might be prefix)"
+    },
+    {
+      "id": 30,
+      "original": "ot",
+      "root": "ot",
+      "prefixes": [],
+      "suffixes": [],
+      "decomposition": "**ot**",
+      "root_length": 2,
+      "num_suffixes": 0,
+      "num_prefixes": 0,
+      "issues": [
+        "! SHORT ROOT, NO SUFFIXES",
+        "(i) STANDALONE (no segmentation)"
+      ],
+      "assessment": "CORRECT",
+      "assessment_reason": "ot = known prefix/article or oat variant, standalone OK"
+    },
+    {
+      "id": 31,
+      "original": "otol",
+      "root": "ol",
+      "prefixes": [],
+      "suffixes": [],
+      "decomposition": "**ol**",
+      "root_length": 2,
+      "num_suffixes": 0,
+      "num_prefixes": 0,
+      "issues": [
+        "! SHORT ROOT, NO SUFFIXES",
+        "(i) STANDALONE (no segmentation)"
+      ],
+      "assessment": "CORRECT",
+      "assessment_reason": "otol might be 'ot' + 'ol' but could also be standalone particle - uncertain but OK"
+    },
+    {
+      "id": 32,
+      "original": "lkar",
+      "root": "lk",
+      "prefixes": [],
+      "suffixes": [
+        "ar"
+      ],
+      "decomposition": "**lk**-[ar]",
+      "root_length": 2,
+      "num_suffixes": 1,
+      "num_prefixes": 0,
+      "issues": [],
+      "assessment": "CORRECT",
+      "assessment_reason": "lkar = lk (liquid) + ar (directional) - plausible pattern"
+    },
+    {
+      "id": 33,
+      "original": "olor",
+      "root": "or",
+      "prefixes": [],
+      "suffixes": [],
+      "decomposition": "**or**",
+      "root_length": 2,
+      "num_suffixes": 0,
+      "num_prefixes": 0,
+      "issues": [
+        "! SHORT ROOT, NO SUFFIXES",
+        "(i) STANDALONE (no segmentation)"
+      ],
+      "assessment": "UNCERTAIN",
+      "assessment_reason": "olor could be 'ol' + 'or' or standalone - repetitive pattern suspicious"
+    },
+    {
+      "id": 34,
+      "original": "do",
+      "root": "do",
+      "prefixes": [],
+      "suffixes": [],
+      "decomposition": "**do**",
+      "root_length": 2,
+      "num_suffixes": 0,
+      "num_prefixes": 0,
+      "issues": [
+        "! SHORT ROOT, NO SUFFIXES",
+        "(i) STANDALONE (no segmentation)"
+      ],
+      "assessment": "UNCERTAIN",
+      "assessment_reason": "do = unknown, could be standalone particle or abbreviation"
+    },
+    {
+      "id": 35,
+      "original": "tchedy",
+      "root": "ch",
+      "prefixes": [],
+      "suffixes": [
+        "edy"
+      ],
+      "decomposition": "**ch**-[edy]",
+      "root_length": 2,
+      "num_suffixes": 1,
+      "num_prefixes": 0,
+      "issues": [],
+      "assessment": "CORRECT",
+      "assessment_reason": "tchedy = t + ch + edy - 'ch' is known verb, pattern OK"
+    },
+    {
+      "id": 36,
+      "original": "yhy",
+      "root": "yhy",
+      "prefixes": [],
+      "suffixes": [],
+      "decomposition": "**yhy**",
+      "root_length": 3,
+      "num_suffixes": 0,
+      "num_prefixes": 0,
+      "issues": [
+        "(i) STANDALONE (no segmentation)"
+      ],
+      "assessment": "UNCERTAIN",
+      "assessment_reason": "yhy = unknown, could be standalone word, unusual pattern"
+    },
+    {
+      "id": 37,
+      "original": "daiin",
+      "root": "daiin",
+      "prefixes": [],
+      "suffixes": [],
+      "decomposition": "**daiin**",
+      "root_length": 5,
+      "num_suffixes": 0,
+      "num_prefixes": 0,
+      "issues": [
+        "(i) STANDALONE (no segmentation)"
+      ],
+      "assessment": "CORRECT",
+      "assessment_reason": "daiin = known demonstrative 'this/that', standalone correct"
+    },
+    {
+      "id": 38,
+      "original": "dchor",
+      "root": "dch",
+      "prefixes": [],
+      "suffixes": [
+        "or"
+      ],
+      "decomposition": "**dch**-[or]",
+      "root_length": 3,
+      "num_suffixes": 1,
+      "num_prefixes": 0,
+      "issues": [],
+      "assessment": "CORRECT",
+      "assessment_reason": "dchor = dch (compound/root) + or (instrumental) - pattern OK"
+    },
+    {
+      "id": 39,
+      "original": "raraiiin",
+      "root": "rarai",
+      "prefixes": [],
+      "suffixes": [
+        "iin"
+      ],
+      "decomposition": "**rarai**-[iin]",
+      "root_length": 5,
+      "num_suffixes": 1,
+      "num_prefixes": 0,
+      "issues": [],
+      "assessment": "UNCERTAIN",
+      "assessment_reason": "raraiiin = unusual root 'rarai', could be reduplicated form or error"
+    },
+    {
+      "id": 40,
+      "original": "kcho",
+      "root": "kcho",
+      "prefixes": [],
+      "suffixes": [],
+      "decomposition": "**kcho**",
+      "root_length": 4,
+      "num_suffixes": 0,
+      "num_prefixes": 0,
+      "issues": [
+        "(i) STANDALONE (no segmentation)"
+      ],
+      "assessment": "UNCERTAIN",
+      "assessment_reason": "kcho = might be 'k' + 'cho' (vessel) or standalone - unclear"
+    },
+    {
+      "id": 41,
+      "original": "chldaiin",
+      "root": "chl",
+      "prefixes": [],
+      "suffixes": [
+        "d",
+        "aiin"
+      ],
+      "decomposition": "**chl**-[d-aiin]",
+      "root_length": 3,
+      "num_suffixes": 2,
+      "num_prefixes": 0,
+      "issues": [],
+      "assessment": "UNCERTAIN",
+      "assessment_reason": "chldaiin = chl + d + aiin - 'chl' unknown, could be variant of 'ch' + 'l'"
+    },
+    {
+      "id": 42,
+      "original": "kair",
+      "root": "kair",
+      "prefixes": [],
+      "suffixes": [],
+      "decomposition": "**kair**",
+      "root_length": 4,
+      "num_suffixes": 0,
+      "num_prefixes": 0,
+      "issues": [
+        "(i) STANDALONE (no segmentation)"
+      ],
+      "assessment": "CORRECT",
+      "assessment_reason": "kair = standalone word, no clear segmentation needed"
+    },
+    {
+      "id": 43,
+      "original": "okeeedy",
+      "root": "oke",
+      "prefixes": [],
+      "suffixes": [
+        "eedy"
+      ],
+      "decomposition": "**oke**-[eedy]",
+      "root_length": 3,
+      "num_suffixes": 1,
+      "num_prefixes": 0,
+      "issues": [],
+      "assessment": "CORRECT",
+      "assessment_reason": "okeeedy = oke (oak variant) + eedy (VERB) - good segmentation"
+    },
+    {
+      "id": 44,
+      "original": "okeeody",
+      "root": "okeeo",
+      "prefixes": [],
+      "suffixes": [
+        "dy"
+      ],
+      "decomposition": "**okeeo**-[dy]",
+      "root_length": 5,
+      "num_suffixes": 1,
+      "num_prefixes": 0,
+      "issues": [],
+      "assessment": "UNCERTAIN",
+      "assessment_reason": "okeeody = okeeo might be compound or should be 'oke' + 'eo' + 'dy'"
+    },
+    {
+      "id": 45,
+      "original": "tshy",
+      "root": "shy",
+      "prefixes": [],
+      "suffixes": [],
+      "decomposition": "**shy**",
+      "root_length": 3,
+      "num_suffixes": 0,
+      "num_prefixes": 0,
+      "issues": [
+        "(i) STANDALONE (no segmentation)"
+      ],
+      "assessment": "CORRECT",
+      "assessment_reason": "tshy = standalone particle, no segmentation needed (similar to 'chy')"
+    },
+    {
+      "id": 46,
+      "original": "chokeey",
+      "root": "chokeey",
+      "prefixes": [],
+      "suffixes": [],
+      "decomposition": "**chokeey**",
+      "root_length": 7,
+      "num_suffixes": 0,
+      "num_prefixes": 0,
+      "issues": [
+        "(i) STANDALONE (no segmentation)"
+      ],
+      "assessment": "UNCERTAIN",
+      "assessment_reason": "chokeey = might be compound 'cho' + 'keey' or standalone - unclear"
+    },
+    {
+      "id": 47,
+      "original": "sheeo",
+      "root": "sheeo",
+      "prefixes": [],
+      "suffixes": [],
+      "decomposition": "**sheeo**",
+      "root_length": 5,
+      "num_suffixes": 0,
+      "num_prefixes": 0,
+      "issues": [
+        "(i) STANDALONE (no segmentation)"
+      ],
+      "assessment": "CORRECT",
+      "assessment_reason": "sheeo = standalone, possibly 'she' + 'eo' compound (water+boil)"
+    },
+    {
+      "id": 48,
+      "original": "okeey",
+      "root": "okeey",
+      "prefixes": [],
+      "suffixes": [],
+      "decomposition": "**okeey**",
+      "root_length": 5,
+      "num_suffixes": 0,
+      "num_prefixes": 0,
+      "issues": [
+        "(i) STANDALONE (no segmentation)"
+      ],
+      "assessment": "CORRECT",
+      "assessment_reason": "okeey = known compound 'oak-GEN', your key discovery, standalone correct"
+    },
+    {
+      "id": 49,
+      "original": "sheekchy",
+      "root": "sheekchy",
+      "prefixes": [],
+      "suffixes": [],
+      "decomposition": "**sheekchy**",
+      "root_length": 8,
+      "num_suffixes": 0,
+      "num_prefixes": 0,
+      "issues": [
+        "(i) STANDALONE (no segmentation)"
+      ],
+      "assessment": "CORRECT",
+      "assessment_reason": "sheekchy = standalone complex word, no segmentation needed"
+    },
+    {
+      "id": 50,
+      "original": "sho",
+      "root": "sho",
+      "prefixes": [],
+      "suffixes": [],
+      "decomposition": "**sho**",
+      "root_length": 3,
+      "num_suffixes": 0,
+      "num_prefixes": 0,
+      "issues": [
+        "(i) STANDALONE (no segmentation)"
+      ],
+      "assessment": "CORRECT",
+      "assessment_reason": "sho = known root 'vessel', standalone correct"
+    }
+  ]
+}

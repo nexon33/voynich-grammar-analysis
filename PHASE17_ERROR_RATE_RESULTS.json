@@ -1,0 +1,193 @@
+{
+  "summary": {
+    "total_assessed": 50,
+    "correct": 19,
+    "wrong": 19,
+    "uncertain": 12,
+    "error_rate_biased_sample": 50.0,
+    "error_rate_adjusted": 32.45,
+    "correct_rate": 38.0
+  },
+  "by_root_length": {
+    "single_letter": {
+      "count": 20,
+      "error_rate": 92.5,
+      "wrong": 17,
+      "uncertain": 3,
+      "correct": 0
+    },
+    "two_letter": {
+      "count": 15,
+      "error_rate": 23.333333333333332,
+      "wrong": 2,
+      "uncertain": 3,
+      "correct": 10
+    },
+    "three_plus": {
+      "count": 15,
+      "error_rate": 20.0,
+      "wrong": 0,
+      "uncertain": 6,
+      "correct": 9
+    }
+  },
+  "wrong_examples": [
+    {
+      "original": "qokaiin",
+      "decomposition": "**a**-[iin]",
+      "reason": "qokaiin should be root='qok', suffix='aiin' (definite article). Single 'a' is artifact"
+    },
+    {
+      "original": "m",
+      "decomposition": "**m**",
+      "reason": "Unknown single letter 'm', likely noise or abbreviation mark"
+    },
+    {
+      "original": "odal",
+      "decomposition": "**o**-[d-al]",
+      "reason": "odal should probably be root='od' or whole word, not single 'o'"
+    },
+    {
+      "original": "rain",
+      "decomposition": "**r**-[ain]",
+      "reason": "rain should be whole word or 'ra-in', not single 'r'"
+    },
+    {
+      "original": "qokeedy",
+      "decomposition": "**e**-[edy]",
+      "reason": "qokeedy should be root='qok' + 'eedy', not stripping to single 'e'"
+    },
+    {
+      "original": "odaiin",
+      "decomposition": "**o**-[d-aiin]",
+      "reason": "odaiin should be root='od' + 'aiin', not single 'o'"
+    },
+    {
+      "original": "otedol",
+      "decomposition": "**e**-[d-ol]",
+      "reason": "otedol - looks like 'ote' (oat) + 'd' + 'ol', not single 'e'"
+    },
+    {
+      "original": "kedy",
+      "decomposition": "**k**-[edy]",
+      "reason": "kedy could be whole word or 'ked-y', not single 'k'"
+    },
+    {
+      "original": "lal",
+      "decomposition": "**l**-[al]",
+      "reason": "lal could be whole word or 'l' repetition, suspicious single letter"
+    },
+    {
+      "original": "kain",
+      "decomposition": "**k**-[ain]",
+      "reason": "kain could be whole word or 'ka-in', not single 'k'"
+    },
+    {
+      "original": "pol",
+      "decomposition": "**p**-[ol]",
+      "reason": "pol should be whole word or 'po-l', not single 'p'"
+    },
+    {
+      "original": "m",
+      "decomposition": "**m**",
+      "reason": "Duplicate of #2 - unknown single 'm'"
+    },
+    {
+      "original": "odaldy",
+      "decomposition": "**o**-[d-al-dy]",
+      "reason": "odaldy with 3 suffixes + single 'o' = clear over-stripping"
+    },
+    {
+      "original": "qokedy",
+      "decomposition": "**e**-[dy]",
+      "reason": "qokedy should be root='qok' + 'edy', not single 'e'"
+    },
+    {
+      "original": "ral",
+      "decomposition": "**r**-[al]",
+      "reason": "ral should be whole word or 'ra-l', not single 'r'"
+    },
+    {
+      "original": "oteedy",
+      "decomposition": "**e**-[edy]",
+      "reason": "oteedy should be root='ot' or 'ote' + 'edy', not single 'e'"
+    },
+    {
+      "original": "oteor",
+      "decomposition": "**e**-[or]",
+      "reason": "oteor should be root='ot' or 'ote' + 'or', not single 'e'"
+    },
+    {
+      "original": "otar",
+      "decomposition": "**ar**",
+      "reason": "otar looks like 'ot' (prefix/article) + 'ar' (at/in), not standalone 'ar'"
+    },
+    {
+      "original": "qotar",
+      "decomposition": "**ar**",
+      "reason": "qotar same as #25 - looks like 'qot' + 'ar', not standalone 'ar'"
+    }
+  ],
+  "uncertain_examples": [
+    {
+      "original": "r",
+      "decomposition": "**r**",
+      "reason": "Single 'r' could be substance root (289 instances) but suspicious"
+    },
+    {
+      "original": "qoky",
+      "decomposition": "**y**",
+      "reason": "qoky might be 'qok-y' (oak+copula compound) - your discovery! But single 'y' is suspicious"
+    },
+    {
+      "original": "qoty",
+      "decomposition": "**y**",
+      "reason": "qoty might be 'qot-y' (oat+copula) - similar to #12, suspicious"
+    },
+    {
+      "original": "qoedy",
+      "decomposition": "**qo**-[edy]",
+      "reason": "qoedy = qo + edy - 'qo' is uncertain root, could be whole word 'qoedy'"
+    },
+    {
+      "original": "olor",
+      "decomposition": "**or**",
+      "reason": "olor could be 'ol' + 'or' or standalone - repetitive pattern suspicious"
+    },
+    {
+      "original": "do",
+      "decomposition": "**do**",
+      "reason": "do = unknown, could be standalone particle or abbreviation"
+    },
+    {
+      "original": "yhy",
+      "decomposition": "**yhy**",
+      "reason": "yhy = unknown, could be standalone word, unusual pattern"
+    },
+    {
+      "original": "raraiiin",
+      "decomposition": "**rarai**-[iin]",
+      "reason": "raraiiin = unusual root 'rarai', could be reduplicated form or error"
+    },
+    {
+      "original": "kcho",
+      "decomposition": "**kcho**",
+      "reason": "kcho = might be 'k' + 'cho' (vessel) or standalone - unclear"
+    },
+    {
+      "original": "chldaiin",
+      "decomposition": "**chl**-[d-aiin]",
+      "reason": "chldaiin = chl + d + aiin - 'chl' unknown, could be variant of 'ch' + 'l'"
+    },
+    {
+      "original": "okeeody",
+      "decomposition": "**okeeo**-[dy]",
+      "reason": "okeeody = okeeo might be compound or should be 'oke' + 'eo' + 'dy'"
+    },
+    {
+      "original": "chokeey",
+      "decomposition": "**chokeey**",
+      "reason": "chokeey = might be compound 'cho' + 'keey' or standalone - unclear"
+    }
+  ]
+}

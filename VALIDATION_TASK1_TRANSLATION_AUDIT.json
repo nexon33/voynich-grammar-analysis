@@ -1,0 +1,319 @@
+{
+  "summary": {
+    "total_sentences": 30,
+    "average_score": 2.7333333333333334,
+    "coherent_3plus_pct": 0.6,
+    "coherent_4plus_pct": 0.26666666666666666,
+    "result": "✗ FAIL",
+    "status": "<70% coherent - major problems"
+  },
+  "score_distribution": {
+    "3": 10,
+    "2": 6,
+    "1": 6,
+    "4": 6,
+    "5": 2
+  },
+  "translations": [
+    {
+      "sentence_num": 1,
+      "original": "daiin chor sor cthy chokoiin shol dsholdyotchol ot dy",
+      "translation": "the/this take/use/mix-DIR plant/herb-DIR [?cthy] [?choko]-iin mix/prepare-LOC [?dsholdyotch]-ol [?ot] verbal/directional",
+      "coherence_score": 3,
+      "known_percentage": 0.5555555555555556,
+      "botanical_keywords": 6,
+      "word_count": 9,
+      "known_words": 5
+    },
+    {
+      "sentence_num": 2,
+      "original": "kcho kchy sho shol qotcho loeees qotychor daiin",
+      "translation": "[?kcho] [?kchy] vessel/container mix/prepare-LOC vessel/container [?loeees] [?ych]-or the/this",
+      "coherence_score": 3,
+      "known_percentage": 0.5,
+      "botanical_keywords": 4,
+      "word_count": 8,
+      "known_words": 4
+    },
+    {
+      "sentence_num": 3,
+      "original": "odaiin ckham qodaiikhy dol dal",
+      "translation": "oak-variant/particle-?d-GEN [?ckham] [?qodaiikhy] [?dol] place/location-LOC",
+      "coherence_score": 2,
+      "known_percentage": 0.4,
+      "botanical_keywords": 1,
+      "word_count": 5,
+      "known_words": 2
+    },
+    {
+      "sentence_num": 4,
+      "original": "ykcho lchol cholchaiin otchy s sheaiin",
+      "translation": "[?ykcho] mix/stir-LOC [?cholch]-aiin also/too plant/herb [?she]-aiin",
+      "coherence_score": 3,
+      "known_percentage": 0.5,
+      "botanical_keywords": 3,
+      "word_count": 6,
+      "known_words": 3
+    },
+    {
+      "sentence_num": 5,
+      "original": "yees ykchol oty ytor ytar ytchor ytaiin",
+      "translation": "[?yees] [?ykch]-ol is/be (copula) TEMP/LOC-DIR TEMP/LOC-DIR [?ytch]-or TEMP/LOC-GEN",
+      "coherence_score": 2,
+      "known_percentage": 0.5714285714285714,
+      "botanical_keywords": 0,
+      "word_count": 7,
+      "known_words": 4
+    },
+    {
+      "sentence_num": 6,
+      "original": "shochy qokchy torchy kcck ys okchey daiin",
+      "translation": "[?shochy] also/too [?orchy] [?kcck] [?ys] [?okchey] the/this",
+      "coherence_score": 1,
+      "known_percentage": 0.2857142857142857,
+      "botanical_keywords": 0,
+      "word_count": 7,
+      "known_words": 2
+    },
+    {
+      "sentence_num": 7,
+      "original": "qody cheal sychorychear shol chaiin shaiin dolar",
+      "translation": "[?qo]-dy oak-bark-LOC [?sychoryche]-ar mix/prepare-LOC take/use/mix-GEN mix/prepare-GEN place/location-LOC-DIR",
+      "coherence_score": 4,
+      "known_percentage": 0.7142857142857143,
+      "botanical_keywords": 6,
+      "word_count": 7,
+      "known_words": 5
+    },
+    {
+      "sentence_num": 8,
+      "original": "saino",
+      "translation": "[?saino]",
+      "coherence_score": 1,
+      "known_percentage": 0.0,
+      "botanical_keywords": 0,
+      "word_count": 1,
+      "known_words": 0
+    },
+    {
+      "sentence_num": 9,
+      "original": "oar cheekey oteeoaly otar alkar or aldar",
+      "translation": "oak-variant/particle-DIR [?cheekey] [?eeoaly] at/in [?alk]-ar and/or the/LOC-?d-DIR",
+      "coherence_score": 3,
+      "known_percentage": 0.5714285714285714,
+      "botanical_keywords": 1,
+      "word_count": 7,
+      "known_words": 4
+    },
+    {
+      "sentence_num": 10,
+      "original": "chey chckh shey qeeey chol lkain shedy qokeedy okain chedy okeed qokaloro",
+      "translation": "then/also [?chckh] oak-preparation [?qeeey] vessel/botanical liquid-GEN mix/prepare-VERB process/prepare-VERB oak-variant-GEN take/use/mix-VERB [?okee]-d [?aloro]",
+      "coherence_score": 3,
+      "known_percentage": 0.6666666666666666,
+      "botanical_keywords": 7,
+      "word_count": 12,
+      "known_words": 8
+    },
+    {
+      "sentence_num": 11,
+      "original": "ainaly",
+      "translation": "[?ainaly]",
+      "coherence_score": 1,
+      "known_percentage": 0.0,
+      "botanical_keywords": 0,
+      "word_count": 1,
+      "known_words": 0
+    },
+    {
+      "sentence_num": 12,
+      "original": "tol chol cthol s",
+      "translation": "and/also vessel/botanical nominal-LOC plant/herb",
+      "coherence_score": 5,
+      "known_percentage": 1.0,
+      "botanical_keywords": 3,
+      "word_count": 4,
+      "known_words": 4
+    },
+    {
+      "sentence_num": 13,
+      "original": "daiino daim qokaiin yteal okal om",
+      "translation": "[?daiino] [?daim] the (article)-?iin [?yte]-al [?okal] [?om]",
+      "coherence_score": 1,
+      "known_percentage": 0.16666666666666666,
+      "botanical_keywords": 0,
+      "word_count": 6,
+      "known_words": 1
+    },
+    {
+      "sentence_num": 14,
+      "original": "sysheos okaly cheos otey ykar ls aiin okaiin ytolkal",
+      "translation": "[?sysheos] [?okaly] [?cheos] grain/seed LOC/TEMP-DIR [?ls] the (article)-?iin oak-variant-GEN [?ytolk]-al",
+      "coherence_score": 2,
+      "known_percentage": 0.4444444444444444,
+      "botanical_keywords": 3,
+      "word_count": 9,
+      "known_words": 4
+    },
+    {
+      "sentence_num": 15,
+      "original": "daiin oty",
+      "translation": "the/this is/be (copula)",
+      "coherence_score": 2,
+      "known_percentage": 1.0,
+      "botanical_keywords": 0,
+      "word_count": 2,
+      "known_words": 2
+    },
+    {
+      "sentence_num": 16,
+      "original": "sar ol loraiin chey qokain oroiiin",
+      "translation": "plant/herb-DIR and/also nominal-DIR-GEN then/also this/that [?oroi]-iin",
+      "coherence_score": 4,
+      "known_percentage": 0.8333333333333334,
+      "botanical_keywords": 2,
+      "word_count": 6,
+      "known_words": 5
+    },
+    {
+      "sentence_num": 17,
+      "original": "dydariin",
+      "translation": "verbal/directional-?d-DIR-?iin",
+      "coherence_score": 2,
+      "known_percentage": 1.0,
+      "botanical_keywords": 0,
+      "word_count": 1,
+      "known_words": 1
+    },
+    {
+      "sentence_num": 18,
+      "original": "eol ckheor cheor aiin",
+      "translation": "process/prepare-LOC [?ckhe]-or oak-bark-DIR the (article)-?iin",
+      "coherence_score": 4,
+      "known_percentage": 0.75,
+      "botanical_keywords": 3,
+      "word_count": 4,
+      "known_words": 3
+    },
+    {
+      "sentence_num": 19,
+      "original": "qokaiin sheol ekedy qokey qokal dal daly",
+      "translation": "the (article)-?iin [?she]-ol [?ek]-edy grain/seed the/LOC place/location-LOC [?daly]",
+      "coherence_score": 3,
+      "known_percentage": 0.5714285714285714,
+      "botanical_keywords": 2,
+      "word_count": 7,
+      "known_words": 4
+    },
+    {
+      "sentence_num": 20,
+      "original": "ychol chs ckhy scheeol",
+      "translation": "[?ych]-ol [?chs] [?ckhy] [?schee]-ol",
+      "coherence_score": 1,
+      "known_percentage": 0.0,
+      "botanical_keywords": 0,
+      "word_count": 4,
+      "known_words": 0
+    },
+    {
+      "sentence_num": 21,
+      "original": "qokeey sheedy qokedy lchor cheey qokey qotal chedy qoteor",
+      "translation": "GEN-particle mix/prepare-?eedy process/prepare-VERB mix/stir-DIR particle grain/seed the/LOC take/use/mix-VERB process/prepare-DIR",
+      "coherence_score": 5,
+      "known_percentage": 1.0,
+      "botanical_keywords": 6,
+      "word_count": 9,
+      "known_words": 9
+    },
+    {
+      "sentence_num": 22,
+      "original": "poedair qotol qodaiin otaiin qotar qotchey qotaiin cheopy qopoiin cheody",
+      "translation": "[?poedair] and/also [?qo]-d-aiin the (article)-?iin at/in then/also the (article)-?iin [?cheopy] [?qopo]-iin [?cheo]-dy",
+      "coherence_score": 2,
+      "known_percentage": 0.5,
+      "botanical_keywords": 0,
+      "word_count": 10,
+      "known_words": 5
+    },
+    {
+      "sentence_num": 23,
+      "original": "qorchain okain chear lkain",
+      "translation": "[?qorch]-ain oak-variant-GEN oak-bark-DIR liquid-GEN",
+      "coherence_score": 4,
+      "known_percentage": 0.75,
+      "botanical_keywords": 3,
+      "word_count": 4,
+      "known_words": 3
+    },
+    {
+      "sentence_num": 24,
+      "original": "fodal kedar olpchesd araiin ksheeol opchedy pchedy opcheddl pchdar air odar",
+      "translation": "[?fo]-d-al [?ke]-d-ar [?pches]-d at/in-GEN [?kshee]-ol complex-process-VERB substance-process (N+V)-VERB [?opcheddl] substance-process (N+V)-?d-DIR sky/above oak-variant/particle-?d-DIR",
+      "coherence_score": 3,
+      "known_percentage": 0.5454545454545454,
+      "botanical_keywords": 1,
+      "word_count": 11,
+      "known_words": 6
+    },
+    {
+      "sentence_num": 25,
+      "original": "pom okaiin olkedy okedy okeey okeedy keedas otear shkeor qoky",
+      "translation": "[?pom] oak-variant-GEN [?olkedy] oak-variant-VERB oak-GEN oak-variant-?eedy [?keedas] process/prepare-DIR [?shke]-or is/be (copula)",
+      "coherence_score": 3,
+      "known_percentage": 0.6,
+      "botanical_keywords": 2,
+      "word_count": 10,
+      "known_words": 6
+    },
+    {
+      "sentence_num": 26,
+      "original": "tchedor otchedy qotees ytain qoty qotad opoloiin qetdain ol roiin om",
+      "translation": "oak-bark-?d-DIR take/use/mix-VERB [?ees] TEMP/LOC-GEN is/be (copula) the (article)-?d [?opolo]-iin [?qet]-d-ain and/also [?ro]-iin [?om]",
+      "coherence_score": 3,
+      "known_percentage": 0.5454545454545454,
+      "botanical_keywords": 5,
+      "word_count": 11,
+      "known_words": 6
+    },
+    {
+      "sentence_num": 27,
+      "original": "pychal shedy qoteedy cheyky okedaiin otedy odaiin chdy chy keedy lkey",
+      "translation": "[?pych]-al mix/prepare-VERB process/prepare-VERB [?cheyky] oak-variant-?d-GEN process/prepare-VERB oak-variant/particle-?d-GEN take/use/mix-VERB also/too container/tool-?eedy [?lkey]",
+      "coherence_score": 4,
+      "known_percentage": 0.7272727272727273,
+      "botanical_keywords": 6,
+      "word_count": 11,
+      "known_words": 8
+    },
+    {
+      "sentence_num": 28,
+      "original": "okechy",
+      "translation": "[?okechy]",
+      "coherence_score": 1,
+      "known_percentage": 0.0,
+      "botanical_keywords": 0,
+      "word_count": 1,
+      "known_words": 0
+    },
+    {
+      "sentence_num": 29,
+      "original": "pchor chcphol cphaiin otcheor ytor kol chocphor",
+      "translation": "substance-process (N+V)-DIR [?chcph]-ol [?cph]-aiin oak-bark-DIR TEMP/LOC-DIR container/tool-LOC [?chocph]-or",
+      "coherence_score": 3,
+      "known_percentage": 0.5714285714285714,
+      "botanical_keywords": 3,
+      "word_count": 7,
+      "known_words": 4
+    },
+    {
+      "sentence_num": 30,
+      "original": "ar aiin shodain shor chalkar shekshol okchor",
+      "translation": "at/in the (article)-?iin vessel/container-?d-GEN mix/prepare-DIR [?chalk]-ar [?sheksh]-ol oak-process (N+V)-DIR",
+      "coherence_score": 4,
+      "known_percentage": 0.7142857142857143,
+      "botanical_keywords": 5,
+      "word_count": 7,
+      "known_words": 5
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "summary": {
+    "test1_suffix_consistency": false,
+    "test2_cooccurrence": false,
+    "test3_null_hypothesis": false,
+    "all_tests_pass": false,
+    "result": "✗ FAIL",
+    "status": "Statistical patterns questionable"
+  },
+  "test1_suffix_results": [
+    {
+      "root": "e",
+      "claimed_rate": 79.1,
+      "actual_rate": 79.12087912087912,
+      "difference": 0.020879120879129687,
+      "instances": 1365,
+      "matches": true
+    },
+    {
+      "root": "ch",
+      "claimed_rate": 54.8,
+      "actual_rate": 58.82002383790227,
+      "difference": 4.020023837902272,
+      "instances": 1678,
+      "matches": true
+    },
+    {
+      "root": "sh",
+      "claimed_rate": 52.8,
+      "actual_rate": 60.66350710900474,
+      "difference": 7.863507109004743,
+      "instances": 1055,
+      "matches": false
+    },
+    {
+      "root": "lch",
+      "claimed_rate": 77.5,
+      "actual_rate": 82.65895953757226,
+      "difference": 5.158959537572258,
+      "instances": 173,
+      "matches": false
+    },
+    {
+      "root": "eo",
+      "claimed_rate": 54.1,
+      "actual_rate": 54.11764705882353,
+      "difference": 0.017647058823527573,
+      "instances": 170,
+      "matches": true
+    }
+  ],
+  "test2_cooccurrence_results": [
+    {
+      "root1": "s",
+      "root2": "qok",
+      "claimed_pct": 66.6,
+      "actual_pct": 0.0,
+      "difference": 66.6,
+      "instances": 694,
+      "matches": false
+    },
+    {
+      "root1": "che",
+      "root2": "qok",
+      "claimed_pct": 96.2,
+      "actual_pct": 0.0,
+      "difference": 96.2,
+      "instances": 560,
+      "matches": false
+    }
+  ],
+  "test3_null_hypothesis": {
+    "real_rate": 49.6,
+    "scrambled_rate": 65.2,
+    "ratio": 0.7607361963190183,
+    "sample_size": 1000
+  }
+}

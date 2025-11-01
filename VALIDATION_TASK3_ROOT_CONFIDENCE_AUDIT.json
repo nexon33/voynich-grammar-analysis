@@ -1,0 +1,775 @@
+{
+  "summary": {
+    "total_audited": 10,
+    "remove_count": 4,
+    "lower_count": 0,
+    "keep_count": 5,
+    "recommendations": {
+      "KEEP": 5,
+      "KEEP with caution": 1,
+      "REMOVE or RECLASSIFY": 4
+    },
+    "result": "⚠ MODERATE",
+    "status": "Some roots need revision"
+  },
+  "audited_roots": [
+    {
+      "root": "e",
+      "claimed_meaning": "process/prepare",
+      "claimed_confidence": 70,
+      "claimed_class": "VERBAL",
+      "notes": "79.1% VERB suffix - but very general",
+      "statistics": {
+        "total_instances": 1365,
+        "standalone_rate": 0.003663003663003663,
+        "verb_rate": 0.7912087912087912,
+        "case_rate": 0.19926739926739928,
+        "actual_class": "VERBAL",
+        "class_matches": true
+      },
+      "top_suffixes": {
+        "dy": 552,
+        "edy": 495,
+        "ol": 119,
+        "or": 43,
+        "eedy": 25
+      },
+      "co_occurs_before": [
+        {
+          "root": "e",
+          "count": 175
+        },
+        {
+          "root": "sh",
+          "count": 103
+        },
+        {
+          "root": "ch",
+          "count": 92
+        },
+        {
+          "root": "eey",
+          "count": 41
+        },
+        {
+          "root": "ok",
+          "count": 38
+        }
+      ],
+      "co_occurs_after": [
+        {
+          "root": "e",
+          "count": 175
+        },
+        {
+          "root": "ch",
+          "count": 58
+        },
+        {
+          "root": "sh",
+          "count": 48
+        },
+        {
+          "root": "ok",
+          "count": 47
+        },
+        {
+          "root": "ar",
+          "count": 38
+        }
+      ],
+      "sample_instances": [
+        "oteol",
+        "eor",
+        "oteol",
+        "qoteol",
+        "teor"
+      ],
+      "recommendation": "KEEP",
+      "confidence_adjustment": 0,
+      "suggested_confidence": 70
+    },
+    {
+      "root": "o",
+      "claimed_meaning": "oak-variant/particle",
+      "claimed_confidence": 65,
+      "claimed_class": "MIXED",
+      "notes": "Mixed patterns - 21% standalone, 46.5% case",
+      "statistics": {
+        "total_instances": 510,
+        "standalone_rate": 0.20980392156862746,
+        "verb_rate": 0.19607843137254902,
+        "case_rate": 0.4647058823529412,
+        "actual_class": "MIXED",
+        "class_matches": true
+      },
+      "top_suffixes": {
+        "STANDALONE": 107,
+        "dy": 83,
+        "d-aiin": 74,
+        "iin": 52,
+        "aiin": 31
+      },
+      "co_occurs_before": [
+        {
+          "root": "a",
+          "count": 18
+        },
+        {
+          "root": "o",
+          "count": 13
+        },
+        {
+          "root": "al",
+          "count": 13
+        },
+        {
+          "root": "ch",
+          "count": 12
+        },
+        {
+          "root": "ol",
+          "count": 11
+        }
+      ],
+      "co_occurs_after": [
+        {
+          "root": "a",
+          "count": 18
+        },
+        {
+          "root": "ch",
+          "count": 18
+        },
+        {
+          "root": "ar",
+          "count": 15
+        },
+        {
+          "root": "o",
+          "count": 13
+        },
+        {
+          "root": "e",
+          "count": 13
+        }
+      ],
+      "sample_instances": [
+        "o",
+        "oiin",
+        "odar",
+        "o",
+        "oiin"
+      ],
+      "recommendation": "KEEP",
+      "confidence_adjustment": 0,
+      "suggested_confidence": 65
+    },
+    {
+      "root": "p",
+      "claimed_meaning": "substance",
+      "claimed_confidence": 65,
+      "claimed_class": "NOMINAL",
+      "notes": "95.6% case suffix - unclear meaning",
+      "statistics": {
+        "total_instances": 91,
+        "standalone_rate": 0.03296703296703297,
+        "verb_rate": 0.03296703296703297,
+        "case_rate": 0.9560439560439561,
+        "actual_class": "NOMINAL",
+        "class_matches": true
+      },
+      "top_suffixes": {
+        "ol": 24,
+        "aiin": 8,
+        "or": 8,
+        "ol-aiin": 8,
+        "ar": 5
+      },
+      "co_occurs_before": [
+        {
+          "root": "she",
+          "count": 2
+        },
+        {
+          "root": "pch",
+          "count": 2
+        },
+        {
+          "root": "chodyscho",
+          "count": 1
+        },
+        {
+          "root": "orainchdysh",
+          "count": 1
+        },
+        {
+          "root": "edyo",
+          "count": 1
+        }
+      ],
+      "co_occurs_after": [
+        {
+          "root": "sh",
+          "count": 9
+        },
+        {
+          "root": "ar",
+          "count": 9
+        },
+        {
+          "root": "she",
+          "count": 4
+        },
+        {
+          "root": "ok",
+          "count": 4
+        },
+        {
+          "root": "ol",
+          "count": 4
+        }
+      ],
+      "sample_instances": [
+        "pol",
+        "paiin",
+        "poror",
+        "pol",
+        "poraiin"
+      ],
+      "recommendation": "KEEP with caution",
+      "confidence_adjustment": -5,
+      "suggested_confidence": 60
+    },
+    {
+      "root": "r",
+      "claimed_meaning": "substance",
+      "claimed_confidence": 65,
+      "claimed_class": "NOMINAL",
+      "notes": "Speculative liquid-related",
+      "statistics": {
+        "total_instances": 289,
+        "standalone_rate": 0.3356401384083045,
+        "verb_rate": 0.0034602076124567475,
+        "case_rate": 0.6643598615916955,
+        "actual_class": "NOMINAL",
+        "class_matches": true
+      },
+      "top_suffixes": {
+        "STANDALONE": 97,
+        "aiin": 76,
+        "ain": 26,
+        "ar": 21,
+        "ol": 20
+      },
+      "co_occurs_before": [
+        {
+          "root": "eey",
+          "count": 14
+        },
+        {
+          "root": "e",
+          "count": 11
+        },
+        {
+          "root": "cho",
+          "count": 10
+        },
+        {
+          "root": "ch",
+          "count": 10
+        },
+        {
+          "root": "chey",
+          "count": 10
+        }
+      ],
+      "co_occurs_after": [
+        {
+          "root": "a",
+          "count": 19
+        },
+        {
+          "root": "ol",
+          "count": 14
+        },
+        {
+          "root": "ch",
+          "count": 13
+        },
+        {
+          "root": "ain",
+          "count": 12
+        },
+        {
+          "root": "ar",
+          "count": 10
+        }
+      ],
+      "sample_instances": [
+        "r",
+        "r",
+        "rol",
+        "raiin",
+        "r"
+      ],
+      "recommendation": "KEEP",
+      "confidence_adjustment": 0,
+      "suggested_confidence": 65
+    },
+    {
+      "root": "kch",
+      "claimed_meaning": "container-process",
+      "claimed_confidence": 65,
+      "claimed_class": "COMPOUND",
+      "notes": "k+ch compound - 48.6% verbal",
+      "statistics": {
+        "total_instances": 107,
+        "standalone_rate": 0.0,
+        "verb_rate": 0.48598130841121495,
+        "case_rate": 0.5327102803738317,
+        "actual_class": "VERBAL",
+        "class_matches": false
+      },
+      "top_suffixes": {
+        "edy": 28,
+        "dy": 21,
+        "or": 20,
+        "ol": 20,
+        "aiin": 3
+      },
+      "co_occurs_before": [
+        {
+          "root": "ch",
+          "count": 6
+        },
+        {
+          "root": "sho",
+          "count": 4
+        },
+        {
+          "root": "y",
+          "count": 4
+        },
+        {
+          "root": "chy",
+          "count": 4
+        },
+        {
+          "root": "chey",
+          "count": 4
+        }
+      ],
+      "co_occurs_after": [
+        {
+          "root": "ch",
+          "count": 11
+        },
+        {
+          "root": "chol",
+          "count": 5
+        },
+        {
+          "root": "daiin",
+          "count": 5
+        },
+        {
+          "root": "ok",
+          "count": 5
+        },
+        {
+          "root": "sh",
+          "count": 4
+        }
+      ],
+      "sample_instances": [
+        "kchor",
+        "kchdy",
+        "kchor",
+        "kcholdar",
+        "kchor"
+      ],
+      "recommendation": "REMOVE or RECLASSIFY",
+      "confidence_adjustment": -20,
+      "suggested_confidence": 50
+    },
+    {
+      "root": "dch",
+      "claimed_meaning": "place-process",
+      "claimed_confidence": 60,
+      "claimed_class": "COMPOUND",
+      "notes": "d+ch compound - claimed N-V",
+      "statistics": {
+        "total_instances": 97,
+        "standalone_rate": 0.0,
+        "verb_rate": 0.3917525773195876,
+        "case_rate": 0.6185567010309279,
+        "actual_class": "NOMINAL",
+        "class_matches": false
+      },
+      "top_suffixes": {
+        "edy": 25,
+        "or": 24,
+        "ol": 20,
+        "dy": 8,
+        "aiin": 4
+      },
+      "co_occurs_before": [
+        {
+          "root": "y",
+          "count": 3
+        },
+        {
+          "root": "ch",
+          "count": 3
+        },
+        {
+          "root": "shey",
+          "count": 2
+        },
+        {
+          "root": "che",
+          "count": 2
+        },
+        {
+          "root": "darsh",
+          "count": 1
+        }
+      ],
+      "co_occurs_after": [
+        {
+          "root": "ch",
+          "count": 8
+        },
+        {
+          "root": "sh",
+          "count": 4
+        },
+        {
+          "root": "daiin",
+          "count": 4
+        },
+        {
+          "root": "e",
+          "count": 4
+        },
+        {
+          "root": "chol",
+          "count": 3
+        }
+      ],
+      "sample_instances": [
+        "dchar",
+        "dchor",
+        "dchor",
+        "dchol",
+        "dchor"
+      ],
+      "recommendation": "REMOVE or RECLASSIFY",
+      "confidence_adjustment": -20,
+      "suggested_confidence": 50
+    },
+    {
+      "root": "opch",
+      "claimed_meaning": "complex-process",
+      "claimed_confidence": 60,
+      "claimed_class": "COMPOUND",
+      "notes": "Unclear compound",
+      "statistics": {
+        "total_instances": 98,
+        "standalone_rate": 0.01020408163265306,
+        "verb_rate": 0.7448979591836735,
+        "case_rate": 0.2653061224489796,
+        "actual_class": "VERBAL",
+        "class_matches": false
+      },
+      "top_suffixes": {
+        "edy": 49,
+        "dy": 19,
+        "or": 6,
+        "ol": 5,
+        "al": 3
+      },
+      "co_occurs_before": [
+        {
+          "root": "e",
+          "count": 7
+        },
+        {
+          "root": "ch",
+          "count": 5
+        },
+        {
+          "root": "a",
+          "count": 5
+        },
+        {
+          "root": "al",
+          "count": 5
+        },
+        {
+          "root": "sh",
+          "count": 3
+        }
+      ],
+      "co_occurs_after": [
+        {
+          "root": "ain",
+          "count": 5
+        },
+        {
+          "root": "pch",
+          "count": 5
+        },
+        {
+          "root": "ol",
+          "count": 4
+        },
+        {
+          "root": "ar",
+          "count": 4
+        },
+        {
+          "root": "sh",
+          "count": 4
+        }
+      ],
+      "sample_instances": [
+        "opchol",
+        "opchor",
+        "opchor",
+        "opchol",
+        "opchar"
+      ],
+      "recommendation": "REMOVE or RECLASSIFY",
+      "confidence_adjustment": -20,
+      "suggested_confidence": 50
+    },
+    {
+      "root": "pch",
+      "claimed_meaning": "substance-process",
+      "claimed_confidence": 60,
+      "claimed_class": "COMPOUND",
+      "notes": "p+ch compound - 55.8% verbal",
+      "statistics": {
+        "total_instances": 95,
+        "standalone_rate": 0.0,
+        "verb_rate": 0.5578947368421052,
+        "case_rate": 0.4421052631578947,
+        "actual_class": "VERBAL",
+        "class_matches": false
+      },
+      "top_suffixes": {
+        "edy": 38,
+        "or": 12,
+        "dy": 12,
+        "ol": 8,
+        "d-ar": 5
+      },
+      "co_occurs_before": [
+        {
+          "root": "sh",
+          "count": 7
+        },
+        {
+          "root": "opch",
+          "count": 5
+        },
+        {
+          "root": "ch",
+          "count": 4
+        },
+        {
+          "root": "cheo",
+          "count": 2
+        },
+        {
+          "root": "kch",
+          "count": 2
+        }
+      ],
+      "co_occurs_after": [
+        {
+          "root": "sh",
+          "count": 7
+        },
+        {
+          "root": "ch",
+          "count": 5
+        },
+        {
+          "root": "ar",
+          "count": 4
+        },
+        {
+          "root": "op",
+          "count": 3
+        },
+        {
+          "root": "k",
+          "count": 3
+        }
+      ],
+      "sample_instances": [
+        "pchor",
+        "pchar",
+        "pchar",
+        "pchor",
+        "pchor"
+      ],
+      "recommendation": "REMOVE or RECLASSIFY",
+      "confidence_adjustment": -20,
+      "suggested_confidence": 50
+    },
+    {
+      "root": "ee",
+      "claimed_meaning": "e-variant?",
+      "claimed_confidence": 60,
+      "claimed_class": "NOMINAL",
+      "notes": "Possibly orthographic variant",
+      "statistics": {
+        "total_instances": 126,
+        "standalone_rate": 0.0,
+        "verb_rate": 0.007936507936507936,
+        "case_rate": 0.753968253968254,
+        "actual_class": "NOMINAL",
+        "class_matches": true
+      },
+      "top_suffixes": {
+        "ol": 34,
+        "d": 29,
+        "or": 19,
+        "d-ar": 15,
+        "d-al": 6
+      },
+      "co_occurs_before": [
+        {
+          "root": "ch",
+          "count": 8
+        },
+        {
+          "root": "e",
+          "count": 6
+        },
+        {
+          "root": "sh",
+          "count": 5
+        },
+        {
+          "root": "ey",
+          "count": 4
+        },
+        {
+          "root": "ok",
+          "count": 3
+        }
+      ],
+      "co_occurs_after": [
+        {
+          "root": "e",
+          "count": 11
+        },
+        {
+          "root": "a",
+          "count": 5
+        },
+        {
+          "root": "ar",
+          "count": 5
+        },
+        {
+          "root": "ch",
+          "count": 5
+        },
+        {
+          "root": "or",
+          "count": 4
+        }
+      ],
+      "sample_instances": [
+        "qoteeol",
+        "eeor",
+        "eear",
+        "qoteeol",
+        "teeol"
+      ],
+      "recommendation": "KEEP",
+      "confidence_adjustment": 0,
+      "suggested_confidence": 60
+    },
+    {
+      "root": "chckhy",
+      "claimed_meaning": "complex-particle",
+      "claimed_confidence": 60,
+      "claimed_class": "PARTICLE",
+      "notes": "100% standalone - meaning unknown",
+      "statistics": {
+        "total_instances": 138,
+        "standalone_rate": 0.9855072463768116,
+        "verb_rate": 0.0,
+        "case_rate": 0.007246376811594203,
+        "actual_class": "PARTICLE",
+        "class_matches": true
+      },
+      "top_suffixes": {
+        "STANDALONE": 136,
+        "ar": 1,
+        "d": 1
+      },
+      "co_occurs_before": [
+        {
+          "root": "ain",
+          "count": 14
+        },
+        {
+          "root": "ch",
+          "count": 11
+        },
+        {
+          "root": "daiin",
+          "count": 8
+        },
+        {
+          "root": "k",
+          "count": 8
+        },
+        {
+          "root": "ok",
+          "count": 7
+        }
+      ],
+      "co_occurs_after": [
+        {
+          "root": "ch",
+          "count": 7
+        },
+        {
+          "root": "ain",
+          "count": 6
+        },
+        {
+          "root": "daiin",
+          "count": 6
+        },
+        {
+          "root": "ok",
+          "count": 6
+        },
+        {
+          "root": "al",
+          "count": 5
+        }
+      ],
+      "sample_instances": [
+        "chckhy",
+        "chckhy",
+        "chckhy",
+        "chckhy",
+        "chckhy"
+      ],
+      "recommendation": "KEEP",
+      "confidence_adjustment": 0,
+      "suggested_confidence": 60
+    }
+  ]
+}

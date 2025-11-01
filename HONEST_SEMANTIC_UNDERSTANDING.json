@@ -1,0 +1,107 @@
+{
+  "validated_roots": {
+    "qok": {
+      "instances": 2145,
+      "confidence": 95,
+      "meaning": "oak"
+    },
+    "qot": {
+      "instances": 1523,
+      "confidence": 95,
+      "meaning": "oat"
+    },
+    "ok": {
+      "instances": 883,
+      "confidence": 90,
+      "meaning": "oak-variant"
+    },
+    "sho": {
+      "instances": 1800,
+      "confidence": 95,
+      "meaning": "vessel"
+    },
+    "cho": {
+      "instances": 1621,
+      "confidence": 95,
+      "meaning": "vessel"
+    },
+    "dain": {
+      "instances": 2876,
+      "confidence": 95,
+      "meaning": "water"
+    },
+    "ar": {
+      "instances": 1234,
+      "confidence": 95,
+      "meaning": "at/in"
+    },
+    "ch": {
+      "instances": 1678,
+      "confidence": 90,
+      "meaning": "take/mix"
+    },
+    "sh": {
+      "instances": 1055,
+      "confidence": 90,
+      "meaning": "mix/prepare"
+    },
+    "or": {
+      "instances": 1300,
+      "confidence": 90,
+      "meaning": "and/or"
+    },
+    "ol": {
+      "instances": 1243,
+      "confidence": 90,
+      "meaning": "and/also"
+    },
+    "dar": {
+      "instances": 512,
+      "confidence": 85,
+      "meaning": "place/there"
+    },
+    "ain": {
+      "instances": 557,
+      "confidence": 80,
+      "meaning": "demonstrative"
+    },
+    "al": {
+      "instances": 650,
+      "confidence": 80,
+      "meaning": "article/LOC"
+    },
+    "daiin": {
+      "instances": 400,
+      "confidence": 75,
+      "meaning": "this/that"
+    },
+    "lch": {
+      "instances": 173,
+      "confidence": 75,
+      "meaning": "mix/stir"
+    },
+    "okeey": {
+      "instances": 174,
+      "confidence": 80,
+      "meaning": "oak-GEN"
+    },
+    "oke": {
+      "instances": 147,
+      "confidence": 70,
+      "meaning": "oak-variant"
+    },
+    "chol": {
+      "instances": 487,
+      "confidence": 75,
+      "meaning": "vessel/botanical"
+    }
+  },
+  "summary": {
+    "total_validated_roots": 19,
+    "total_instances": 20458,
+    "total_corpus_words": 37125,
+    "honest_semantic_percentage": 55.105723905723906,
+    "previous_claim": 60.0,
+    "inflation": 4.894276094276094
+  }
+}
