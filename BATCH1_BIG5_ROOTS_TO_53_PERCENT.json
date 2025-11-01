@@ -1,0 +1,1919 @@
+{
+  "d": {
+    "root": "d",
+    "total_instances": 417,
+    "corpus_percentage": 1.1232323232323234,
+    "standalone_rate": 0.10071942446043165,
+    "verb_suffix_rate": 0.07434052757793765,
+    "case_suffix_rate": 0.8848920863309353,
+    "classification": "NOMINAL ROOT",
+    "top_suffixes": {
+      "al": 246,
+      "STANDALONE": 42,
+      "al-dy": 17,
+      "aiin": 10,
+      "al-or": 8,
+      "al-ol": 7,
+      "ar": 5,
+      "al-ar": 5,
+      "al-al": 5,
+      "ain": 4,
+      "ar-or": 3,
+      "ar-ar": 3,
+      "al-d-aiin": 3,
+      "al-aiin": 3,
+      "ar-ol": 3
+    },
+    "contexts": [
+      {
+        "word": "daraiin",
+        "root": "d",
+        "suffixes": [
+          "ar",
+          "aiin"
+        ],
+        "translation": "[?d]-DEF-DIR"
+      },
+      {
+        "word": "oldain",
+        "root": "d",
+        "suffixes": [
+          "ain"
+        ],
+        "translation": "AT-[?d]-DEF"
+      },
+      {
+        "word": "d",
+        "root": "d",
+        "suffixes": [],
+        "translation": "[?d]"
+      },
+      {
+        "word": "d",
+        "root": "d",
+        "suffixes": [],
+        "translation": "[?d]"
+      },
+      {
+        "word": "dal",
+        "root": "d",
+        "suffixes": [
+          "al"
+        ],
+        "translation": "[?d]-LOC"
+      },
+      {
+        "word": "dal",
+        "root": "d",
+        "suffixes": [
+          "al"
+        ],
+        "translation": "[?d]-LOC"
+      },
+      {
+        "word": "dal",
+        "root": "d",
+        "suffixes": [
+          "al"
+        ],
+        "translation": "[?d]-LOC"
+      },
+      {
+        "word": "dal",
+        "root": "d",
+        "suffixes": [
+          "al"
+        ],
+        "translation": "[?d]-LOC"
+      },
+      {
+        "word": "d",
+        "root": "d",
+        "suffixes": [],
+        "translation": "[?d]"
+      },
+      {
+        "word": "dal",
+        "root": "d",
+        "suffixes": [
+          "al"
+        ],
+        "translation": "[?d]-LOC"
+      },
+      {
+        "word": "dalor",
+        "root": "d",
+        "suffixes": [
+          "al",
+          "or"
+        ],
+        "translation": "[?d]-INST-LOC"
+      },
+      {
+        "word": "dal",
+        "root": "d",
+        "suffixes": [
+          "al"
+        ],
+        "translation": "[?d]-LOC"
+      },
+      {
+        "word": "dal",
+        "root": "d",
+        "suffixes": [
+          "al"
+        ],
+        "translation": "[?d]-LOC"
+      },
+      {
+        "word": "dal",
+        "root": "d",
+        "suffixes": [
+          "al"
+        ],
+        "translation": "[?d]-LOC"
+      },
+      {
+        "word": "dolar",
+        "root": "d",
+        "suffixes": [
+          "ol",
+          "ar"
+        ],
+        "translation": "[?d]-DIR-LOC"
+      },
+      {
+        "word": "d",
+        "root": "d",
+        "suffixes": [],
+        "translation": "[?d]"
+      },
+      {
+        "word": "d",
+        "root": "d",
+        "suffixes": [],
+        "translation": "[?d]"
+      },
+      {
+        "word": "d",
+        "root": "d",
+        "suffixes": [],
+        "translation": "[?d]"
+      },
+      {
+        "word": "daldy",
+        "root": "d",
+        "suffixes": [
+          "al",
+          "dy"
+        ],
+        "translation": "[?d]-VERB-LOC"
+      },
+      {
+        "word": "d",
+        "root": "d",
+        "suffixes": [],
+        "translation": "[?d]"
+      },
+      {
+        "word": "dal",
+        "root": "d",
+        "suffixes": [
+          "al"
+        ],
+        "translation": "[?d]-LOC"
+      },
+      {
+        "word": "dardy",
+        "root": "d",
+        "suffixes": [
+          "ar",
+          "dy"
+        ],
+        "translation": "[?d]-VERB-DIR"
+      },
+      {
+        "word": "daiindol",
+        "root": "d",
+        "suffixes": [
+          "aiin",
+          "d",
+          "ol"
+        ],
+        "translation": "[?d]-LOC-D-DEF"
+      },
+      {
+        "word": "dal",
+        "root": "d",
+        "suffixes": [
+          "al"
+        ],
+        "translation": "[?d]-LOC"
+      },
+      {
+        "word": "oldaiin",
+        "root": "d",
+        "suffixes": [
+          "aiin"
+        ],
+        "translation": "AT-[?d]-DEF"
+      },
+      {
+        "word": "d",
+        "root": "d",
+        "suffixes": [],
+        "translation": "[?d]"
+      },
+      {
+        "word": "dal",
+        "root": "d",
+        "suffixes": [
+          "al"
+        ],
+        "translation": "[?d]-LOC"
+      },
+      {
+        "word": "dal",
+        "root": "d",
+        "suffixes": [
+          "al"
+        ],
+        "translation": "[?d]-LOC"
+      },
+      {
+        "word": "doldy",
+        "root": "d",
+        "suffixes": [
+          "ol",
+          "dy"
+        ],
+        "translation": "[?d]-VERB-LOC"
+      },
+      {
+        "word": "doldaiin",
+        "root": "d",
+        "suffixes": [
+          "ol",
+          "d",
+          "aiin"
+        ],
+        "translation": "[?d]-DEF-D-LOC"
+      },
+      {
+        "word": "daror",
+        "root": "d",
+        "suffixes": [
+          "ar",
+          "or"
+        ],
+        "translation": "[?d]-INST-DIR"
+      },
+      {
+        "word": "ddy",
+        "root": "d",
+        "suffixes": [
+          "dy"
+        ],
+        "translation": "[?d]-VERB"
+      },
+      {
+        "word": "tdaiin",
+        "root": "d",
+        "suffixes": [
+          "aiin"
+        ],
+        "translation": "T-[?d]-DEF"
+      },
+      {
+        "word": "dal",
+        "root": "d",
+        "suffixes": [
+          "al"
+        ],
+        "translation": "[?d]-LOC"
+      },
+      {
+        "word": "daiinol",
+        "root": "d",
+        "suffixes": [
+          "aiin",
+          "ol"
+        ],
+        "translation": "[?d]-LOC-DEF"
+      },
+      {
+        "word": "ddor",
+        "root": "d",
+        "suffixes": [
+          "d",
+          "or"
+        ],
+        "translation": "[?d]-INST-D"
+      },
+      {
+        "word": "daral",
+        "root": "d",
+        "suffixes": [
+          "ar",
+          "al"
+        ],
+        "translation": "[?d]-LOC-DIR"
+      },
+      {
+        "word": "d",
+        "root": "d",
+        "suffixes": [],
+        "translation": "[?d]"
+      },
+      {
+        "word": "d",
+        "root": "d",
+        "suffixes": [],
+        "translation": "[?d]"
+      },
+      {
+        "word": "dal",
+        "root": "d",
+        "suffixes": [
+          "al"
+        ],
+        "translation": "[?d]-LOC"
+      },
+      {
+        "word": "oldor",
+        "root": "d",
+        "suffixes": [
+          "or"
+        ],
+        "translation": "AT-[?d]-INST"
+      },
+      {
+        "word": "daldalol",
+        "root": "d",
+        "suffixes": [
+          "al",
+          "d",
+          "al",
+          "ol"
+        ],
+        "translation": "[?d]-LOC-LOC-D-LOC"
+      },
+      {
+        "word": "dal",
+        "root": "d",
+        "suffixes": [
+          "al"
+        ],
+        "translation": "[?d]-LOC"
+      },
+      {
+        "word": "dal",
+        "root": "d",
+        "suffixes": [
+          "al"
+        ],
+        "translation": "[?d]-LOC"
+      },
+      {
+        "word": "oldaiin",
+        "root": "d",
+        "suffixes": [
+          "aiin"
+        ],
+        "translation": "AT-[?d]-DEF"
+      },
+      {
+        "word": "dal",
+        "root": "d",
+        "suffixes": [
+          "al"
+        ],
+        "translation": "[?d]-LOC"
+      },
+      {
+        "word": "oldar",
+        "root": "d",
+        "suffixes": [
+          "ar"
+        ],
+        "translation": "AT-[?d]-DIR"
+      },
+      {
+        "word": "dal",
+        "root": "d",
+        "suffixes": [
+          "al"
+        ],
+        "translation": "[?d]-LOC"
+      },
+      {
+        "word": "dal",
+        "root": "d",
+        "suffixes": [
+          "al"
+        ],
+        "translation": "[?d]-LOC"
+      },
+      {
+        "word": "dal",
+        "root": "d",
+        "suffixes": [
+          "al"
+        ],
+        "translation": "[?d]-LOC"
+      }
+    ],
+    "sample_words": [
+      "dal",
+      "doledy",
+      "oldor",
+      "dalorain",
+      "daiinol",
+      "doror",
+      "daraiin",
+      "dardy",
+      "daiindol",
+      "dalor",
+      "ddy",
+      "daral",
+      "doldaiin",
+      "daindaiin",
+      "otdal",
+      "tdain",
+      "tdaiin",
+      "doraiin",
+      "dd",
+      "dalain",
+      "dorain",
+      "oldal",
+      "oldain",
+      "daldaiin",
+      "dald"
+    ]
+  },
+  "shey": {
+    "root": "shey",
+    "total_instances": 315,
+    "corpus_percentage": 0.8484848484848486,
+    "standalone_rate": 0.9968253968253968,
+    "verb_suffix_rate": 0.0,
+    "case_suffix_rate": 0.0031746031746031746,
+    "classification": "FUNCTION WORD / PARTICLE",
+    "top_suffixes": {
+      "STANDALONE": 314,
+      "d-aiin": 1
+    },
+    "contexts": [
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "sheydaiin",
+        "root": "shey",
+        "suffixes": [
+          "d",
+          "aiin"
+        ],
+        "translation": "[?shey]-DEF-D"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "qotshey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "oat-GEN-[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "qotshey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "oat-GEN-[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "otshey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "AT-[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      },
+      {
+        "word": "shey",
+        "root": "shey",
+        "suffixes": [],
+        "translation": "[?shey]"
+      }
+    ],
+    "sample_words": [
+      "shey",
+      "qotshey",
+      "sheydaiin",
+      "tshey",
+      "otshey",
+      "olshey",
+      "qokshey"
+    ]
+  },
+  "r": {
+    "root": "r",
+    "total_instances": 289,
+    "corpus_percentage": 0.7784511784511785,
+    "standalone_rate": 0.3356401384083045,
+    "verb_suffix_rate": 0.0034602076124567475,
+    "case_suffix_rate": 0.6643598615916955,
+    "classification": "NOMINAL ROOT",
+    "top_suffixes": {
+      "STANDALONE": 97,
+      "aiin": 76,
+      "ain": 26,
+      "ar": 21,
+      "ol": 20,
+      "or": 17,
+      "al": 17,
+      "ar-aiin": 6,
+      "or-ol": 3,
+      "ar-al": 2,
+      "or-ain": 1,
+      "ain-al": 1,
+      "al-dy": 1,
+      "or-al": 1
+    },
+    "contexts": [
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "rol",
+        "root": "r",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?r]-LOC"
+      },
+      {
+        "word": "raiin",
+        "root": "r",
+        "suffixes": [
+          "aiin"
+        ],
+        "translation": "[?r]-DEF"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "raiin",
+        "root": "r",
+        "suffixes": [
+          "aiin"
+        ],
+        "translation": "[?r]-DEF"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "raraiin",
+        "root": "r",
+        "suffixes": [
+          "ar",
+          "aiin"
+        ],
+        "translation": "[?r]-DEF-DIR"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "raiin",
+        "root": "r",
+        "suffixes": [
+          "aiin"
+        ],
+        "translation": "[?r]-DEF"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "olr",
+        "root": "r",
+        "suffixes": [],
+        "translation": "AT-[?r]"
+      },
+      {
+        "word": "olraiin",
+        "root": "r",
+        "suffixes": [
+          "aiin"
+        ],
+        "translation": "AT-[?r]-DEF"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "tr",
+        "root": "r",
+        "suffixes": [],
+        "translation": "T-[?r]"
+      },
+      {
+        "word": "tr",
+        "root": "r",
+        "suffixes": [],
+        "translation": "T-[?r]"
+      },
+      {
+        "word": "tr",
+        "root": "r",
+        "suffixes": [],
+        "translation": "T-[?r]"
+      },
+      {
+        "word": "tr",
+        "root": "r",
+        "suffixes": [],
+        "translation": "T-[?r]"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      },
+      {
+        "word": "raiin",
+        "root": "r",
+        "suffixes": [
+          "aiin"
+        ],
+        "translation": "[?r]-DEF"
+      },
+      {
+        "word": "raral",
+        "root": "r",
+        "suffixes": [
+          "ar",
+          "al"
+        ],
+        "translation": "[?r]-LOC-DIR"
+      },
+      {
+        "word": "r",
+        "root": "r",
+        "suffixes": [],
+        "translation": "[?r]"
+      }
+    ],
+    "sample_words": [
+      "r",
+      "ror",
+      "rorain",
+      "rain",
+      "ral",
+      "raldy",
+      "raraiin",
+      "rorol",
+      "rol",
+      "rainal",
+      "roral",
+      "raral",
+      "tr",
+      "rar",
+      "raiin",
+      "olr",
+      "olraiin"
+    ]
+  },
+  "dy": {
+    "root": "dy",
+    "total_instances": 276,
+    "corpus_percentage": 0.7434343434343434,
+    "standalone_rate": 0.9239130434782609,
+    "verb_suffix_rate": 0.028985507246376812,
+    "case_suffix_rate": 0.04710144927536232,
+    "classification": "FUNCTION WORD / PARTICLE",
+    "top_suffixes": {
+      "STANDALONE": 255,
+      "dy": 4,
+      "dy-dy": 2,
+      "d-ain": 2,
+      "d-ar": 2,
+      "d-aiin": 2,
+      "aiin": 2,
+      "dy-d": 1,
+      "d-ol": 1,
+      "or": 1,
+      "d-al": 1,
+      "d-or": 1,
+      "d-ar-iin": 1,
+      "eedy": 1
+    },
+    "contexts": [
+      {
+        "word": "dydyd",
+        "root": "dy",
+        "suffixes": [
+          "dy",
+          "d"
+        ],
+        "translation": "[?dy]-D-VERB"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dydol",
+        "root": "dy",
+        "suffixes": [
+          "d",
+          "ol"
+        ],
+        "translation": "[?dy]-LOC-D"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dyor",
+        "root": "dy",
+        "suffixes": [
+          "or"
+        ],
+        "translation": "[?dy]-INST"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "oldy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "AT-[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dydydy",
+        "root": "dy",
+        "suffixes": [
+          "dy",
+          "dy"
+        ],
+        "translation": "[?dy]-VERB-VERB"
+      },
+      {
+        "word": "dydy",
+        "root": "dy",
+        "suffixes": [
+          "dy"
+        ],
+        "translation": "[?dy]-VERB"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      },
+      {
+        "word": "dy",
+        "root": "dy",
+        "suffixes": [],
+        "translation": "[?dy]"
+      }
+    ],
+    "sample_words": [
+      "qokdy",
+      "dyor",
+      "dyeedy",
+      "dydar",
+      "dydor",
+      "dydal",
+      "dydariin",
+      "dyaiin",
+      "dydyd",
+      "dydaiin",
+      "dy",
+      "dydydy",
+      "dydol",
+      "dydy",
+      "otdy",
+      "oldy",
+      "oldyaiin",
+      "dydain"
+    ]
+  },
+  "l": {
+    "root": "l",
+    "total_instances": 243,
+    "corpus_percentage": 0.6545454545454545,
+    "standalone_rate": 0.2880658436213992,
+    "verb_suffix_rate": 0.1111111111111111,
+    "case_suffix_rate": 0.6008230452674898,
+    "classification": "NOMINAL ROOT",
+    "top_suffixes": {
+      "STANDALONE": 70,
+      "ol": 44,
+      "or": 43,
+      "dy": 23,
+      "aiin": 15,
+      "ain": 7,
+      "al": 7,
+      "ar": 6,
+      "d-ar": 5,
+      "d": 3,
+      "d-aiin": 3,
+      "ol-dy": 2,
+      "d-ol": 2,
+      "d-ain": 2,
+      "ol-ain": 2
+    },
+    "contexts": [
+      {
+        "word": "lol",
+        "root": "l",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?l]-LOC"
+      },
+      {
+        "word": "lor",
+        "root": "l",
+        "suffixes": [
+          "or"
+        ],
+        "translation": "[?l]-INST"
+      },
+      {
+        "word": "l",
+        "root": "l",
+        "suffixes": [],
+        "translation": "[?l]"
+      },
+      {
+        "word": "l",
+        "root": "l",
+        "suffixes": [],
+        "translation": "[?l]"
+      },
+      {
+        "word": "l",
+        "root": "l",
+        "suffixes": [],
+        "translation": "[?l]"
+      },
+      {
+        "word": "ldy",
+        "root": "l",
+        "suffixes": [
+          "dy"
+        ],
+        "translation": "[?l]-VERB"
+      },
+      {
+        "word": "ldy",
+        "root": "l",
+        "suffixes": [
+          "dy"
+        ],
+        "translation": "[?l]-VERB"
+      },
+      {
+        "word": "ldydain",
+        "root": "l",
+        "suffixes": [
+          "dy",
+          "d",
+          "ain"
+        ],
+        "translation": "[?l]-DEF-D-VERB"
+      },
+      {
+        "word": "lor",
+        "root": "l",
+        "suffixes": [
+          "or"
+        ],
+        "translation": "[?l]-INST"
+      },
+      {
+        "word": "l",
+        "root": "l",
+        "suffixes": [],
+        "translation": "[?l]"
+      },
+      {
+        "word": "lol",
+        "root": "l",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?l]-LOC"
+      },
+      {
+        "word": "laiin",
+        "root": "l",
+        "suffixes": [
+          "aiin"
+        ],
+        "translation": "[?l]-DEF"
+      },
+      {
+        "word": "lor",
+        "root": "l",
+        "suffixes": [
+          "or"
+        ],
+        "translation": "[?l]-INST"
+      },
+      {
+        "word": "lol",
+        "root": "l",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?l]-LOC"
+      },
+      {
+        "word": "l",
+        "root": "l",
+        "suffixes": [],
+        "translation": "[?l]"
+      },
+      {
+        "word": "l",
+        "root": "l",
+        "suffixes": [],
+        "translation": "[?l]"
+      },
+      {
+        "word": "ldy",
+        "root": "l",
+        "suffixes": [
+          "dy"
+        ],
+        "translation": "[?l]-VERB"
+      },
+      {
+        "word": "lain",
+        "root": "l",
+        "suffixes": [
+          "ain"
+        ],
+        "translation": "[?l]-DEF"
+      },
+      {
+        "word": "l",
+        "root": "l",
+        "suffixes": [],
+        "translation": "[?l]"
+      },
+      {
+        "word": "l",
+        "root": "l",
+        "suffixes": [],
+        "translation": "[?l]"
+      },
+      {
+        "word": "ldy",
+        "root": "l",
+        "suffixes": [
+          "dy"
+        ],
+        "translation": "[?l]-VERB"
+      },
+      {
+        "word": "loldy",
+        "root": "l",
+        "suffixes": [
+          "ol",
+          "dy"
+        ],
+        "translation": "[?l]-VERB-LOC"
+      },
+      {
+        "word": "ldar",
+        "root": "l",
+        "suffixes": [
+          "d",
+          "ar"
+        ],
+        "translation": "[?l]-DIR-D"
+      },
+      {
+        "word": "l",
+        "root": "l",
+        "suffixes": [],
+        "translation": "[?l]"
+      },
+      {
+        "word": "l",
+        "root": "l",
+        "suffixes": [],
+        "translation": "[?l]"
+      },
+      {
+        "word": "l",
+        "root": "l",
+        "suffixes": [],
+        "translation": "[?l]"
+      },
+      {
+        "word": "l",
+        "root": "l",
+        "suffixes": [],
+        "translation": "[?l]"
+      },
+      {
+        "word": "l",
+        "root": "l",
+        "suffixes": [],
+        "translation": "[?l]"
+      },
+      {
+        "word": "l",
+        "root": "l",
+        "suffixes": [],
+        "translation": "[?l]"
+      },
+      {
+        "word": "l",
+        "root": "l",
+        "suffixes": [],
+        "translation": "[?l]"
+      },
+      {
+        "word": "l",
+        "root": "l",
+        "suffixes": [],
+        "translation": "[?l]"
+      },
+      {
+        "word": "l",
+        "root": "l",
+        "suffixes": [],
+        "translation": "[?l]"
+      },
+      {
+        "word": "l",
+        "root": "l",
+        "suffixes": [],
+        "translation": "[?l]"
+      },
+      {
+        "word": "l",
+        "root": "l",
+        "suffixes": [],
+        "translation": "[?l]"
+      },
+      {
+        "word": "lor",
+        "root": "l",
+        "suffixes": [
+          "or"
+        ],
+        "translation": "[?l]-INST"
+      },
+      {
+        "word": "ld",
+        "root": "l",
+        "suffixes": [
+          "d"
+        ],
+        "translation": "[?l]-D"
+      },
+      {
+        "word": "ldy",
+        "root": "l",
+        "suffixes": [
+          "dy"
+        ],
+        "translation": "[?l]-VERB"
+      },
+      {
+        "word": "ldaiin",
+        "root": "l",
+        "suffixes": [
+          "d",
+          "aiin"
+        ],
+        "translation": "[?l]-DEF-D"
+      },
+      {
+        "word": "l",
+        "root": "l",
+        "suffixes": [],
+        "translation": "[?l]"
+      },
+      {
+        "word": "l",
+        "root": "l",
+        "suffixes": [],
+        "translation": "[?l]"
+      },
+      {
+        "word": "lal",
+        "root": "l",
+        "suffixes": [
+          "al"
+        ],
+        "translation": "[?l]-LOC"
+      },
+      {
+        "word": "l",
+        "root": "l",
+        "suffixes": [],
+        "translation": "[?l]"
+      },
+      {
+        "word": "lol",
+        "root": "l",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?l]-LOC"
+      },
+      {
+        "word": "lol",
+        "root": "l",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?l]-LOC"
+      },
+      {
+        "word": "lor",
+        "root": "l",
+        "suffixes": [
+          "or"
+        ],
+        "translation": "[?l]-INST"
+      },
+      {
+        "word": "lor",
+        "root": "l",
+        "suffixes": [
+          "or"
+        ],
+        "translation": "[?l]-INST"
+      },
+      {
+        "word": "l",
+        "root": "l",
+        "suffixes": [],
+        "translation": "[?l]"
+      },
+      {
+        "word": "lol",
+        "root": "l",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?l]-LOC"
+      },
+      {
+        "word": "ldy",
+        "root": "l",
+        "suffixes": [
+          "dy"
+        ],
+        "translation": "[?l]-VERB"
+      },
+      {
+        "word": "lol",
+        "root": "l",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?l]-LOC"
+      }
+    ],
+    "sample_words": [
+      "qoklain",
+      "ldalor",
+      "ldy",
+      "tl",
+      "ldar",
+      "oll",
+      "lor",
+      "lolor",
+      "ld",
+      "qokl",
+      "ldain",
+      "laiin",
+      "lolain",
+      "ollain",
+      "l",
+      "lar",
+      "ldydain",
+      "ldaiin",
+      "otl",
+      "ldol",
+      "qotl",
+      "olldy",
+      "otlaiin",
+      "lain",
+      "lol"
+    ]
+  }
+}

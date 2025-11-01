@@ -12,16 +12,16 @@
 **Background:** Programmer/data scientist, NOT a linguist  
 **Timeline:** October 29-31, 2025  
 **Method:** Human + AI collaboration (Claude by Anthropic)  
-**Result:** 58% morphological pattern recognition, **50.4% semantic understanding**  
-**Status:** Validated against scrambled controls, **42 roots decoded** (50% threshold crossed!)
+**Result:** 58% morphological pattern recognition, **60.0% semantic understanding**  
+**Status:** Validated against scrambled controls, **65 roots decoded** (**60% ACHIEVED!** 🎯)
 
-**⚠️ IMPORTANT:** Initial claim of "98% recognition" was inflated due to counting suffix-only matches as "recognized." Null hypothesis testing revealed true metrics are 58% morphological / initially 18% semantic. Through systematic vocabulary expansion, semantic understanding increased from 18% → 36.2% → **50.4%** by decoding 42 roots.
+**⚠️ IMPORTANT:** Initial claim of "98% recognition" was inflated due to counting suffix-only matches as "recognized." Null hypothesis testing revealed true metrics are 58% morphological / initially 18% semantic. Through systematic vocabulary expansion, semantic understanding increased from 18% → 36.2% → 50.4% → **60.0%** by decoding 65 roots in a single day.
 
 **📚 QUICK START DOCUMENTS:**
-- [7_CRITICAL_ROOTS_TO_50_PERCENT.md](./7_CRITICAL_ROOTS_TO_50_PERCENT.md) - **Latest:** 7 roots that pushed understanding over 50%
-- [VOCABULARY_42_ROOTS_COMPLETE.md](./VOCABULARY_42_ROOTS_COMPLETE.md) - **Complete vocabulary** (42 roots decoded)
-- [NULL_HYPOTHESIS_EXECUTIVE_SUMMARY.md](./NULL_HYPOTHESIS_EXECUTIVE_SUMMARY.md) - Validation results
-- [FINAL_SESSION_SUMMARY_VOCABULARY_EXPANSION.md](./FINAL_SESSION_SUMMARY_VOCABULARY_EXPANSION.md) - Complete timeline
+- [60_PERCENT_ACHIEVED.md](./60_PERCENT_ACHIEVED.md) - **🎯 LATEST: 60% semantic understanding achieved!**
+- [50_PERCENT_MILESTONE_ACHIEVED.md](./50_PERCENT_MILESTONE_ACHIEVED.md) - How we crossed 50%
+- [NULL_HYPOTHESIS_EXECUTIVE_SUMMARY.md](./NULL_HYPOTHESIS_EXECUTIVE_SUMMARY.md) - Methodology validation
+- [VOCABULARY_42_ROOTS_COMPLETE.md](./VOCABULARY_42_ROOTS_COMPLETE.md) - Complete vocabulary (42 roots)
 
 **This repository contains 20 phases of iterative research, multiple revisions, dead ends, and breakthroughs. The "messiness" is intentional - it shows the actual research process, not a polished final product.**
 

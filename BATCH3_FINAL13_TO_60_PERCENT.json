@@ -1,0 +1,196 @@
+{
+  "sheo": {
+    "root": "sheo",
+    "total_instances": 130,
+    "corpus_percentage": 0.3501683501683502,
+    "standalone_rate": 0.3769230769230769,
+    "verb_rate": 0.4076923076923077,
+    "case_rate": 0.11538461538461539,
+    "classification": "VERBAL",
+    "top_suffixes": {
+      "dy": 53,
+      "STANDALONE": 49,
+      "d": 13,
+      "d-aiin": 5,
+      "d-al": 5
+    }
+  },
+  "ee": {
+    "root": "ee",
+    "total_instances": 126,
+    "corpus_percentage": 0.3393939393939394,
+    "standalone_rate": 0.0,
+    "verb_rate": 0.007936507936507936,
+    "case_rate": 0.753968253968254,
+    "classification": "NOMINAL",
+    "top_suffixes": {
+      "ol": 34,
+      "d": 29,
+      "or": 19,
+      "d-ar": 15,
+      "d-al": 6
+    }
+  },
+  "kch": {
+    "root": "kch",
+    "total_instances": 107,
+    "corpus_percentage": 0.2882154882154882,
+    "standalone_rate": 0.0,
+    "verb_rate": 0.48598130841121495,
+    "case_rate": 0.5327102803738317,
+    "classification": "VERBAL",
+    "top_suffixes": {
+      "edy": 28,
+      "dy": 21,
+      "or": 20,
+      "ol": 20,
+      "aiin": 3
+    }
+  },
+  "oky": {
+    "root": "oky",
+    "total_instances": 100,
+    "corpus_percentage": 0.26936026936026936,
+    "standalone_rate": 0.96,
+    "verb_rate": 0.02,
+    "case_rate": 0.0,
+    "classification": "PARTICLE",
+    "top_suffixes": {
+      "STANDALONE": 96,
+      "d": 2,
+      "dy": 2
+    }
+  },
+  "opch": {
+    "root": "opch",
+    "total_instances": 98,
+    "corpus_percentage": 0.26397306397306397,
+    "standalone_rate": 0.01020408163265306,
+    "verb_rate": 0.7448979591836735,
+    "case_rate": 0.2653061224489796,
+    "classification": "VERBAL",
+    "top_suffixes": {
+      "edy": 49,
+      "dy": 19,
+      "or": 6,
+      "ol": 5,
+      "al": 3
+    }
+  },
+  "dch": {
+    "root": "dch",
+    "total_instances": 97,
+    "corpus_percentage": 0.2612794612794613,
+    "standalone_rate": 0.0,
+    "verb_rate": 0.3917525773195876,
+    "case_rate": 0.6185567010309279,
+    "classification": "VERBAL",
+    "top_suffixes": {
+      "edy": 25,
+      "or": 24,
+      "ol": 20,
+      "dy": 8,
+      "aiin": 4
+    }
+  },
+  "okch": {
+    "root": "okch",
+    "total_instances": 97,
+    "corpus_percentage": 0.2612794612794613,
+    "standalone_rate": 0.0,
+    "verb_rate": 0.4639175257731959,
+    "case_rate": 0.4742268041237113,
+    "classification": "VERBAL",
+    "top_suffixes": {
+      "edy": 25,
+      "dy": 20,
+      "or": 18,
+      "ol": 13,
+      "d": 6
+    }
+  },
+  "pch": {
+    "root": "pch",
+    "total_instances": 95,
+    "corpus_percentage": 0.2558922558922559,
+    "standalone_rate": 0.0,
+    "verb_rate": 0.5578947368421052,
+    "case_rate": 0.4421052631578947,
+    "classification": "VERBAL",
+    "top_suffixes": {
+      "edy": 38,
+      "or": 12,
+      "dy": 12,
+      "ol": 8,
+      "d-ar": 5
+    }
+  },
+  "p": {
+    "root": "p",
+    "total_instances": 91,
+    "corpus_percentage": 0.2451178451178451,
+    "standalone_rate": 0.03296703296703297,
+    "verb_rate": 0.03296703296703297,
+    "case_rate": 0.9560439560439561,
+    "classification": "NOMINAL",
+    "top_suffixes": {
+      "ol": 24,
+      "aiin": 8,
+      "or": 8,
+      "ol-aiin": 8,
+      "ar": 5
+    }
+  },
+  "eeo": {
+    "root": "eeo",
+    "total_instances": 89,
+    "corpus_percentage": 0.23973063973063974,
+    "standalone_rate": 0.4606741573033708,
+    "verb_rate": 0.38202247191011235,
+    "case_rate": 0.11235955056179775,
+    "classification": "VERBAL",
+    "top_suffixes": {
+      "STANDALONE": 41,
+      "dy": 34,
+      "d-aiin": 5,
+      "d": 4,
+      "d-ain": 2
+    }
+  },
+  "keey": {
+    "root": "keey",
+    "total_instances": 83,
+    "corpus_percentage": 0.22356902356902358,
+    "standalone_rate": 1.0,
+    "verb_rate": 0.0,
+    "case_rate": 0.0,
+    "classification": "PARTICLE",
+    "top_suffixes": {
+      "STANDALONE": 83
+    }
+  },
+  "chcthy": {
+    "root": "chcthy",
+    "total_instances": 81,
+    "corpus_percentage": 0.2181818181818182,
+    "standalone_rate": 1.0,
+    "verb_rate": 0.0,
+    "case_rate": 0.0,
+    "classification": "PARTICLE",
+    "top_suffixes": {
+      "STANDALONE": 81
+    }
+  },
+  "aly": {
+    "root": "aly",
+    "total_instances": 72,
+    "corpus_percentage": 0.19393939393939394,
+    "standalone_rate": 1.0,
+    "verb_rate": 0.0,
+    "case_rate": 0.0,
+    "classification": "PARTICLE",
+    "top_suffixes": {
+      "STANDALONE": 72
+    }
+  }
+}

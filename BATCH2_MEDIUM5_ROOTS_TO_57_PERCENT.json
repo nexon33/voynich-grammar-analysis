@@ -1,0 +1,1512 @@
+{
+  "okeey": {
+    "root": "okeey",
+    "total_instances": 174,
+    "corpus_percentage": 0.4686868686868687,
+    "standalone_rate": 1.0,
+    "verb_suffix_rate": 0.0,
+    "case_suffix_rate": 0.0,
+    "classification": "FUNCTION WORD / PARTICLE",
+    "top_suffixes": {
+      "STANDALONE": 174
+    },
+    "contexts": [
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      },
+      {
+        "word": "okeey",
+        "root": "okeey",
+        "suffixes": [],
+        "translation": "[?okeey]"
+      }
+    ],
+    "sample_words": [
+      "okeey"
+    ]
+  },
+  "cth": {
+    "root": "cth",
+    "total_instances": 164,
+    "corpus_percentage": 0.4417508417508417,
+    "standalone_rate": 0.012195121951219513,
+    "verb_suffix_rate": 0.10365853658536585,
+    "case_suffix_rate": 0.8841463414634146,
+    "classification": "NOMINAL ROOT",
+    "top_suffixes": {
+      "ol": 58,
+      "or": 42,
+      "ar": 20,
+      "aiin": 9,
+      "edy": 9,
+      "al": 7,
+      "dy": 7,
+      "ain": 4,
+      "STANDALONE": 2,
+      "ol-d-ar": 1
+    },
+    "contexts": [
+      {
+        "word": "cthar",
+        "root": "cth",
+        "suffixes": [
+          "ar"
+        ],
+        "translation": "[?cth]-DIR"
+      },
+      {
+        "word": "cthar",
+        "root": "cth",
+        "suffixes": [
+          "ar"
+        ],
+        "translation": "[?cth]-DIR"
+      },
+      {
+        "word": "cthar",
+        "root": "cth",
+        "suffixes": [
+          "ar"
+        ],
+        "translation": "[?cth]-DIR"
+      },
+      {
+        "word": "cthaiin",
+        "root": "cth",
+        "suffixes": [
+          "aiin"
+        ],
+        "translation": "[?cth]-DEF"
+      },
+      {
+        "word": "cthal",
+        "root": "cth",
+        "suffixes": [
+          "al"
+        ],
+        "translation": "[?cth]-LOC"
+      },
+      {
+        "word": "cthar",
+        "root": "cth",
+        "suffixes": [
+          "ar"
+        ],
+        "translation": "[?cth]-DIR"
+      },
+      {
+        "word": "cthol",
+        "root": "cth",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?cth]-LOC"
+      },
+      {
+        "word": "ctholdar",
+        "root": "cth",
+        "suffixes": [
+          "ol",
+          "d",
+          "ar"
+        ],
+        "translation": "[?cth]-DIR-D-LOC"
+      },
+      {
+        "word": "cthol",
+        "root": "cth",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?cth]-LOC"
+      },
+      {
+        "word": "cthol",
+        "root": "cth",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?cth]-LOC"
+      },
+      {
+        "word": "cth",
+        "root": "cth",
+        "suffixes": [],
+        "translation": "[?cth]"
+      },
+      {
+        "word": "cthor",
+        "root": "cth",
+        "suffixes": [
+          "or"
+        ],
+        "translation": "[?cth]-INST"
+      },
+      {
+        "word": "cthol",
+        "root": "cth",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?cth]-LOC"
+      },
+      {
+        "word": "cthol",
+        "root": "cth",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?cth]-LOC"
+      },
+      {
+        "word": "cthal",
+        "root": "cth",
+        "suffixes": [
+          "al"
+        ],
+        "translation": "[?cth]-LOC"
+      },
+      {
+        "word": "cthol",
+        "root": "cth",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?cth]-LOC"
+      },
+      {
+        "word": "cthol",
+        "root": "cth",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?cth]-LOC"
+      },
+      {
+        "word": "cthol",
+        "root": "cth",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?cth]-LOC"
+      },
+      {
+        "word": "cthor",
+        "root": "cth",
+        "suffixes": [
+          "or"
+        ],
+        "translation": "[?cth]-INST"
+      },
+      {
+        "word": "cthor",
+        "root": "cth",
+        "suffixes": [
+          "or"
+        ],
+        "translation": "[?cth]-INST"
+      },
+      {
+        "word": "cthol",
+        "root": "cth",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?cth]-LOC"
+      },
+      {
+        "word": "cthol",
+        "root": "cth",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?cth]-LOC"
+      },
+      {
+        "word": "cthar",
+        "root": "cth",
+        "suffixes": [
+          "ar"
+        ],
+        "translation": "[?cth]-DIR"
+      },
+      {
+        "word": "cthar",
+        "root": "cth",
+        "suffixes": [
+          "ar"
+        ],
+        "translation": "[?cth]-DIR"
+      },
+      {
+        "word": "cthol",
+        "root": "cth",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?cth]-LOC"
+      },
+      {
+        "word": "cthor",
+        "root": "cth",
+        "suffixes": [
+          "or"
+        ],
+        "translation": "[?cth]-INST"
+      },
+      {
+        "word": "cthol",
+        "root": "cth",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?cth]-LOC"
+      },
+      {
+        "word": "cthol",
+        "root": "cth",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?cth]-LOC"
+      },
+      {
+        "word": "cthd",
+        "root": "cth",
+        "suffixes": [
+          "d"
+        ],
+        "translation": "[?cth]-D"
+      },
+      {
+        "word": "cthar",
+        "root": "cth",
+        "suffixes": [
+          "ar"
+        ],
+        "translation": "[?cth]-DIR"
+      },
+      {
+        "word": "cthol",
+        "root": "cth",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?cth]-LOC"
+      },
+      {
+        "word": "cthar",
+        "root": "cth",
+        "suffixes": [
+          "ar"
+        ],
+        "translation": "[?cth]-DIR"
+      },
+      {
+        "word": "cthaiin",
+        "root": "cth",
+        "suffixes": [
+          "aiin"
+        ],
+        "translation": "[?cth]-DEF"
+      },
+      {
+        "word": "cthor",
+        "root": "cth",
+        "suffixes": [
+          "or"
+        ],
+        "translation": "[?cth]-INST"
+      },
+      {
+        "word": "cthor",
+        "root": "cth",
+        "suffixes": [
+          "or"
+        ],
+        "translation": "[?cth]-INST"
+      },
+      {
+        "word": "cthor",
+        "root": "cth",
+        "suffixes": [
+          "or"
+        ],
+        "translation": "[?cth]-INST"
+      },
+      {
+        "word": "cthor",
+        "root": "cth",
+        "suffixes": [
+          "or"
+        ],
+        "translation": "[?cth]-INST"
+      },
+      {
+        "word": "cthaiin",
+        "root": "cth",
+        "suffixes": [
+          "aiin"
+        ],
+        "translation": "[?cth]-DEF"
+      },
+      {
+        "word": "cthdain",
+        "root": "cth",
+        "suffixes": [
+          "d",
+          "ain"
+        ],
+        "translation": "[?cth]-DEF-D"
+      },
+      {
+        "word": "cthor",
+        "root": "cth",
+        "suffixes": [
+          "or"
+        ],
+        "translation": "[?cth]-INST"
+      }
+    ],
+    "sample_words": [
+      "ctholdy",
+      "cthedy",
+      "cthaiindaiin",
+      "cthal",
+      "cthaiin",
+      "cthar",
+      "cthd",
+      "cthor",
+      "ctholdar",
+      "cthdy",
+      "cthoral",
+      "cthol",
+      "cthain",
+      "cthdain",
+      "cth"
+    ]
+  },
+  "sheey": {
+    "root": "sheey",
+    "total_instances": 151,
+    "corpus_percentage": 0.4067340067340068,
+    "standalone_rate": 1.0,
+    "verb_suffix_rate": 0.0,
+    "case_suffix_rate": 0.0,
+    "classification": "FUNCTION WORD / PARTICLE",
+    "top_suffixes": {
+      "STANDALONE": 151
+    },
+    "contexts": [
+      {
+        "word": "olsheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "AT-[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "olsheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "AT-[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "olsheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "AT-[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      },
+      {
+        "word": "sheey",
+        "root": "sheey",
+        "suffixes": [],
+        "translation": "[?sheey]"
+      }
+    ],
+    "sample_words": [
+      "otsheey",
+      "olsheey",
+      "sheey",
+      "tsheey"
+    ]
+  },
+  "oke": {
+    "root": "oke",
+    "total_instances": 147,
+    "corpus_percentage": 0.39595959595959596,
+    "standalone_rate": 0.006802721088435374,
+    "verb_suffix_rate": 0.07482993197278912,
+    "case_suffix_rate": 0.9183673469387755,
+    "classification": "NOMINAL ROOT",
+    "top_suffixes": {
+      "ol": 65,
+      "or": 22,
+      "al": 11,
+      "eedy": 9,
+      "ar": 7,
+      "d-al": 7,
+      "d-ar": 6,
+      "d-or": 3,
+      "d-aiin": 3,
+      "d-ain": 3
+    },
+    "contexts": [
+      {
+        "word": "okeol",
+        "root": "oke",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?oke]-LOC"
+      },
+      {
+        "word": "okeol",
+        "root": "oke",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?oke]-LOC"
+      },
+      {
+        "word": "okear",
+        "root": "oke",
+        "suffixes": [
+          "ar"
+        ],
+        "translation": "[?oke]-DIR"
+      },
+      {
+        "word": "okeor",
+        "root": "oke",
+        "suffixes": [
+          "or"
+        ],
+        "translation": "[?oke]-INST"
+      },
+      {
+        "word": "okeor",
+        "root": "oke",
+        "suffixes": [
+          "or"
+        ],
+        "translation": "[?oke]-INST"
+      },
+      {
+        "word": "okeol",
+        "root": "oke",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?oke]-LOC"
+      },
+      {
+        "word": "okeol",
+        "root": "oke",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?oke]-LOC"
+      },
+      {
+        "word": "okeor",
+        "root": "oke",
+        "suffixes": [
+          "or"
+        ],
+        "translation": "[?oke]-INST"
+      },
+      {
+        "word": "okeor",
+        "root": "oke",
+        "suffixes": [
+          "or"
+        ],
+        "translation": "[?oke]-INST"
+      },
+      {
+        "word": "okeol",
+        "root": "oke",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?oke]-LOC"
+      },
+      {
+        "word": "okeal",
+        "root": "oke",
+        "suffixes": [
+          "al"
+        ],
+        "translation": "[?oke]-LOC"
+      },
+      {
+        "word": "okedor",
+        "root": "oke",
+        "suffixes": [
+          "d",
+          "or"
+        ],
+        "translation": "[?oke]-INST-D"
+      },
+      {
+        "word": "okeol",
+        "root": "oke",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?oke]-LOC"
+      },
+      {
+        "word": "oked",
+        "root": "oke",
+        "suffixes": [
+          "d"
+        ],
+        "translation": "[?oke]-D"
+      },
+      {
+        "word": "okeol",
+        "root": "oke",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?oke]-LOC"
+      },
+      {
+        "word": "okear",
+        "root": "oke",
+        "suffixes": [
+          "ar"
+        ],
+        "translation": "[?oke]-DIR"
+      },
+      {
+        "word": "okeor",
+        "root": "oke",
+        "suffixes": [
+          "or"
+        ],
+        "translation": "[?oke]-INST"
+      },
+      {
+        "word": "oked",
+        "root": "oke",
+        "suffixes": [
+          "d"
+        ],
+        "translation": "[?oke]-D"
+      },
+      {
+        "word": "okedal",
+        "root": "oke",
+        "suffixes": [
+          "d",
+          "al"
+        ],
+        "translation": "[?oke]-LOC-D"
+      },
+      {
+        "word": "okedar",
+        "root": "oke",
+        "suffixes": [
+          "d",
+          "ar"
+        ],
+        "translation": "[?oke]-DIR-D"
+      },
+      {
+        "word": "okeor",
+        "root": "oke",
+        "suffixes": [
+          "or"
+        ],
+        "translation": "[?oke]-INST"
+      },
+      {
+        "word": "okear",
+        "root": "oke",
+        "suffixes": [
+          "ar"
+        ],
+        "translation": "[?oke]-DIR"
+      },
+      {
+        "word": "okeal",
+        "root": "oke",
+        "suffixes": [
+          "al"
+        ],
+        "translation": "[?oke]-LOC"
+      },
+      {
+        "word": "okeal",
+        "root": "oke",
+        "suffixes": [
+          "al"
+        ],
+        "translation": "[?oke]-LOC"
+      },
+      {
+        "word": "okeor",
+        "root": "oke",
+        "suffixes": [
+          "or"
+        ],
+        "translation": "[?oke]-INST"
+      },
+      {
+        "word": "okeor",
+        "root": "oke",
+        "suffixes": [
+          "or"
+        ],
+        "translation": "[?oke]-INST"
+      },
+      {
+        "word": "okeor",
+        "root": "oke",
+        "suffixes": [
+          "or"
+        ],
+        "translation": "[?oke]-INST"
+      },
+      {
+        "word": "okeor",
+        "root": "oke",
+        "suffixes": [
+          "or"
+        ],
+        "translation": "[?oke]-INST"
+      },
+      {
+        "word": "okeol",
+        "root": "oke",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?oke]-LOC"
+      },
+      {
+        "word": "okeor",
+        "root": "oke",
+        "suffixes": [
+          "or"
+        ],
+        "translation": "[?oke]-INST"
+      },
+      {
+        "word": "okeol",
+        "root": "oke",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?oke]-LOC"
+      },
+      {
+        "word": "okeor",
+        "root": "oke",
+        "suffixes": [
+          "or"
+        ],
+        "translation": "[?oke]-INST"
+      },
+      {
+        "word": "okeol",
+        "root": "oke",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?oke]-LOC"
+      },
+      {
+        "word": "okeol",
+        "root": "oke",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?oke]-LOC"
+      },
+      {
+        "word": "okeol",
+        "root": "oke",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?oke]-LOC"
+      },
+      {
+        "word": "okeol",
+        "root": "oke",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?oke]-LOC"
+      },
+      {
+        "word": "okear",
+        "root": "oke",
+        "suffixes": [
+          "ar"
+        ],
+        "translation": "[?oke]-DIR"
+      },
+      {
+        "word": "okeolol",
+        "root": "oke",
+        "suffixes": [
+          "ol",
+          "ol"
+        ],
+        "translation": "[?oke]-LOC-LOC"
+      },
+      {
+        "word": "okeal",
+        "root": "oke",
+        "suffixes": [
+          "al"
+        ],
+        "translation": "[?oke]-LOC"
+      },
+      {
+        "word": "okeol",
+        "root": "oke",
+        "suffixes": [
+          "ol"
+        ],
+        "translation": "[?oke]-LOC"
+      }
+    ],
+    "sample_words": [
+      "oke",
+      "okeeedy",
+      "okeolaiin",
+      "okedaiin",
+      "okear",
+      "okedar",
+      "okeolar",
+      "okeoldy",
+      "okeor",
+      "okeaiin",
+      "oked",
+      "okeal",
+      "okeol",
+      "okedalor",
+      "okeolor",
+      "okeolol",
+      "okedal",
+      "okedain",
+      "okedor"
+    ]
+  },
+  "chckhy": {
+    "root": "chckhy",
+    "total_instances": 138,
+    "corpus_percentage": 0.3717171717171717,
+    "standalone_rate": 0.9855072463768116,
+    "verb_suffix_rate": 0.0,
+    "case_suffix_rate": 0.007246376811594203,
+    "classification": "FUNCTION WORD / PARTICLE",
+    "top_suffixes": {
+      "STANDALONE": 136,
+      "ar": 1,
+      "d": 1
+    },
+    "contexts": [
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhyar",
+        "root": "chckhy",
+        "suffixes": [
+          "ar"
+        ],
+        "translation": "[?chckhy]-DIR"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "olchckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "AT-[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      },
+      {
+        "word": "chckhy",
+        "root": "chckhy",
+        "suffixes": [],
+        "translation": "[?chckhy]"
+      }
+    ],
+    "sample_words": [
+      "chckhy",
+      "chckhyd",
+      "chckhyar",
+      "olchckhy"
+    ]
+  }
+}
